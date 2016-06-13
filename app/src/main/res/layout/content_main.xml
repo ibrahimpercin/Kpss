@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.iperc.kpss.MainActivity"
-    tools:showIn="@layout/app_bar_main">
+    tools:showIn="@layout/app_bar_main"
+    android:background="@color/arka_beyaz">
 
     <ImageView
         android:layout_width="fill_parent"
@@ -18,4 +19,85 @@
         android:layout_alignParentEnd="true"
         android:layout_margin="0dp"
         android:layout_marginTop="0dp"/>
+
+    <TableLayout
+        android:gravity="center_horizontal"
+        android:paddingTop="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true">
+
+        <TableRow
+            android:gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:id="@+id/button"
+                android:background="@mipmap/turkce_logo"
+                android:textColor="@android:color/transparent"
+                android:shadowColor="@android:color/transparent"
+                android:layout_marginRight="5dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:id="@+id/button2"
+                android:background="@mipmap/matematik_logo"
+                android:textColor="@android:color/transparent"
+                android:shadowColor="@android:color/transparent"
+                android:layout_marginRight="5dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:id="@+id/button3"
+                android:background="@mipmap/genel_kultur_logo"
+                android:textColor="@android:color/transparent"
+                android:shadowColor="@android:color/transparent"/>
+        </TableRow>
+        <TableRow
+            android:paddingTop="5dp"
+            android:gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:id="@+id/button4"
+                android:background="@mipmap/guncel_bilgiler_logo"
+                android:textColor="@android:color/transparent"
+                android:shadowColor="@android:color/transparent"
+                android:layout_marginRight="5dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:id="@+id/button5"
+                android:background="@mipmap/tarih_logo"
+                android:textColor="@android:color/transparent"
+                android:shadowColor="@android:color/transparent"
+                android:layout_marginRight="5dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:id="@+id/button6"
+                android:background="@mipmap/cografya_logo"
+                android:textColor="@android:color/transparent"
+                android:shadowColor="@android:color/transparent" />
+        </TableRow>
+
+    </TableLayout>
+
 </RelativeLayout>
