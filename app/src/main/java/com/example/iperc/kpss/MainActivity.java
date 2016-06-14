@@ -1,9 +1,14 @@
 package com.example.iperc.kpss;
 
+import android.app.Application;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.view.SubMenu;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -36,11 +41,24 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
     }
+
+    public class MainApplication extends Application {
+        @Override
+        public void onCreate() {
+            super.onCreate();
+
+//set Custom Typeface
+
+            FontsOverride.setDefaultFont(this, "MONOSPACE", "Ubuntu-L.ttf");
+        }
+    }
+
     public void sendMessage(View view)
     {
         Intent intent = new Intent(MainActivity.this, TurkceActivity.class);
         startActivity(intent);
     }
+
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -66,9 +84,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
+
 
         return super.onOptionsItemSelected(item);
     }
@@ -79,22 +95,26 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
+        if (id == R.id.nav_home) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.nav_statistic) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_math) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.nav_geography) {
 
-        } else if (id == R.id.nav_share) {
+        } else if (id == R.id.nav_turkish) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.nav_current) {
+
+        } else if (id == R.id.nav_general) {
+
+        } else if (id == R.id.nav_history) {
 
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
-    }
+        }
 }

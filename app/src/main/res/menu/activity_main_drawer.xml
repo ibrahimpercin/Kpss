@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <group android:checkableBehavior="single">
+    <group android:checkableBehavior="single" >
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/anasayfa_icon"
+            android:title="Anasayfa" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+            android:id="@+id/nav_statistic"
+            android:icon="@mipmap/statistic"
+            android:title="Çalıştıklarım" />
     </group>
 
-    <item android:title="Communicate">
+    <item android:title="Dersler">
         <menu>
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
+                android:id="@+id/nav_math"
+                android:icon="@mipmap/matematik_icon"
+                android:title="Matematik" />
             <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:id="@+id/nav_geography"
+                android:icon="@mipmap/cografya_icon"
+                android:title="Coğrafya" />
+            <item
+                android:id="@+id/nav_turkish"
+                android:icon="@mipmap/turkce_icon"
+                android:title="Türkçe" />
+            <item
+                android:id="@+id/nav_current"
+                android:icon="@mipmap/guncel_icon"
+                android:title="Güncel Bilgiler" />
+            <item
+                android:id="@+id/nav_general"
+                android:icon="@mipmap/genel_icon"
+                android:title="Genel Kültür" />
+            <item
+                android:id="@+id/nav_history"
+                android:icon="@mipmap/tarih_icon"
+                android:title="Tarih" />
         </menu>
     </item>
 
