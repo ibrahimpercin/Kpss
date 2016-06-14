@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_pressed="true"
-        android:drawable="@mipmap/tarih_logo2" /> <!-- pressed -->
+        android:drawable="@mipmap/tarih_logoa2" /> <!-- pressed -->
     <item android:state_focused="true"
-        android:drawable="@mipmap/tarih_logo2"  /> <!-- focused -->
-    <item  android:drawable="@mipmap/tarih_logo" /> <!-- default -->
+        android:drawable="@mipmap/tarih_logoa2"  /> <!-- focused -->
+    <item  android:drawable="@mipmap/tarih_logoa" /> <!-- default -->
 </selector>
