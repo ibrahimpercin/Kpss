@@ -5,16 +5,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class icerikActivity extends AppCompatActivity {
+public class icerikListActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_icerik);
+        setContentView(R.layout.activity_icerik_list);
     }
     public void goTo(View view)
     {
-        Intent intent = new Intent(icerikActivity.this, MainActivity.class);
+        Intent intent = new Intent(icerikListActivity.this, MainActivity.class);
         startActivity(intent);
     }
 }
