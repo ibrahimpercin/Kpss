@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity
 
     public void sendMessage(View view)
     {
-        Intent intent = new Intent(MainActivity.this, TurkceActivity.class);
+        Intent intent = new Intent(MainActivity.this, icerikActivity.class);
         startActivity(intent);
     }
 
