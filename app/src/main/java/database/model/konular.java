@@ -5,7 +5,7 @@ package database.model;
  */
 public class konular {
     public static final String TAG = konular.class.getSimpleName();
-    public static final String TABLE = "Konular";
+    public static final String TABLE = "konular";
 
     public static final String KEY_dersId = "dersId";
     public static final String KEY_konuId = "konuId";

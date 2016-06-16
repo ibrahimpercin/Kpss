@@ -5,7 +5,7 @@ package database.model;
  */
 public class calisilanlar {
     public static final String TAG = calisilanlar.class.getSimpleName();
-    public static final String TABLE = "Calisilanlar";
+    public static final String TABLE = "calisilanlar";
 
     public static final String KEY_dersId = "dersId";
     public static final String KEY_konuId = "konuId";
