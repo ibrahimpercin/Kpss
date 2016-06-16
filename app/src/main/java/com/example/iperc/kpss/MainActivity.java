@@ -40,8 +40,7 @@ public class MainActivity extends AppCompatActivity
         public void onCreate() {
             super.onCreate();
 
-//set Custom Typeface
-
+            //set Custom Typeface
             FontsOverride.setDefaultFont(this, "MONOSPACE", "Ubuntu-L.ttf");
         }
     }

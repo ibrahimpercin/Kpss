@@ -11,5 +11,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.iperc.kpss.contentListActivity"
     tools:showIn="@layout/activity_content_list">
-
+    <com.idunnololz.widgets.AnimatedExpandableListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.idunnololz.widgets.AnimatedExpandableListView>
 </RelativeLayout>
