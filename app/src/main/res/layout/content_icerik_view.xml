@@ -9,16 +9,26 @@
     tools:showIn="@layout/activity_icerik_view">
 
 
-    <RelativeLayout
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_alignParentBottom="true">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/text_margin"
             android:text="@string/large_text"
-            android:id="@+id/textView2" />
+            android:id="@+id/textView2"
+            android:layout_gravity="right|top" />
 
-    </RelativeLayout>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Button"
+            android:id="@+id/button8" />
+
+    </LinearLayout>
 </android.support.v4.widget.NestedScrollView>

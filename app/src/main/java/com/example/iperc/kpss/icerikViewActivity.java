@@ -19,6 +19,7 @@ public class icerikViewActivity extends AppCompatActivity {
         setContentView(R.layout.activity_icerik_view);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         //Floating Button Arkaplan değişimi ve Bildirim yazısısı
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -46,5 +47,6 @@ public class icerikViewActivity extends AppCompatActivity {
                 }
             }
         });
+
     }
 }

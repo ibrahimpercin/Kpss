@@ -18,11 +18,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".icerikListActivity" />
         <activity
             android:name=".icerikViewActivity"
             android:label="@string/title_activity_icerik_view"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:parentActivityName=".contentListActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.example.iperc.kpss.contentListActivity" />
+
+        <activity
+            android:name=".contentListActivity"
+            android:label="@string/title_activity_content_list"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.iperc.kpss.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity
 
     public void sendMessage(View view)
     {
-        Intent intent = new Intent(MainActivity.this, icerikListActivity.class);
+        Intent intent = new Intent(MainActivity.this, contentListActivity.class);
         startActivity(intent);
     }
     public void goToView(View view)
@@ -115,4 +115,5 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
         }
+
 }
