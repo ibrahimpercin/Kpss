@@ -41,7 +41,7 @@
                 android:shadowColor="@android:color/transparent"
                 android:layout_marginRight="5dp"
                 android:clickable="false"
-                android:onClick="sendMessage"/>
+                android:onClick="selfDestruct"/>
 
             <Button
                 android:layout_width="wrap_content"

@@ -12,10 +12,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +24,49 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        final Button button = (Button) findViewById(R.id.button);
+        final Button button2 = (Button) findViewById(R.id.button2);
+        final Button button3= (Button) findViewById(R.id.button3);
+        final Button button4 = (Button) findViewById(R.id.button4);
+        final Button button5 = (Button) findViewById(R.id.button5);
+        final Button button6 = (Button) findViewById(R.id.button6);
+
+        //Matematik Butonu
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+            }
+        });
+        //Coğrafya Butonu
+        button2.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+            }
+        });
+        //Türkçe Butonu
+        button3.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+            }
+        });
+        //Güncel Bilgiler Butonu
+        button4.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+            }
+        });
+        //Genel Kültür Butonu
+        button5.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+            }
+        });
+        //Tarih Butonu
+        button6.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+            }
+        });
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -45,16 +88,6 @@ public class MainActivity extends AppCompatActivity
         }
     }
 
-    public void sendMessage(View view)
-    {
-        Intent intent = new Intent(MainActivity.this, contentListActivity.class);
-        startActivity(intent);
-    }
-    public void goToView(View view)
-    {
-        Intent intent = new Intent(MainActivity.this,icerikViewActivity.class);
-        startActivity(intent);
-    }
 
     @Override
     public void onBackPressed() {

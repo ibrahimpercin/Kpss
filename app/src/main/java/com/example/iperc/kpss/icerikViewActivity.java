@@ -40,7 +40,7 @@ public class icerikViewActivity extends AppCompatActivity {
                 if (!favSelected) {
                     favSelected = true;
                     view.setBackgroundTintList(new ColorStateList(new int[][]
-                            {new int[]{0}}, new int[]{getResources().getColor(R.color.colorPrimary)}));
+                            {new int[]{0}}, new int[]{getResources().getColor(R.color.yesil)}));
                 } else if (favSelected) {
                     favSelected = false;
                     view.setBackgroundTintList(new ColorStateList(new int[][]{new int[]{0}}, new int[]{getResources().getColor(R.color.colorAccent)}));
