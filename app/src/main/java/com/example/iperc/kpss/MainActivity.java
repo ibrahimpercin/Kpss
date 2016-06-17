@@ -24,9 +24,9 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        final Button button = (Button) findViewById(R.id.button);
+        final Button button  = (Button) findViewById(R.id.button);
         final Button button2 = (Button) findViewById(R.id.button2);
-        final Button button3= (Button) findViewById(R.id.button3);
+        final Button button3 = (Button) findViewById(R.id.button3);
         final Button button4 = (Button) findViewById(R.id.button4);
         final Button button5 = (Button) findViewById(R.id.button5);
         final Button button6 = (Button) findViewById(R.id.button6);
@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this,contentListActivity.class));
+
             }
         });
         //Coğrafya Butonu
@@ -67,7 +68,7 @@ public class MainActivity extends AppCompatActivity
                 startActivity(new Intent(MainActivity.this,contentListActivity.class));
             }
         });
-
+        //Navigation drawer kodları
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -77,7 +78,7 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
     }
-
+    //NavigationDraver yazı tipi
     public class MainApplication extends Application {
         @Override
         public void onCreate() {
