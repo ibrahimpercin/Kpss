@@ -6,12 +6,11 @@
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".contentListActivityMat"
-    tools:showIn="@layout/activity_content_list">
-
+    tools:context=".contentListActivityCog"
+    tools:showIn="@layout/activity_content_list_activity_cog">
     <ExpandableListView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/expandableListView"
-/>
+        android:id="@+id/expandableListView2"
+        />
 </RelativeLayout>

@@ -98,5 +98,10 @@
     </string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
-    <string name="title_activity_content_list">Ders İçeriği</string>
+    <string name="title_activity_content_list">Matematik Ders İçeriği</string>
+    <string name="title_activity_content_list_activity_cog">Coğrafya Ders İçeriği</string>
+    <string name="title_activity_content_list_activity_turk">Türkçe Ders İçeriği</string>
+    <string name="title_activity_content_list_activity_genel">Genel Kültür Ders İçeriğil</string>
+    <string name="title_activity_content_list_activity_guncel">Günce Bilgiler Ders İçeriği</string>
+    <string name="title_activity_content_list_activity_tarih">Tarih Ders İçeriği</string>
 </resources>

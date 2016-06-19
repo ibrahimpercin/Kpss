@@ -34,38 +34,37 @@ public class MainActivity extends AppCompatActivity
         //Matematik Butonu
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivity.class));
-
+                startActivity(new Intent(MainActivity.this,contentListActivityMat.class));
             }
         });
         //Coğrafya Butonu
         button2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+                startActivity(new Intent(MainActivity.this,contentListActivityCog.class));
             }
         });
         //Türkçe Butonu
         button3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+                startActivity(new Intent(MainActivity.this,contentListActivityTurk.class));
             }
         });
         //Güncel Bilgiler Butonu
         button4.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+                startActivity(new Intent(MainActivity.this,contentListActivityGenel.class));
             }
         });
         //Genel Kültür Butonu
         button5.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+                startActivity(new Intent(MainActivity.this,contentListActivityGuncel.class));
             }
         });
         //Tarih Butonu
         button6.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivity.class));
+                startActivity(new Intent(MainActivity.this,contentListActivityTarih.class));
             }
         });
         //Navigation drawer kodları
@@ -127,7 +126,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_home) {
-            // Handle the camera action
+
         } else if (id == R.id.nav_statistic) {
 
         } else if (id == R.id.nav_math) {

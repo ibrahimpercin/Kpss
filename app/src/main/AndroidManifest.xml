@@ -21,16 +21,61 @@
         <activity
             android:name=".icerikViewActivity"
             android:label="@string/title_activity_icerik_view"
-            android:parentActivityName=".contentListActivity"
+            android:parentActivityName=".contentListActivityMat"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <meta-data
             android:name="android.support.PARENT_ACTIVITY"
-            android:value="com.example.iperc.kpss.contentListActivity" />
+            android:value=".contentListActivityMat" />
 
         <activity
-            android:name=".contentListActivity"
+            android:name=".contentListActivityMat"
             android:label="@string/title_activity_content_list"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.iperc.kpss.MainActivity" />
+        </activity>
+        <activity
+            android:name=".contentListActivityCog"
+            android:label="@string/title_activity_content_list_activity_cog"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.iperc.kpss.MainActivity" />
+        </activity>
+        <activity
+            android:name=".contentListActivityTurk"
+            android:label="@string/title_activity_content_list_activity_turk"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.iperc.kpss.MainActivity" />
+        </activity>
+        <activity
+            android:name=".contentListActivityGenel"
+            android:label="@string/title_activity_content_list_activity_genel"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.iperc.kpss.MainActivity" />
+        </activity>
+        <activity
+            android:name=".contentListActivityGuncel"
+            android:label="@string/title_activity_content_list_activity_guncel"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.iperc.kpss.MainActivity" />
+        </activity>
+        <activity
+            android:name=".contentListActivityTarih"
+            android:label="@string/title_activity_content_list_activity_tarih"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data

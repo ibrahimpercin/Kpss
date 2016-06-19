@@ -1,23 +1,22 @@
 package com.example.iperc.kpss;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import android.app.Activity;
+import android.app.Application;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ExpandableListView;
-import android.widget.ExpandableListView.OnChildClickListener;
-import android.widget.ExpandableListView.OnGroupClickListener;
-import android.widget.ExpandableListView.OnGroupCollapseListener;
-import android.widget.ExpandableListView.OnGroupExpandListener;
 import android.widget.Toast;
 
 import com.ExpandableListAdapter;
 
-public class contentListActivity extends AppCompatActivity {
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+public class contentListActivityCog extends AppCompatActivity {
 
     ExpandableListAdapter listAdapter;
     ExpandableListView expListView;
@@ -27,13 +26,14 @@ public class contentListActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_content_list);
+        setContentView(R.layout.activity_content_list_activity_cog);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
+
         // get the listview
-        expListView = (ExpandableListView) findViewById(R.id.expandableListView);
+        expListView = (ExpandableListView) findViewById(R.id.expandableListView2);
 
         // preparing list data
         prepareListData();
@@ -44,7 +44,7 @@ public class contentListActivity extends AppCompatActivity {
         expListView.setAdapter(listAdapter);
 
         // Listview Group click listener
-        expListView.setOnGroupClickListener(new OnGroupClickListener() {
+        expListView.setOnGroupClickListener(new ExpandableListView.OnGroupClickListener() {
 
             @Override
             public boolean onGroupClick(ExpandableListView parent, View v,
@@ -57,7 +57,7 @@ public class contentListActivity extends AppCompatActivity {
         });
 
         // Listview Group expanded listener
-        expListView.setOnGroupExpandListener(new OnGroupExpandListener() {
+        expListView.setOnGroupExpandListener(new ExpandableListView.OnGroupExpandListener() {
 
             @Override
             public void onGroupExpand(int groupPosition) {
@@ -68,7 +68,7 @@ public class contentListActivity extends AppCompatActivity {
         });
 
         // Listview Group collasped listener
-        expListView.setOnGroupCollapseListener(new OnGroupCollapseListener() {
+        expListView.setOnGroupCollapseListener(new ExpandableListView.OnGroupCollapseListener() {
 
             @Override
             public void onGroupCollapse(int groupPosition) {
@@ -80,7 +80,7 @@ public class contentListActivity extends AppCompatActivity {
         });
 
         // Listview on child click listener
-        expListView.setOnChildClickListener(new OnChildClickListener() {
+        expListView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
 
             @Override
             public boolean onChildClick(ExpandableListView parent, View v,
@@ -107,7 +107,7 @@ public class contentListActivity extends AppCompatActivity {
         listDataChild = new HashMap<String, List<String>>();
 
         // Adding child data
-        listDataHeader.add("Top 250");
+        listDataHeader.add("Top0");
         listDataHeader.add("Now Showing");
         listDataHeader.add("Coming Soon..");
 
@@ -140,5 +140,14 @@ public class contentListActivity extends AppCompatActivity {
         listDataChild.put(listDataHeader.get(1), nowShowing);
         listDataChild.put(listDataHeader.get(2), comingSoon);
     }
+    public class MainApplication extends Application {
+        @Override
+        public void onCreate() {
+            super.onCreate();
+
+            //set Custom Typeface
+            FontsOverride.setDefaultFont(this, "MONOSPACE", "Ubuntu-L.ttf");
+        }
     }
 
+}
