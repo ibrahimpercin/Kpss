@@ -10,6 +10,7 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.TextView;
 
 public class icerikViewActivity extends AppCompatActivity {
 
@@ -20,6 +21,12 @@ public class icerikViewActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        //Gelen içeriği ekleme
+        Intent intent = getIntent();
+        TextView textContent =(TextView) findViewById(R.id.textView2);
+        Bundle extras = getIntent().getExtras();
+        String editTextVal= extras.getString("icerik");
+        textContent.setText(editTextVal);
 
         //Floating Button Arkaplan değişimi ve Bildirim yazısısı
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);

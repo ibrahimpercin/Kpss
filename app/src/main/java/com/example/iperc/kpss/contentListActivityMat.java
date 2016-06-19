@@ -5,15 +5,18 @@ import java.util.HashMap;
 import java.util.List;
 import android.app.Activity;
 import android.app.Application;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.text.Html;
 import android.view.View;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.ExpandableListView.OnGroupCollapseListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.ExpandableListAdapter;
@@ -85,23 +88,28 @@ public class contentListActivityMat extends AppCompatActivity {
 
         // Listview on child click listener
         expListView.setOnChildClickListener(new OnChildClickListener() {
-
             @Override
             public boolean onChildClick(ExpandableListView parent, View v,
                                         int groupPosition, int childPosition, long id) {
                 // TODO Auto-generated method stub
-                Toast.makeText(
-                        getApplicationContext(),
-                        listDataHeader.get(groupPosition)
-                                + " : "
-                                + listDataChild.get(
-                                listDataHeader.get(groupPosition)).get(
-                                childPosition), Toast.LENGTH_SHORT)
-                        .show();
-                return false;
+            final String selected = (String) listAdapter.getChild(groupPosition, childPosition);
+
+            // Switch case to open selected child element activity on child element selection.
+                final TextView textViewContent  = (TextView) findViewById(R.id.textView2);
+            Intent intent;
+                //Seçime göre açılma ve içeriği güncelleme
+            switch(selected){
+                case "The Godfather":
+
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.large_text2));
+                    startActivity(intent);
+            }
+            return true;
             }
         });
     }
+
 
     /*
      * Preparing the list data
