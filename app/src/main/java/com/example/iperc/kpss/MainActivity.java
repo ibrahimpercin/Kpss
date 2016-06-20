@@ -130,17 +130,17 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_statistic) {
 
         } else if (id == R.id.nav_math) {
-
+            startActivity(new Intent(MainActivity.this,contentListActivityMat.class));
         } else if (id == R.id.nav_geography) {
-
+            startActivity(new Intent(MainActivity.this,contentListActivityCog.class));
         } else if (id == R.id.nav_turkish) {
-
+            startActivity(new Intent(MainActivity.this,contentListActivityTurk.class));
         } else if (id == R.id.nav_current) {
-
+            startActivity(new Intent(MainActivity.this,contentListActivityGuncel.class));
         } else if (id == R.id.nav_general) {
-
+            startActivity(new Intent(MainActivity.this,contentListActivityGenel.class));
         } else if (id == R.id.nav_history) {
-
+            startActivity(new Intent(MainActivity.this,contentListActivityTarih.class));
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
