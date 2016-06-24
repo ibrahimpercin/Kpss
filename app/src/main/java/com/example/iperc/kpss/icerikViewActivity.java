@@ -3,6 +3,7 @@ package com.example.iperc.kpss;
 import android.annotation.TargetApi;
 import android.content.Intent;
 import android.content.res.ColorStateList;
+import android.graphics.Typeface;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -26,8 +27,14 @@ public class icerikViewActivity extends AppCompatActivity {
         TextView textContent =(TextView) findViewById(R.id.textView2);
         Bundle extras = getIntent().getExtras();
         String editTextVal= extras.getString("icerik");
+        String editTextVal2= extras.getString("icerik2");
         textContent.setText(editTextVal);
-
+        Typeface fontRalewayLight = Typeface.createFromAsset(getAssets(),"fonts/Raleway-Light.ttf");
+        Typeface fontRobotoLight = Typeface.createFromAsset(getAssets(),"fonts/Roboto-Light.ttf");
+        Typeface fontOxygenLight = Typeface.createFromAsset(getAssets(),"fonts/Oxygen-Light.ttf");
+        Typeface fontOxygenRegular = Typeface.createFromAsset(getAssets(),"fonts/Oxygen-Regular.ttf");
+        textContent.setTypeface(fontOxygenRegular);
+        setTitle(extras.getString("icerik2"));
         //Floating Button Arkaplan değişimi ve Bildirim yazısısı
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {

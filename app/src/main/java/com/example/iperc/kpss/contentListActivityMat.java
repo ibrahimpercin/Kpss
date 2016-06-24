@@ -101,7 +101,8 @@ public class contentListActivityMat extends AppCompatActivity {
             switch(selected){
                 case "The Godfather":
                     intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
-                    intent.putExtra("icerik",getString(R.string.large_text2));
+                    intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam));
+                    intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_title));
                     startActivity(intent);
             }
             return true;

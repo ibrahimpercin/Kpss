@@ -6,7 +6,7 @@
 
     <string name="action_settings">Ayarlar</string>
     <string name="title_activity_content">contentActivity</string>
-    <string name="title_activity_icerik_view">Konu1</string>
+    <string name="title_activity_icerik_view"></string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
@@ -110,6 +110,24 @@
         "On the layout level, design your app layout to minimize opportunities for interference. "
         "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
         "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="turkce_sozcukte_anlam_title">Sözcükte Anlam</string>
+    <string name="turkce_sozcukte_anlam">
+
+            Sözcükte anlam aslında anlam bilgisine dahil olup Kpss’de genelde sözcüğün cümle içinde kazandığı anlam bakımından sorular sorulmaktadır. Dilimizde bir sözcüğün tek başına genelde bir anlamı yoktur. Bu sözcükler ya da söz öbekleri cümle içinde anlam kazanmaktadır ve Kpss sınavında da bu anlam üzerinde durulmaktadır. Kpss sınavında bu tarz soruların sorulma sebebi de aslında kişinin ezberini değil anlama yeteneğini ölçmektir.\n
+            Türkçede sözcüklerin kazandığı anlam ikiye ayrılmaktadır.\n\n
+            1) Gerçek Anlam:  Sözcüğü duyduğumuzda aklımıza gelen ilk anlamdır. Diğer bir deyişle elimize aldığımız herhangi bir Türkçe sözlükte bulduğumuz ilk anlamdır yani birinci anlamdır.\n
+            – Daha dün sakalını kesmiştin.\n
+            – Yanındaki arabayı görmeyince kaza yaptı.\n
+            * Yan Anlam: Gerçek anlama bağlı olarak kazanılan diğer anlamdır. Aslında insandan doğaya aktarım şeklinde kullanılmaktadır. Kpss’de bugüne kadar yan anlama bağlı olarak soru sorulmamıştır. Ancak aklınızda bulunmasında fayda var çünkü eleyici seçeneklerde karşınıza çıkabilir.\n
+            – Ayağını masanın ayağına çarptı.\n
+            Bu örnekte birinci ayak kelimesi gerçek anlam taşırken, altı çizili olan ayak kelimesi de gerçek anlama bağlı olarak değişen yan anlamdır ve insana ait bir organın eşyaya aktarılması şeklinde oluşmuştur. \n\n
+            2) Mecaz Anlam: Gerçek anlam ve yan anlamdan tamamen soyutlanmış , sözcüğün ya da sözcük öbeğinin bunlardan ayrılarak yepyeni bir anlam katmasıdır. Burada karıştırılan noktalardan biri yan anlamla ayırt edilmemesidir. Yan anlamda sözcük gerçek anlamına hala yakındır aslında, ancak mecaz anlamda tamamen yeni bir anlam çıkmaktadır karşımıza. Sorularda da karşımıza ”Aşağıdakilerden hangisi gerçek anlamının dışında kullanılmıştır?” şeklinde çıkmaktadır. \n
+            – Hakan zorlu geçen yarışmada birinciliğe göz koymuş durumda. \n
+            – Bana ayak bağı olduğunu düşündüğüm için onunla olan ortaklığımızı karşılıklı feshettik. \n
+            *Terim Anlam: Bir sözcüğün herhangi bir alan ya da meslekle ilişkisi sonucu kazandığı özel anlamdır. Bir kelimenin terim anlamı kazanabilmesi önce gerçek anlamda olması lazım. \n
+            – Enlem, boylam (Coğrafya) \n
+            – Kare, Öklid, Açı ( Geometri) \n
     </string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>

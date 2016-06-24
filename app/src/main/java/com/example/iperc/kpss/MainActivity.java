@@ -127,8 +127,6 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_home) {
 
-        } else if (id == R.id.nav_statistic) {
-
         } else if (id == R.id.nav_math) {
             startActivity(new Intent(MainActivity.this,contentListActivityMat.class));
         } else if (id == R.id.nav_geography) {

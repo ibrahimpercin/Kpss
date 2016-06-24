@@ -146,7 +146,7 @@ public class contentListActivityCog extends AppCompatActivity {
             super.onCreate();
 
             //set Custom Typeface
-            FontsOverride.setDefaultFont(this, "MONOSPACE", "Ubuntu-L.ttf");
+            FontsOverride.setDefaultFont(this, "MONOSPACE", "Oxygen-Light.ttf");
         }
     }
 

@@ -7,9 +7,10 @@
             android:icon="@mipmap/anasayfa_icon"
             android:title="Anasayfa" />
         <item
-            android:id="@+id/nav_statistic"
-            android:icon="@mipmap/statistic"
-            android:title="Çalıştıklarım" />
+            android:id="@+id/nav_hakkimizda"
+            android:icon="@mipmap/hakkimizda_icon"
+            android:title="Hakkımızda" />
+
     </group>
 
     <item android:title="Dersler">
@@ -40,5 +41,4 @@
                 android:title="Tarih" />
         </menu>
     </item>
-
 </menu>
