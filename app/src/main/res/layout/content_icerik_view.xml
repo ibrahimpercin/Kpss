@@ -31,6 +31,5 @@
             ext:documentView_textTypefacePath="fonts/Oxygen-Light.ttf"
             android:layout_margin="10dp"
             />
-
     </LinearLayout>
 </android.support.v4.widget.NestedScrollView>

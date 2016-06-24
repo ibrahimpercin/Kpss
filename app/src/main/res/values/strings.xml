@@ -3,133 +3,6 @@
 
     <string name="navigation_drawer_open">Aç</string>
     <string name="navigation_drawer_close">Kapat</string>
-
-    <string name="action_settings">Ayarlar</string>
-    <string name="title_activity_content">contentActivity</string>
-    <string name="title_activity_icerik_view"></string>
-    <string name="large_text">
-        "Material is the metaphor.\n\n"
-
-        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
-        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
-        "technologically advanced and open to imagination and magic.\n"
-        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
-        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
-        "flexibility of the material creates new affordances that supercede those in the physical "
-        "world, without breaking the rules of physics.\n"
-        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
-        "interact, and exist in space and in relation to each other. Realistic lighting shows "
-        "seams, divides space, and indicates moving parts.\n\n"
-
-        "Bold, graphic, intentional.\n\n"
-
-        "The foundational elements of print based design typography, grids, space, scale, color, "
-        "and use of imagery guide visual treatments. These elements do far more than please the "
-        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
-        "imagery, large scale typography, and intentional white space create a bold and graphic "
-        "interface that immerse the user in the experience.\n"
-        "An emphasis on user actions makes core functionality immediately apparent and provides "
-        "waypoints for the user.\n\n"
-
-        "Motion provides meaning.\n\n"
-
-        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
-        "inflection points that initiate motion, transforming the whole design.\n"
-        "All action takes place in a single environment. Objects are presented to the user without "
-        "breaking the continuity of experience even as they transform and reorganize.\n"
-        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
-        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
-
-        "3D world.\n\n"
-
-        "The material environment is a 3D space, which means all objects have x, y, and z "
-        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
-        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
-        "position along the z-axis and has a standard 1dp thickness.\n"
-        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
-        "emulated by manipulating the y-axis.\n\n"
-
-        "Light and shadow.\n\n"
-
-        "Within the material environment, virtual lights illuminate the scene. Key lights create "
-        "directional shadows, while ambient light creates soft shadows from all angles.\n"
-        "Shadows in the material environment are cast by these two light sources. In Android "
-        "development, shadows occur when light sources are blocked by sheets of material at "
-        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
-        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
-
-        "Resting elevation.\n\n"
-
-        "All material objects, regardless of size, have a resting elevation, or default elevation "
-        "that does not change. If an object changes elevation, it should return to its resting "
-        "elevation as soon as possible.\n\n"
-
-        "Component elevations.\n\n"
-
-        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
-        "does not vary from 6dp in one app to 16dp in another app).\n"
-        "Components may have different resting elevations across platforms, depending on the depth "
-        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
-
-        "Responsive elevation and dynamic elevation offsets.\n\n"
-
-        "Some component types have responsive elevation, meaning they change elevation in response "
-        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
-        "changes are consistently implemented using dynamic elevation offsets.\n"
-        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
-        "to the component’s resting state. They ensure that elevation changes are consistent "
-        "across actions and component types. For example, all components that lift on press have "
-        "the same elevation change relative to their resting elevation.\n"
-        "Once the input event is completed or cancelled, the component will return to its resting "
-        "elevation.\n\n"
-
-        "Avoiding elevation interference.\n\n"
-
-        "Components with responsive elevations may encounter other components as they move between "
-        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
-        "through other material, components avoid interfering with one another any number of ways, "
-        "whether on a per component basis or using the entire app layout.\n"
-        "On a component level, components can move or be removed before they cause interference. "
-        "For example, a floating action button (FAB) can disappear or move off screen before a "
-        "user picks up a card, or it can move if a snackbar appears.\n"
-        "On the layout level, design your app layout to minimize opportunities for interference. "
-        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
-        "when a user tries to pick up one of cards.\n\n"
-    </string>
-    <string name="large_text2">
-        "DENEME\n\n"
-
-
-        "Components with responsive elevations may encounter other components as they move between "
-        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
-        "through other material, components avoid interfering with one another any number of ways, "
-        "whether on a per component basis or using the entire app layout.\n"
-        "On a component level, components can move or be removed before they cause interference. "
-        "For example, a floating action button (FAB) can disappear or move off screen before a "
-        "user picks up a card, or it can move if a snackbar appears.\n"
-        "On the layout level, design your app layout to minimize opportunities for interference. "
-        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
-        "when a user tries to pick up one of cards.\n\n"
-    </string>
-    <string name="turkce_sozcukte_anlam_title">Sözcükte Anlam</string>
-    <string name="turkce_sozcukte_anlam">
-
-            Sözcükte anlam aslında anlam bilgisine dahil olup Kpss’de genelde sözcüğün cümle içinde kazandığı anlam bakımından sorular sorulmaktadır. Dilimizde bir sözcüğün tek başına genelde bir anlamı yoktur. Bu sözcükler ya da söz öbekleri cümle içinde anlam kazanmaktadır ve Kpss sınavında da bu anlam üzerinde durulmaktadır. Kpss sınavında bu tarz soruların sorulma sebebi de aslında kişinin ezberini değil anlama yeteneğini ölçmektir.\n
-            Türkçede sözcüklerin kazandığı anlam ikiye ayrılmaktadır.\n\n
-            1) Gerçek Anlam:  Sözcüğü duyduğumuzda aklımıza gelen ilk anlamdır. Diğer bir deyişle elimize aldığımız herhangi bir Türkçe sözlükte bulduğumuz ilk anlamdır yani birinci anlamdır.\n
-            – Daha dün sakalını kesmiştin.\n
-            – Yanındaki arabayı görmeyince kaza yaptı.\n
-            * Yan Anlam: Gerçek anlama bağlı olarak kazanılan diğer anlamdır. Aslında insandan doğaya aktarım şeklinde kullanılmaktadır. Kpss’de bugüne kadar yan anlama bağlı olarak soru sorulmamıştır. Ancak aklınızda bulunmasında fayda var çünkü eleyici seçeneklerde karşınıza çıkabilir.\n
-            – Ayağını masanın ayağına çarptı.\n
-            Bu örnekte birinci ayak kelimesi gerçek anlam taşırken, altı çizili olan ayak kelimesi de gerçek anlama bağlı olarak değişen yan anlamdır ve insana ait bir organın eşyaya aktarılması şeklinde oluşmuştur. \n\n
-            2) Mecaz Anlam: Gerçek anlam ve yan anlamdan tamamen soyutlanmış , sözcüğün ya da sözcük öbeğinin bunlardan ayrılarak yepyeni bir anlam katmasıdır. Burada karıştırılan noktalardan biri yan anlamla ayırt edilmemesidir. Yan anlamda sözcük gerçek anlamına hala yakındır aslında, ancak mecaz anlamda tamamen yeni bir anlam çıkmaktadır karşımıza. Sorularda da karşımıza ”Aşağıdakilerden hangisi gerçek anlamının dışında kullanılmıştır?” şeklinde çıkmaktadır. \n
-            – Hakan zorlu geçen yarışmada birinciliğe göz koymuş durumda. \n
-            – Bana ayak bağı olduğunu düşündüğüm için onunla olan ortaklığımızı karşılıklı feshettik. \n
-            *Terim Anlam: Bir sözcüğün herhangi bir alan ya da meslekle ilişkisi sonucu kazandığı özel anlamdır. Bir kelimenin terim anlamı kazanabilmesi önce gerçek anlamda olması lazım. \n
-            – Enlem, boylam (Coğrafya) \n
-            – Kare, Öklid, Açı ( Geometri) \n
-    </string>
-    <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
     <string name="title_activity_content_list">Matematik Ders İçeriği</string>
     <string name="title_activity_content_list_activity_cog">Coğrafya Ders İçeriği</string>
@@ -137,4 +10,1547 @@
     <string name="title_activity_content_list_activity_genel">Genel Kültür Ders İçeriğil</string>
     <string name="title_activity_content_list_activity_guncel">Günce Bilgiler Ders İçeriği</string>
     <string name="title_activity_content_list_activity_tarih">Tarih Ders İçeriği</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_content">contentActivity</string>
+    <string name="title_activity_icerik_view"></string>
+      <!-- TÜRKÇE İÇERİK -->
+    <string name="turkce_sozcukte_anlam_title">Sözcükte Anlam</string>
+    <string name="turkce_sozcukte_anlam_iliskisi_title">Sözcükte Anlam İlişkileri</string>
+    <string name="turkce_sozcukte_anlam_olayları_title">Sözcükte Anlam Olayları</string>
+    <string name="turkce_atasozleri_deyimler_title">Atasözleri ve Deyimler | İkilemler</string>
+    <string name="turkce_cumlede_anlam_title">Cümlede Anlam İlişkileri</string>
+    <string name="turkce_cumlede_anlam2_title">Cümlede Anlam İlişkileri – 2</string>
+    <string name="turkce_cumlede_anlatim_ozellikleri_title">Cümlede Anlatım Özellikleri</string>
+    <string name="turkce_anlatim_bicimleri_title">Anlatım Biçimleri</string>
+    <string name="turkce_dusunceyi_gelistirme_yollari_title">Düşünceyi Geliştirme Yolları</string>
+    <string name="turkce_paragrafta_anlatim_ozellikleri_title">Paragrafta Anlatım Özellikleri</string>
+    <string name="turkce_paragrafta_anadusunce_title">Paragraf – Ana Düşünce – Paragraf Yapısı</string>
+    <string name="turkce_ses_olayları_title">Ünlülerle İlgili Ses Olayları</string>
+    <string name="turkce_ses_olayları2_title">Ünsüzlerle İlgili Ses Olayları</string>
+    <string name="turkce_unsuz_benzesmesi_title">Ünsüz Benzeşmesi</string>
+    <string name="turkce_yazim_kurallari_title">Yazım Kuralları</string>
+    <string name="turkce_yazim_kurallari2_title">Ses Olayları Yazım Kuralları</string>
+    <string name="turkce_noktalama_isaretleri_title">Noktalama İşaretleri</string>
+    <string name="turkce_sozcugun_yapisi_title">Ünsüz Benzeşmesi</string>
+   <string name="turkce_sozcukte_anlam">
+   Sözcükte anlam aslında anlam bilgisine dahil olup Kpss’de genelde sözcüğün cümle içinde kazandığı anlam bakımından sorular sorulmaktadır. Dilimizde bir sözcüğün tek başına genelde bir anlamı yoktur. Bu sözcükler ya da söz öbekleri cümle içinde anlam kazanmaktadır ve Kpss sınavında da bu anlam üzerinde durulmaktadır. Kpss sınavında bu tarz soruların sorulma sebebi de aslında kişinin ezberini değil anlama yeteneğini ölçmektir.\n
+   Türkçede sözcüklerin kazandığı anlam ikiye ayrılmaktadır.\n\n
+   1) Gerçek Anlam:  Sözcüğü duyduğumuzda aklımıza gelen ilk anlamdır. Diğer bir deyişle elimize aldığımız herhangi bir Türkçe sözlükte bulduğumuz ilk anlamdır yani birinci anlamdır.\n
+   – Daha dün sakalını kesmiştin.\n
+   – Yanındaki arabayı görmeyince kaza yaptı.\n
+   * Yan Anlam: Gerçek anlama bağlı olarak kazanılan diğer anlamdır. Aslında insandan doğaya aktarım şeklinde kullanılmaktadır. Kpss’de bugüne kadar yan anlama bağlı olarak soru sorulmamıştır. Ancak aklınızda bulunmasında fayda var çünkü eleyici seçeneklerde karşınıza çıkabilir.\n
+   – Ayağını masanın ayağına çarptı.\n
+   Bu örnekte birinci ayak kelimesi gerçek anlam taşırken, altı çizili olan ayak kelimesi de gerçek anlama bağlı olarak değişen yan anlamdır ve insana ait bir organın eşyaya aktarılması şeklinde oluşmuştur. \n\n
+   2) Mecaz Anlam: Gerçek anlam ve yan anlamdan tamamen soyutlanmış , sözcüğün ya da sözcük öbeğinin bunlardan ayrılarak yepyeni bir anlam katmasıdır. Burada karıştırılan noktalardan biri yan anlamla ayırt edilmemesidir. Yan anlamda sözcük gerçek anlamına hala yakındır aslında, ancak mecaz anlamda tamamen yeni bir anlam çıkmaktadır karşımıza. Sorularda da karşımıza ”Aşağıdakilerden hangisi gerçek anlamının dışında kullanılmıştır?” şeklinde çıkmaktadır. \n
+   – Hakan zorlu geçen yarışmada birinciliğe göz koymuş durumda. \n
+   – Bana ayak bağı olduğunu düşündüğüm için onunla olan ortaklığımızı karşılıklı feshettik. \n
+   *Terim Anlam: Bir sözcüğün herhangi bir alan ya da meslekle ilişkisi sonucu kazandığı özel anlamdır. Bir kelimenin terim anlamı kazanabilmesi önce gerçek anlamda olması lazım. \n
+   – Enlem, boylam (Coğrafya) \n
+   – Kare, Öklid, Açı ( Geometri) \n
+   </string>
+   <string name="turkce_sozcukte_anlam_iliskisi">
+   Sözcükte Anlam konusunun ikinci kısmında anlam ilişkileri işlenmektedir. \n
+   Sözcükte Anlam İlişkileri\n
+   1) Yakın Anlamlı Sözcükler: Anlamı aynı olmayıp birbirine benzeyen ya da yakın olan sözcüklerdir. Yakın anlamlı sözcükler eş anlamlı sözcüklerle karıştırılmamalıdır. Çünkü yakın anlamlı sözcükler her zaman eş anlamlı sözcüğün yerini tutmaz ve cümle içinde kullanıldığında istediğimiz anlam ortaya çıkmaz.\n
+   Gezmek ve yürümek sözcükleri yakın anlamlıdır. \n
+   – Anadolu’yu gezdim. => normal bir cümle iken…\n
+   – Anadolu’yu yürüdüm. => birbirinin yerini tutmaz. \n
+   2) Eş Anlamlı Sözcükler: Yazılışları ayrı ancak anlamları aynı olan sözcüklerdir. Cümle içinde birbirinin yerine kullanılabilen eş anlamlı kelimelerin oluşma sebebi dilimize yabancı dillerden kelimelerin eklenmesiyle oluşmaktadır. \n
+   Kpss lisans Türkçe sorularında bize iki kelime verip bunlar eş anlamlı mıdır diye sormaz. Bize gerekli olan şey o sözcüklerin cümle içinde ne anlam kazandığıdır. \n
+   Bahtı kara. \n
+   Siyah önlüklü çocuk. \n
+   Bu iki cümlede kara ve siyah kelimeleri eş anlamlı olmasına rağmen cümle içerisinde kullanıldığında biri mecazi anlam biri gerçek anlam taşır ve bu ikisi eş anlamlıdır denilemez. Eş anlamlı olmanın ilk şartı kelimelerin öncelikle gerçek anlamdakullanılmasıdır. \n
+   Sözcükte anlam konusunda eş anlamlı sözcüklerle ilgili kpss bazında söyleyebileceğimiz diğer bir uyarıda eş anlamlı sözcüklerin kullanılmasıyla oluşan anlatım bozukluğudur. \n
+   – Bu maçı kazanacağına ihtimal ya da olasılık vermiyordu. \n
+   Görüldüğü üzere eş anlamlı iki sözcük aynı cümlede kullanıldığında ortaya bir anlatım bozukluğu çıkmaktadır. \n
+   3) Sesteş (Eş Sesli) Sözcükler: Yazılışları ve okunuşları aynı ancak anlamları farklı sözcüklerdir. Yüz, gül, yaz gibi sözcükler cümle içinde farklı anlam taşıyabilmektedir. Her sözcüğün yazılışı aynı diye sesteş diyemeyiz. Cümle içinde bu anlam değişebilir. \n
+   – Tenis maçında gözüne top çarptı. \n
+   – Çantasını dolabın gözünde unutmuş. \n
+   Bu iki cümlede geçen göz kelimesi aynı okunuşa sahip olabilir ama sesteş değillerdir. Çünkü ikinci cümledeki göz kelimesi yan anlam olarak kullanılmıştır. Sesteş özelliği aranabilmesi için ilk önce yine gerçek anlam taşıması şarttır. \n
+   4) Zıt (Karşıt) Anlamlı Sözcükler: Sadece anlamca birbirinin karşıtı olan sözcüklerdir. Zıt anlam aranabilmesi için yine ilk şart sözcüklerin gerçek anlamda kullanılmış olması gerekmektedir. Aynı şekilde olumluyu olumsuz yapan eklerle oluşan sözcükler zıt anlamlı olamaz. \n
+   Zengin – fakir, yüksek – alçak, uzun – kısa, gitmek – kalmak\n
+   kelimeleri zıt anlamlı iken; \n
+   gitmek –  gitmemek ya da sevmek – sevmemek\n
+   kelimeleri zıt anlam taşımaz, sadece anlamları olumsuza dönmüştür. \n
+   5) Genel – Özel Anlamlı Sözcükler: Bir türün tamamını kapsayan kelimeler genel, tür içinde sadece tek bir varlığı kapsayan kelimeler de özel anlamlı sözcüklerdir. Kpss sorularında ”hangi cümlede genelden özele gidilmiştir” ya da ”hangi cümledeki altı çizili sözcük genel – özel anlamdadır” tarzında sorular çıkmaktadır. \n
+   6) Nitel – Nicel Anlamlı Sözcükler: Kısaca bir varlık sayılabiliyorsa ya da ölçülebiliyorsa nicel anlamlı, sayılamıyor ya da ölçülemiyorsa o sözcük nitel anlamlı sözcüktür. \n
+   – Çocuğun kafasına büyük bir taş çarptı. => Nicel, ölçülebilir. \n
+   – Pazar bir anda kalabalık oldu. => Nicel, sayılabilir. \n
+   – Çok kötü bir yemek yapmıştı. => Nitel, sayılamaz ya da ölçülemez. \n
+   7) Soyut – Somut Anlamlı Sözcükler: Sözcükte anlam ilişkileri bakımından soyut ve somut anlamlı kelimeleri şu şekilde basit bir şekilde tanımlayabiliriz. Duyu organlarımızın herhangi biriyle algılayabildiğimiz sözcükler somut , algılayamadıklarımız ise soyut anlamlı sözcüktür diyebiliriz. Sözcükte anlam konusu içerisinde yer alan soyut – somut anlamlı sözcükler Kpss sınavı sorularında genelde somutlaştırma ve soyutlaştırma olarak karşımıza çıkmaktadır. \n
+   * Somutlaştırma: Soyut anlamlı bir sözcüğün cümle içinde somut anlama gelecek şekilde kullanılmasıdır. \n
+   – Fakirlere yardım etmek amacıyla bir organizasyon düzenledi. => Burada ”fakir” sözcüğü tek başına soyut bir anlam taşırken, ”fakir insanlar” anlamına dönerek somutlaştırılmıştır. \n
+   * Soyutlaştırma: Somut anlamlı bir sözcüğün cümle içinde soyut anlama gelecek şekilde kullanılmasıdır. \n
+   – Kardeşinde de hiç kafa yokmuş. => Burada ”kafa” sözcüğü tek başına somut bir anlam taşırken, ”akıl” anlamına dönerek soyutlaştırılmıştır. \n
+   8) Yansıma Sözcükler: Doğada bulunan seslerin taklidi ile oluşan sözcüklerdir. Bir sözcüğü yansıma sözcük olup olmadığını anlamak için sözcüğün köküne bakmamız yeterli olacaktır. Eğer sözcüğün kökü doğadaki bir sesi karşılıyorsa yansıma sözcüktür. \n
+   – Patırtı  => pat, havlama => hav, tıkırtı => tık bunlar yansımadır. \n
+   – Kükreme, sızıntı, ötmek gibi kelimeler yansıma değildir. \n
+   Bir sonraki konuda sözcükte anlam olayları işlenecektir. \n
+   </string>
+   <string name="turkce_sozcukte_anlam_olayları">
+   Sözcükte anlam konusunun üçüncü kısmında sözcükte anlam olayları anlatılacaktır. Sözcükte anlam olayları benzetme, kişileştirme, dolaylama ve aktarmalar olarak karşımıza çıkmaktadır.\n
+   Sözcükte Anlam Olayları\n
+   1) Benzetme (Teşbih): Ortak nitelik nedeniyle bir varlığın başka bir varlığa benzetilmesidir. Yani nitelikçe zayıf bir varlık (benzeyen), nitelikçe daha güçlü bir varlığa benzetilir. Her benzetmede mutlaka iki temel unsur benzeyen ve benzetilen vardır. \n
+   Elma yanak, kömür göz => sadece temel öğelerle yapılmış benzetmelerdir. \n
+   Sen bir meleksin. ( Sen: benzeyen, meleksin: benzetilen.) \n
+   Kim bu cennet vatanı uğruna olmaz ki feda? \n
+   2) Kişileştirme (Teşhis): İnsan dışı varlıklara insan kişiliği verme sanatıdır. \n
+   Uyuklayan dağlar, kuşların sohbeti, kayığın homurdanması. \n
+   Kpss sözcükte anlam olayları içinde en çok önemi kişileştirmeye vermektedir. Bu bağlamda Kpss Türkçe soruları içerisinde ”Hangisinde kişileştirmeye yer verilmiştir?” veya ”Hangisinde insana ait bir özellik başka bir varlığa aktarılmıştır?” gibi sorulara sıkça rastlanmaktadır. \n
+   Kpss genel yetenek Türkçe sorularında ”Hangisinde düşsel öğelere yer verilmiştir?” tarzındaki sorularda benzetme ya da kişileştirmelerden biri olduğuna işarettir. Bu yüzden bu detaya dikkat edelim. \n
+   3) Dolaylama: Tek bir sözcük ile anlatılabilecek bir kavramı bu sözcüğü kullanmadan anlatmaya dolaylama denir. \n
+   Ege’nin incisi, file bekçisi, yavru vatan, beyaz perde, ormanın kralı, derya kuzusu. \n
+   Görüldüğü üzere anlatılmak istenen İzmir, kaleci, Kıbrıs, sinema, aslan, balık gibi kavramlar kendi isimleri dışında başka sözcüklerle belirtilmiştir. \n
+   4) Aktarmalar: Kpss Türkçe dersi içindeki sözcükte anlam olaylarının sonuncusu da aktarmalardır. Aktarmalar Ad Aktarması ve Deyim Aktarmaları olmak üzere iki alt başlığa ayrılır. \n
+   A) Ad Aktarması (Mecaz-ı Mürsel): Bir sözcüğün benzerlik olmaksızın anlam ilgisi nedeniyle bir başka sözcüğün yerine kullanılmasıdır. \n
+   Ad aktartmasının tanımına baktığımızda ”benzerlik olmaksızın” tanımına dikkat edelim. Ad aktarmasını burada dolaylamadan ayıran özellik, benzetme amacının olmamasıdır. Ad aktarmasını dolaylamadan ayıracağımız bir diğer özellik de dolaylamanın genelde 2 sözcükten oluşması, ad aktarmasının ise 1 sözcükten oluşmasıdır. \n
+   Sobayı yak. => iç – dış ilişkisi. \n
+   Bütün gözler üzerindeydi. => Parça bütün ilgisi. (insan bütün, gözler parça) \n
+   Kitabı 20‘ye aldım. => Sayı para ilişkisi. (sayı 20, para lira) \n
+   Yarın 5‘te gel. => Sayı saat ilişkisi. \n
+   Orhan Kemal’i severim. => Sanatçı yapıt ilgisi. \n
+   Batıya yöneldik. => Yön uygarlık ilişkisi. \n
+   Doğu hizmeti bitti. => Yer yön ilgisi. \n
+   Bereket yağıyor. => sebep sonuç ilişkisi (yağmur sebep, bereket sonuç) \n
+   Çatma… ey nazlı hilal => parça bütün ilişkisi\n
+   B) Deyim Aktarması: Sözcükte anlam olayları içinde yer alan deyim aktarması da kendi içinde dörde ayrılmaktadır. \n
+   * İnsandan Doğaya Aktarma: Aynı zamanda kişileştirme olan insandan doğaya aktarım örnekleri aşağıda verilmiştir. \n
+   Dağların etekleri. \n
+   Ağlayan dağlar. \n
+   Huzursuz güneş. \n
+   * Doğadan İnsana Aktarma: insan dışı varlıkların özelliklerinin insana aktarılması olayıdır. \n
+   Saçlarım dalgalanıyor. \n
+   Babam kükredi. \n
+   Yufka yürekli adam. \n
+   * Doğadan Doğaya Aktarma: Doğada var olan bir özelliğin yine doğada ki başka bir varlıkta kullanılmasıdır. \n
+   Bir aslan miyav dedi. \n
+   Dağlar dalgalanıyor. \n
+   * Duyular Arası Aktarma: Herhangi bir duyuya ilişkin kavramın başka bir duyu organı için kullanılmasıdır. \n
+   Acı söz, keskin bakış, pürüzlü ses vs. \n
+   Sözcükte anlam olayları konusu bitmiştir. Bir sonraki Türkçe dersi Söz Öbekleri konusu ile devam edecektir. \n
+   </string>
+   <string name="turkce_atasozleri_deyimler">
+   Atasözleri ve deyimler , ikilemlerle beraber kpss türkçe söz öbekleri konusu içinde yer almaktadırlar. En az iki sözcükten oluşan gruplara söz öbeği denilmektedir. Söz öbekleri 3’e ayrılmaktadır.\n
+   1.	Atasözleri\n
+   2.	Deyimler\n
+   3.	İkilemler\n
+   Genelde atasözleri ve deyimler birbirleriyle karıştırıldıkları için bu iki başlığı beraberişleyeceğiz. \n
+   Atasözleri ve Deyimler\n
+   ATASÖZLERİ \n
+   •	Mutlaka kesin yargılıdır. Yani cümle şeklindedir.
+   İyi insan sözünün üstüne gelir. \n
+   •	Mutlaka ders, öğüt vermek ya da yol göstermek amacıyla kullanılır. \n
+   •	Her zaman ve herkes için geçerliliği olan genel anlamlı sözlerdir. \n
+   Deli ile çıkma yola, getirir başa bela. \n
+   •	Kalıplaşmış sözlerdir ve hiçbir değişiklik yapılamaz. \n
+   Sakla samanı gelir zamanı. \n
+   •	Öğüt ve ders vermek ya da yol gösterme amaçlı olduğu için ya geniş zamanlıdır ya da emir kipindedir. Atasözleri ve deyimler için kpsssoruları açısından püf noktasıdır. \n
+   Damlaya damlaya göl olur. \n
+   Atasözleri ve deyimler arasında dikkat etmemiz gereken bir nokta da cümle biçimindeki deyimlerdir. Bu deyimleri atasözleri ile karıştırmayınız. \n
+   •	Atasözleri topluma seslenir. \n
+   Ev alma komşu al. (Toplumun geneline seslenilmiş.) \n
+   DEYİMLER\n
+   •	En az iki sözcükten oluşan söz öbekleridir. \n
+   Dili uzun. \n
+   •	Anlatımımızı daha ilginç yapmak için kullanırız. \n
+   •	Belli, özel bir durumu, olayı ya da olguyu belirtmek amacıyla kullanırız. Yani her zaman ve herkes için geçerliliği yoktur. Özel anlamlıdır. \n
+   O bir dalda duramadığı için başarılı olamıyor. \n
+   •	Kalıplaşmış sözcüklerdir. Ancak sözcükler arasına başka sözcükler de girebilir. Kip, zaman, kişi ekleri gibi eklerle biçimlendirilebilir. \n
+   Son günlerde canımı çok fazla sıktım. \n
+   •	Geniş zamanlı ya da emir kipli olma zorunlulukları yoktur. \n
+   •	Bazılarında hiç yargı yoktur. \n
+   Etli butlu, enine boyuna. \n
+   •	Bazıları yarım yargılıdır. \n
+   Eziyet çekmek, kulağına küpe olmak. \n
+   •	Bazıları ise atasözleri gibi kesin yargılıdır, yani cümle şeklindedir. \n
+   Atı alan Üsküdar’ı geçti. \n
+
+
+   Atasözleri ve Deyimler Örnekleri\n
+   Kpss sorularında atasözleri ve deyimler karşımıza bolca çıkmaktadır. Bu yüzden atasözleri ve deyimler konusunu örneklerle pekiştirelim. \n
+   Geçti Bor’un pazarı sür eşeği Niğde’ye. (Deyim) \n
+   Armut piş ağzıma düş. (Deyim) \n
+   Armut dibine düşer. (Atasözü) \n
+   Kedi olalı bir fare tuttu. (Deyim) \n
+   Atasözleri ve deyimler bazen sadece temel anlamlı olarak kullanılır. Bazıları sadece mecaz anlamlıdır. Bazıları da hem gerçek hem de mecaz anlamlıdır, yani kinayelidir. \n
+   Körle yatan şaşı kalkar. (Mecaz anlam) \n
+   Bugünün işini yarına bırakma. (Gerçek anlam) \n
+   Damlaya damlaya göl olur. (Hem gerçek hem de mecaz anlam) \n
+   Olur iş değil. (Gerçek anlam) \n
+   Küplere binmek. (Mecaz anlam) \n
+   El etek öpmek. (Hem gerçek hem de mecaz anlam) \n
+   Kpss genel yetenek Türkçe dersine ait atasözleri ve deyimler anlatım bozuklukları sorularında da karşımıza çıkmaktadır. Atasözleri ve deyimlerin sözcüklerinin yerleri değiştirilirse, sözcükler eş anlamlıları ile değiştirilirse ya da yanlış anlamda kullanılırsa anlatım bozukluğuna sebep olur. \n
+   Bağdat gibi diyar ana gibi yar olmaz. (Anlatım bozukluğu) \n
+   Ana gibi yar Bağdat gibi diyar olmaz. \n
+   Tozu toprağa katarak kaçıp gitti. (Anlatım bozukluğu) \n
+   Tozu dumana katarak kaçıp gitti. \n
+   Bu iş çok zor. Adeta değnekle kuyuyu kazmak gibi. (Anlatım bozukluğu) \n
+   Bu iş çok zor. Adeta iğneyle kuyuyu kazmak gibi. \n
+   Deyim ve açıklamasının bir arada kullanılması anlatım bozukluğuna yol açmaz.Kpss Türkçe sorularında bu detaya dikkat edelim. \n
+   Bu aralar beni rahat bırakmıyor, bana bir türlü nefes aldırmıyordu. \n
+   Ona çok fazla ilgi ve sevgi gösteriyorlar, adeta onun üstüne titriyorlar. \n
+   İşleyen demir ışıldar, çalışmaktan asla vazgeçme. \n
+   Söyleyeni belli olan sözlere vecize (özdeyiş) denir. \n
+   Hayatta en hakiki mürşit ilimdir, fendir. (M. K. Atatürk) \n
+   Ne kadar bilirsel bil, söylediklerin karşıdakinin anlayabileceği kadardır. (Mevlana) \n
+   İkilemler\n
+   Söz öbekleri içinde atasözleri ve deyimler konusundan sonra işleyeceğimiz son başlık ikilemlerdir. İkilemler, anlatımı güçlendirmek, pekiştirmek için kurulmuş söz öbekleridir. \n
+   * İkilemlerin oluşum ve kuruluş yolları: \n
+   •	Uslu uslu, yavaş yavaş. > Tekrar, yineleme ile oluşan. \n
+   •	Takır tukur, şırıl şırıl. > Yansıma sözcüklerle ile oluşan. \n
+   •	Yalan yanlış, eş dost. > Eş ya da yakın anlamlı, ilgili sözcüklerle oluşan. \n
+   •	Aşağı yukarı, enine boyuna > Zıt anlamlı sözcüklerle oluşan. \n
+   •	Ev mev, çer çöp. > Biri anlamlı, biri anlamsız sözcüklerden oluşan. \n
+   •	Abuk subuk, ıvır zıvır. > Her ikisi de anlamsız sözcüklerle oluşan. \n
+   •	Güzel mi güzel, soğuk mu soğuk. > -mi edatı ile oluşan. \n
+   İkilemler söz öbeğidir ve mutlaka ayrı yazılır. Araya herhangi bir noktalama işareti de konmaz. \n
+   El alem, kem küm, er geç…\n
+   Aynı sözcüğün tekrarı ile oluşan ikilemler hariç tüm ikilemler birer deyimdir. \n
+   Eciş bücüş, ıvır zıvır, abur cubur. \n
+   Kpss genel yetenek Türkçe dersine ait söz öbekleri olan atasözleri ve deyimler ile ikilemler konusu tamamlanmıştır. Bir sonraki kpss Türkçe dersinin konusu Cümlede Anlam olacaktır. \n
+   </string>
+   <string name="turkce_cumlede_anlam">
+   Cümlede anlam ilişkileri kpss Türkçe konuları arasında önemli bir yer kaplamaktadır. Cümlede anlam ilişkilerine geçmeden önce cümlenin tanımını yapalım. Cümle, yargı bildiren, sözcük ya da sözcüklerden oluşan dil ve anlam bütünlüğüdür. Cümlenin bu yapısıyla beraber cümlede anlam ilişkileri ve anlamlarına göre cümle çeşitleri ortaya çıkmaktadır. Şimdi kpss Türkçe soruları içinde bolca karşımıza çıkan anlamlarına göre cümleleri inceleyelim.\n
+   Cümlede Anlam İlişkileri ve Cümle Çeşitleri\n
+   Eş Anlamlı Cümleler (Yakın Anlamlı Cümleler): Cümle anlam ilişkilerinde ve anlatım bozukluğu sorularında karşımıza çıkan eş anlamlı cümleler, kelimelerin dizilişi bakımından farklı ancak ancak anlamca aynı anlamı ifade eden cümlelerdir.
+   Aşağıdaki iki cümleyi incelersek sözcüklerin dizilişi farklıdır. Ancak bu iki cümle anlamca aynı ifadeyi belirtmektedir. \n
+   Bir yazar neyi anlattığını değil, nasıl anlattığını hep ön plana çıkarmalıdır. \n
+   Üslup, içerikten her zaman daha önemli olmalıdır bir yazar için. \n
+   Öznel Cümleler: Kpss Cümlede anlam sorularında karşımıza çıkan bir diğer cümle türü de öznel cümlelerdir. Öznel cümleler, Kişiden kişiye değişebilen, kişisel yargılı, kanıtlanamayan ve yoruma dayalı cümlelerdir. \n
+   Küçük Ağa benzerlerinden çok farklı bir eserdir. \n
+   Nesnel Cümleler: Herkese göre aynı, kişiye göre değişmeyen, görüş ya da herhangi bir yorum içermeyen, kanıtlanabilir ve kalıplaşmış yargılardan oluşan cümlelerdir. \n
+   Küçük Ağa, Kurtuluş Savaşı’nı anlatan bir romandır. \n
+   Öznel ve nesnel cümleler, ”kanıtlanabilirlik, yorum içerme, kişisel görüşe dayalı, değerlendirme var mı yok mu” tarzında kpss sorularında karşımıza çıkabilmektedir. \n
+   Neden – Sonuç Cümleleri: Cümlede anlam konusunda önemli olan bir başka cümle çeşidi de neden – sonuç (sebep-sonuç) cümleleridir. Cümle içindeki iki yargının birbirine nedensellik bağıyla bağlandığı cümlelerdir. \n
+   -den dolayı, çünkü, diye, için, ile, -ki, -de bağlaçları, -dığı için, -dığından gibi sözcükler ya da eklerle kurulan cümleler, neden sonuç cümleleridir. \n
+   Sesinin güzelliğinden dolayı herkes büyülendi. \n
+   Sesinin güzelliği ile herkesi büyüledi. \n
+   Ayşe geldi de mutlu oldum. \n
+   Bilimsel çalışmalar önemlidir; çünkü toplumlar bu çalışmalarla gelişir. \n
+   Test çözmek için sınıfta kaldı. Bu cümle neden sonuç değil, amaç sonuç cümlesidir. \n
+   Cümlede anlam ilişkileri konusunda, neden sonuç cümlesi ile amaç sonuç cümlesi arasındaki farkları bir kaç ipucu ile rahatlıkla anlayabiliriz. \n
+   •	”İçin” sözcüğü yerine ”amacıyla” sözcüğünü getirerek.(Test çözmek amacıyla…)\n
+   •	Amaç cümlesinde her zaman bir hedef vardır. (Test çözmek yukarıdaki örnekte hedeftir.) \n
+   •	Amaç cümlesinde eylemin kesinleşeceğine dair bir kanıt yoktur. (Yani test çözecek mi çözmeyecek mi belli değildir.) \n
+   Amaç Sonuç Cümleleri: Neden sonuç cümlesiyle arasındaki farkı belirtmiş olduğumuz amaç sonuç cümleleri, bir hedefi olan ve bu hedefin gerçekleşip gerçekleşmeyeceği kesin olmayan cümlelerdir. \n
+   -mek için, -mek üzere, diye, ki bağlacı, -e, -a gibi ek ya da sözcüklerle kurulan cümleler amaç sonuç cümlesidir. \n
+   Seninle konuşmak için gelmiş. \n
+   Ödev yapmak üzere eve gitti. \n
+   Ders çalışmaya gelmiş. \n
+   Çalışayım diye geldim. \n
+   Şart Cümleleri (Koşul Cümleleri): Kpss Türkçe cümlede anlam ilişkileri konusu içinde yer alan şart cümleleri, bir yargının gerçekleşmesini herhangi bir koşula bağlayan cümlelerdir. \n
+   Eğer anlamlı cümlelerdir. -se, -sa, -ki, -de bağlaçları, -mek üzere, diye, eğer, şayet, -ip, -erek, -ken, -dikce… kısaca zarf fiil ekler de koşul anlamı verebilmektedir. \n
+   Gelince mutlu olacağım. \n
+   O gelmeden uyumam. \n
+   Test çözmeden konu pekişmez. \n
+   Ders çalışasın diye izin verdim. \n
+   Seni gördükçe eski günler geliyor aklıma. \n
+   Onu dinleyip de karar verebilirsin. \n
+   Kpss genel yetenek Türkçe sorularında eğer ”Anlam ilişkileri bakımından farklı bir cümledir?” deniliyorsa neden, amaç ya da koşul cümlesini kastetmektedir. \n
+   Kpss genel yetenek Türkçe dersine ait Cümlede Anlam İlişkileri konusunun ilk kısmı tamamlanmıştır. Bir sonraki kpss Türkçe dersine Cümlede Anlam İlişkilerinin ikinci bölümü ile devam edilecektir. \n
+   </string>
+   <string name="turkce_cumlede_anlam2">
+   Cümlede anlam ilişkileri konusunun bir önceki bölümünde eş anlamlı cümleler, öznel cümleler, nesnel cümleler, neden sonuç cümleleri, amaç sonuç cümleleri ve şart cümlelerini işlemiştik. Cümlede anlam ilişkilerin ikinci bölümünde de kpss sorularında çıkan diğer cümle çeşitlerini işleyeceğiz.\n
+   Cümlede Anlam İlişkileri – 2\n
+   Karşılaştırma Cümleleri: Cümlede anlam ilişkileri konusunda yer alan karşılaştırmalı cümleler, farklı varlıkları birbiriyle, aynı kavramı kendi için ortak ya da farklı yönleriyle karşılaştıran cümlelerdir. \n
+   Daha, en, gibi, kadar, ise, göre, -ki, oysa , -de bağlacı gibi ekler ya da sözcüklerle oluşur. \n
+   Seni de götüreyim. \n
+   Annemse farklı düşünüyor. \n
+   Babası gibi çalışkan. \n
+   En mutlu günümüzdü. \n
+   Üslup – İçerik Cümleleri: Özellikle kpss Türkçe paragraf sorularında karşımıza sıkça çıkan kavram üsluptur. Bir sanatçının veya sanat yapıtının dil ve anlatım özelliği, yani söyleyiş tarzı üsluptur. İçerik ise bir sanat eserinin konusudur. \n
+   Cümle içinde Üslubu ”Yazar nasıl anlatmış?” sorusuyla, \n
+   Cümle içinde içeriği ”Yazar neyi anlatmış?” sorusuyla bulabiliriz. \n
+   Hikayelerinde insanların sorunlarını özgün ve etkileyici bir dille dile getirmiş. Burada ”insanların sorunları” içerik, ”özgün ve etkileyici dil” ise üslupla ilgilidir. \n
+   Doğrudan Anlatım Cümlesi: Bir kişinin sözü hiç bozulmadan ağızdan çıktığı gibi aynen aktarılırsa doğrudan anlatım cümlesi oluşur. \n
+   Bugün gelemem” demişti. \n
+   Dolayı Anlatım Cümlesi: Bir kişinin sözü değişikliğe uğratılarak araya başka bir kişinin girdiğini belirten yüklemler kullanılırsa o cümle dolaylı anlatım cümlesi olur. \n
+   Gelemeyeceğini söylemişti. \n
+   Olumlu – Olumsuz Cümleler: Yükleminde -me, -mez, -sız, yok, değil eklerinin veya sözcüklerinin olmadığı ve yargının gerçekleştiği cümlelere olumlu cümle denir. \n
+   Adam ölmüş. \n
+   Sınıf çok yaramaz. \n
+   Çok sorunumuz var\n
+   Yazısı çok çirkin. \n
+   Yükleminde -me, -mez, -sız, yok, değil eklerinin veya sözcüklerinin olduğu cümlelere de olumsuz cümle denilmektedir. \n
+   Adam ölmemiş. \n
+   Sınıf sorunsuz. \n
+   Hiç sorunumuz yok. \n
+   Yazısı çirkin değil. \n
+   •	Biçimce olumlu anlamca olumsuz cümleler: Yükleminde olumsuzluk eki olmadığı halde yargısı gerçekleşmeyen cümlelerdir. \n
+   Ne gelen var ne giden. \n
+   Bu saatte gidilir mi hiç? \n
+   Nasıl söylerim öldüğünü? \n
+   •	Biçimce olumsuz anlamca olumlu cümleler: Yükleminde olumsuz ek kullanımı olduğu halde yargısı gerçekleşen cümlelerdir. \n
+   Konuyu anlamamış değiliz. \n
+   Çocuk sorunsuz değil. \n
+   Hiç gelmez miyim. \n
+   Öneri Cümleleri: Bir sorun ve onun çözülmesi için görüş ve düşünceleri karşıdaki kişiye önerme içeren cümlelerdir. \n
+   Her gün 2 test çözmelisin. \n
+   Bu şiirini daha yalın bir dille yazarsan şiirin daha çok okunacaktır. \n
+   Varsayım Cümleleri: Kpss genel yetenek Türkçe dersine ait cümlede anlam ilişkileri konusunda yer alan varsayım cümleleri, gerçekte olmayıp da geçici bir süre için olmuş kabul edilen olayları ve durumları anlatan cümlelerdir. \n
+   Varsayalım ki, tut ki, farz edelim, düşünelim, kabul edelim sözcükleri varsayım cümlelerinde kullanılır. \n
+   Bu testten iyi bir sonuç aldığını düşünelim. \n
+   Olasılık Cümleleri: Cümlede anlam ilişkileri konusunda yer alan olasılık cümleleri, herhangi bir durumun veya olayın olabilirlik durumunu anlatan cümlelerdir. \n
+   Belki, galiba, sanırım,muhtemelen, gibi, sanki, -ebilmek, herhalde gibi sözcükler olasılık cümlelerinde kullanılmaktadır. \n
+   Bu iş olacak gibi. \n
+   Bir kedi gördüm sanki. \n
+   Tanım Cümleleri: Bir varlığın ya da kavramın ayırt edici özellikleriyle açıklanmasıdır.
+   Tanım cümlelerini bulmak için ”Nedir?” sorusu sorulur. \n
+   Sanat, hayatı yüceltme ve daha anlamlı kılma çabasıdır. \n
+   Eleştiri Cümleleri: Bir yapıtın, kişinin ya da konunun olumlu veya olumsuz yönlerini ortaya koyan cümlelerdir. \n
+   Günümüzdeki sanatçılar özellikle bu konuda gerekli özeni göstermiyorlar. \n
+   Küçümseme – Azımsama Cümleleri: Küçümseme, bir varlığın sayılamayan veya ölçülemeyen özelliklerini az görmek ya da hor görmektir. Azımsama ise bir varlığın sayılabilen veya ölçülebilen özelliklerini az görmektir. \n
+   Aldığım maaş bakkal masrafına bile yetmiyor. (Azımsama) \n
+   Bir paragraf yazmakla yazar mı oldun şimdi? (Küçümseme) \n
+   Yakınma Cümleleri: Yakınma bir durum veya olaydan şikayet etmektir.
+   Bu çocuklar artık beni hiç dinlemiyor. \n
+   Bu berbat yollar artık milleti bezdirdi. \n
+   Sitem Cümleleri: Cümlede anlam ilişkileri içinde yer alan sitem cümleleri, bir kişinin karşısındaki kişiye kırgınlığını belirtmesidir. \n
+   Hani beni arayacaktın. \n
+   Muğla’ya gelmişte bizi aramamış. \n
+   Sen buralarda gelir miydin. \n
+   Kpss genel yetenek Türkçe sorularında yakınma ve sitem cümlelerini birbirleriyle karıştırmayın. \n
+   Hayıflanma Cümleleri: Bir durumdan veya olaydan dolayı kendi kendine üzülme, acınma, pişmanlık duymaya hayıflanma denilmektedir. \n
+   Yazık oldu güzelim günlere. \n
+   Ne yazık ki tatili değerlendiremedik. \n
+   Yazık sana verdiğim emeklere. \n
+   Keşke Kpss’ye biraz daha çalışsaydım. \n
+   Kanıksama Cümleleri: Bir durumu kabullenmek, benimsemek veya o duruma alışmaktır. \n
+   Kaba konuşmasına hepimiz alıştık. \n
+   Yadsıma Cümleleri: Cümlede anlam ilişkileri konusundaki bir diğer cümle çeşidi olan yadsıma cümleleri, bir durumu inkar etme anlamı taşır. \n
+   Bütün bu dediklerini ben mi yapmışım? \n
+   Gerçekleşmemiş Beklenti Cümleleri: Bir beklentinin gerçekleşmediğini dile getiren cümlelerdir. \n
+   Benimle gelir sanmıştım. \n
+   Geri geleceğini düşünmemiştim. \n
+   Güya gelecekti. \n
+   Aşamalı Durum Cümleleri: Bir durumdan diğer bir duruma aşama aşama geçildiğini belirten cümlelerdir. \n
+   Gittikçe, giderek, gün geçtikçe gibi sözcüklerle ya da bu anlamları taşıyarak oluşur. \n
+   Gün geçtikçe artıyor yalnızlığımız. \n
+   Havalar ısınıyor. \n
+   Her gün biraz daha birbirimize alışıyoruz. \n
+   Ön Yargı Cümleleri: Cümlede anlam ilişkileri konusunda işleyeceğimiz son cümle çeşidi olan önyargı cümleleri, henüz olmamış bir şeyi olacakmış gibi görme anlamı taşıyan cümlelerdir. Cümlede peşin hüküm anlamı vardır. \n
+   Bu çocuk büyük adam olacak. \n
+   Bu eser beğenilmeyecek. \n
+   Yazarın son eserinin daha güzel olacağı kesin. \n
+   Kpss genel yetenek Türkçe dersine ait Cümlede Anlam İlişkileri konusu tamamlanmıştır. Bir sonraki kpss Türkçe konusu Cümlede Anlatım Özellikleri olacaktır. \n
+   </string>
+   <string name="turkce_cumlede_anlatim_ozellikleri">
+   Anlatım özellikleri Türkçe konuları içinde önemli bir yer kaplamaktadır. Kpss Türkçe sorularında sıkça karşımıza çıkan cümlede anlatım özellikleri, hemen hemen her yıl kamu personeli seçme sınavında da  karşımıza çıkmaktadır. Genelde memur adayları tarafından karıştırılan cümlede anlatım özellikleri konusu iyice anlaşılmalı ve konu üzerinde bolca soru çözülmelidir.\n
+   Cümlede Anlatım Özellikleri\n
+   Cümlede anlatım özellikleri Açıklık, duruluk, yalınlık, sadelik, özgünlük, yoğunluk (derinlik), doğallık, evrensellik, kalıcılık ve tutarlılık gibi kavramları beraberinde getirmektedir. Kpss de anlatım özellikleri konusundaki soruları bu kavramlar üzerinden sormaktadır. \n
+   1) Açıklık: Kpss Türkçe sorularında sıkça karşımıza çıkan açıklık kavramı, tek anlama gelmek ve net anlamlı olmaktır. Bir cümlenin kişi, noktalama ve anlam yönünden anlaşılır olmasıdır. \n
+   Ben, kardeşimi ablamdan daha çok severim. \n
+   Buradan ”Ben, kardeşimi annemi sevdiğimden çok seviyorum” anlamı ve ”Ben kardeşimi, annemin kardeşimi sevdiğinden daha çok seviyorum” anlamı çıkıyor. Dolayısıyla iki anlam çıktığı için açıklık yoktur. \n
+   Açıklık yoksa o cümlede anlatım bozukluğu vardır. \n
+   2) Duruluk: Kpss Türkçe cümlede anlatım özellikleri içinde yer alan duruluk, bir cümlede gereksiz söz kullanmamayı ve gerektiği kadar sözcük kullanmayı belirtmektedir. \n
+   Onunla ilk tanıştığımda ondan hiç hoşlanmamıştım. \n
+   Burada ”ilk” sözcüğü fazlalıktır. Çünkü bir kişiyle tanıştığında zaten önceden tanışmamışsındır. \n
+   Duruluk yoksa, o cümlede anlatım bozukluğu vardır. \n
+   3) Yalınlık: Süssüz, sanatsız, şatafatsız, gösterişsiz, dolambaçlı yollara başvurmadan direkt anlatımı ifade eden cümlelerdir. \n
+   Yalınlık yoksa anlatım bozukluğu vardır diyemeyiz. Çünkü yalınlık o yazıyı yazan kişiye bağlı bir niteliktir. \n
+   4) Sadelik: Bir cümlede yabancı sözcük kullanmamak ve anlamı bilinen sözcüklerden oluşturmaktır. \n
+   Gözlerinden dökülen inciler yüreğimi dağladı. \n
+   Bu cümle duru ve sadedir. Ancak yalın değildir. Çünkü söz sanatı mevcuttur. \n
+   5)Özgünlük: Yazarın dil ve anlatım bakımından farklı olması, yeni, kendine özgü, orijinal ve yenilikçi olması gibi anlamları ifade eder. \n
+   6) Yoğunluk (Derinlik): Kpss genel yetenek Türkçe dersine ait cümlede anlatım özellikleri konusunda yer alan yoğunluk, derin yoruma açık, satır aralarında okunan anlatım, sıradan olmayan, sığ olmayan, yüzeysel olmayan anlatım, az sözle çok şey anlatmak ve her okunuşta yeni anlamlar bulunabilen anlatım şeklidir. Kısaca duygu ve düşünce zenginliğidir. \n
+   7) Doğallık: Bir düşüncenin içten, samimi ve olduğu gibi aktarılmasıdır. \n
+   8) Evrensellik: Düşünceleriyle tüm insanlığa seslenmeyi başarabilmektir. \n
+   9) Kalıcılık: Bir yazarın yalnızca yaşadığı devirde değil gelecekte de anılması ya da adından söz ettirmesidir. \n
+   10) Tutarlılık: Bir yazarın düşünce ve davranışlarının, yazdıklarıyla uyuşmasıdır. \n
+   Kpss genel yetenek Türkçe dersine ait Cümlede anlatım özellikleri konusu tamamlanmıştır. Bir sonraki kpss Türkçe konusu Paragraf bölümündeki Anlatım Biçimleri olacaktır. \n
+   </string>
+   <string name="turkce_anlatim_bicimleri">
+   Anlatım biçimleri kpss Türkçe paragrafta anlam konusu içinde yer almaktadır. Paragrafta anlatım biçimleri kpss sorularında karşımıza sıkça çıkmaktadır. Paragrafta anlam konusuna anlatım biçimleri, düşünceyi geliştirme yolları, anlatım özellikleri, paragrafın konusu, ana düşüncesi ve paragrafın yapısı konuları dahildir. Bu bölümde paragrafta anlatım biçimleri konusunu işleyeceğiz.\n
+   Anlatım Biçimleri\n
+   Kpss Türkçe dersine ait Paragrafta anlatım biçimleri açıklama, tartışma, betimleme ve öyküleme olarak 4’e ayrılmaktadır. \n
+   1) Açıklama: Anlatım biçimleri içinde yer alan açıklama, düşünce paragrafının anlatım biçimidir. Ele alınan konuyla ilgili düşünceler ayrıntılara inilerek ve örnekler verilerek açıklanır. \n
+   Amaç okuyucuyu aydınlatmaktadır ve bilgi vermektir. \n
+   Kpss Türkçe sorularında açıklamalı anlatım biçiminde, ciddi ve ağır başlı anlatım ve nesnel cümleler vardır. Yazarın kendi düşünceleri değil, bilgi verici düşünceler vardır. Açıklama, ansiklopedik bilgi tarzında da karşımıza çıkmaktadır. \n
+   2) Tartışma: Açıklama gibi düşünce paragrafı anlatım biçimidir. Ancak yazar konuyla ilgili kendi görüşlerini dile getirir. Yerleşik görüşe karşı kendi görüşünün savunmasını yapıyor gibidir. \n
+   ”Bence, kanımca, oysa, aksine, tersine, ne varki” gibi sözcüklerle soru cümlelerinden yararlanılabilir. \n
+   Açıklamada amaç öğretmektir. Tartışmada ise amaç kendi görüşlerini inandırıcı kılmaktır. Dolayısıyla tartışmada öznellik egemendir. Tartışmada amaç kanıları değiştirmedir. \n
+   Açıklama ve tartışma paragrafın düşünce kısmında bulunur. Bu yüzden düşünce kısmında betimleme ya da öyküleme anlatım biçimi aramaya gerek yoktur. \n
+   3) Betimleme (Tasvir Etme): Kpss genel yetenek Türkçe dersinde paragrafta anlatım biçimleri konusunda yer alan betimleme, belli bir nesneyi, kişiyi, yeri farklı özellikleriyle anlatmaktır. Betimleme sözcüklerle o varlığın resmini çizmektir. Niteleyici sözcüklere yer verilir ve mutlaka gözlem söz konusudur. \n
+   Betimlemede amaç okuyucunun zihninde bir görüntüyü canlandırmak yani izlenim kazandırmaktır. \n
+   4) Öyküleme (Hikaye Etme): Kısaca olay anlatımıdır. Yani belli bir zamanda belli bir çevrede kişilerle ilgili gerçekleşen olay anlatılır. Öykülemede olaylar belli bir oluş sırasına göre verilir ve birbirine bağlanır. \n
+   Öykülemede ”Olay olduğu için, koştular, tartıştı, geri dönmüş” gibi hareket ifadeli sözler vardır. \n
+   Ancak kimi zaman olayın yer almadığı kişi, yer, zaman unsurlarının söz konusu edildiği cümlelerde olabilir. \n
+   Gülüşerek caddenin karşısına geçtiler. \n
+   Öyküleme ile betimleme arasındaki en büyük fark, öykülemede hareketliliğin; betimlemede ise hareketsizliğin olmasıdır. \n
+   Öyküleme ile betimleme çoğu zaman iç içedir. \n
+   Yemyeşil ağaçlarla kaplı bir bahçede piknik yapıyorlardı. Burada ”yemyeşil ağaçlar” betimleme, ”piknik yapıyorlardı” kısmı da öykülemedir. \n
+   Kpss genel yetenek Türkçe dersine ait Paragrafta Anlatım Biçimleri konusu tamamlanmıştır. Bir sonraki kpss Türkçe konusu Düşünceyi Geliştirme Yolları olacaktır. \n
+   </string>
+   <string name="turkce_dusunceyi_gelistirme_yollari">
+   Düşünceyi geliştirme yolları kpss Türkçe konu anlatımı içindedir. Kpss Türkçe soruları ve kpss deneme sınavlarında da karşımıza çıkan düşünceyi geliştirme yolları paragrafta anlam konusu dahilindedir. Bir önceki konuda Anlatım Biçimleri konusunu işlemiştik. Bu bölümde de düşünceyi geliştirme yolları konusunu inceleyeceğiz.\n
+   Düşünceyi Geliştirme Yolları\n
+   Kpss Türkçe dersine ait düşünceyi geliştirme yolları 6 başlık halinde işlenmektedir. Düşünceyi geliştirme yolları, tanımlama, karşılaştırma, örnekleme, tanık gösterme, benzetme ve sayısal verilerden yararlanma olarak 6’ya ayrılmaktadır. \n
+   1) Tanımlama: Bir kavramın, varlığın ayırt edici özellikleriyle ortaya konmasıdır.Yani bir kavramın ne demek olduğunu söyleyen yöntemdir. \n
+   Kpss sorularında tanımlama olup olmadığını anlamak için ”Nedir?” ya da ”Ne demektir?” sorularını sorabiliriz. \n
+   Varsayım, olmamış bir şeyi olmuş farz etmektir. \n
+   2) Karşılaştırma: Ortak ya da farklı yönleriyle, aynı kavramı ya da farklı kavramları kendi içinde karşılaştırmaktır. \n
+   ”Gibi, -de bağlacı, ise, kadar, daha, en, -e göre, -ki, oysa” gibi sözler karşılaştırma paragraflarında yer almaktadır. \n
+   En güzel yıllarıydı bunlar. \n
+   Daha iyiyim. \n
+   3) Örnekleme: Bir düşünceyi ifade edebilmek için çeşitli kavramlara, olay ya da isimlere yer verip düşünceyi somutlaştırmaktır. Genellikle düşünce paragrafında bulunan örnekleme, ele alınan bir düşünceyi desteklemek ve açıklamak için örnekler vermektir. \n
+   Örneklemede, ”örneğin” sözcüğünü ya da anlamını buluruz. \n
+   Bağışıklık sistemi zayıf olunca birçok hastalıkla mücadele ederiz: grip, ülser, tifo, nezle…\n
+   4) Tanık Gösterme: Kpss genel yetenek Türkçe dersinde düşünceyi geliştirme yolları konusunda yer alan tanık gösterme, ileri sürülen bir düşünceyi inandırıcı kılmak için, ünlü bir kişiden söz ederek, o kişinin sözünü aktarmaktır. Tanık göstermenin diğer adı da alıntı yapmadır. \n
+   İleri sürülen düşüncenin inandırıcı olması, ünlü kişi ve kişi sözü tanık gösterme için olması gerekenlerdir. \n
+   Sanat topluma yönelik olmalı. Namık Kemal’in tiyatronun eğlendirirken eğittiğini söylemesi, toplumculuğunun bir göstergesidir. \n
+   5) Benzetme: Bir kavramın ortak nitelik nedeniyle başka bir kavrama benzetilmesidir. Mutlaka benzeyen ve benzetilen vardır. \n
+   ”Gibi, sanki, adeta, tıpkı” sözcükleri benzetmede yer alır. \n
+   Kayık çocuk gibidir. \n
+   6) Sayısal Verilerden Yararlanma: Düşünceyi geliştirme yolları içindeki son başlık olan sayısal verilerden yararlanma, konuyla ilgili yapılan istatistiklerin rakamsal sonuçlarından yararlanmaktır. \n
+   Lise son sınıf öğrencilerinin %90’ı üniversiteyi İstanbul’da okumak istiyor. \n
+   Kpss genel yetenek Türkçe dersinde yer alan Düşünceyi Geliştirme Yolları konu anlatımı tamamlanmıştır. Bir sonraki kpss Türkçe konusu Paragrafta Anlatım Özellikleri olacaktır. \n
+   </string>
+   <string name="turkce_paragrafta_anlatim_ozellikleri">
+   Paragrafta anlatım özellikleri kpss Türkçe paragrafta anlam konusu dahilindedir. Önceki konularda Paragrafta anlam konusuna dahil olan anlatım biçimleri ve düşünceyi geliştirme yolları konularına değinmiştik. Bu konuda da paragrafta anlatım özellikleri başlığını anlatacağız. Paragrafta anlatım özellikleri, cümlede anlatım özellikleriyle benzerlik göstermektedir. Cümlede anlatım özellikleri cümle içinde anlatımı ifade ederken, paragrafta anlatım özellikleri paragrafın geneline yayılmış olan anlatımözellikleridir.\n
+   Paragrafta Anlatım Özellikleri\n
+   Paragrafta anlatım özellikleri kpss sorularına bakılarak 13 başlık halinde anlatılacaktır. Bunlar Açıklık, duruluk, yalınlık, akıcılık, özgünlük, yoğunluk, özlülük, doğallık, inandırıcılık, kalıcılık, etkileyicilik, tutarlılık ve evrenselliktir. \n
+   1) Açıklık: Duygu ve düşüncelerin hiçbir tartışmaya meydan vermeyecek biçimde tek bir yargının kolay bir şekilde belirtilmesidir. \n
+   Yazarın anlattığı şey herkes tarafından doğru bir şekilde anlaşılmalıdır. \n
+   2) Duruluk: Kpss Türkçe paragraf sorularında sıkça karşılaştığımız duruluk, anlatımın her türlü çöplükten arınmış olmasıdır. Yani gereksiz hiçbir kelimeye yer verilmemesidir. Fazladan sözcük kullanılmamasıdır. \n
+   3) Yalınlık: Yazarın anlatımının her türlü sanatsal süsten, yapmacık veya özentiden uzak olmasıdır. \n
+   4) Akıcılık (Sürükleyicilik): Yazının kolay okunabilmesi ve rahatsız eden kelimelerin kullanılmamasını ifade eder. Düşünceler kolay anlaşılabilir bir biçimde sıralanabilmelidir. Ses sanatları akıcılığın vazgeçilmeyen unsurlarından biridir. \n
+   Akıcılık varsa okunulan yazıdan zevk alınır. \n
+   Anlatımda kullanılan yabancı sözcükler akıcılığı bozar. \n
+   5) Özgünlük: Yazının benzerlerinden farklı olması ve yalnızca kendine özgü nitelikler taşımasını ifade eder. \n
+   6) Yoğunluk: Yazının düşünsel ve duygusal yönden zenginliğini ortaya koyar. Yoğunluk bir bakıma anlam derinliğidir. \n
+   7) Özlülük: Az sözle çok şey anlatılmasını ifade eder. \n
+   Atasözleri ve deyimler özlülüğe sahiptir. \n
+   8) Doğallık: Bir şeyin olduğu gibi anlatılmasıdır. Anlatılmak istenenler yapmacıklıktan uzak içten geldiği gibi anlatılır. \n
+   Kpss genel yetenek Türkçe paragraf sorularında doğallık varsa, o anlatıma yazar kendine bir şey katmamış demektir. Olay olduğu gibi anlatılmıştır. \n
+   9) İnandırıcılık: Yazarın, anlattığı şeye karşısındakini inandırmasıdır. Yazının akla yatkın ve gerçeğe uygun olmasını belirtmektedir. \n
+   10) Kalıcılık: Eserin yazıldığı çağı aşması durumudur. Gelecekte de değerini yitirmemesidir. \n
+   11) Etkileyicilik: Yazarın, okuyucu üzerinde olumlu bir etki bırakmasıdır. Bir diğer deyişle yazılanları okurların beğenmesidir. \n
+   12) Evrensellik: Yazıda, insanların ortak duygu ve düşüncelerini yansıtabilen, tüm dünyaya seslenebilen anlatımı ifade eder. \n
+   13) Tutarlılık: Yazıda düşünsel ve duygusal çelişkilerin arınık olmasıdır. \n
+   Tutarlılık varsa yazarın konudan ayrılmaması gerekir. \n
+   Kpss genel yetenek Türkçe dersine ait Paragrafta Anlatım Özellikleri konusu tamamlanmıştır. Bir sonraki kpss Türkçe konusu Paragrafta Konu – Ana Düşünce – Paragrafta Yapı olacaktır. \n
+   </string>
+   <string name="turkce_paragrafta_anadusunce">
+   Paragraf konusu Kpss Türkçe sorularının yaklaşık %40’ını oluşturmaktadır. Oldukça yüksek olan bu istatistik elbette kpss açısından Türkçe paragrafta anlam sorularının ne derece önemli olduğunu göstermektedir. Sabır isteyen bir konu olan paragrafta anlam konusu genelde memur adaylarını soruların uzun olması, sanat, sanatçı, öykü ya da roman gibi edebi terimlerin bol olması açısından sıkıntıya sokmaktadır. Bunun için yapılacak en önemli şey bolca deneme sınavı ve test sorularını çözmek olacaktır. Kpss Türkçe paragrafta anlam sorularıyla ilgili her yıl ortalama 13 soru sormaktadır. Önceki Türkçe konularında paragrafta anlatım biçimleri, düşünceyi geliştirme yolları ve paragrafta anlatım özelliklerine değinmiştik. Şimdi paragrafın konusu, ana düşüncesi ve yapısını irdeleyeceğiz.\n
+   Paragrafın Konusu\n
+   Kpss Türkçe dersinde yer alan paragrafın konusu, bir paragrafta üzerinde durulan olay, görüş ya da durumu ifade eder. \n
+   ”Bu parçada ne anlatılmaktadır?”, ”Bu parça neyin üzerinde durmaktadır?”, ”Bu parçada hangisinde söz edilmektedir?” ve ”Bu parçada hangisinden yakınılmaktadır?” tarzında sorulan kpss soruları paragrafta anlam konusunu işaret etmektedir. \n
+   Konu genellikle ilk cümlelerde belirir. \n
+   Paragrafta Ana Düşünce\n
+   Bir paragraf içinde yer alan ana düşünce vurgulanan düşüncedir. Yazarın paragrafı yazma amacı olan ana düşünce paragrafın aynı zamanda iletisidir. Yani yazarın bizi ulaştırmak istediği sonuçtur. \n
+   Ana düşünce cümlesi kesin ve genel yargılıdır. \n
+   Bir paragrafta ana düşünce yol gösterir ve ders verir niteliktedir. \n
+   Öğrencinin başarıya ulaşmasında ailesinin düzeni ve ilgisi çok büyük bir etkendir. \n
+   Bir paragrafta ana düşünce genellikle son cümlededir. \n
+   Kpss genel yetenek Türkçe sorularında, ”Anlatılmak istenen hangisidir?”, ”Hangisi vurgulanmıştır?” tarzında sorular ana düşünce sorularını oluşturmaktadır. \n
+   Paragraf Yapısı\n
+   Bir paragraf yapı bakımından giriş, gelişme ve sonuç olmak üzere üçe ayrılmaktadır. \n
+   ”Düşüncenin akışını bozan cümle hangisidir?”, ”Numaralanmış cümlelerden hangileri yer değiştirirse anlam bütünlüğü sağlanır?”, ”Bu parça ikiye ayrılmak istenirse hangi cümleden itibaren ayrılmalıdır?”, ”Parçadan hangisi çıkarılamaz?” tarzında kpss soruları paragrafın yapısı ile ilgili sorulardır. \n
+   •	Giriş Cümlesi: İlk cümledir. Genellikle konunun belirtildiği, kimi zaman da ana düşüncenin yer aldığı cümledir. \n
+   Kendisinden önce bir cümlenin varlığına işaret eden bağlaçlar veya sözcükler giriş cümlesinde yer almaz. ”Bu, böylece, ancak, örneğin, oysa, görülüyor ki, ise, -de bağlacı” gibi bağlayıcı sözler giriş cümlesinde bulunmaz. \n
+   •	Gelişme Cümlesi: Konunun ayrıntılarına inilen, örneklerin verildiği, birden fazla olabilen, kendinden önceki ve sonraki cümleleri birbirine bağlayan paragrafın en geniş bölümünü oluşturur. \n
+   •	Sonuç Cümlesi: Son cümledir. Genellikle konunun ana düşüncesinin yer aldığı cümledir. Paragrafın özeti niteliğindedir. \n
+   Bir paragrafın sonuç kısmında ”Kısaca, özetle, sonuç olarak, demek ki, bundan dolayı, nitekim…” gibi sözcükler vardır. \n
+   Paragrafta Başlık: Konuyu ve ana düşünceyi kapsayan en kısa sözdür. Başlık, bir paragrafta konu ve ana düşünce arasındaki bağdır. Birkaç sözcüğü geçmeyen başlık aynı zamanda paragraf içinde en çok geçen sözcüklerden oluşur. \n
+   Kpss genel yetenek Türkçe dersine ait Paragrafta anlam konusu tamamlanmıştır. Bir sonraki kpss Türkçe konusunda Paragrafta Soru Tipleri ve Püf Noktaları ele alınacaktır. \n
+   </string>
+   <string name="turkce_ses_olayları">
+   Ünlülerle ilgili ses olayları konusunda büyük ünlü uyumu ( kalınlık – incelik uyumu ), küçük ünlü uyumu ( düzlük – yuvarlaklık uyumu ), ulama, ünlü düşmesi ( hece düşmesi ) , ünlü üremesi, ünlü daralması ve ünlü değişmesi gibi başlıklar ele alınmaktadır. Ünlülerle İlgili Ses Olayları konusundan önceki yıllarda daha nadir sorular gelmekteydi. Fakat değişen kpss sistemi ve konu ağırlıkları dil bilgisi konularından gelen soru sayısını arttırdı. Kpss sınavında çıkabilecek muhtemel sorulardan biri de bu konudan gelecektir.  Geçtiğimiz bölümde Paragraf- Ana Düşünce- Paragraf yapısını inceledik. Bu bölümümüzde ise Ünlülerle İlgili Ses olaylarını inceleyeceğiz.\n
+   Ünlülerle İlgili Ses Olayları Bölüm\n
+   Türkçede ses özelliklerini iki başlık altında toplayabiliriz. Bu başlıklar ünlülerle ilgili ses olayları ve ünsüzlerle ilgili ses olayları olarak ikiye ayrılır. \n
+   1. Büyük Ünlü Uyumu (Kalınlık- İncelik Uyumu) \n
+   Türkçede bir sözcük kalın ünlü ile (a,ı,o,u) başlıyorsa kalın bir ünlü ile devam edip bitmelidir. İnce bir ünlü ile (e,i,ö,ü) başlıyorsa ince ünlü ile devam edip bitmelidir. \n
+   Çiçeklerin→ uyar        duyduklarımız → uyar         kollarım→uyar\n
+   tarihin→ uymaz           kalemler→ uymaz\n
+   Türkçe olmalarına rağmen sonradan değişip büyük ünlü uyumuna uymayan sözcükler vardır. \n
+   ana→anne\n
+   alma→ elmak\n
+   arındaş→kardeş\n
+   kangı→hangi\n
+   2. Küçük Ünlü Uyumu (Düzlük- Yuvarlaklık Uyumu) \n
+   Ünlülerle ilgili ses olaylarında küçük ünlü uyumu kuralı ; \n
+   a,e,ı,i → a,e,i,ı                                  o,ö,u,ü → a,e,u,ü\n
+   •	Kuralda da görüldüğü gibi Türkçede “o, ö” sesleri sadece ilk hecede bulunur. Diğer hecelerde olduklarında o kelime küçük ünlü uyumuna uymaz. \n
+   telefon             televizyon            gidiyor                  arıyor\n
+   Yukarıdaki örneklerde de görüldüğü gibi “o” sesi ilk hece haricinde diğer hecelerde de yer aldığı için bu kelimeler ünlüler ile ilgili ses olaylarından küçük ünlü uyumuna uymaz. \n
+   gördüklerim→uyar                        kollarımızı→uyar                               gözlerini→uyar\n
+   kavurma→uymaz                           kılavuz→uymaz                 mektup→uymaz\n
+   Tek heceli ve birleşik sözcüklerde ünlü uyumları aranmaz. \n
+   3. Ulama\n
+   Ünsüz ile biten bir sözcükten sonra ünlü harf ile başlayan başka bir sözcük gelirse bu iki sözcük arasında ulama yapılabilir. Ulama noktalama işaretlerinin olduğu yerde yapılmaz. \n
+   Ben-  evden-  ayrılırken – onun – okuldan-  eve – döndüğünü  – gördüm. \n
+   Son iki kısımda ulama yapılamaz çünkü ilk sözcükler ünlü ile bitmemiş ve sonraki sözcükler ünlü ile başlamamıştır. \n
+   4. Ünlü (hece) düşmesi\n
+   Ünlülerle ilgili ses olayları konusundan ünlü düşmesini üç şekilde inceleyebiliriz: \n
+   a. İki heceli bazı sözcüklere ünlü ile başlayan bir ek geldiğinde ikinci hecedeki ünlüler düşer. \n
+   •	ağız-ım →ağzım      ömür-üm →ömrüm\n
+   •	 boyun-un →boynun     burun-un →burnun    şehir-e → şehre \n
+   •	Şehire az kaldı. → yanlış  \n
+   •	Şehre az kaldı. → doğru       (Ünlü düşmesine uğramış bir sözcüğü düşmemiş olarak yazarsak yazım yanlışı olur.) \n
+   b. Bazı sözcükler birleşme esnasında ünlü düşmesine uğrayabilir. \n
+   •	Ne+asıl→ Nasıl           Kayın+ana→Kaynana        Cuma+ertesi→Cumartesi         Ne+için→Niçin\n
+   •	kayıp etmek→ kaybetmek\n
+   •	keşif etmek→ keşfetmek\n
+   •	 hapis olmak→ hapsolmak\n
+   •	Çocuğu okula kayıt ettirdim. (yanlış) \n
+   •	 Çocuğu okul kaydettirdim. (doğru) \n
+   c. Bazı sözcüklerde ise yapım eki alırken ünlü düşmesi olabilir. \n
+   oyun-a → oynamak      kavur-ul→ kavrulmak\n
+   uyu-ku → uyku        çevir-e → çevre        devir-im → devrim\n
+   5. Ünlü Türemesi\n
+   Sözcüklere “-cik” getirdiğinde veya bazı sözcükler pekiştirilirken ünlülerle ilgili ses olaylarından  ünlü türemesi meydana meydana gelir. \n
+   dar-a-cık      genç-e-cik       bir-i-cik      az-c-ık        gül-ü-cük         sap-a-sağlam           yap-a-yalnız\n
+   6. Ünlü Daralması\n
+   “-e,-a” ünlü harfleriyle biten eylemlere “-yor” eki getirildiği zaman bu eylemlerde ünlülerle ilgili ses olaylarından  ünlü daralması meydana gelir. (eylem(-e,-a)+ -yor→ -ı,-i,-u-ü) \n
+   başla-yor→ başlıyor        sula-yor→ suluyor\n
+   izle-yor→ izliyor \n
+   Olumsuzluk eki “-me, -ma” dan sonra “-yor” eki gelirse eylemde her zaman daralma olur. \n
+   gel-me-yor→  gelmiyor         ver-me-yor→  vermiyor        bak-ma-yor→  bakmıyor\n
+   “-de ve -ye” eylemleri “-yor” eki almadan da daralabilir. \n
+   diyecek→ de         yiyecek→ ye         diyen→ de   \n
+   7. Ünlü Değişmesi\n
+   “Ben” ve “sen” zamirlerine getirilen “-e,-a” yönelme hal eki ile bu sözcüklerin kökündeki ünlüleri değişir. \n
+   Ben-a→ bana           Sen-a→ sana\n
+   Kpss genel yetenek Türkçe dersi Ünlülerle İlgili Ses Olayları  konusuna ait büyük ve küçük ünlü uyumu, ulama, ünlü düşmesi, ünlü türemesi, ünlü daralması ve ünlü değişmesi başlıklarını işledik. Bir sonraki türkçe dersi konumuzda Ünsüzlerle İlgili Ses Olayları konusunu inceleyeceğiz. \n
+   </string>
+   <string name="turkce_ses_olayları2">
+   Ünsüzlerle İlgili Ses Olayları konusunda ünsüz düşmesi, ünsüz türemesi, ünsüz yumuşaması gibi başlıklar ele alınmaktadır. Ünsüzlerle İlgili Ses Olayları konusundan ünlülerle ilgili ses olaylarında olduğu gibi önceki yıllarda daha nadir sorular gelmekteydi. Fakat değişen kpss sistemi ve konu ağırlıkları dil bilgisi konularından gelen soru sayısını arttırdı. Kpss sınavında çıkabilecek muhtemel sorulardan biri de bu konudan gelecektir.  Geçtiğimiz bölümde ünlülerle ilgili ses olaylarını inceledik. Bu bölümümüzde ise Ünsüzlerle İlgili Ses olaylarını inceleyeceğiz.\n
+   Ünsüzlerle İlgili Ses Olayları\n
+   1. Ünsüz Düşmesi\n
+   Ünsüz düşmesi iki ekle olabilir. Bu ekler -cik ve -l ekleridir. \n
+   küçük-cük→ küçücük          küçük-l→ küçülmek\n
+   ufak-cık→ufacık                   ufak-l→ ufalmak\n
+   sıcak- cık→ sıcacık              alçak-l→ alçalmak\n
+   alçak-cık→ alçacık              yüksek-l→ yükselmek\n
+   ast- teğmen→ asteğmen      üst- teğmen→ üsteğmen\n
+   2. Ünsüz Türemesi\n
+   “Etmek” ve “olmak” eylemleri yabancı kökenli bir sözcük il birlikte kullanıldığında bazen ünsüz türemesi meydana gelir. \n
+   af etmek→ affetmek\n
+   his etmek→ hissetmek\n
+   zan etmek→ zannetmek\n
+   ret etmek→ reddetmek\n
+   Sen bu cezayı hakketmedin. ( yanlış) \n
+   Sen bu cezayı hak etmedin. (doğru) \n
+   Bazen de ünsüz türemesi bir sözcüğün ünlü ile başlayan bir ek aldığında görülebilir. \n
+   Sırrımı herkese anlatmış. \n
+   Hakkını mutlaka aramalısın bu konuda. \n
+   A şıkkı kesin yanlış bence. \n
+   Benzin zammı artık bütün halkı bezdirmiş durumda. \n
+   3. Ünsüz Yumuşaması\n
+   “p,ç,t,k” ünsüz harfleriyle biten bir kelimeden sonra ünlü il başlayan bir ek gelirse bu ünsüz harfler yumuşayarak “b,c,d,g,ğ” ünsüz harflerine dönüşür. \n
+   p, ç, t, k ünsüzleri ile biten sözcük → ünlü ile başlayan ek “b,c,d,g,ğ” \n
+   kitap- ım → kitabım\n
+   ağaç- a→ ağaca\n
+   kağıt-ın → kağıdın\n
+   renk-i → reng\n
+   ibıçak- ın→ bıçağın\n
+   yurt- um → yurdum\n
+   gidiyorum → git       yardım ediyor → et\n
+   saçı ağarmış → ak       çoğunluk → çok\n
+   p, ç, t, k ile biten her kelime yumuşamaya uğramayabilir.  Bu olaya ünsüz yumuşamasına aykırılık denir. \n
+   millet- im → milletim\n
+   sanat-ın → sanatın\n
+   hukuk-un → hukukun\n
+   ahlak-a → ahlaka\n
+   ip- e → ipe\n
+   top- un → topun\n
+   saç- ım → saçım\n
+   suç- un → suçun\n
+   seç- im → seçim\n
+   Görüldüğü gibi bu sözcükler p,ç,t,k ile bitmesine rağmen yumuşamaya uğramamış ve aynı kalmıştır. \n
+   Özel isimlerde yumuşama gösterilmez ama okunurken özel isimler yumuşatılarak okunur. \n
+   Irak’ın → doğru\n
+   Gaziantep’e → doğru\n
+   Kpss genel yetenek Türkçe dersi Ünsüzlerle İlgili Ses Olayları konusunu işledik. Bir sonraki türkçe dersi konumuzda Ünsüzlerle İlgili Ses Olayları Bölüm 2 konusunu inceleyeceğiz. \n
+   </string>
+   <string name="turkce_unsuz_benzesmesi">
+   Ünsüz Benzeşmesi  konusunda ünsüz sertleşmesi, Kaynaştırma harfleri ve n-b çatışması gibi başlıklar ele alınacaktır.  Değişen kpss sistemi ve konu ağırlıkları dil bilgisi konularından gelen soru sayısını arttırdı. Kpss sınavında çıkabilecek sorulardan biri de bu konudan gelebilir Geçtiğimiz konumuzda Ünlülerle İlgili Ses Olaylarını inceledik. Sıradaki konumuzda ise Ünsüz Benzeşmesi konusunu inceleyeceğiz.\n
+   Ünsüz Benzeşmesi\n
+   f,s,t,k,ç,ş,h,p (fıstıkçı şahap) ünsüz harflerinin herhangi biri ile biten sözcüklerden sonra c,d,g ünsüzleri ile başlayan bir ek gelirse bu ünsüzler sertleşir. Ve benzeşerek ç,t,k harflerine dönüşür. \n
+   Etraf- da →  etrafta              seç-gin →  seçkin\n
+   hapis- den →  hapisten       as-gı → askı\n
+   git- di →    gitti                       balık- cıl → balıkçı\n
+   lsimit – ci → simitçi                ağaç – dan → ağaçtan\n
+   kitap – cı → kitapçı                beş – de → beşte\n
+   Özel isimler ve sayılarda da benzeşme olur. Benzeşme yapılmadan yazıldığında yazım yanlışı olur. \n
+   1923’de → yanlış       1923’te → doğru\n
+   Gaziantep’den → yanlış     Gaziantep’ten → doğru\n
+   üçgen, beşgen, dörtgen, çokgen → Bu sözcüklerde benzeşme olmamıştır. Burada Ünsüz benzeşmesine aykırılık vardır. \n
+   Kaynaştırma Harfleri\n
+   Yaşasın (y, ş, s, n) \n
+   Ünlü harf ile biten bir sözcüğe gelen ünlü harf ile başlayan bir ek arasına “y, ş, s, n” ünsüzlerinden biri girer. \n
+   yabancı- y-a        anne-s-i       araba-n-ın       iki-ş-er       görme-y-e      yapma-y-acak \n
+   İyelik eki olan n ile kaynaştırma harfi olan -n karıştırılmamalıdır. \n
+   Çanta-n-a bir şeyler koymuşlar.  ( Senin çantana diyebiliyorsam iyelik ekidir. Çünkü burdaki -n harfi sahiplik belirtiyor.) \n
+   n-b Çatışması\n
+   Türkçe dil kurallarına göre “n” harfi ile biten bir heceden sonra “b”  harfi ile biten bir hece gelemez. Bu durumda “b” ünsüzü “n” ünsüzünü “m” ünsüzüne dönüştürür. \n
+   penbe → yanlış        pembe → doğru\n
+   tenbel → yanlış        tembel → doğru\n
+   kanbur → yanlış       kambur → doğru\n
+   çarşanba → yanlış   çarşamba → doğru\n
+   anbar →yanlış           ambar → doğru\n
+   sünbül → yanlış         sümbül→ doğru\n
+   canbaz → yanlış        cambaz → doğru\n
+   Bu çatışma bazı birleşik sözcüklerde gerçekleşmemiştir. İstanbul, Safranbolu, onbaşı, binbaşı, sonbahar gibi…\n
+   Kpss genel yetenek Türkçe dersi Ünsüz benzeşmesi konusunu işledik. Bir sonraki genel yetenek türkçe dersimizde  Yazım Kuralları konusunu inceleyeceğiz. \n
+   </string>
+   <string name="turkce_yazim_kurallari">
+   Yazım kuralları her yıl kpss Türkçe dersinde her yıl soru gelen bir konumuzdur. Sınavda zor soruların gelebileceği alanlardan olup dikkat edilmesi gereken önemli konulardandır. Geçtiğimiz konumuzda Ünsüz benzeşmesini incelemiştik. Sıradaki konumuzda ise Yazım Kuralları konusunu inceleyeceğiz.\n
+   Yazım Kuralları\n
+   Yazım kurallarından öncelikle ayrı ve bitişik yazılan sözcüklere bakacağız\n
+   Bitişik yazılan sözcükler :   birçok,  birkaç,   biraz,  hiçbir , herhangi\n
+   Ayrı yazılan sözcükler: pek çok, pek az, her, gün, her an, her bir, her zaman, bir gün, bir ara, bir an, hiç kimse\n
+   “şey” sözçüğü kendisinden önceki sözcükten daima ayrı yazılır. \n
+   her şey, bir şey, hiçbir şey, herhangi bir şey\n
+   ‘’birtakım’’→ bazı anlamına gelirse bitişik, \n
+   ‘’bir takım’’→  sayı anlamına gelirse ayrı yazılır. \n
+   Birtakım sorunlar yaşadık onunla. (Bazı anlamı var.) \n
+   Bu mağazadan bir takım elbise aldım. (Sayı anlamı var.) \n
+   ‘’bire bir’’→  karşılıklı anlamına gelirse ayrı, \n
+   ‘’birebir →  iyi, etkili, aynı anlamına gelirse bitişik yazılır. \n
+   Bu konuda onunla bire bir görüşeceğim. ( karşılıklı anlamı var. ) \n
+   Bir ilaç, hastalığıma birebir geldi.  (  iyi,etkili anlamı var.) \n
+   “de” ‘nin Yazımı\n
+   Türkçede iki ’’de’’ vardır . \n
+   1.Ek olan ‘-de’’: Sözcüğe bitişik yazılan -de eki cümleden çıkarıldığında cümlenin anlamı bozulur. Benzeşme varsa benzeşmeye uğrar. \n
+   2.Bağlaç olan ‘’de’’: Sözcükten ayrı yazılır. “de” eki cümleden çıkarıldığında cümlenin anlamında bozulma olmaz fakat biraz daralır benzeşmeye uğramaz. \n
+   Televizyonlar bugünlerde bu habere de sıkça yer veriyor. \n
+   ‘’ki’’ nin Yazımı\n
+   Türkçe’mizde üç tane ‘’ki’’ vardır. \n
+   1.Sıfat yapan ‘’-ki’’: Bitişik yazılır. İsmi nitelediği veya belirtiği için sıfattır. \n
+   2.ilgi zamiri olan ‘’ki’’: Bitişik yazılır. İsmin yerini tuttuğu için zamirdir. \n
+   3.Bağlaç olan ‘’-ki’’: Ayrı yazılır.Cümleleri, sözcükleri veya söz gruplarını birbirine bağladığı için bağlaçtır. \n
+   Cümlede geçen ki’nin bitişik veya ayrı yazılacağını ki’den sonra -ler eki getirerek bulabiliriz. \n
+   Duydum ki unutmuşsun gözlerimin rengini\n
+   Duydum kiler → sözcüğe uymadığı için ayrı ve doğru yazılmıştır. \n
+   Bizimki bugün sınavdan yine zayıf almış. \n
+   Bizimkiler→ sözcüğe uyduğu için bitişik ve doğru yazılmıştır. \n
+   “mi” ‘nin Yazımı\n
+   “mi” soru edatı (ilgeç) sözcükten daima ayrı yazılır. -mi eki cümleye soru pekiştirme ve zaman anlamı katar.Hepsinde de -mi eki ayrı yazılır. \n
+   Sen de bizimle gelecek misin? (soru)Güzel mi güzel araba almış. ( pekiştirme) \n
+   Aslı eve geldi mi beni arasın. (zaman) \n
+   Niye bizimle gel miyor? →  yanlış (Çünkü bu ‘’mi’’daralmaya uğramış olumsuz eki -me’ dir.) \n
+   “ler” eki: \n
+   “-ler” eki özel isimden kesme işaretiyle ayrılmaz. Türkçede Yazım Kurallarına göre özel isime getirilen “-ler” ekinden sonra gelen ek de kesme işaretiyle ayrılmaz. \n
+   Bugün Ali’lere gideceğiz. \n
+   Aliler’e →  Alilere\n
+   Kpss genel yetenek Türkçe dersi Yazım Kuralları konusunu işledik. Bir sonraki genel yetenek türkçe dersimizde  Ses Olayları Yazım Kuralları konusunu inceleyeceğiz. \n
+   </string>
+   <string name="turkce_yazim_kurallari2">
+   Ses Olayları Yazım Kuralları konumuzda kpssTürkçe’de sıkça yapılan yazım hataları, kısaltma, ikileme,tarih, sayılar, yön adları, unvan, lakap ve meslek adlarının yazımında dikkat edilmesi gereken noktaları inceleyeceğiz. Önceki konumuzda Yazım Kurallarını incelemiştik. Sıradaki konumuz ise Ses Olayları Yazım Kuralları olacak.\n
+   Ses Olayları Yazım Kuralları\n
+   a) Ünsüz yumuşaması özel isimler dışında yazıya yansıtılır. \n
+   Kitapı → yanlış       Kitabı→ doğru\n
+   İpeğ’i → yanlış        İpek’i → doğru\n
+   b) Sert ünsüzlerin benzeşmesi yazıya yansıtılır. \n
+   araçda→ yanlış     araçta→ doğru\n
+   1925’de → yanlış    1925’te → doğru\n
+   c) Türkçede “b” sessiz harfinden önce gelen “n” ünsüzü “m” harfine dönüşür.
+   çarşanba→ yanlış    çarşamba→ doğru\n
+   d) Ünlü düşmesi olduğunda bu yazıda gösterilmelidir. \n
+   burunun→ yanlış     burnun→ doğru\n
+   sabır et→ yanlış    sabret→ doğru\n
+   e) “yor” eki yoksa yapılan daralma yazım yanlışı oluşturur. \n
+   yaşıyan → yanlış    yaşayan→ doğru\n
+   f) Söyleyişte bazı kelimelerde yer değiştirme olabilir. Fakat buna yazımda yer verilmez. \n
+   yanlız → yanlış     yalnız→ doğru\n
+   kiprik→ yanlış    kirpik→ doğru\n
+   Kesme İşaretinin Kullanımı\n
+   Özel isimlere gelen çekim eklerinin ayrımında kullanılır. \n
+   Türk’ün → doğru    Türkün → yanlış\n
+   İstanbul’a → doğru    İstanbul’lu → yanlış\n
+   Özel bir isme yapım eki gelirse bu  ekten sonra hangi ek gelirse gelsin kesme işareti kullanılmadan yazılır. \n
+   İzmirli’ler → yanlış    İzmirliler → doğru\n
+   Kurum, kuruluş, dönem, dönem, çağ, devir adlarına getirilen ekler kesme işareti ile ayrılmaz. \n
+   Milli Eğitim Bakanlığı’na → yanlış \n
+   Milli Eğitim Bakanlığına→ doğru\n
+   Lale Devri’nde → yanlış\n
+   Lale Devrinde → doğru\n
+   Sayıların Yazımı\n
+   Sayılar yazı olarak yazıldığında ayrı olarak yazılır. \n
+   altmış beş, elli dokuz, otuz dört, seksen sekiz gibi….\n
+   2’şer → yanlış    ikişer → doğru\n
+   14:25 → yanlış      14.25→ doğru\n
+   Tarihlerin Yazımı\n
+   Gün ve ay adları sayı ile yazılacaksa büyük yazılır. \n
+   1 Mayıs → doğru\n
+   Haftaya  salı → doğru\n
+   2013 Nisan ayı → doğru\n
+   İkilemelerin Yazımı\n
+   İkilemeler ayrı yazılır ve ikileme arasına hiçbir noktalama işareti girmez. \n
+   doğru dürüst\n
+   yan yana\n
+   el ele\n
+   Yön Adlarının Yazımı\n
+   Yön isimleri özel isim öncesi büyük, özel isim sonrası küçük harfle yazılır. Ara yönlerde aynı kurala uyar. \n
+   Kuzey Afrika, \n
+   Ülkenin batısında\n
+   Güneş, dünya ve ay isimleri terim olarak veriliyorsa büyük, mecaz veya günlük dil ile veriliyorsa küçük yazılır. \n
+   Kısaltmaların Yazımı\n
+   T.C kısaltması dışındaki büyük harfli kısaltmalarda harflerin arasına nokta konmaz. \n
+   TBBM’ne → yanlış     TBMM’ye → doğru\n
+   MEB’nin → yanlış    MEB’ in → doğru\n
+   Unvan, Lakap, Meslek Adlarının Yazımı\n
+   Özel bir isimle kullanıldıklarında büyük harfle başlar. Saygı bildiren sözcüklerde aynı şekildedir. \n
+   Aslı Hanım      Uzun Hasan      Doktor Murat Bey\n
+   Nasreddin Hoca      Nene Hatun      Sarı Selim\n
+   Yer Adlarının Yazımı\n
+   Kıta, bölge, ülke, il, ilçe, köy, mahalle, sokak, cadde isimleri daima büyük harfle yazılır. \n
+   Asya, Avrupa, İstanbul, Ankara, Türkiye, İnönü Caddesi, Karanfil Sokak, Kızılay, Şişli, Ödemiş, Akdeniz Bölgesi …\n
+   Kpss genel yetenek Türkçe dersi Ses Olayları Yazım Kuralları konusunu işledik. Bir sonraki genel yetenek türkçe dersimizde Noktalama İşaretleri konusunu inceleyeceğiz. \n
+   </string>
+   <string name="turkce_noktalama_isaretleri">
+
+   Noktalama İşaretleri konusundan kpss sınavında her yıl en az bir soru gelmektedir. Noktalama İşaretleri konumuzda iki nokta, noktalı virgül, virgül, üç nokta, nokta, soru işareti, ünlem işareti, tırnak işareti, parantez (yay ayraç) başlıklarını inceleyeceğiz. Önceki konumuzda Ses Olayları Yazım Kurallarını işlemiştik. Sıradaki konumuz ise Noktalama İşaretleri olacaktır.\n
+   Noktalama İşaretleri\n
+   İki Nokta (:)\n
+   İki noktanın kullanıldığı yerler şunlardır. \n
+   1. Kendisinden sonra örnek verilecek cümlenin sonuna konur. \n
+   Herkes olay anında oradaydı: komşular, esnaf, arkadaşlar…\n
+   2. Kendisinden sonra açıklama yapılacak ise cümlenin sonuna konur. \n
+   Herkes aynı kararı almıştı: Artık onunla konuşmayacaklardı. \n
+   3. Bir kişinin sözü tırnak içinde belirtilmişse o sözden önce konur. \n
+   Atatürk: “Yurta sulh, cihanda sulh” \n
+   Mevlana: “Ne olursan ol yine gel” \n
+   Noktalı Virgül (;)\n
+   1. Cümle içinde virgülle ayrılmış takım ya da türleri birbirinde ayırmak için kullanılır. \n
+   Manavdan incir, üzüm, karpuz; patlıcan, patates, marul aldı. \n
+   2. Ögelerinin arasında virgül bulunan sıralı cümleleri ayırmak için konur. \n
+   At ölür, meydan kalır; yiğit ölür, şan kalır. \n
+   3. Çünkü, fakat, lakin, ama, yalnız, ancak gibi bağlaçlardan önce konur. \n
+   Öğrenci takibi önemlidir; çünkü çevredeki olumsuz unsurlar kötü yönde etkiler bırakabilir. \n
+   4. Diğer  ögelerle öznenin karışmaması için özneden sonra konur. \n
+   Ali; Irmak, Çağla, Mehmet, Elif ve İrem’den daha çalışkan bir öğrenciydi. \n
+   Virgül (,)\n
+   1. Birbiri ardına sıralanan eş görevli sözcükler ve sözcük grupları arasına konur. \n
+   Sıcaktan, nemden, susuzluktan yürüyemez hale gelmişti. \n
+   2. Sıralı cümlelerin ayrılmasında kullanılır. \n
+   Elbiselerini aldı, güzelce ütüledi, dolabına kaldırdı. \n
+   3. Cümle içinde ara söz ve ara cümleleri ayırmak için kullanılır. \n
+   Bu konuyu, sizinde tahmin ettiğiniz gibi, yeni tamamlamıştım. \n
+   4. Tırnak içine alınmamış aktarma cümlelerinden sonra konur. \n
+   Bu gece yoğun kar yağışı olacak, dedi. \n
+   5. Anlam karışıklığının önüne geçmek için cümledeki özneden sonra konur. \n
+   Başkan, yardımcısına seslendi. \n
+   6. Hitap için kullanılan kelimelerden sonra konur. \n
+   Sevgili Eşim, \n
+   Kıymetli Arkadaşım, \n
+   Sayın Ali Bey, \n
+   7. Cümlede yüklemden uzak düşmüş özneden sonra konur. \n
+   Gece bekçisi, gecenin karanlığında birer fener gibi parlayan ışıkları mutlulukla seyrediyordu. \n
+   Üç nokta (…)\n
+   Noktalama İşaretleri içinde işlediğimiz üç nokta, tamamlanmamış cümlelerin sonuna konur. \n
+   Sana öyle hasretim ki…\n
+   Örneklerin devam edeceği anlamında örneklerin sonuna konur. \n
+   Pikniğe herkes geç kalmıştı: Ayşe, Pınar, Emir…\n
+   Nokta (.)\n
+   Bazı kısaltmaların sonuna gelir. \n
+   Prof. , Dr. , Mah. gibi\n
+   Sayılardan sonra sıra bildirmek için kullanılır. \n
+   3. , 128. , XIV. gibi\n
+   Tarihlerde gün, ay, yıl arasına, saatlerde saat ve dakikanın arasına gelir. \n
+   14.09.2015\n
+   20.30’da geldi. \n
+   Soru İşareti (?)\n
+   Soru bildiren cümlelerin sonlarına gelir. \n
+   Adınız neydi? \n
+   Yalnız  mı geldin, ne getirdin? \n
+   Kesin olmayan, şüpheli olan veya bilinmeyen yer, tarih için parantez içinde kullanılır. \n
+   Yunus Emre (1240?-?) yılında ölmüş. \n
+   Ünlem İşareti (!)\n
+   Herhangi bir duygu belirten sözcüklerin veya cümlelerin sonuna gelir. \n
+   Eyvah, yangın çıkacak! \n
+   Yaşasın! \n
+   Seslenme, hitap ve uyarı sözlerinde sonra konur. \n
+   Ey Türk Gençliği! \n
+   Alay, küçümseme, kinaye anlamı kazandırmak için bazı cümlelerin içinde parantez içinde kullanılır. \n
+   Bizim süper bekçimiz(!) yine harika bir iş(!) çıkarmış. \n
+   Tırnak İşareti (” “)\n
+   Başka bir kişiye ait aktarma cümleleri belirtmek için kullanılır. \n
+   “Damlaya damlaya göl olur.” dedi. \n
+   Cümle içinde özellikle belirtilmek istenen kelimelerde kullanılır. \n
+   Yeni bir “barış umudu” doğdu. \n
+   Eser isimleri tırnak içine alınabilir. \n
+   Reşat Nuri Güntekin’in “Çalıkuşu” kitabını aldım. \n
+   Parantez (Yay Ayraç) ( ( ) ) \n
+   Noktalama İşaretleri içinde işleyeceğimiz son başlık parantezdir. Cümlenin yapısı ile ilgili olamayan açıklamalar parantez içinde belirtilir. \n
+   Öğrencileri puan türlerine göre (sayısal- sözel) iki gruba ayırdılar. \n
+   Bir sözcüğün eş anlamlısını belirtmek için kullanılır. \n
+   Derste zamir( adıl) konusunu işlendi. \n
+   Kpss genel yetenek türkçe dersi Noktalama İşaretleri konusunu tamamladık. Bir sonrakitürkçe dersi konumuz ise Sözcüğün Yapısı olacaktır. \n
+   </string>
+   <string name="turkce_sozcugun_yapisi">
+   Sözcüğün Yapısı konumuzda basit sözcükler, türemiş sözcükler, birleşik sözcükler başlıklarını inceleyeceğiz. Önceki konumuzda Noktalama İşaretlerini işlemiştik. Sıradaki kpss türkçe dersi konumuz ise Sözcüğün Yapısı olacaktır.\n
+   Sözcüğün Yapısı\n
+   Önce dil bilgisi konusuna değinmek gerekirse; \n
+   Kök: Bir sözcüğün; ek almadan, anlamlı, en küçük birimine kök denir. Kökler türleri bakımından ikiye ayrılır. \n
+   1. İsim Kökleri: Sonuna -mek, -mak (mastar eki) gelemeyen köklerdir.
+   ev, araba, çiçek, böcek, ağaç gibi…\n
+   2.Fiil Kökleri: Sonuna -mek, -mak gelen köklerdir.
+   oku-, yaz-, kalk-, yap- gibi…\n
+   Ek ise kökten sonra gelen ve kök ile anlamca bağ kuran parçadır. Bir sözcüğün kökü ile ek aldıktan sonraki hali arasında mutlaka anlamca bir bağ bulunması gerekir. \n
+   bil- gi = kökü bil olabilir çünkü bil ve bilgi arasında anlamca bir bağ vardır. \n
+   Dilimizde ekler iki gruba ayrılarak incelenir. \n
+   1. Yapım ekleri: Sözcüğün yapısı, anlamı ve bazen de türünü değiştiren eklere yapım eki denir. \n
+   gör- gü      bil- im      su- la\n
+   yaz-ar        gez-i         göz- cü\n
+   2.Çekim ekleri: Eklendikleri sözcüğün anlamını, yapısını ve türünü değiştirmeyen sadece görevini belirleyen eklere çekim ekleri denir. \n
+   a. Ad durum ekleri: \n
+   -i eki (belirtme) → ev-i\n
+   -e eki (yönelme)→ ev-e\n
+   -de eki ( bulunma) → ev-de\n
+   -den eki (ayrılma) → ev-den\n
+   b. Tamlama ekleri: -in eki (tamlayan), -i eki (tamlanan) \n
+   ev-in iç-i , kapı-nın kol-u\n
+   c. İyelik ekleri: \n
+   Bir varlığın neye, kime ait olduğunu belirten eklerdir. \n
+   ev-i-m → benim\n
+   ev-i-n→ senin\n
+   ev-i-miz → bizim\n
+   ev-i-niz→ sizin\n
+   ev-leri→ onların\n
+   d. Çoğul eki: \n
+   ev-ler, ağaç-lar\n
+   e. Kişi ekleri\n
+   çık-tı-m → ben         çıktı-nız→siz\n
+   çık-tı-n→sen             çık-tı → o\n
+   çık-tı-k → biz            çık-tı-lar→ onlar\n
+   g. İlgi zamiri (-ki) \n
+   senin-ki\n
+   benim-ki\n
+   bizim-ki\n
+   Sözcüğün Yapısı\n
+   Dilimizde sözcükler yapı bakımından üçe ayrılmaktadır. \n
+   1. Basit sözcükler: Yapım eki almayan sadece çekim eki alabilen sözcüklerdir. \n
+   gözler, köy, evim…\n
+   2. Türemiş sözcükler: Yapım eki almış sözcüklerdir. \n
+   göz-lük, ver-gi, balık-çı, bil-gi…\n
+   3. Birleşik sözcükler: birden çok sözcüğün anlam veya yapı açısından kaynaşması ile oluşan sözcüklerdir. \n
+   affetmek, bilgisayar, pazartesi, kahvaltı, hanımeli, terk etmek…\n
+   Kpss genel yetenek türkçe dersi Sözcüğün Yapısı konusunu tamamladık. Bir sonrakitürkçe dersi konumuz Sözcük Türleri olacaktır. \n
+   </string>
+
+   <!-- MATEMATİK İÇERİK -->
+
+   <string name="mat_temel_bilgiler1_title">Temel Bilgi ve İşlem Yeteneği</string>
+   <string name="mat_temel_bilgiler2_title">Kpss Matematik Temel Bilgiler</string>
+   <string name="mat_tam_sayilar_title">Tam Sayılar ve Sayı Çeşitleri</string>
+   <string name="mat_asal_sayilar_title">Asal Sayılar</string>
+   <string name="mat_ardisik_sayilar_title">Ardışık Sayılar ve Aritmetik Dizi Toplamı</string>
+   <string name="mat_faktoriyel_title">Faktöriyel</string>
+   <string name="mat_sayi_sistemleri_title">Sayı Sistemleri – Basamak Değeri</string>
+   <string name="mat_taban_aritmetigi_title">Taban Aritmetiği</string>
+   <string name="mat_bolme_islemi_title">Bölme İşlemi – Bölen Kalan İlişkisi</string>
+   <string name="mat_bolunebilme_kurallari_title">Bölünebilme Kuralları</string>
+   <string name="mat_asal_carpanlar_title">Asal Çarpanlara Ayırma</string>
+   <string name="mat_obeb_okek_title">OBEB – OKEK</string>
+   <string name="mat_rasyonel_sayilar_title">Rasyonel Sayılar</string>
+   <string name="mat_rasynel_sayilarda_dortislem_title"> Rasyonel Sayılarda Dört İşlem</string>
+   <string name="mat_ondalik_sayilar_title">Ondalıklı Sayılar</string>
+   <string name="mat_rasyonel_sayilarda_siralama_title">Rasyonel Sayılarda Sıralama</string>
+   <string name="mat_basit_esitsizlikler_title">Basit Eşitsizlikler</string>
+   <string name="mat_mutlak_deger_title">Mutlak Değer</string>
+   <string name="mat_uslu_sayilar_title">Üslü Sayılar</string>
+   <string name="mat_temel_bilgiler1">
+      Temel bilgi ve işlem yeteneği konusunun birinci bölümünü oluşturan sayı kümeleri ve tam sayılarda dört işlem konularını her beraber işleyelim.\n
+      SAYI KÜMELERİ\n
+      1) Rakam: (0,1,2,3,4,5,6,7,8,9) şeklinde sayıları ifade etmek için kullanılan sembollere rakam denir. \n
+      2) Sayı: (3, ,199, -5,) şeklinde rakam veya rakamlarla bir araya gelen dizilimlere sayı denir. \n
+      3) Doğal Sayılar (N): (0,1,2,3,4,5,6,7…….) şeklinde sonsuza kadar giden 0 ve pozitif sayılara doğal sayı denir. \n
+      4) Sayma Sayıları (S): (1,2,3,4,5,6,7……..) şeklinde sonsuza kadar giden pozitif doğal sayılardır. İçinde 0 yoktur , bu da doğal sayılardan tek farkıdır. \n
+      5) Tam Sayılar (Z): (……-5,-4,-3,-2,-1,0,1,2,3,4,5…) şeklinde gösterilen sayı kümelerine tam sayı denir. \n
+      (……-5,-4,-3,-2,-1) şeklinde – sonsuzdan başlayıp -1’e kadar olan bölüme negatif tam sayılar denir. \n
+      (1,2,3,4,5…) şeklinde 1’den başlayıp + sonsuza kadar giden bölüme de pozitif tam sayılar denir. \n
+      TAM SAYILARDA DÖRT İŞLEM\n
+      1) Toplama İşlemi: Pozitif  (+) sayıların toplamında sayılar normal bir şekilde toplanır ve sonuca yazılır. Negatif (-) sayıların toplamında da sayıların hepsi negatif ise , sayılar yine aynı şekilde toplanır sonucun başına (-) yazılır. Zıt işaretli sayılarda da toplamı büyük olanın işareti yazılır. Zıt işaretli sayılarda önce pozitif ve negatif sayıları ayrı ayrı toplayıp daha sonra aralarında tek işlem yapmak daha kolay olacaktır. \n
+      Örnek: 9+16+4 = 29\n
+      -9-22-5-3=-39\n
+      (-8)+6+(-14)+9+(-11)= 15-33= -18\n
+      2) Çıkarma İşlemi: Bilindiği üzere büyük sayıdan küçük sayı çıkartılırsa sonuç pozitif , küçük sayıdan büyük sayı çıkartıldığında sonuç negatif olmaktadır. Negatif sayıların birbirinden çıkarılma işleminde en çok dikkat etmemiz gerekn işaretlerin birbirleriyle çarpımı olacaktır. \n
+      Örnek: (-20)-(-3)+(-5)-(-9) = -13\n
+      3) Çarpma ve Bölme İşlemi: Öncelikle unutmamamız gereken şey aynı işaretli iki sayının çarpımı ve bölümünde sonuç pozitif; ters işaretli iki sayının çarpımı ve bölümünde ise sonuç negatif olacaktır. \n
+      
+      Bir sonraki konuda temel bilgi ve işlem yeteneği alanının diğer konuları ele alınacaktır. \n
+
+    </string>
+   <string name="mat_temel_bilgiler2">
+      Kpss Matematikte temel bilgiler konusunda Kpss sınavında kullanabileceğimiz temel matematik yöntemleri işlenecektir.\n
+      1) Eşitlikte Bir Taraftan Diğerine Geçirme:Burada dikkat etmemiz gereken diğer tarafa geçen ifadenin işaretinin değişmesidir. \n
+      x+y=z => x= z-y olacaktır. \n
+       Burada y karşı tarafa (-) olarak geçmiştir. \n
+      2) Denklem Çözme: Denklem çözdüğümüzde bulacağımız terim yalnız bırakılır. Yalnız bırakılan terimin yanındaki ifadeler eşitliğin diğer tarafına geçecektir. \n
+      Örnek: 5y+4= 29 ise y kaçtır? \n
+      y’yi bulmak için öncelikle yanındaki 4 karşıya geçirilir, daha sonra y’ye ulaşmak için eşitliğin her iki tarafı, y’nin katsayısı olan 5’e bölünür. \n
+          ise ; \n
+       \n
+      3) Çarpmanın Toplama ve Çıkarma Üzerinde Dağılması: Parantezin dışındaki terimin parantez içindeki terimlerle tek tek çarpılması olayıdır. Kpss matematik sorularında sık kullandığımız bir yöntemdir. \n
+      Bunun gerçekleşebilmesi için parantez içi ve parantez dışı ifadelerin öncelikle çarpım halinde olması gerekmetedir. \n
+      Örnek: 4(2a+3b) = 4.2a+4.3b= 8a+12b\n
+      4) Sadeleştirme: En az iki terim arasında ortak çarpan bulunarak sadeleştirme, bir diğer işlem adıyla bölme yapılır. \n
+      5) Ortak Çarpan Parantezine Alma: Kpss Matematik konularının içinde en çok işlem yaptığımız temel işlemlerden biri de ortak çarpan parantezine almaktır. Herhangi bir ifadeyi ortak çarpan parantezine almak için her terimi oluşturan ortak çarpanlar bulunur ve çarpan parantezine alınır. \n
+        ifadesinde 20, 12 ve 4 sayılarının ortak çarpanı 4’tür. Dolayısıyla bu ifadeyi 4 ortak çarpan parantezine alabiliriz: \n
+      Görüldüğü üzere bir ifadeyi ortak çarpan parantezine almak demek, o ifadenin içindeki terimleri tek tek ortak çarpana bölmeyi gerektirmektedir. \n
+      6) İçler Dışlar Çarpımı: Ortak paydalı bir kesirden ve aralarında da bir eşitlikten bahsediliyorsa içler dışlar çarpımı yapılabilir. Bunu yapmadaki amacımız kesirli ifadeden kurtulmaktır ve kpss matematik sorularında yine sıkça kullandığımız bir metoddur. \n
+       \n
+      
+      
+      7) Oran Kavramı: Bölme olarak da tanımlanan oran işlemi    şeklinde gösterilir ve x’in y’ye oranı şeklinde tanımlanır. \n
+      8) Taraf tarafa toplama: x=y ve a=b şeklinde iki ifade varsa eşitliğin her iki yanındaki terimler alt alta getirilecek şekilde toplanabilir. \n
+      9) Yok Etme Metodu: Aslında taraf tarafa toplama ile ilgili olan yok etme metodunun uygulanabilmesi için en az iki bilinmeyenli iki denklem olması gerekmektedir. İstenilen bilinmeyen yok edilmeye çalışılır. Bunun yapılabilmesi için de yok edilmesi istenilen bilinmeyenin katsayıları aynı ancak işaretleri ters yapılmalıdır. \n
+      Örnek: 2a+3b=12 iken, a+b=6 ise a’yı yok etmek için ikinci denklem -2 ile çarpılır. \n
+       b=0 bulunduğuna göre denklemlerin herhangi birinin yerine bu değer konulur;  a+0=6 => a=6 değerine ulaşılır. \n
+      10) Birini Diğeri Cinsinden Yazma: a’nın b cinsinden değeri sorulursa a yalnız bırakılır
+       \n
+
+    </string>
+   <string name="mat_tam_sayilar">
+      Tam sayılar konusuna matematik dersinin ilk konusu olan temel bilgi ve işlem yeteneği konusunda değinmiştik. Bu bölümde de tam sayılar ile ilgili olan sayı çeşitlerinden çift tam sayı, tek tam sayı, pozitif ve negatif tam sayılarla ilgili işlem konularına değinilecektir.\n
+      1) Çift Tam Sayılar: 2 ile bölünen tam sayılara çift tam sayı denmektedir. Genellikle 2n ile gösterilen çift tam sayıların birler basamağında 0, 2, 4, 6, 8 rakamlarından kesinlikle biri bulunmaktadır. \n
+      0, 68, -142, 94 gibi sayılar çift tam sayıdır. \n
+      2) Tek Tam Sayılar: 2 ile tam olarak bölünemeyen sayılara tek tam sayı denmektedir. Genellikle 2n+1 ile gösterilen tek tam sayıların birler basamağında 1, 3, 5, 7, 9 rakamlarından kesinlikle biri bulunmaktadır. \n
+      13, 29, -139, 57 gibi sayılar tek tam sayıdır. \n
+      * Tek ve Çift Tam Sayıların İşlem Özellikleri: Kpss matematik sorularında tek ve çift tam sayı üzerinde yapılan işlemler oldukça fazladır. Şimdi bu işlemleri inceleyelim. \n
+      a) Toplama ve Çıkarma Özelliği: Tek ve çift tam sayıların toplama ve çıkarma özelliği aşağıda verilmiştir. \n
+      T+T=Ç           T-T=Ç\n
+      T+Ç=T           T-Ç=T\n
+      Ç+T=T           Ç-T=T\n
+      Ç+Ç=Ç          Ç-Ç=Ç\n
+      Buradaki toplama çıkarma özelliklerine dikkatle bakarsak, çift ve tek sayıların birbirleriyle olan işlemlerinde sonuç tek tam sayı, çift ve tek sayıların kendi aralarındaki işlemlerde de sonuçlar çift tam sayı olarak çıkmaktadır. \n
+      b) Çarpma Özelliği: Tek ve çift tam sayılarda çarpma özellikleri aşağıda verilmiştir. \n
+      Ç.Ç=Ç\n
+      Ç.T=Ç\n
+      T.T=T\n
+      Burada da dikkat edersek sadece tek sayı ile tek sayının çarpım sonucu tek olmaktadır. \n
+      Kpss sorularında dikkat etmemiz gereken bir diğer nokta da tek ve çift tam sayı çarpımlarında bir çarpımın sonucu tek ise, çarpılan sayıların hepsi tek sayı olmak zorundadır. \n
+      c) Kuvvet Alma Özelliği: \n
+      Kpss genel yetenek matematik sorularında tem tam sayıların bütün doğal sayı kuvvetleri tek tam sayıdır. \n
+         gibi sayılar tek tam sayı olmaktadır. \n
+      Çift tam sayıların bütün pozitif doğal sayı kuvvetleri ise çift tam sayıdır. \n
+        gibi sayılar çift tam sayı olmaktadır. \n
+      Tek veya çift olsun tüm tam sayıların kuvvetinde 0 varsa sonuç 1’dir yani tek tam sayıdır. \n
+      3) Pozitif ve Negatif Tam Sayı İşlemleri: Matematik sorularında negatif tam sayılar x, pozitif tam sayılar da genelde x>0 şeklinde gösterilmektedir. Şimdi bu konuyla ilgili diğer özelliklere de göz atalım: \n
+      •	İki pozitif tam sayının toplamı pozitiftir. \n
+      x>0, y>0 ise x+y>0 olur. \n
+      •	İki negatif tam sayının toplamı negatiftir. \n
+      x, y ise +y olur. \n
+      •	Zıt işaretli sayıların toplamında ise sonuç mutlak değerce en büyük olanın işaretine denk gelmektedir. Yani kesin bir ifade kullanamayız. \n
+      8-3=5 pozitif , -8+3=-5 negatif olur. Dolayısıyla sonuç mutlak değerce büyük olanın işaretini almaktadır. \n
+      •	Zıt işaretli iki sayının çarpımı ve bölümü negatif, aynı işaretli iki sayının çarpımı ve bölümü ise pozitiftir. \n
+      + . + = +           + : + = +\n
+      + . – = –             + : – = –\n
+      – . – = +             – : – = +\n
+      •	Pozitif sayının bütün kuvvetleri pozitiftir. Dolayısıyla kuvvetin tek ya da çift olması sonucu değiştirmez. \n
+      x>0 ise   ve   olmaktadır. \n
+      •	Negatif sayıların ise çift kuvvetleri pozitif olurken, tek kuvvetleri negatif olmaktadır. \n
+      y ise   ve   olmaktadır. \n
+      •	Çift kuvvetli sayılarda tabandaki sayının pozitif ya da negatif olması bir şeyi değiştirmez, sonuç daima pozitif olarak çıkar. \n
+      xise  \n
+      x>0 ise  \n
+      Bir sonraki matematik dersinde asal sayılar ve ardışık sayılar konuları incelenecektir. \n
+    </string>
+    <string name="mat_asal_sayilar">
+      Asal sayılar konusu kpss matematik dersinin sayı çeşitleri içinde yer almaktadır. Asal sayılar bazen tek başına kpss sorusu olarak geldiği gibi bazen de problemler içinde ya da başka matematik soruları içinde gelmektedir. Bu yüzden bu konuyu iyi anlamalıyız.\n
+      Asal Sayılar\n
+      Asal sayılar , 1’den büyük olacak şekilde, 1 ve kendisinden başka pozitif tam sayı böleni olmayan tam sayılardır. Asal sayılar 2, 3, 5, 7, 11, 13, 17, 19 gibi sadece 1’e ve kendisine tam olarak bölünebilen tam sayılardan oluşur. \n
+      1 asal sayı değildir. \n
+      Asal sayıların en küçük ve çift olan sayısı 2’dir. \n
+      Negatif tam sayılar asal sayılar içinde yer almaz, çünkü asallar 2’den başlamaktadır. \n
+      Yukarıda belirtilen kuralları kpss soruları açısından dikkate almalıyız. Asal sayıların içinde yer alan bu püf noktaları gerek deneme sorularında gerek kpss sorularında sıkça karşımıza çıkmaktadır. \n
+      Asal sayıların çarpanları, 1 ve asal sayının kendisidir. (19 = 19.1) \n
+      Aralarında Asal Sayılar\n
+      Kpss sorularında karşımıza 1’den başka pozitif olarak tam sayı böleni olmayan en az iki tam sayıya aralarında asal sayı denir. \n
+      5 ile 7 aralarında asaldır. \n
+      9 ile 16 aralarında asaldır. \n
+      Dikkat edileceği üzere herhangi iki ya da daha fazla sayının aralarında asal olması için sayıların kendisinin de asal olması gerekmez. 9 ve 16 sayılarının kendileri asal değildir. Ancak aralarında asal sayılardır. \n
+      8, 9 ve 11 aralarında asaldır. \n
+      8, 10 ve 13 sayıları aralarında asaldır. \n
+      Yine burada dikkat edilecek olursa 8 ve 10 aralarında asal değildir. Çünkü ikisi de 1’in dışında 2’ye bölünebilmektedir. Ancak yukarıdaki örnekte 3 sayı verilmiş ve bu 3 sayınında aynı anda ortak bir böleni olmadığı için 8, 10 ve 13 aralarında asaldır. \n
+      9, 21 ve 30 aralarında asal değildir. Bu üç sayı 1’in dışında 3’e bölünebilmektedir. Bu yüzden aralarında asal değillerdir. \n
+      1 sayısı her pozitif tam sayı ile aralarında asaldır. \n
+      Kpss genel yetenek matematik sorularında aralarında asal sayılar soruları bazen kesirli eşitlik olarak da karşımıza çıkmaktadır. \n
+      Herhangi bir kpss matematik sorusunda a ile b ve x ile y aralarında asal sayı olarak verilmişse ve    eşitliği de ek olarak verilmişse, buradan a=x ve b=y sonucunu çıkartabiliriz. \n
+      Kpss genel yetenek matematik dersine ait asal sayılar konusu tamamlanmıştır. Bir sonraki matematik konusu ardışık sayılar ve aritmetik dizi konusu olacaktır. \n
+    </string>
+    <string name="mat_ardisik_sayilar">
+      Ardışık Sayılar ve Artitmetik Dizi Toplamı kpss matematik dersinin bu bölümde anlatılacak konularıdır. Özellikle ardışık sayılar konusu kpss soruları içinde önemli bir yere sahiptir. Aritmetik dizi toplamı konusu da ardışık sayılarla bağıntılı bir konudur. Şimdi ilk konu olan ardışık sayılar konusunu işleyelim.\n
+      Ardışık Sayılar\n
+      Belli bir kurala göre art arda yazılan sayılara ardışık sayılar denilmektedir. Kpssmatematik konuları içinde ardışık sayılar ardışık tam, tek tam ve çift tam sayılar olarak işlenmektedir. \n
+      Kpss matematik ardışık sayılar konusunda genel olarak sayılar arasındaki farkların kaç olduğu bilinirse bu konu ile ilgili Kpss’de sorulan soruların cevaplanmasında yeterli olacaktır. \n
+      1) Ardışık Tam Sayılar: ……… -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5 ……… şeklinde art arda sıralanan sayılara ardışık tam sayılar denilmektedir. Bu sayılar arasındaki farklar 1’dir. \n
+      Ardışık tam sayıları formülize etmek istersek n, n+1, n+2, n+3, n+4 şeklinde sembollerle ifade edebiliriz. \n
+      2) Ardışık Çift Tam Sayılar: …….. -6, -4, -2, 0, 2, 4, 6 ……….. şeklinde art arda sıralanmış sayılara ardışık çift tam sayılar denilmektedir. Ardışık çift tam sayılar arasındaki farklar 2’dir. \n
+      Ardışık çift tam sayıları formülize etmek istersek n, n+2, n+4, n+6, n+8 şeklinde sembollerle ifade edebiliriz. \n
+      3) Ardışık Tek Tam Sayılar: ……… -7, -5, -3, -1, 1, 3, 5, 7 ……….. şeklinde art arda sıralanmış tek sayılara ardışık tem tam sayılar denilmektedir. Ardışık tek tam sayılar arasındaki farklar yine 2’dir. \n
+      Ardışık tek tam sayıları formülize etmek istersek n, n+2, n+4, n+6, n+8 şeklinde sembollerle ifade edebiliriz. \n
+      Burada gösterilen ”n” ifadeleri ardışık çift ve ardışık tek tam sayılarda hangisinde formülize ediliyorsa ona göre tek veya çift olarak seçilmelidir. Sembolize edilen bu formüller aynı gözükür ama farklı (tek ya da çift) rakamları ifade etmektedir. \n
+      Ardışık sayılar kpss genel yetenek matematik soruları içinde farklı şekillerde karşımıza gelmektedir. Ardışık sayılarla ilgili kpss soru örnekleri aşağıdaki gibidir. \n
+      •	3n+4 ve 4n-2 şeklinde ardışık tam sayı verilir ve n’in alabileceği değerler sorulur. \n
+      •	a b c şeklinde sıralama ve ardışık sayılar verilerek sorulan kpss soruları. \n
+      •	Ardışık x tane tam sayının toplamı şudur denilir ve bu sayıların en küçüğü ya da en büyüğü nedir diye sorulur. \n
+      Aritmetik Dizi Toplamı\n
+      Kpss matematik dersinde sayı çeşitlerinin bir diğer konusu olan aritmetik dizi toplamı, ardışık terimleri arasındaki farkı sabit olan sayı dizilerine aritmetik dizi denilmektedir. \n
+      Aritmetik terimler arasındaki farka ortak fark adı verilir. \n
+      Aritmetik diziler tek ve çift olacağı gibi, tek çift karışık sayılardan da oluşabilmektedir. \n
+      5, 10, 15, 20, 25, 30 ….. Ortak fark 5. \n
+      8, 16, 24, 32, 40, 48 ….. Ortak fark 8\n
+      7, 14, 21, 28, 35, 42 ….. Ortak fark 7\n
+      Kpss matematik sorularında aritmetik diziler terim sayısı ve terimler toplamı olarak karşımıza çıkmaktadır. \n
+      Terim Sayısı:  \n
+      Terimler Toplamı:  \n
+
+      Kpss genel yetenek matematik dersine ait sayı çeşitlerinden ardışık sayılar ve aritmetik dizi toplamı konuları tamamlanmıştır. Bir sonraki kpss matematik dersinin konusu Faktöriyel olacaktır. \n
+    </string>
+    <string name="mat_faktoriyel">
+Faktöriyel konusu kpss matematik sayı çeşitleri konusu içinde yer almaktadır. Önceki konularda sayı çeşitlerinden çift ve tek tam sayı işlemlerini, asal sayılar, aralarında asal sayılar , ardışık sayılar ve aritmetik dizi toplamını işlemiştik. Kpss matematik sayı çeşitleri konusuna şimdi de faktöryel ile devam edeceğiz.\n
+Faktöriyel\n
+Faktöriyel, 1’den başlayarak n’ye kadar olan pozitif tam sayıların çarpımına denilmektedir. Bu çarpıma n faktöriyel denir ve n! şeklinde gösterilir. Kpss matematik dersinde yer alan bazı faktöriyel açılımları şu şekildedir: \n
+0!=1\n
+1!=1\n
+2!=2.1=2\n
+3!=3.2.1=6\n
+4!=4.3.2.1=24\n
+5!=5.4.3.2.1=120\n
+6!=6.5.4.3.2.1=720\n
+Kpss sorularında genelde 6! ve üstü direkt olarak sorulmaz. Sorular 6! ve daha düşük faktöryellere indirgenebilen sorulardır. Bize yüksek rakamlı faktöryel verildiği zaman emin olun ki yapılan işlemlerden sonra nihai olarak hesaplayacağımız faktöryel sonucu 6! üstünün geçmemektedir. Bu yüzden soruları hızlı çözebilmemiz açısından ufak olan faktöriyelleri ezberlememiz yerinde olacaktır. \n
+Faktöriyel Özellikleri: \n
+•	Büyük faktöriyel kendisinden küçük olan herhangi bir faktöriyele indirgenebilir. \n
+5!=5.4.3! \n
+11!=11.10.9.8.7! \n
+•	Büyük faktöriyel, küçük faktöriyelin çarpanlarını içerisinde bulundurmaktadır. Bunun için küçük faktöriyeli tam bölen her sayı büyük faktöriyeli de kesinlikle tam böler. \n
+6! i tam bölen herhangi bir sayı 6 faktöryelden sonra gelen herhangi bir faktöryeli de tam bölecektir. Yani 7! de 8! de ya da sonrasında gelen tüm faktöriyeller 6’ya tam bölünecektir. Çünkü içlerinde 6 çarpanı bulunmaktadır. 6 çarpanı varsa o sayı 6’ya tam bölünebilir demektir. \n
+•	 5! ve sonrasında gelen faktöriyellerin son basamağında kesinlikler 0 bulunur. \n
+•	2! ve sonrasından gelen faktöriyellerin hepsi çift sayıdır. \n
+Faktöriyel Soru Tipleri: \n
+•	”Sondan kaç basamağı sıfırdır?” ya da ”Sondan kaç basamağı 9’dur?” gibi sorularda verilen faktöryel sayısı devamlı olarak 5’e bölünür. \n
+80! – 1 sayısının sondan kaç basamağı 9’dur? \n
+
+Burada 80’i devamlı olarak 5’e böldüğümüzde; \n
+16+3= 19 çıkar. Dolayısıyla 80! sayısının sondan 19 basamağı 9’dur. Eğer bize ”Sondan kaç basamağı 0’dır?” diye sorulsaydı cevap yine 19 olacaktı. Basit bir örnekle 1000 sayısının sondan 3 basamağı 0’dır. 1000-1 sonucu da 999’dur ve 999’un son üç basamağı 9’dur ki bu zaten sayının tamamıdır. Kısaca sondan kaç basamağı 0’dır ya da sondan kaç basamağı 9’dur (x!-1 olarak verildiğinde) sorularının çözüm yöntemi aynıdır. \n
+•	  işleminin sonucu kaçtır? \n
+Kpss genel yenetek matematik dersinde faktöryelin bu tip sorularında büyük faktöriyel soruda bulunan en küçük faktöriyele indirgenip ortak çarpan parantezine alınır. \n
+
+
+•	(6-n)! ifadesinde n’in alabileceği kaç farklı değer vardır? \n
+Faktöryel sayıları sadece doğal sayılardan oluşmaktadır. Dolayısıyla doğal sayılar kümesi dışında yer alan kavramlar faktöryel olamaz. Buradan n=0, 1, 2, 3, 4, 5, 6 değerlerini alabilir, yani n toplamda 7 değer alabilir. \n
+Kpss genel yetenek matematik dersine ait Faktöriyel konusu tamamlanmıştır. Bir sonraki kpss matematik konusu sayıs sitemlerinden Basamak Değeri olacaktır. \n
+    </string>
+    <string name="mat_sayi_sistemleri">
+Sayı sistemleri, kpss matematik dersine ait bir konudur. Verilen bir sayının çözümlenmesi olarak işlenen sayı sistemleri, sayı değer ve basamak değeri başlıklarını içermektedir. Şimdi kpss matematik dersinde sayı çeşitlerinden sonra gelen sayı sistemleri konusunu irdeleyelim.\n
+Sayı Sistemleri\n
+1) Sayı Değeri: Basitçe bir tanımla bir sayıyı oluşturan rakamlara o sayının sayı değeri denilmektedir. \n
+•	6327 sayısının sayı değerleri toplamı nedir? \n
+•	6+3+2+7=18\n
+2) Basamak Değeri: Kpss matematik konuları içinde yer alan basamak değeri, bir sayıyı oluşturan rakamların bulunduğu konuma o rakamın basamak değeri denilmektedir. \n
+2457 sayısını örnek verecek olursak. Buradaki 4, yüzler basamağında bulunduğu için 4’ün basamak değeri 4×100=400’dür. 5’in basamak değeri 5×10=50’dir. 2’nin basamak değeri de binler basamağında olduğundan 2×1000=2000 oalcaktır. \n
+Doğal sayılar içinde bütün rakamların basamak değerlerini yazıp toplarsak doğal sayıyı çözümlemiş oluruz. Bu bakımdan basamak değeri bize bir sayının çözümlenmesini gösterir. Kpss sorularında da bu alanda sorulan sorular sayı çözümleme tarzındadır.
+Sayı sistemleri içinde yer alan basamak değerleri abc tarzında sorularla da karşımıza çıkmaktadır. \n
+•	abc= 100a+10b+c şeklinde çözümlenmektedir. \n
+•	2a8b= 2000+100a+80+b şeklinde çözümlenir. \n
+•	ab+ba = 10a+b+10b+a\n
+= 11a+11b = 11(a+b) \n
+•	ab-ba = 10+b-(10b+a) \n
+= 10a+b-10b-a = 9a-9b\n
+= 9 (a-b) \n
+•	abc-cba = 100a+10b+c-(100c+10b+a) \n
+= 100a+10b+c-100c-10b-a = 99a-99c\n
+= 99(a-c) \n
+Şimdi kpss genel yetenek matematik sorularında çıkan basamak değeri ile ilgili birkaç soru örneği çözelim. \n
+•	abc ve cba üç basamaklı doğal sayılardır. \n
+abc-cba = 693 olduğuna göre a+b+c toplamının alabileceği en büyük değer kaçtır? \n
+abc-cba = 693\n
+100a+10b+c-(100c+10b+a) = 693\n
+100a+10b+c-100c-10b-a = 693 => 99a-99c = 693 olur. Buradan; \n
+99 (a-c) = 693 => a-c= 7 olur. \n
+a+b+c toplamının en büyük değeri için a=9, c=2 ve b=9 alınır. (Rakamları farklı demediği için aynı rakamları seçebiliriz.) \n
+a+b+c=9+9+2= 20\n
+•	İki basamaklı ab sayısı ile bu sayının rakamları yer değiştirilerek elde edilen iki basamaklı ba sayısının farkı 54 ise bu koşula uygun yazılabilecek ab sayılarının toplamı kaçtır? \n
+ab-ba= 54\n
+10a+b-(10b-a) = 54\n
+10a+b-10b-a= 54\n
+9 (a-b) =54 buradan a-b= 6 çıkar. Şimdi bu koşula uyan ab sayılarını bulalım; \n
+a=9 iken b=3 ; 93\n
+a=8 iken b=2 ; 82\n
+a=7 iken b=1 ; 71  => elde edilen tüm ab sayılarını toplarsak; \n
+93+82+71 = 246 sonucu çıkmaktadır. \n
+Konuyla ilgili Kpss’de bolca çıkmış soru bulabilirsiniz. Bu ve buna benzer soruları çözersek konuyu ve çıkabilecek kpss potansiyel sorularını daha rahat anlayabiliriz. Mutlaka bolca test çözülmeli ki bu konuyla ilgili diğer soru tiplerini de anlayalım. \n
+Kpss genel yetenek matematik dersine ait Sayı Sistemleri konusu tamamlanmıştır. Bir sonraki kpss matematik konusu Taban Aritmetiği olacaktır. \n
+    </string>
+    <string name="mat_taban_aritmetigi">
+Taban aritmetiği kpss matematik konuları içinde önemli bir yer teşkil etmektedir. Taban aritmetiği bir sayının hangi rakamlardan oluşacağını ve sayıyı yazarken kullandığımız sayma sistemini belirler. Normal matematik işlemlerinde kullandığımız rakamlar 10’luk sayma sisteminde kullandığımız rakamlardır. Diğer sayma sistemlerinde taban aritmetiği nasıl işliyor kontrol edelim.\n
+Taban Aritmetiği\n
+10’luk sayma sisteminde kullanılan rakamlar : 0,1,2,3,4,5,6,7,8,9\n
+6’lık sayma sisteminde kullanılan rakamlar: 0,1,2,3,4,5\n
+4’lük sayma sisteminde kullanılan rakamlar: 0,1,2,3\n
+Kpss matematik dersinde yer alan taban aritmetiğinde dikkat edecek olursak kullanılan rakamlar sayı tabanından daima küçüktür. Bu, taban aritmetiği için temel ayrıntıdır. \n
+Taban aritmetiğinde dikkat edilecek bir diğer nokta da   şeklindeki yazılan bir sayı sisteminde t>1, yani tabanın her zaman 1’den büyük olması gerektiğidir. Buradaki sayı sistemini oluşturan rakamlar da a, b ve c her zaman t’den küçük rakamlardır. \n
+•	5 tabanın yazılabilecek üç basamaklı rakamları farklı en büyük sayı kaçtır? \n
+  sayısı 5 tabanında rakamları farklı olarak yazılabilecek en büyük sayıdır. \n
+•	9 tabanında dört basamaklı rakamları farklı yazılabilecek en küçük sayı kaçtır? \n
+ \n
+* Herhangi Bir Tabandaki Sayının 10’luk Tabana Çevrilmesi (Çözümlenmesi): \n
+Kpss matematik taban aritmetiği sorularında bir sayı 10’luk tabana çevrilirken, çevrilecek olan sayı sisteminin taban rakamı (t) ele alınır. Buradaki t 1’ler basamağından başlayarak sırası ile baştaki basama kadar taban rakamının üstleri şeklinde çarpılır. Daha iyi anlayabilmek için aşağıdaki örnekleri inceleyelim. \n
+10’luk tabanda yazılan sayılar bizim normalde matematikte kullandığımız sayılardır. Bu sayıların taban rakamını 10 ile göstermeye gerek yoktur. Çünkü 10’luk tabanda yazıldığı bilinmektedir. \n
+4321 sayısını 10’luk tabana göre çözümlersek; \n
+
+Burada çarpılan sayıları toplarsak; \n
+1+20+300+4000= 4321 eder. İşten 10’luk tabandaki sayının çözümlenmesi bu şekildedir. Ancak, sayı zaten çözümlenmiş olarak yazılmış vaziyettedir. Bunu gösterme amacımız ise kpsssorularında taban rakamı farklı olduğunda çözümleme için bu yolu \n izlememizdir. \n
+•	  5 tabanında yazılmış bu sayıyı da aynı mantıkla 10’luk tabana çevirerek çözelim; \n
+ \n
+
+
+Buradan 5’lik tabanda yazılmış 4321 sayısının 10’luk tabanaca çevrilmiş hali 1+10+75+500= 586 olur. \n
+
+*  10’luk Tabandaki Bir Sayıyı Herhangi Bir Tabana Çevirme: \n
+10’luk tabanda verilen sayı hangi tabandaki sayıya çevrilecekse ona sürekli bölünür. Sonra en son bölümden başlayarak kalanlar alınır ve sayı bu şekilde oluşturulur. \n
+•	345 sayısını 6’lık tabana çevirelim: \n
+
+Görüleceği üzere 345 sayısını devamlı olarak böldüğümüzde kalanlar sondan başlayarak alınır ve 6 tabanındaki sayı yazılır. \n
+ \n
+* Taban Aritmetiğinde İşlemler: \n
+•	Toplama: Taban aritmetiğinde toplama işlemi yapılırken, rakamlar toplandığında bulunan sonuç tabana eşit ya da tabandan büyük ise sonuç taban bölünür. \n
+
+ilk basamak için; \n
+
+4+2=6/5=1 buradan, kalan 1 birler basamağına yazılır. \n
+
+ikinci basamak için; \n
+
+4+1+1=6 (En son 1 önceki bölmeden ”elde olan” 1’dir.) 6/5=1 buradan, kalan 1 onlar basamağına yazılır. \n
+
+üçüncü basamak için; \n
+
+4+3+1=8 (En son 1 önceki bölmeden ”elde olan” 1’dir.) 8/5=1 buradan, kalan 3 yüzler basamağına yazılır. Son olarak ”elde olan” en son 1 de binler basamağınayazılır ve sonuç elde edilir. 1311\n
+•	Çıkarma: Çıkarma işleminde de dikkat edilmesi gereken , sıfır çıkarma işleminde hangi tabanda ise onun ismi ile okunur. \n
+
+3’ten 5 çıkmaz solundan bir 6’lık alırız => 9-5=4 birler basamağınayazılır.
+0’dan 4 çıkmaz. sol tarafındaki 5’ten bir 6’lık alınır. 6’dan bir altı önceki işlemde almıştık kaldı 5. => 5-4=1 Onlar basamağına yazılır. \n
+5’ten bir 6’lık almıştık kaldı 4. => 4-2= 2 sonuç 214 olarak karşımıza çıkar. \n
+•	 Çarpma: Taban aritmetiğinde çarpma işlemi yapılırken toplama işlemi gibi ”kalan” ve ”elde” olanlardan faydalanılır. \n
+* Taban Aritmetiğinde Tek ve Çift Sayılar: \n
+•	Taban aritmetiğinde taban çift ise, sayının birler basamağına bakılır. Birler basamağı tek ise sayı tek, çift ise çift sayıdır. \n
+
+•	Taban aritmetiğinde tabank tek ise, sayının rakamları toplamına bakılır. Eğer toplam tek ise sayı tek, toplam çift ise sayı çifttir. \n
+Kpss genel yetenek matematik dersine ait Taban Aritmetiği konusu tamamlanmıştır. Bir sonraki kpss matematik konusu Bölünebilme Kuralları olacaktır. \n
+    </string>
+    <string name="mat_bolme_islemi">
+Bölme işlemi, doğal sayılarda bölme kuralı, bölen kalan ilişkisi ve bölünebilme kuralları kpss matematik konuları içinde yer almaktadır. Bu bölümde bölme işlemi içinde yer alan doğal sayılarda bölme kuralı ve bölen kalan ilişkisi konularını irdeleyeceğiz. Kpss sorularında temel matematik bölümünde çıkan bölme işlemi ile ilgili sorular hem bu konuyu hem de matematiğin temeli olduğu için diğer matematik konularını doğrudan etkilemektedir.\n
+Doğal Sayılarda Bölme İşlemi\n
+Kpss matematik konuları içindeki doğal sayılarda bölme işlemi şu şekilde aktarılmaktadır: \n
+
+A, B, C ve K birer doğal sayı olma üzere ve B 0’dan farklı olmak üzere; \n
+A: Bölünen B: Bölen C: Bölüm K: Kalan olarak adlandırılır. \n
+
+Kpss matematik konusu içinde yer alan doğal sayılarda bölme işlemi 3 önemli özelliği barındırır. \n
+•	A= B.C + K ‘dır. Bu önemli kuralı asla unutmayalım. Çünkü bu kural kpss bölme sorularında karşımıza en sık çıkan kuraldır. \n
+•	Bir bölme işleminde kalan bölenden daima küçük olmak zorundadır. Bölme işleminde kalan sıfır olabilir ki buna tam bölünebilme denir. Ancak kalan negatif olmaz. \n
+ \n
+•	Bölme işleminde kalan bölümden küçük ise bölen ile bölüm yer değiştirebilmektedir. \n
+Yani   ise B ile C yer değiştirse dahi kalan değişmez. \n
+Bölen Kalan İlişkisi\n
+Kpss genel yetenek matematik sorularında karşımıza 2 tane sayı verilir. Bu sayılar a=2568 ve b=1453 şeklinde iki sayı olabilir. Sayılar verildikten sonra bize ”Bu iki sayının çarpımının 9 ile bölümünden kalan nedir?” tarzında sorular sorulmaktadır. Böyle durumlarda önce bu iki sayıyı çarpıp sonra 9a bölmeye gerek yoktur. \n
+Burada sonucu bulmak için her iki sayının 9 ile bölümünden kalanlar ile de gerekli işlem yapılarak sonuca ulaşmamız mümkündür. Şöyle ki;
+a=2568/9 işleminde kalan 3\n
+b=1453/9 işleminde kalan 4\n
+buradan a.b=4.3 ile 12 sonucunu elde ederiz. 12/9 işlemini gerçekleştirdiğimizde de kalan 3 olarak karşımıza çıkar. \n
+Kısaca bize verilen çarpılacak olan sayıların kalanlarını birbirleriyle çarptığımızda da aynı sonuca ulaşmaktayız. \n
+Kpss genel yetenek matematik dersine ait Doğal Sayılarda Bölme İşlemi ve Bölen Kalan İlişkisi konuları tamamlanmıştır. Bu temel bilgilerden sonra bir sonraki kpss matematik konumuz Bölünebilme Kuralları olacaktır. \n
+    </string>
+    <string name="mat_bolunebilme_kurallari">
+Bölünebilme kuralları kpss matematik konuları içindedir. Bir önceki bölümde doğal sayılarda bölme işlemini ve bölen kalan ilişkisini işlemiştik. Bu bölümde de kpss soruları açısından önemli olan bölünebilme kuralları konusunu işleyeceğiz. Genel olarak bölünebilme kuralları 1,2,3,4,5,6,8,9,10 ve 11 ile bölünebilme olarak bilmemiz kpss soruları için yeterlidir.\n
+Bölünebilme Kuralları\n
+1 ile bölünebilme: Her sayı 1 ile tam bölünmektedir. \n
+2 ile blünebilme: Çift olan her sayı 2 ile tam bölünür. Bir sayının 2 ile bölümünden kalan 0 ya da 1’dir. \n
+106, 1024, 3338 gibi sayılar 2 ile tam bölünür. \n
+105, 1027, 3339 gibi sayıların 2 ile bölümünden kalan 1’dir. \n
+3 ile bölünebilme: Kpss matematik bölünebilme kuralları içindeki 3 ile bölünebilmede, rakamların sayı değerleri toplamı 3 veya 3’ün katı olan sayılar 3 ile tam bölünmektedir. Buradan bir sayının 3 ile bölümünden kalan, rakamları toplamının 3 ile bölümünden kalana eşittir mantığı ortaya çıkmaktadır. \n
+627 = 6+2+7=15 Burada 15, 3 ile tam bölünebilmektedir ve kalan 0’dır. Dolayısıyla 627 sayısı da 3 ile tam bölünmektedir. \n
+329= 3+2+9=14 Burada ise 14’ün 3’e bölümünden kalan 2’dir ve 329 sayısının da 3 ile bölümünden kalan 2’dir deriz. \n
+4 ile bölünebilme: Bir sayının son 2 basamağı 00 ya da 4’ün katı veya katları ise o sayı 4 ile tam bölünür. \n
+100, 9876 , 632, 1020 gibi sayıların son iki basamağı 4 ile tam bölünebildiği için bu sayılar da 4 ile tam bölünebilmektedir. \n
+5 ile bölünebilme: Son rakamı 0 veya 5 olan sayıların hepsi 5 ile tam bölünmektedir. \n
+95, 480, 2635 gibi sayıların son hanesi 0 ya da 5’ten oluştuğu için 5 ile tam bölünmektedir.v
+6 ile bölünebilme: Bir sayı hem 2’ye hem de 3’e aynı anda tam olarak bölünebiliyorsa bu sayı 6 ile tam bölünebilir. \n
+Buradaki mantık 6’nın çarpanlarıdır. Eğer 6’nın çarpanlarını oluşturan sayılara bölünebiliyorsa (2.3) 6’ya da bölünmektedir. \n
+18, 1026, 990 gibi sayılar aynı anda hem 2 hem de 3’e tam bölünebildiği için 6’ya tam bölünebilmektedir. \n
+8 ile bölünebilme: Bir sayının son üç rakamı 000 ya da 8’in katı ise bu sayı 8 ile tam bölünür. Bir sayının 8 ile bölümünden kalan, sayının son üç basamağının 8 ile bölümünden kalana eşittir. \n
+1000, 29000, 6048 gibi sayıların son 3 hanesi 000 ya da 8’e bölünebilir olduğundan bu sayılar da 8’e tam bölünür. \n
+9 ile bölünebilme: Sayının rakamları toplamı 9 ya da 9’un katları ise bu sayı 9 ile tam bölünür. 3 ile bölünebilme mantığıyla aynıdır. Bir sayının 9 ile tam bölümünden kalan, sayının rakamları toplamının 9 ile bölümünden kalana eşittir. \n
+2655=2+6+5+5=18 Burada 18, 9 ile tam bölündüğünden 2655 sayısı da 9’a tam bölünür. \n
+3620=3+6+2+0=12 Burada 12’nin 9 ile bölümünden kalan 3’tür. Dolayısıyla 3620 sayısının 9 ile bölümünden kalan da 3’tür. \n
+10 ile bölünebilme: Son rakamı 0 olan tüm sayılar 10 ile tam bölünür. Bir sayının 10 ile bölümünden kalan ise birler basamağındaki rakamdır. \n
+180,2030 gibi sayılar 10 ile tam bölünür. \n
+1923 sayısının 10 ile bölümünden kalanı son rakamı olduğu gibi 3’tür. \n
+11 ile bölünebilme: Sayının birler basamağından başlayarak her bir rakam sağdan sola sırasıyla ”+ – + – + -…”işaretleriyle işaretlenir. Daha sonra + işaretliler toplanır ve (-) işaretliler toplanır ve aralarındaki farka bakılır. Bu fark 0 ya da 11’in katı ise o sayı 11 ile tam bölünür. \n
+468534 =4+5+6-3-8-4= 11-11 = o olacağından 468534 sayısı 11 ile tam bölünür. \n
+539=9+5-3=11 olduğundan 439 sayısı 11 ile tam bölünür. \n
+Aralarında Asal Çarpanlara Ayırarak Bölünebilme Kuralları\n
+Kpss genel yetenek matematik konusunda bölünebilme kuralları içindeki diğer önemli konu da asal çarpanlara ayırarak oluşan bölünebilme kurallarıdır. Herhangi bir sayı, başka bir sayıya tam bölünüyorsa bunların aralarında asal çarpanlarına da ayrı ayrı tam bölünür. \n
+6 ile bölünebilme kuralında olduğu gibidir. \n
+12 ile bölünebilen bir sayı 3 ve 4 ile tam bölünür. (4.3=12) \n
+15 ile bölünebilen bir sayı 3 ve 5 ile tam bölünür. (5.3=15) \n
+30 ile bölünebilen bir sayı 3 ve 10 ile tam bölünür (10.3=30) \n
+45 ile bölünebilen bir sayı 5 ve 9 ile tam bölünür. (9.5=45) \n
+55 ile bölünebilen bir sayı 5 ve 11 ile tam bölünür. (11.5=55) \n
+Kpss genel yetenek matematik dersine ait Bölünebilme Kuralları konusu tamamlanmıştır. Bir sonraki kpss matematik konusu Asal Çarpanlara Ayırma olacaktır. \n
+    </string>
+    <string name="mat_asal_carpanlar">
+Asal Çarpanlara Ayırma konumuzda kpsssınavında çok sık soru gelmemektedir. Fakat değişen sistem ve yeni kpss düzenine göre soru gelebilme olasılığı yüksektir. Asal Çarpanlara Ayırma konusunun mantığını kavramak önemlidir. Önceki konumuzda Bölünebilme Kurallarını işlemiştik. Sıradaki konumuz ise Asal Çarpanlara Ayırma olacaktır.\n
+Asal Çarpanlara Ayırma\n
+Bir doğal sayının asal çarpanlarını bulabilmek için bu doğal sayıyı bölünebildiği en küçük doğal sayıdan başlayarak sırasıyla asal sayılara bölmemiz gerekir. Yani Asal Çarpanlara Ayırma işlemini uygulamamız gerekir. Bulduğumuz bölümler çarpımı sayının asal çarpanlara ayrılmış şeklidir. \n
+Örneğin; 36 sayısı asal çarpanlara şu şekilde ayrılır. \n
+36=22.3236=22.32 \n
+36’nın içerisinde 2 tane 2 çarpanı, 2 tane 3 çarpanı vardır. yani 36’nın asal çarpanları 2 ve 3 ‘ tür. \n
+
+Asal Çarpanlara Ayırma ilgili 8 farklı soru tipi gelebilir. \n
+
+1. Sayının Pozitif Bölenlerinin Sayısı (P.B.S) \n
+Pozitif tam bölenlerinin sayısını bulmak için verilen sayının kaç tane tam sayı bölenin olduğuna bakmalıyız. \n
+Örneğin 12 sayısını tam olarak bölen pozitif tam sayılar,  1,2,3,4,6 ve 12 olmak üzere 6 tanedir. Eğer biz bunu bağıntı yardımı ile bulmak istersek önce 12 sayısını asal çarpanlara ayırırız. \n
+12=22.312=22.3 şimdi asal çarpanların kuvvetlerini 1 arttırıp çarpalım. \n
+
+12=22.312=22.3\n
+(2+1).(1+1)=3.2=6 tanedir. \n
+A=ax.by.czA=ax.by.cz ise\n
+P.B.S=(x+1)(y+1)(z+1) dir. \n
+Bir sayının kaç tane pozitif tam bölen sayısı varsa o kadar negatif bölen sayısı vardır. Örneğimizdeki gibi 12 sayısının 6 tane pozitif tam sayı böleni varsa 6 tane de negatif tam böleni vardır. \n
+Pozitif tam böleni demek doğal tam sayı böleni doğal sayı böleni demektir. \n
+2. Bir Sayının Tam Bölenlerinin Sayısı (T.B.S) \n
+Bir sayının pozitif ve negatif bölenleri sayısı aynı olduğu için pozitif bölen sayısını 2 ile çarparsak tam bölen sayısını bulmuş oluruz. \n
+T.B.S=2.(P.B.S) \n
+Örnek: 120 sayısının tam bölen sayısı kaçtır? \n
+120=23.31.51120=23.31.51\n
+P.B.S=(3+1)(1+1)(1+1)= 4.2.2 = 16\n
+T.B.S=2(P.B.S)= 2.16= 32 tanedir. \n
+3. Bir Sayının Asal Bölen Sayısı\n
+Asal bölen sayısını bulmak için sayıyı asal çarpanlarına ayırıp tabanları işaretlememiz yeterlidir. \n
+Örnek: 120 sayısının kaç tane asal böleni vardır? \n
+120=23.31.51120=23.31.51\n
+60′ ın asal çarpanları 2,3 ve 5′ tir. (3 tane) \n
+4. Bir Sayının Tam Bölenleri Toplamı\n
+Bir sayının tam bölenlerinin toplamı daima sıfırdır. \n
+Örnek: 10 sayısını tam bölenlerinin toplamı kaçtır? \n
+1+2+5+10+(-1)+(-2)+(-5)+(-10)=0\n
+Kpss genel yetenek matematik dersine ait Asal Çarpanlara Ayırma konusu tamamlanmıştır. Bir sonraki kpss genel yetenek matematik konumuz OBEB-OKEK olacaktır. \n
+    </string>
+    <string name="mat_obeb_okek">
+OBEB – OKEK konumuz kpss matematik dersinde en sık ve neredeyse her yıl soru gelen bir konudur. OBEB – OKEK olarak kısaltılan bu konular Ortak Katların En Büyüğü ve Ortak Katların En Küçüğü anlamındadır.  Önceki konumuzda Asal Çarpanlara Ayırmayı hep birlikte incelemiştik. Sıradaki konumuz ise OBEB – OKEKkonusu olacak.\n
+OBEB – OKEK\n
+a. OBEB\n
+Aynı anda iki veya daha fazla tam sayıyı bölen pozitif bölen sayıların en büyüğüne bu sayıların Ortak Bölenlerinin En Büyüğü (OBEB) denir. İki yolla bulunabilir. \n
+1. Yol\n
+Verilen sayılar birlikte asal çarpanlarına ayrılır. Bu iki sayıyı aynı anda bölebilen sayılar işaretlenir. Ve işaretlenen bu sayılar çarpılır. \n
+24, 36, 54 sayılarının OBEB ini bulalım. \n
+
+
+OBEB (24,36,57)=2.3=6\n
+
+
+
+2. Yol \n
+Verilen sayılar asal çarpanlara ayrılır ve ortak asal çarpanlardan üslerinin en küçük olanları alınır ve çarpılır. \n
+24=8.3= 23.3123.31 (2 ve 3 asal) \n
+36=4.9= 22.3222.32 (2 ve 3 asal) \n
+54=2.27= 21.3321.33 (2 ve 3 asal) \n
+Tabanları aynı olanlardan üssü en küçük olanların çarpımı; \n
+OBEB(24, 36, 54) = 2.3 = 6 dır. \n
+B. OKEK\n
+İki yada daha fazla tam sayının ortak katlarının en küçüğüne OKEK denir. OKEK iki yolla bulunabilir. \n
+1.Yol\n
+Verilen sayılar beraber asal çarpanlara ayrılır ve bu sayıları bölen asal çarpanlar birbirleriyle çarpılır. \n
+Örneğin 36 ve 48 sayılarının OKEK ini bulalım. \n
+
+
+
+OKEK (36, 48)=24.32=24.32\n
+=16.9=144\n
+
+
+2.Yol\n
+Sayılar asal çarpanlarına ayrılır. Ve ortak asal çarpan sayılardan üslerinin en büyükleri ile ortak olmaya asal çarpan çarpılır. \n
+Örneğin; 24 ile 60 ın OKEK ini bulalım. \n
+24=23.324=23.3\n
+60=22.3.560=22.3.5\n
+OKEK(24,60)=23.3.5=120OKEK(24,60)=23.3.5=120\n
+OBEB bölen sayıyı ( genellikle küçük sayıyı),  OKEK ise bölünen sayıyı (genellikle büyük sayıyı) temsil eder. OBEB i ve OKEK i alınacak sayılar eşit ise OBEB ve OKEK o sayıya eşittir. \n
+OBEB (a,b)=x olsun\n
+ax=kax=k     bx=tbx=t\n
+a=kx,    b=xt  olacak şekilde k ve t aralarında asal sayılar mevcuttur. \n
+OKEK(x,y)=a olsunx. \n
+k=a,     y.t=a  olacak şekilde k ve t aralarında asal sayıları mevcuttur. \n
+OBEB(x,y)=a\n
+OKEK(x,y)=b ise\n
+x+y nin en büyük değeri a+b olabilir. \n
+a ve b aralarında asal ise\n
+OBEB(a,b)=1\n
+OKEK(a,b)=a.b dir. \n
+Kpss genel yetenek matematik dersine ait OBEB – OKEK konusu tamamlanmıştır. Bir sonraki kpss genel yetenek matematik konumuz ise Rasyonel Sayılar olacaktır. \n
+    </string>
+    <string name="mat_rasyonel_sayilar">
+Rasyonel Sayılar konusu kpss matematik bölümünde en az bir sorunun geleceği bir konudur. Bu önemli konuyu iyi kavramak gereklidir. Yapı itibari ile basit bir konu olarak görülse de kpss sınavında dikkat gerektiren sorular karşımıza çıkmaktadır. Önceki konumuzda OBEB-OKEK i inceledik. Sıradaki konumuz ise Rasyonel Sayılar olacak.\n
+Rasyonel Sayılar\n
+a ve b tam sayı , b≠0 olması şartıyla abab şeklinde yazılan sayılar rasyonel sayılardır. \n
+abab    → Kesir\n
+a= Pay     b=Payda\n
+Payda 1 olduğunda ababkesri tam sayı olur. Tüm tam sayılar aynı zamanda birer rasyonel sayıdır. Yani tam sayılar paydası “1” olan rasyonel sayılardır.
+Pay sıfıra eşit ise sonuç sıfır olur. Payda sıfıra eşit ise bu rasyonel sayı tanımsızdır. Payın ve paydanın aynı anda 0 olması durumunda ise rasyonel sayı belirsizdir.
+Kesirler 3 çeşide ayrılır; \n
+1.Basit Kesir\n
+Payı paydasından küçük olan kesirlere basit kesir denir. Burada kesirin işaretine bakılmaz. \n
+abab basit kesir ise a b olmalıdır.\n
+Basit kesirin değeri -1’den büyük 1’den küçüktür. \n
+Yani;   -1 abab 1\n
+Örnek; \n
+3535, 1212, −710−710, 11241124, 1−71−7\n
+2. Bileşik Kesirler\n
+Payı paydasından büyük veya eşit olan tüm kesirlere bileşik kesirler denir. İşareti önemli değildir. \n
+abab Bir bileşik kesir ise a≥b olmalıdır. \n
+abab kesrinin birleşik kesir olması için abab≤-1    veya   1≤abab olmalıdır. \n
+Örnek; \n
+−112−112, −85−85, 25132513, 20202020\n
+ 3. Tam Sayılı Kesirler\n
+Kesir çizgisinin sol tarafından 0’dan farklı bir tam sayı olan tüm kesirlere tam sayılı kesir denir. \n
+Örnek; \n
+−319−319, 21112111, 547547, −168−168\n
+Birleşik kesrin tam sayılı bir kesre çevrilmesi; \n
+Tam sayılı kesir bileşik kesre çevrilirken tam olan kısım ( işaret göz önüne alınmadan) payda ile çarpılıp pay ile toplanıp pay bölümüne yazılır. Payda ise bu işlemde aynı kalır. \n
+Örnek; \n
+−238=−2.8+38=−198−238=−2.8+38=−198\n
+Kpss genel yetenek matematik dersine ait Rasyonel Sayılar konusunu tamamladık. Bir sonraki kpss genel yetenek matematik konumuz ise Rasyonel Sayılarda Dört İşlem olacaktır. \n
+    </string>
+    <string name="mat_rasynel_sayilarda_islem">
+            Rasyonel Sayılarda Dört İşlem konumuzda rasyonel sayılarda toplama, çıkarma, çarpma ve bölme işlemlerini göreceğiz.Rasyonel sayılar konusunun devamı niteliğinde olan bu konumuzdan kpss de yine çok sayıda soru gelmiştir. Konuyu tamamladıktan sonra bol soru çözmeniz faydalı olacaktır. Önceki konumuzda Rasyonel Sayıları inceledik. Sıradaki konumuz ise Rasyonel Sayılarda Dört İşlem olacak.\n
+            Rasyonel Sayılarda Dört İşlem\n
+            Rasyonel Sayılarda Dört İşlem konumuzun başlıklarını hep birlikte inceleyelim. \n
+            1. Toplama- Çıkarma İşlemleri\n
+            Paydaları aynı olan rasyonel sayılarda toplama veya çıkarma işlemi yapılırken paylar toplanır veya çıkartılarak yazılır, payda ise aynen yazılır. \n
+            abab±abab=a±cba±cb\n
+            Eğer toplama veya çıkarma yapacağımız kesirlerin paydaları birbirinden farklı ise önce paydaları eşitlememiz gerekmektedir. Paydaları eşitlemek için ortak payda sağlayacak sayılarla her iki kesrin pay ve paydaları çarpılır. Paydaları eşitlenen kesirlerde toplama ve çıkarma işlemleri yine aynı şekilde yapılır. \n
+            Örnek:12+53=3.12.3+5.23.2=3+106=13612+53=3.12.3+5.23.2=3+106=136\n
+            Örneğimizde de görüldüğü gibi birbirine eşit olmayan 2 ve 3 paydalarının eşit hale gelmesi için paydalar en küçük ortak katta eşitlendi. \n
+            2. Çarpma\n
+            Rasyonel sayılarda çarpma işlemi yapılır iken iki kesrin payları çarpılıp paya, yine iki kesrin paydaları çarpılıp paydaya yazılır. \n
+            ab.cd=a.cb.dab.cd=a.cb.d\n
+            Eğer doğal bir sayı ile kesrimiz çarpılıyorsa bu doğal sayının payda kısmına bir yazılarak çarpma işlemi aynı biçimde yapılır. \n
+            a.cd=a1.cd=a.cda.cd=a1.cd=a.cd\n
+            Örnek; \n
+            1212.146146=1.142.6=1412=761.142.6=1412=76\n
+            Genel olarak tam sayılı kesir ile bir kesrin tam sayı ile çarpılması birbiriyle karıştırılır. \n
+            Örneğin; \n
+            abc=a+bc=a.c+bcabc=a+bc=a.c+bc\n
+            a.bc=a1.bc=a.bca.bc=a1.bc=a.bc\n
+            3. Bölme\n
+            Rasyonel sayılarda bölme işlemi yapılırken ilk kesir aynen yazılır ve ikinci kesir ters çevrilip yani pay paydanın yerine, payda ise payın yerine yazılır. Ve bu iki kesir bu biçimde iken çarpılır. \n
+            ab:cd=ab.dc=a.db.cab:cd=ab.dc=a.db.c şeklinde işlem yapılır. \n
+            abcd=ab.dc=a.db.cabcd=ab.dc=a.db.c şeklinde işlem yapılır. \n
+            Kesirlerin Genişletilmesi İşlemi\n
+            Bir rasyonel sayı yani kesir genişletilirken aynı anda hem pay hem de payda genişletilir. Kesrin payı ve paydası genişletilmek istenen sayı ile çarpılır. \n
+            Örnek; \n
+            1212 kesrini 10 ile genişletelim. \n
+            1.102.10=10201.102.10=1020\n
+            Kesirlerin Sadeleştirilmesi\n
+            Bir kesir sadeleştirilirken aynı anda hem pay hem de payda sadeleştirme işlemi yapılacak bu sayıya bölünür. \n
+            Örnek; \n
+            18241824 kesrini 3 ile sadeleştirelim. \n
+            18:324:3=6818:324:3=68\n
+            Bu sayıyı bir de 2 ile sadeleştirelim. \n
+            6:28:2=346:28:2=34 e kadar sadeleştirebiliyoruz. \n
+            Kpss genel yetenek matematik dersine ait Rasyonel Sayılarda Dört İşlem konusunu tamamladık. Bir sonraki kpss genel yetenek matematik konumuz ise Ondalıklı Sayılar olacaktır. \n
+    </string>
+    <string name="mat_ondalik_sayilar">
+Ondalıklı Sayılar kesirlerin ondalıklı sayı biçiminde yazılması ile elde edilen sayılardır. Ondalıklı sayılarda dört işlem ve devirli ondalıklı sayılar konusunu inceleyeceğiz. Önceki kpssmatematik konumuzda Rasyonel Sayılarda Dört İşlem konusunu işledik. Sıradaki konumuz ise Ondalıklı Sayılar olacaktır.\n
+ Ondalıklı Sayılar\n
+Paydası 10,100,1000…. gibi 10’un pozitif kuvvetleri olan kesirlere ondalık kesir denir. Ondalık kesirlere karşı gelen virgüllü sayılara ondalık sayı denir. \n
+510510=0,5\n
+72510007251000=0,725\n
+187100187100=1,87\n
+31003100=0,03\n
+Paydadaki sıfır sayısı ile virgülden sonraki basamak sayıları eşittir. \n
+Ondalıklı Sayılarda Dört İşlem\n
+1. Toplama Çıkarma İşlemleri\n
+Ondalık sayılarda toplama ve çıkarma işlemi yapılırken virgüller alt alta gelecek şekilde sayılar yazılır. Toplama ve çıkarma işlemleri yapılır. Sonuç virgülün tam hizasından yine virgülle ayrılır. \n
+Örnek; \n
+1,267+2,413= 3,68\n
+2,25-1,09=1,168\n
+0,75-10,25+3,2=67,3\n
+2. Çarpma İşlemi\n
+Ondalıklı sayılar çarpılırken arada sanki virgül yokmuş gibi çarpılır. Ve bulunan sonuç üzerinde önceki sayıların virgülden sonraki basamak sayıları toplamı kadar sola doğru gidilip virgül konur. \n
+Örnek; \n
+1,51×0,2=0,302\n
+2,07×2,4=4,968\n
+50,25×3,15=158,2875\n
+3.Bölme İşlemi\n
+Ondalıklı sayılar bölünürken iki türlü yol izlenir. \n
+Örnek;0,1 ile 0,125 sayılarını bölelim. \n
+1. yolda pay ve payda ondalıklı kesir şeklinde yazılır ve rasyonel sayı bölmesi uygulanır. \n
+110110:12510001251000=110110.10001251000125= 4545=0,8\n
+2. yolda ise virgülden sonraki basamak sayıları eşitlenir. Basamak sayısı eksik olan ondalık sayının sağına sıfır yazılır. \n
+0,10,1250,10,125 basamak sayıları eşitleninceye kadar virgül atılır.100125100125 sayısını sadeleştirelim.100125100125=4545=0,8\n
+Devirli Ondalıklı Sayılar\n
+Bir ondalık sayının virgülden sonraki kısmında belli bir düzende tekrar eden sayılar varsa bu sayılara devirli ondalık sayılar denir. \n
+0,33333…… =0,333¯¯¯¯¯¯¯¯0,333¯ şeklinde gösterilir. \n
+0,72727272……= 0,72¯¯¯¯¯0,72¯\n
+Devirli ondalık sayılar da rasyonel sayılara denk gelmektedir. \n
+(SayınınTamamı)−(DevretmeyenKısım)(DevredenSayısıBasamakKadar9)⎛⎝⎜Virgu¨ldenDevretmeyenSayısıSonraBasamakKadar0⎞⎠⎟(SayınınTamamı)−(DevretmeyenKısım)(DevredenBasamakSayısıKadar9)(Virgu¨ldenSonraDevretmeyenBasamakSayısıKadar0) \n
+Kpss genel yetenek matematik dersine ait Ondalıklı Sayılar konusunu tamamladık. Bir sonraki kpss genel yetenek matematik konumuz ise Rasyonel Sayıların Sıralanması olacaktır. \n
+    </string>
+    <string name="mat_rasyonel_sayilarda_siralama">
+Rasyonel Sayılarda Sıralama konusundan kpss de çıkabilecek 5 tip soru vardır. Bu soru tiplerini tek tek inceleyeceğiz. Önceki konumuzda Ondalıklı sayılar konusunu işlemiştik. Sıradaki konumuz ise Rasyonel Sayılarda Sıralama olacak.\n
+Rasyonel Sayılarda Sıralama\n
+Paydaları eşit olan pozitif rasyonel sayılarda payı en büyük olan daha büyüktür.
+35358585115115\n
+210210510510910910\n
+Payları eşit olan pozitif rasyonel sayılardan paydası küçük olan rasyonel sayı daha büyüktür. \n
+9797>9898>910910\n
+129129>12101210>12111211\n
+Negatif rasyonel sayılar sıralanırken sayı pozitif gibi düşünülür. Pozitif sayılardaki gibi sıralama yapılır ve daha sonra sıralama yönü değiştirilerek asıl sıralamaya ulaşılır. \n
+-1515,-4545,-3535 kesirlerini sıralayalım. \n
+-1515-3535-4545 kesirler pozitif kesir gibi sıralanır ve eşitliğin yönü değiştirilir. \n
+-1515>-3535>-4545 ve asıl sıralamaya ulaşılır. \n
+Pay ve paydası eşit olmayan rasyonel sayılar sıralanırken pay veya payda eşitlenir. Hangisi daha kolay eşitleniyorsa o eşitlenir. Ve tekrar pozitif rasyonel sayılardaki kural uygulanır. \n
+Payı ve paydası arasındaki farkı eşit olan basit kesirler pay ve paydası büyük olan daha büyüktür. \n
+20212021, 200201200201,2000200120002001 kesirlerini küçükten büyüğe doğru sıralayalım. \n
+20212021+121121=200201200201+12011201+2000200120002001+1200112001
+Sayılarını eklediğimizde toplam hepsinde “1” olur. \n
+121121>12011201>1200112001\n
+İlk sayıya daha büyük bir sayı ekliyorsak 1’e tamamlamak için bu sayı diğerlerinden daha küçüktür. \n
+202120212002012002012000200120002001\n
+Sonuç olarak pay ve paydası arasındaki fark eşit olan basit kesirler sıralanırken pay ve paydası büyük olan daha büyüktür. \n
+Bu anlatılan tiplerin hiçbirine uyum sağlamıyorsa pay ve payda arasındaki farka bakılır. Pay ve paydaya ne kadar yakınsa kesir 1’e o kadar yakındır. Pozitif kesirlerde bir birleşik kesir daima bir basit kesirden büyüktür. \n
+Kpss genel yetenek matematik dersine ait Rasyonel Sayılarda Sıralama konusunu tamamladık. Bir sonraki kpss genel yetenek matematik konumuz ise Basit Eşitsizlikler olacaktır. \n
+    </string>
+    <string name="mat_basit_esitsizlikler">
+Basit Eşitsizlikler konusu her yıl kpss matematik dersinden ortalama bir sorunun geldiği bir konudur. Basit Eşitsizlikler konumuz anlaşılmasında biraz zorluk yaşanan bir konudur. Fakat çözeceğiniz bol soru ve örneklerle konuyu daha iyi kavrayabilirsiniz. Konumuzda basit eşitlikler ve özelliklerini inceleyeceğiz. Önceki konumuzda Rasyonel Sayılarda Sıralamayı işlemiştik. Sıradaki konumuz ise Basit Eşitsizlikler olacaktır.\n
+Basit Eşitsizlikler\n
+>, ≥, , ≤ gibi sembollerle gösterilen ifadelere eşitsizlik denmektedir. \n
+a ve b reel sayılar olmak üzere ab, a≥b, a>b, a≤b şeklindeki ifadeler bir basit eşitsizliktir. \n
+Örnek; \n
+a bir pozitif reel sayı ise a>0 olarak eşitsizlik ile gösterilebilir. \n
+b negatif reel sayı ise b0 olarak eşitsizlik ile gösterilebilir. \n
+≤, ≥, simgeleri dahil anlamı,≤, ≥, simgeleri dahil anlamı, \n
+, > simgeleri ise dahil değildir anlamındadır. \n
+Basit Eşitsizliklerin Özellikleri\n
+1.Bir eşitsizliğin her iki tarafına aynı sayı eklenip çıkartılabilir. Bu eşitsizliğin yönünü değiştirmez. \n
+ab  iken her iki tarafa aynı sayıyı eklersek   a+cb+c\n
+Yani 57 iken 5+47+4  yani 911 olur. \n
+2.Eşitsizliğin her iki tarafı da pozitif bir sayı ile çarpılırsa veya bölünürse, bu eşitsizlik yön değiştirmez. \n
+a>b iken ve c>0 iken a.cb.c’dir. \n
+3. Bir eşitsizliğin her iki tarafı negatif bir sayıyla çarpılır veya bölünürse, eşitsizlik yön değiştirir. \n
+ab iken ve c0 iken a.c>b.c’dir. \n
+4. Yönü aynı olan eşitsizlikler taraf tarafa toplanabilir. \n
+ab ve cd iken\n
+a+cb+d olabilir. \n
+Aynı yöndeki eşitsizlikler toplandığı zaman şu durumlar oluşur. \n
+≥+≥=≥, ≥+>=>, >+>=>,\n
+≤+≤=≤, ≤+=, +=\n
+            5. 0ab iken ab , 1a1a>1b1b\n
+6.Zıt işaretli sayılardan oluşan eşitsizliklerin çarpma işlemine göre tersi alındığında eşitsizlik yön değiştirmez. \n
+a0b iken ab , 1a1a1b1b\n
+7. a ve b birer pozitif reel sayı ve x pozitif tam sayı olmak üzere ; \n
+ab iken  axax bxbx\n
+8. a ve b negatif birer sayı ve x pozitif bir tam sayı olduğunda; \n
+a0,  x tek ise, axaxbxbxv
+        x çift ise, axax>bxbx olur. \n
+9. 0 ve 1 arasındaki pozitif ve basit olan kesirlerin kuvveti arttıkça sayının değeri de azalır. \n
+a2a2a   ise    01 olur. \n
+10. a3a3 ise a -1 ya da 0a1 olur. \n
+Kpss genel yetenek matematik dersine ait Basit Eşitsizlikler konusunu tamamladık. Bir sonraki kpss genel yetenek matematik konumuz ise Mutlak Değer olacaktır. \n
+    </string>
+    <string name="mat_mutlak_deger">
+Mutlak Değer konusu kpss de karşımıza sıkça çıkan soru tiplerindendir. Genellikle hata yapılan ve öğrenmesi karmaşık olarak görülen bu konuyu en basit düzeye indirerek elimizden geldiğince anlatmaya çalışacağız. Önceki konumuzda Basit Eşitsizlikleri işlemiştik. Sıradaki konumuz ise Mutlak Değer olacak.\n
+Mutlak Değer\n
+Bir x reel sayısının sıfıra uzaklığına bu sayının mutlak değeri denir. Ve mutlak değer |x||x|şeklinde gösterilmektedir. \n
+Bir sayıyı mutlak değer ifadesinden kurtarırken, mutlak değer içerisindeki sayının önce işareti incelenir. \n
+İşaretler (+) ise mutlak değer üzerine (+) işareti, işareti (-) ise mutlak değeri üzerine (-) işareti konur. Ve bu sayı mutlak değer ifadesinde dışarı alınırken üzerine konulan işaret ile mutlak değer içinde yer alan sayı ile çarpılır ve mutlak değerden kurtarılmış olur. \n
+|x||x| = İçerisi pozitif ise aynen çıkar. \n
+|x||x| = İçerisi negatif ise başına (-) alır. \n
+Örnek; \n
+x>0 iken |x||x| = x eğer +(pozitif) ise =+.x=x olur\n
+x0 iken |x||x| = x eğer – (negatif) ise – ile çarpılır. = -.x= -x olur. \n
+x0 iken |−x||−x| durumunda  + ile çarpılır. = +.(-x)= -x olur. \n
+Mutlak değerin içinde bilinen bir reel sayı varsa işaretine bakılmadan dışarı (+) olarak çıkarılır. \n
+|x||x|=5, \n
+∣∣∣−52∣∣∣|−52|= 5252\n
+∣∣∣−175∣∣∣|−175| = 175175\n
+Mutlak değerin içindeki değer ne olursa olsun, sonuç daima ya sıfıra eşit veya sıfırdan büyük olur. \n
+(|x||x| ≥ 0) \n
+Bir mutlak değerli ifadenin sonucu asla sıfırdan küçük bir sayı olamaz. Ancak herhangi bir harf mutlak değerden kurtulduğunda önüne (-) işareti geliyorsa bu sonucun pozitif olması içindir. \n
+x0 iken |−x||−x| = +. (-x)=-x\n
+Mutlak Değer Özellikleri\n
+Her x,y reel sayısı için\n
+1. |x||x|≥ 0 olur. Yani mutlak değerin sonucu ya sıfır ya da pozitif bir sayıdır. \n
+2. |x.y||x.y|= |x||x|.|y||y| ve y≠0 olmak üzere, \n
+∣∣∣xy∣∣∣|xy|=|x||y||x||y| olur. \n
+Örnek; \n
+|2y||2y|=|2||2||y||y|= 2|y||y|\n
+3. |x−y||x−y|=|y−x||y−x| yani |x||x|=|−x||−x|\n
+|−2||−2|=|2||2|\n
+4. |xa|=|x|a|xa|=|x|a\n
+Mutlak değerli denklemler; \n
+1. |x||x|=0 ise a=0 olur. \n
+a ve b birer reel sayı olsun\n
+|a||a|+|b||b|=0 ise\n
+a=0, y=0 olur. \n
+2. b≥0 olmak üzere\n
+|a||a|=b ise a=b veya a=-b olur. \n
+3. |a||a|=|b||b| ise\n
+a=b veya a=-b dir. \n
+Mutlak değerli eşitsizlikler; \n
+a pozitif olmak üzere, \n
+|x||x|a ise, \n
+x>0  ise xa, \n
+x0  ise -xa (-) ile çarparsak x>-a olur. \n
+|x||x|>a ise\n
+x>0 ise x>a dır. \n
+x-a ise -x>a (-) çarparsak x-a olur. \n
+Kpss genel yetenek matematik dersine ait Mutlak Değer konusunu tamamladık. Bir sonraki kpss genel yetenek matematik konumuz ise Üslü Sayılar olacaktır. \n
+    </string>
+    <string name="mat_uslu_sayilar">
+Üslü Sayılar konumuzda üslü sayıların özelliklerini inceleyeceğiz. Üslü sayılar konusundan her yıl en az 1 soru gelmektedir. Önceki konumuzda mutlak değeri incelemiştik. Sıradakikpss matematik dersi konumuz ise Üslü Sayılar olacaktır.\n
+Üslü Sayılar\n
+a reel bir sayı ve n pozitif bir tam sayı olduğunda n tane a sayısı çarpımının sonucu olan anan ifadesine üslü sayı denir. \n
+anan ifadesinde a taban, n ise üs olmaktadır. \n
+Üslü sayılarda taban, üste bulunan sayı kadar yanyana yazılır ve çarpılır. \n
+a.a.a=a3a3\n
+12.12.12=(12)312.12.12=(12)3\n
+(−15).(−15)=(−15)2(−15).(−15)=(−15)2\n
+n tane a nın toplanması durumunda; \n
+a+a+a+a+a+………+a=n.a olur. \n
+Çarpılması durumunda ise\n
+a.a.a.a.a.a.a………….a= anan olur. \n
+Örnek: \n
+5+5+5+5+5+5=6.5=30\n
+5.5.5.5.5.5=5656=15625\n
+Üslü Sayıların Özellikleri \n
+1. a sayısı sıfırdan farklı olmak üzere a sayısının sıfırıncı kuvveti bire eşittir. Yani, a0a0=1 olur. \n
+Örneğin; \n
+2020=1\n
+(12)0(12)0=1\n
+(17−−√+3)0(17+3)0=1\n
+Fakat  tabanın ve üssün aynı anda sıfır olması durumunda sonuç belirsiz olur. \n
+0000= belirsiz\n
+2. 1 sayısının her sayı kuvveti yine 1 e eşittir. \n
+1n1n=1\n
+Örneğin; \n
+115115=1\n
+1−41−4=1\n
+3. Pozitif sayıların tüm kuvvetleri pozitif bir tam sayıya eşittir.
+2222,3−73−7 sayılarının sonucu tabanları pozitif sayı olduğu için daima pozitiftir. Kuvvetlerinin yani üssün ne olduğu önemli değildir. Negatif sayıların çift kuvvetleri pozitif, tek kuvvetleri ise negatif sayıdır. Parantezin kullanımı önemlidir. \n
+(–)çift=+(–)çift=+\n
+(–)tek=−(–)tek=−\n
+4. Kuvvetleri alınmış bir sayının tekrar kuvvetini almak için kuvvetleri çarparız. \n
+(23)2=23.2=26(23)2=23.2=26\n
+(3−3)4=3−3.4=3−12(3−3)4=3−3.4=3−12\n
+(ax)y(ax)y şeklinde yazılan bir sayının, \n
+(ay)x(ay)x şeklinde olduğu da unutulmamalıdır. \n
+5. Bir sayının negatif kuvveti alırken, sayının kuvvetini pozitif yapmak için sayı önce ters çevrilir daha sonra kuvveti alınır. \n
+Örneğin; \n
+23=123=1823=123=18\n
+5−1=155−1=15\n
+(57)−1=75(57)−1=75\n
+
+Kpss genel yetenek matematik dersi Üslü Sayılar konusunu tamamladık. Bir sonraki genel yetenek matematik dersi konumuz Üslü Sayılarda Dört İşlem olacaktır. \n
+    </string>
+
+   <!-- TARİH İÇERİK -->
+
 </resources>

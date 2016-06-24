@@ -91,25 +91,117 @@ public class contentListActivityMat extends AppCompatActivity {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v,
                                         int groupPosition, int childPosition, long id) {
-                // TODO Auto-generated method stub
             final String selected = (String) listAdapter.getChild(groupPosition, childPosition);
-
-            // Switch case to open selected child element activity on child element selection.
-              //  final TextView textViewContent  = (TextView) findViewById(R.id.textView2);
             Intent intent;
                 //Seçime göre açılma ve içeriği güncelleme
             switch(selected){
-                case "The Godfather":
+                case "Temel Bilgi ve İşlem Yeteneği":
                     intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
-                    intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam));
-                    intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_title));
+                    intent.putExtra("icerik",getString(R.string.mat_temel_bilgiler1));
+                    intent.putExtra("icerik2",getString(R.string.mat_temel_bilgiler1_title));
                     startActivity(intent);
+                    break;
+                case "Kpss Matematik Temel Bilgiler":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_temel_bilgiler2));
+                    intent.putExtra("icerik2",getString(R.string.mat_temel_bilgiler2_title));
+                    startActivity(intent);
+                    break;
+                case "Tam Sayılar ve Sayı Çeşitleri":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_tam_sayilar));
+                    intent.putExtra("icerik2",getString(R.string.mat_tam_sayilar_title));
+                    startActivity(intent);
+                    break;
+                case "Asal Sayılar":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_asal_sayilar));
+                    intent.putExtra("icerik2",getString(R.string.mat_asal_sayilar_title));
+                    startActivity(intent);
+                    break;
+                case "Ardışık Sayılar ve Aritmetik Dizi Toplamı":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_ardisik_sayilar));
+                    intent.putExtra("icerik2",getString(R.string.mat_ardisik_sayilar_title));
+                    startActivity(intent);
+                    break;
+                case "Faktöriyel":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_faktoriyel));
+                    intent.putExtra("icerik2",getString(R.string.mat_faktoriyel_title));
+                    startActivity(intent);
+                    break;
+                case "Sayı Sistemleri – Basamak Değeri":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_sayi_sistemleri));
+                    intent.putExtra("icerik2",getString(R.string.mat_sayi_sistemleri_title));
+                    startActivity(intent);
+                    break;
+                case "Taban Aritmetiği":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_taban_aritmetigi));
+                    intent.putExtra("icerik2",getString(R.string.mat_taban_aritmetigi_title));
+                    startActivity(intent);
+                    break;
+                case "Bölme İşlemi – Bölen Kalan İlişkisi":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_bolme_islemi));
+                    intent.putExtra("icerik2",getString(R.string.mat_bolme_islemi_title));
+                    startActivity(intent);
+                    break;
+                case "Bölünebilme Kuralları":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_bolunebilme_kurallari));
+                    intent.putExtra("icerik2",getString(R.string.mat_bolunebilme_kurallari_title));
+                    startActivity(intent);
+                    break;
+                case "Asal Çarpanlara Ayırma":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_asal_carpanlar));
+                    intent.putExtra("icerik2",getString(R.string.mat_asal_carpanlar_title));
+                    startActivity(intent);
+                    break;
+                case "OBEB – OKEK":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_obeb_okek));
+                    intent.putExtra("icerik2",getString(R.string.mat_obeb_okek_title));
+                    startActivity(intent);
+                    break;
+                case "Rasyonel Sayılar":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_rasyonel_sayilar));
+                    intent.putExtra("icerik2",getString(R.string.mat_rasyonel_sayilar_title));
+                    startActivity(intent);
+                    break;
+                case "Rasyonel Sayılarda Dört İşlem":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_rasynel_sayilarda_islem));
+                    intent.putExtra("icerik2",getString(R.string.mat_rasynel_sayilarda_dortislem_title));
+                    startActivity(intent);
+                    break;
+                case "Basit Eşitsizlikler":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_basit_esitsizlikler));
+                    intent.putExtra("icerik2",getString(R.string.mat_basit_esitsizlikler_title));
+                    startActivity(intent);
+                    break;
+                case "Mutlak Değer":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_mutlak_deger));
+                    intent.putExtra("icerik2",getString(R.string.mat_mutlak_deger_title));
+                    startActivity(intent);
+                    break;
+                case "Üslü Sayılar":
+                    intent = new Intent(contentListActivityMat.this, icerikViewActivity.class);
+                    intent.putExtra("icerik",getString(R.string.mat_uslu_sayilar));
+                    intent.putExtra("icerik2",getString(R.string.mat_uslu_sayilar_title));
+                    startActivity(intent);
+                    break;
             }
             return true;
             }
         });
     }
-
 
     /*
      * Preparing the list data
@@ -119,38 +211,36 @@ public class contentListActivityMat extends AppCompatActivity {
         listDataChild = new HashMap<String, List<String>>();
 
         // Adding child data
-        listDataHeader.add("Top 250");
-        listDataHeader.add("Now Showing");
-        listDataHeader.add("Coming Soon..");
+        listDataHeader.add("Temel Kavramlar");
+        listDataHeader.add("Fonksiyonel Kavramlar");
 
         // Adding child data
-        List<String> top250 = new ArrayList<String>();
-        top250.add("The Shawshank Redemption");
-        top250.add("The Godfather");
-        top250.add("The Godfather: Part II");
-        top250.add("Pulp Fiction");
-        top250.add("The Good, the Bad and the Ugly");
-        top250.add("The Dark Knight");
-        top250.add("12 Angry Men");
+        List<String> temel = new ArrayList<String>();
+        temel.add("Temel Bilgi ve İşlem Yeteneği");
+        temel.add("Kpss Matematik Temel Bilgiler");
+        temel.add("Tam Sayılar ve Sayı Çeşitleri");
+        temel.add("Asal Sayılar");
+        temel.add("Ardışık Sayılar ve Aritmetik Dizi Toplamı");
 
-        List<String> nowShowing = new ArrayList<String>();
-        nowShowing.add("The Conjuring");
-        nowShowing.add("Despicable Me 2");
-        nowShowing.add("Turbo");
-        nowShowing.add("Grown Ups 2");
-        nowShowing.add("Red 2");
-        nowShowing.add("The Wolverine");
+        List<String> fonk = new ArrayList<String>();
+        fonk.add("Faktöriyel");
+        fonk.add("Sayı Sistemleri – Basamak Değeri");
+        fonk.add("Taban Aritmetiği");
+        fonk.add("Bölme İşlemi – Bölen Kalan İlişkisi");
+        fonk.add("Bölünebilme Kuralları");
+        fonk.add("Asal Çarpanlara Ayırma");
+        fonk.add("OBEB – OKEK");
+        fonk.add("Rasyonel Sayılar");
+        fonk.add("Rasyonel Sayılarda Sıralama");
+        fonk.add("Basit Eşitsizlikler");
+        fonk.add("Mutlak Değer");
+        fonk.add("Üslü Sayılar");
 
-        List<String> comingSoon = new ArrayList<String>();
-        comingSoon.add("2 Guns");
-        comingSoon.add("The Smurfs 2");
-        comingSoon.add("The Spectacular Now");
-        comingSoon.add("The Canyons");
-        comingSoon.add("Europa Report");
 
-        listDataChild.put(listDataHeader.get(0), top250); // Header, Child data
-        listDataChild.put(listDataHeader.get(1), nowShowing);
-        listDataChild.put(listDataHeader.get(2), comingSoon);
+
+        listDataChild.put(listDataHeader.get(0), temel); // Header, Child data
+        listDataChild.put(listDataHeader.get(1), fonk);
+
     }
     public class MainApplication extends Application {
         @Override
@@ -158,7 +248,7 @@ public class contentListActivityMat extends AppCompatActivity {
             super.onCreate();
 
             //set Custom Typeface
-            FontsOverride.setDefaultFont(this, "MONOSPACE", "Ubuntu-L.ttf");
+            FontsOverride.setDefaultFont(this, "MONOSPACE", "Oxygen-Light.ttf");
         }
     }
     }
