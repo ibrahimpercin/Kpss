@@ -95,7 +95,7 @@ public class contentListActivityMat extends AppCompatActivity {
             final String selected = (String) listAdapter.getChild(groupPosition, childPosition);
 
             // Switch case to open selected child element activity on child element selection.
-                final TextView textViewContent  = (TextView) findViewById(R.id.textView2);
+              //  final TextView textViewContent  = (TextView) findViewById(R.id.textView2);
             Intent intent;
                 //Seçime göre açılma ve içeriği güncelleme
             switch(selected){

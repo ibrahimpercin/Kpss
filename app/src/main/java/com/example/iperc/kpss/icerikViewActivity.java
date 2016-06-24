@@ -1,6 +1,7 @@
 package com.example.iperc.kpss;
 
 import android.annotation.TargetApi;
+import android.content.Context;
 import android.content.Intent;
 import android.content.res.ColorStateList;
 import android.graphics.Typeface;
@@ -13,6 +14,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.TextView;
 
+import com.bluejamesbond.text.DocumentView;
+import com.bluejamesbond.text.style.TextAlignment;
+
 public class icerikViewActivity extends AppCompatActivity {
 
     @Override
@@ -24,17 +28,24 @@ public class icerikViewActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         //Gelen içeriği ekleme
         Intent intent = getIntent();
-        TextView textContent =(TextView) findViewById(R.id.textView2);
+       // TextView textContent =(TextView) findViewById(R.id.textView2);
         Bundle extras = getIntent().getExtras();
         String editTextVal= extras.getString("icerik");
         String editTextVal2= extras.getString("icerik2");
-        textContent.setText(editTextVal);
+        //textContent.setText(editTextVal);
         Typeface fontRalewayLight = Typeface.createFromAsset(getAssets(),"fonts/Raleway-Light.ttf");
         Typeface fontRobotoLight = Typeface.createFromAsset(getAssets(),"fonts/Roboto-Light.ttf");
         Typeface fontOxygenLight = Typeface.createFromAsset(getAssets(),"fonts/Oxygen-Light.ttf");
         Typeface fontOxygenRegular = Typeface.createFromAsset(getAssets(),"fonts/Oxygen-Regular.ttf");
-        textContent.setTypeface(fontOxygenRegular);
+        //textContent.setTypeface(fontOxygenRegular);
         setTitle(extras.getString("icerik2"));
+
+        DocumentView documentView = (DocumentView) findViewById(R.id.docView);
+        documentView.getDocumentLayoutParams().setTextAlignment(TextAlignment.JUSTIFIED);
+        documentView.setText(extras.getString("icerik"));
+
+
+
         //Floating Button Arkaplan değişimi ve Bildirim yazısısı
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -63,4 +74,6 @@ public class icerikViewActivity extends AppCompatActivity {
         });
 
     }
+
+
 }

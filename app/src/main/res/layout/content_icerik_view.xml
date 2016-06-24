@@ -16,16 +16,21 @@
         android:gravity="center"
         android:layout_alignParentBottom="true">
 
-        <WebView
-            android:id="@+id/webView"
+        <com.bluejamesbond.text.DocumentView xmlns:ext="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/docView"
             android:layout_width="fill_parent"
-            android:layout_height="match_parent"></WebView>
-        <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="@dimen/text_margin"
-            android:id="@+id/textView2"
-        />
+            android:layout_height="fill_parent"
+            ext:documentView_cacheConfig="no_cache"
+            ext:documentView_antialias="true"
+            ext:documentView_hyphen="-"
+            ext:documentView_reverse="false"
+            ext:documentView_textAlignment="justified"
+            ext:documentView_textFormat="plain"
+            ext:documentView_textSize="14sp"
+            ext:documentView_textSubPixel="true"
+            ext:documentView_textTypefacePath="fonts/Oxygen-Light.ttf"
+            android:layout_margin="10dp"
+            />
 
     </LinearLayout>
 </android.support.v4.widget.NestedScrollView>
