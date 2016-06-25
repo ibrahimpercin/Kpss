@@ -3791,4 +3791,1135 @@ Göçler\n
 Ülkemizde göçler iç göçler ve dış göçler olmak üzere ikiye ayrılır. İç göçler ekonomik sıkıntı ve işsizlik kaynaklı köyden kente olan göçler, mevsimlik göçler gibi şekillerde olabilmektedir. Dış göçler ise işçi göçleri, beyin göçleri şeklinde olabilen göçlerdir. \n
 Kpss genel kültür coğrafya dersi Türkiye’de Nüfus konusunu işledik. Bir sonrakicoğrafya konumuz ise Nüfus Yoğunluğu olacaktır. \n
     </string>
+
+   <!-- GENEL KÜLTÜR İÇERİK -->
+   <string name="vtd_temel_hukuk_title">Temel Hukuk Bilgileri</string>
+   <string name="vtd_hukuk_dallari_title">Kamu Hukuku – Hukukun Dalları</string>
+   <string name="vtd_hukuk_dallari2_title">Özel Hukuk ve Karma Hukuk – Hukukun Alt Dalları</string>
+   <string name="vtd_normlar_title">Normlar Hiyerarşisi</string>
+   <string name="vtd_yaptitirim_title">Yaptırım Türleri</string>
+   <string name="vtd_hak_kavrami_title">Hak Kavramı ve Hakların Korunması</string>
+   <string name="vtd_kamu_haklari_title">Kamu Hakları ve Özel Haklar</string>
+   <string name="vtd_devlet_sistemi_title">Devlet Sistemleri</string>
+   <string name="vtd_demokrasi_title">Demokrasi ve Demokrasi Çeşitleri</string>
+   <string name="vtd_demokrasi_sistemleri_title">Hükümet Sistemleri</string>
+   <string name="vtd_anayasa_hukuku_title">Anayasa Hukuku</string>
+   <string name="vtd_21Anayasasi_title">1921 Anayasası (Teşkilatı Esasiye) | 1924 Anayasası</string>
+   <string name="vtd_61Anayasasi_title">1961 Anayasası ve 1971-1973 Değişiklikleri</string>
+   <string name="vtd_82Anayasasi_title">1982 Anayasası | Kpss 1982 Anayasası Genel Esaslar</string>
+   <string name="vtd_temel_haklar_title">Temel Hak ve Ödevler</string>
+   <string name="vtd_kisi_haklari_title">Kişinin Hakları ve Ödevleri</string>
+   <string name="vtd_kisi_haklari2_title">Özel Hayatın Gizliliği, Seyahat, Din ve Vicdan Hürriyeti</string>
+   <string name="vtd_kisi_haklari3_title">Düşünceyi Açıklama , Yayma ve Kanaat Hürriyeti</string>
+   <string name="vtd_kisi_haklari4_title">Toplantı, Mülkiyet ve İspat Hakkı | Hakların Korunması</string>
+   <string name="vtd_sosyal_haklar_title">Sosyal ve Ekonomik Haklar</string>
+   <string name="vtd_calsma_sozlesmesi_title">Çalışma ve Sözleşme Hürriyeti</string>
+   <string name="vtd_diger_haklar_title">Diğer Hak ve Ödevler</string>
+   <string name="vtd_siyasi_haklar_title">Siyasi Hak ve Ödevler</string>
+   <string name="vtd_yasama_title">Yasama</string>
+   <string name="vtd_tbmm_calısma_title">TBMM’nin Çalışma Düzeni</string>
+   <string name="vtd_tbmm_oylama_title">TBMM’de Oylama Türleri</string>
+   <string name="vtd_tbmm_gorev_title">TBMM’nin Görev ve Yetkileri</string>
+   <string name="vtd_tbmm_baskanlik_title">TBMM Başkanlık Divanı</string>
+   <string name="vtd_tbmm_secim_title">Türkiye’de Seçim</string>
+   <string name="vtd_secim_ilkeri_title">Seçim İlkeleri</string>
+   <string name="guncel_bm_title">Birleşmiş Milletler (BM)</string>
+   <string name="guncel_kuruluslar_title">Türkiye’nin Üye Olduğu Uluslararası Kuruluşlar</string>
+   <string name="guncel_ab_title">Avrupa Birliği ve Türkiye İlişkileri</string>
+    <string name="vtd_temel_hukuk">
+
+Temel Hukuk Bilgileri konusuna hukuk kelimesinin anlamı ile başlayalım. Hukuk kelimesi Arapça ”hak” kelimesinin çoğuludur. Peki hukuk neden vardır? Toplumsal hayatın sürebilmesi içi gerekli olan düzen için hukukun var olması gerekmektedir. Bunlarına başında da sosyal hayatı düzenleyen kurallar gelmektedir. Biz bunlara Toplumsal Düzen Kuralları diyoruz.\n
+TOPLUMSAL DÜZEN KURALLARI\n
+* Hukuk Kuralları: Bireylerin birbirleriyle ve devletle olan ilişkilerini düzenleyen kuralladır. Hukuk kurallarına uyulmadığı takdirde maddi müeyyide yani devlet tarafından uygulanan bir kamu gücü karşımıza çıkar. \n
+* Din kuralları: Tanrı tarafından konulduğuna inanılan ve insan davranışlarını düzenleyen emir ve yasaklardır. \n
+* Ahlak Kuralları: Kişinin kendi vicdanı tarafından konulan ve kendi davranışlarını düzenleyen, vicdan azabı ile cezalandırılması mümkün olan emir ve yasaklardır.Subjektif Ahlak kuralları kişinin kendisine olan davranışlarını, Objektif Ahlak kuralları da kişinin başkalarına karşı davranışlarını düzenler. \n
+* Görgü Kuralları: Toplum içindeki davranışları düzenleyen kurallardır.
+Din, Ahlak ve Görü Kurallarına uyulmadığı takdirde manevi müeyyide yani toplum tarafından uygulanan yaptırımlar karşımıza çıkar. \n
+Dikkat: Görenekler ile örf adetler aynı değildir. Görenekler her bölgeye göre değişiklik gösterebilir ( Her bölgenin ayrı bir kutlama, düğün şekli olabilir). Ancak örf ve adetler ülkenin her yerinde uygulanır ( Büyüklere saygı, yardım etmek gibi). \n
+HUKUKUN ÇEŞİTLİ ANLAMLARI\n
+* Pozitif Hukuk: Bir ülkede yürürlükte bulunan yazılı ve yazısız kuralların tümüne denir. \n
+* Mevzu Hukuk (Mevzuat): Bir ülkede yürürlükte bulunan sadece yazılı kuralların tümüdür. Yetkili makamlarca konulmuştur. \n
+* İdeal ( Doğal-Tabii) Hukuk: Olması istenen veya olması gereken hukuktur.
+* Tarihi Hukuk: Şu an yürürlükte olmayan ve geçmişte kullanılmış hukuk türüdür. \n
+HUKUKUN KAYNAKLARI\n
+1) Yazılı Kaynaklar: Hakimin bakmak zorunda olduğu kaynaklardır. Yetkili makamlarca konulmuş olan bu kaynaklar Türk Hukuku’nda Normal Hiyerarşisi başlığı altında toplanmaktadır . \n
+Normlar Hiyerarşisi sırayla; \n
+Anayasa\n
+Kanun( Milletler arası antlaşmalar, Kanun hükmünde kararnameler ve meclis içtüzüğü de Kanunlara eş değerdedir) \n
+Tüzük\n
+Yönetmelik\n
+Genelge\n
+Yönerge\n
+şeklinde gitmektedir. İleride bu başlıklara tek tek değineceğiz. \n
+2) Yazısız Kaynaklar: Hakimin bakmak zorunda olduğu kaynaklardır. Sadece özel hukukta uygulanan  bu hukuk kurallar örf ve adetlerdir. \n
+Bir örf ve adetin hukuk kuralına dönüşmesi için şu 3 özelliği taşıması gerekir: \n
+– Maddi Unsur: Sürekli ve tekrarlanma\n
+– Manevi Unsur: Genel inanış\n
+– Kanuni Unsur: Devlet desteği yani maddi yaptırım şartıdır. \n
+3) Yardımcı Kaynaklar: Hakim bakmak zorunda değildir. Bunlar İçtihatlar (Yargısal Kararlar) ve Doktrinlerdir (Bilimsel Görüşler). İçtihatlar hakimi bağlayıcı nitelikte değildir ancak İçtihadı Birleştirme Kararları bağlayıcı olmaktadır. \n
+Eğer yazılı ve yazısız kuralların hiçbirinde hüküm yoksa buna Hukuk Boşluğu denir. Sadece yazılı kural yoksa buna da Kanun Boşluğu denir. Kanun Boşluğu da 2’ye ayrılmaktadır. Bunlar: \n
+* Kural İçi Boşluk: Kanun koyucunun bilerek ve isteyerek bıraktığı boşluktur. Hakime takdir yetkisini kullanması için bırakılmıştır. \n
+* Kural Dışı Boşluk: Kanun koyucunun istemeden bıraktığı boşluktur. Gerçek (Açık) Boşluk kanunlarda somut olaya uygulanacak bir kuralın bulunmaması \n \n durumudur. Gerçek Olmayan (Örtülü-Zımni) Boşluk da kanunda o meselenin olup uygulanmasının tatmin edici olmamasıyla ortaya çıkan boşluktur. \n
+    </string>
+    <string name="vtd_hukuk_dallari">
+
+Kamu hukuku konusuna geçmeden önce Hukukun dallarını ana başlık halinde sıralayalım. Hukuk sisteminin alt dalları 3’e ayrılmaktadır.\n
+* Hukukun Dalları: \n
+•	Kamu Hukuku\n
+•	Özel Hukuk\n
+•	Karma Hukuk\n
+KAMU HUKUKU\n
+Kamu Hukuku: Kişilerin devletle veya devletin bir başka devletle olan ilişkilerini düzenler. !Kişi ile devlet arasındaki ilişkilerde devlet üstün durumdadır. Yani eşitlik yoktur. \n
+Kamu hukuku ilişkisi tek taraflı olup devlet, iradesini açıklamakla hukuki ilişki ortaya çıkar. Devlet aldığı kararları kendisi tek taraflı olarak resen icra edebilmektedir. Kpss genel kültür ve Kpss vatandaşlık konuları içerisinde yer alan Kamu Hukuku aşağıdaki dalları ile karşımıza çıkmaktadır. \n
+Kamu Hukuku Dalları: \n
+•	Anayasa Hukuku\n
+•	İdare Hukuku\n
+•	Ceza Hukuku\n
+•	İcra İflas Hukuku\n
+•	Devletler Genel Hukuku\n
+•	Vergi Hukuku\n
+•	Yargılama Hukuku\n
+1) Anayasa Hukuku: Devletin Şeklini ve teşkilatlanmasını, organlarını, bu organların işleyişini, kişilerin temel hak ve hürriyetleri ve bunların güvence altına alınmasını düzenleyen hukuk kurallarının bütünüdür. Temel kaynağımız 1982 Anayasasıdır. Kpss Anayasa konusuna çok önem vermektedir. İleride bu konu üzerinde daha fazla ayrıntılarıyla beraber durulacaktır. \n
+2) İdare Hukuku: Devlet idaresinin örgütlenmesini ve işleyişini, kişilerin idareyle olan ilişkilerini düzenler. İdare hukukunda temel kuralların yer aldığı tek bir kanun yoktur. Buna bağlı olarak Devlet Memurları Kanunu, İdari Yargılama Kanunu, Belediye Kanunu gibi kanunlar yer almaktadır. \n
+3) Ceza Hukuku: Suçu oluşturan fiillerin neler olduğu ve bu fiilleri yapanlara ne gibi cezaların verileceğini gösteren kurallardır. Temel aldığımız kanun 1 Haziran 2005 Tarihli Türk Ceza Kanunu’dur. \n
+Kanunsuz Suç ve Ceza Olmaz İlkesi: Kanunda suç sayılmayan bir fiilden dolayı kimse suçlu olarak görülemez. \n
+Kanunilik Unsuru: Bir davranışın suç olabilmesi için kanunda açıkça suç olarak tanımlanmış olması gerekmektedir. \n
+– Bir hareketin suç sayılabilmesi için şunlar gereklidir: \n
+•	Kanunilik (Tipiklik) Unsuru: Kanunda açıkça tanımlanmış olmasıdır. \n
+•	Maddi (Hareket) Unsuru: Bu iki şekilde olmaktadır. İcra: hareketi yapmak şeklinde; İhmal: hareketi yapmamak şeklinde. \n
+•	Manevi (Kusurluluk) Unsuru: Bu da ikiye ayrılmaktadır. Kast: bilerek, isteyerek yapma; Taksir: sonucu öngöremediğimiz durumlardır. \n
+Taksirli suçlardan hüküm giyenler kamu haklarından mahrum olmazlar. Yani oy kullanabilme, memur veya milletvekili olabilme gibi yetileri devam etmektedir. \n
+* Kanunumuz suçlunun ceza ehliyetini yaş bakımından kademeli bir şekilde düzenlemiştir: \n
+•	12 Yaşına kadar: Kişilerin ceza ehliyeti yoktur. Tam Ehliyetsiz kavramını karşılar. \n
+•	12-15 Yaş Arası: Kişilerin ayırt etme gücü yerindeyse ceza verilir, indirime gidilir; ayırt etme gücü yerinde değilse ceza verilmez. Tam Olmayan Ehliyetlikavramını karşılar. \n
+•	15-18 Yaş Arası: Ayırt etme gücü var kabul edilir. İndirimli ceza uygulanır. YineTam Olmayan Ehliyetli kavramına dahildir. \n
+•	18- Ölüme Kadar: Cezai ehliyetleri tamdır. Tam Ehliyetli kavramını karşılar. \n
+Sağır ve dilsizlerde normal ceza ehliyetine 3 yaş eklenir. Bunların ceza ehliyeti 21 yaşında başlar. \n
+– 1982 Anayasasında yer alan suç ve cezalara ilişkin esaslar: \n
+•	Masumiyet Karinesi: Suçluluğu mahkeme kararınca sabit oluncaya kadar kimse suçlu sayılamaz. \n
+•	Cezanın Şahsiliği: Ceza sorumluluğu şahsidir. \n
+•	Kanun dışı yollardan elde edilen bulgular delil olarak kullanılamaz. \n
+•	Suç ve cezalar geçmişe yürütülemez. \n
+•	Hiç kimse sadece sözleşmeden doğan bir yükümlülüğü yerine getirmediği için özgürlüğünden alıkonamaz. \n
+4) İcra – İflas Hukuku: Mahkemelerin vermiş oldukları kararları devlet organları vasıtasıyla zorla yerine getirilmesini düzenleyen hukuka İcra Hukuku denir. İcra işlemleri mahkemede değil, icra dairesinde görülür. \n
+Tacir kişiler iflasa tabidir ve bundan yola çıkarak özel bir takip yöntemini düzenleyen hukuka İflas Hukuku denir. Burçlunun hacze konu olabilecek bütün mallarına İflas Masasıdenir. İflas eden borçluya da Müflis denir. \n
+5) Devletler Genel Hukuku: Kamu hukuku içinde yer alan ve diğer adı da Uluslararası Genel Hukuk bu dal, devletlerin ve uluslararası kuruluşların birbirleri ile olan ilişkilerini düzenleyen hukuk kurallarının bütünüdür. \n
+6) Yargılama Hukuku: Bağımsız mahkemelerin adalet dağıtırken başvuracağı yöntemi belirler. \n
+7) Vergi Hukuku: Kpss genel kültür içinde yer alan kpss vatandaşlık Kamu Hukuku ile ilgili en son değineceğimiz vergi hukuku, devletle kişiler arasındaki ilişkileri inceler. Vergi hukukunda aşağıdaki bilgileri de Kpss sorularında karşımıza çıkması sebebiyle lütfen aklımızda tutalım. \n
+* Vergide Kanunilik: Kanunda belirlenen biçimde vergi alınması. \n
+* Vergide Genellik: Herkesten vergi alınması. \n
+* Vergide Adalet: Kişilerin mali gücünün göz önünde tutulması. \n
+Resim Vergisi: Kamu kurumlarının belirli bir işi yapmaya yetki ve izin vermesi karşılığında alınır.
+Harç: Belirli bir hizmetten yararlanmak için ödenir. \n
+Vergi Türleri\n
+1) Gelir Üzerinden Alınan Vergiler: Gelir vergisi, Kurumlar vergisi vs. \n
+2) Gider Üzerinden Alınan Vergiler: KDV, Bankacılık ve sigortacılık işlemleri vs. \n
+3) Servet Üzerinden Alınan Vergiler: Emlak vergisi, Veraset (miras) vergisi, İntikal (Bağış, şans oyunları) vergisi, Motorlu Taşıtlar vergisi, ÖTV vs. \n
+Kamu Hukuku konusu sona ermiştir. Bundan sonraki konuda Hukukun diğer alt dalları olan Özel hukuk ve Karma Hukuk işlenecektir. \n
+    </string>
+    <string name="vtd_hukuk_dallari2">
+Özel hukuk, karma hukuk ve kamu hukuku, hukukun alt dallarını oluşturmaktadır. Bir önceki konuda kamu hukukunu ayrıntıları ile beraber işlemiştik. Şimdi özel hukuk ve karma hukuk dallarını inceleyeceğiz.\n
+Özel Hukuk\n
+Özel hukuk kişilerin birbirleriyle olan ilişkilerini düzenleyen, bazı durumlarda da kişilerin devletle olan ilişkilerini düzenleyen hukuk dalıdır. Bunun şartı kişilik ilkesidir. Kişiler bu ilişkilere girip girmeme konusunda serbesttirler. \n
+Özel hukukun özelliklerini maddeler halinde sıralayalım. \n
+•	Özel hukuk, kişilerin birbirleriyle olan ilişkilerini, eşitlik ve irade serbestisi esasına göre düzenleyen hukuk kurallarının bütünüdür. \n
+•	Özel hukuk ilişkisi iki taraflıdır. Bir özel hukuk ilişkisinin ortaya çıkabilmesi için tarafların karşılıklı anlaşmaları gerekmektedir. \n
+•	İrade serbestisi ve tarafların ilkesi geçerlidir. \n
+•	Tarafların yaptığı işlemlerin hukuka uygun olduğu yolunda bir karine yoktur. \n
+•	Herkes, kendi iddiasını ispatlamak zorundadır. \n
+•	Kimse resen icra yetkisine sahip değildir. Haklı olan kişiler dahi hakkını almak için mahkemeye başvurmak zorundadır. \n
+Özel Hukukun Dalları\n
+Kpss vatandaşlık dersinde işlenen özel hukuk kendi içinde alt başlıklara ayrılmaktadır. İçinde çok önemli hukuk dalları bulunan özel hukuk bizim için kpss soruları açısından da önemlidir. \n
+1) Medeni Hukuk: Kişilerin birbirleriyle olan ilişkilerinin çok büyük bir kısmını düzenleyen hukuk dalıdır. Medeni hukuk, bir ülkenin yurttaşlarının birbirleriyle ve belli bir ölçüde yurttaşların devlet ile doğrudan doğruya ve dolaylı olan ilişkilerini düzenleyen kuralların bütünüdür. Temel kaynağımız 1 ocak 2002 tarihli Türk Medeni Kanunu’dur. 4 Temel kitaptan oluşan medeni hukuk dallarını inceleyelim. \n
+a) Kişiler Hukuku: Gerçek veya tüzel kişileri ve bu kişilerin durumlarını içerisinde barındırır. \n
+Evli – bekar, ölüm – doğum, ikametgah…\n
+b) Aile Hukuku: Nişanlanma, evlenme, boşanma, velayet, akrabalık gibi konulara ilişkin yasal düzenlemeleri ve kanunları barındırır. \n
+c) Miras Hukuku: Miras kime , nasıl ve hangi şartlarda kalacak? gibi sorulara cevap arayan medeni hukuk alt dalıdır. \n
+Vasiyetname, miras sözleşmesi, mirasçı, muris (miras bırakan), tereke (miras) gibi kavramlar medeni hukuk içerisinde yer alır. \n
+d) Eşya Hukuku: Kişilerin eşyalar üzerindeki hak ve yükümlülüklerini düzenleyen hukuk dalıdır. \n
+Menkul, gayrimenkul, mülkiyet, rehin… gibi kavramlar eşya hukuku içerisinde yer almaktadır. \n
+2) Borçlar Hukuku: Borç ilişkilerini düzenleyen özel hukuk dalıdır. Medeni kanunun devamı niteliğindedir. Borç bir ilişkidir ve birden fazla unsur gerekir. Bunlar alacaklı, borçlu ve edimdir. \n
+Edim: Borcun konusudur. Alacaklının borçludan isteyebileceği, borçlunun da yerine getirmekle yükümlü olduğu davranış biçimine edim denir. \n
+En son Borçlar Kanunumuz 1 temmuz 2012’de yürürlüğe girmiştir. \n
+3) Ticaret Hukuku: Kişiler arasındaki ticari ilişkileri düzenleyen özel hukuk dalıdır. Temel kaynağı Türk ticaret kanunudur ve 5 kitaptan oluşur. \n
+•	Ticari işletme hukuku\n
+•	Şirketler hukuku\n
+•	Kıymetli evraklar hukuku\n
+•	Deniz ticareti hukuku\n
+•	Sigorta hukuku\n
+4) Devletler Özel Hukuku: Farklı uyrukta olan kişilerin özel hukuk ilişkilerinde hangi devletin kanunun uygulanacağını düzenleyen özel hukuk dalıdır. Çeşitli devletlere mensup bulunan kişiler ( yani aynı uyrukta bulunmayan) arasındaki özel hukuk ilişkilerine hangi devletin kanunun uygulanacağını içeren kuralların tümüdür. Burada 3 konu önem taşımaktadır. \n
+* Uyrukluk: Kişileri veya şeyleri (uçak, gemi vs) devlete bağlayan hukuki veya siyasi bağdır. Devlete uyrukluk bağı ile bağlı olan kişilere de vatandaş denir. \n
+* Yabancılar Hukuku: Bir devletin kendi vatandaşları için koymuş olduğu kuralların, hakların tamamından yabancılar faydalanamaz. Yabancıların hangi haklardan faydalanacağı yabancılar hukukunun konusudur. \n
+* Kanunlar İhtilafı: Hangi ülkenin kanununun ve hangi ülkenin mahkemesinin yetkili olacağını düzenler. \n
+Karma Hukuk\n
+Kpss genel kültür vatandaşlık dersinde hukukun dallarından sonuncusu da karma hukuk dalıdır. Karma hukuk, karma nitelik kazanmış hukuk dallarının tümüdür. \n
+Karma Hukuk Dalları\n
+1) İş Hukuku: İşçi ve işveren arasındaki ilişkileri düzenleyen hukuk kurallarının tümüdür. \n
+•	Bir hizmet karşılığı herhangi bir işte ücret karşılığı çalışan kimseye işçi denir. \n
+•	İşçi çalıştıran gerçek veya tüzel kişiye işveren, işin yapıldığı yere iş yeri denir. \n
+•	İşçilerin veya işverenlerin çalışma ilişkilerinde ortak ekonomik ve sosyal faaliyetleri korumak için meydana getirdikleri tüzel kişiliğe sendika denir. \n
+* Toplu İş Sözleşmesi: işçi sendikası ile işveren sendikası veya sendika üyesi olmayan işveren arasındaki sözleşmedir. \n
+2010 Anayasa değişikliği ile memurlara ve diğer görevlilerine toplu iş sözleşmesi yapma hakkı tanınmıştır. \n
+2010 Anayasa değişikliği ile aynı zamanda ve aynı iş kolunda birden fazla sendikaya üye olunabilir.
+•	Değişik iş kollarından en az beş sendikanın bir araya gelmesi suretiyle meydana getirdikleri üst kuruluşa konfederasyon denir. \n
+•	İşçilerin ekonomik ve sosyal durumunu düzeltmek için topluca çalışmamak suretiyle faaliyetlerini durdurmalarına grev denir. \n
+Memurların grev hakkı yoktur. \n
+•	İşveren tarafından işçilerin topluca işten uzaklaştırılmasına lokavt denir. \n
+2) Hava Hukuku: Hava trafiği ile ilgili kuralların tümü hava hukukunu oluşturmaktadır.
+3) Toprak Hukuku: Tarıma elverişli taşınmazların hukuki durumlarını ve işletilmesini düzenleyen hukuk kurallarının tümüdür. \n
+4) Fikir ve Sanat Eserleri Hukuku: Fikir ve sanat eserlerini yaratan, bilim ve fen alanındaki buluşları olan kimselerin eserler ve buluşları üzerindeki hakları düzenleyen karma hukuk dalıdır. \n
+5) Uzay Hukuku\n
+Hukukun dallarından özel hukuk ve karma hukuk konuları da sona ermiştir. Bir sonraki kpss vatandaşlık konusu Normlar Hiyerarşisi olacaktır. \n
+    </string>
+    <string name="vtd_normlar">
+
+Normlar hiyerarşisi hukukun yazılı kaynakları arasında bulunan astlık üstlük ilişkileridir. Normlar hiyerarşisi hukukun asıl kaynakları içinde yer alan yazılı kaynakların hiyerarşi sırasını belirterek hangi yazılı kaynakların öncelikli olduğunu göstermektedir.\n
+Normlar Hiyerarşisi\n
+Normal hiyerarşisi Anayasa > Kanun > Tüzük > Yönetmelik > Genelge > Yönerge şeklindeoluşmaktadır. \n
+Milletler arası antlaşmalar, Kanun hükmünde kararnameler ve Meclis içtüzüğü kanunlara eş metin olarak sayılmaktadır. \n
+Anayasa: Kpss vatandaşlık dersinin en yaygın içeriklerinden biri olan Anayasa, bir devletin kuruluşunu, örgütlenişini, temel organlarının işleyişini, devlet iktidarının el değiştirmesini düzenleyen ve kişilerin hak ve özgürlüklerini güvence altına alan kuralların tümüdür. \n
+Dünyanın ilk anayasası, 1787 tarihli ABD anayasasıdır. \n
+Kpss vatandaşlık dersinde bolca karşılaşacağımız Anayasa değerlendirileceği alana göre çeşitli sınıflara ayrılmaktadır. \n
+•	Anayasalar değiştirilmesi bakımından sert anayasa ve yumuşak anayasa olarak ikiye ayrılmaktadır: \n
+Sert Anayasa: Değiştirilmeyecek maddeleri olan anayasalardır. \n
+1924 Anayasası ”Devletin rejimi cumhuriyettir.” Maddesinin değiştirilemeyeceğini belirtmiştir. Sert anayasa örneğidir. \n
+Yumuşak Anayasa: Değiştirilmeyecek maddeleri yoktur. Ayrıca değiştirilmesi için nitelikli çoğunluk aranmamaktadır. Basit çoğunlukla değişiklik kabul edilebilir. \n
+1921 Anayasası tek yumuşak anayasamızdır. \n
+•	Anayasalar ayrıntısı bakımından kazuistik anayasa (ayrıntıcı) ve çerçeve anayasaolarak  ikiye ayrılmaktadır. \n
+1924, 1961 ve 1982 anayasaları ayrıntıcı yani kazuistik anayasalardır. En ayrıntıcı anayasamız ise 1982 Anayasasıdır. \n
+Tek çerçeve anayasamız, yani ayrıntısı çok az olan anayasamız 1921 Anayasasıdır. \n
+•	Son olarak Anayasalar yazılı olması bakımından yazılı ve yazısız anayasa olmak üzere iki başlıkta incelenir. \n
+Yazılı Anayasa: Anayasa içinde olması düşünülebilecek kuralların yetkili bir organ tarafından belirli bir belge içinde toplanmasıdır. Hemen hemen bütün devletlerin anayasaları yazılı anayasadır. \n
+İngiltere anayasaları geleneklere dayanan bir anayasadır. Yazılı anayasalar dışında kalır. \n
+Yazısız Anayasa: Toplum içinde uzun bir süre kesintisiz olarak tekrarlanan ve bağlayıcı olduğuna inanılan uygulamalardan oluşan anayasadır. \n
+Yazısız anayasalar, Teamüli Anayasa ya da Geleneksel Anayasa olarak da adlandırılmaktadır. \n
+Kanun: Normal hiyerarşisi tablosuna göre anayasadan sonra kanun gelmektedir. \n Kanunları TBMM yapar. Kanunları Cumhurbaşkanı onaylar ve resmi gazetede yayımlanır. \n
+Kanunların iptal davası Anayasa Mahkemelerinde görülmektedir. \n
+* Kanunlara Eş Metin Sayılanlar: \n
+Kanun Hükmünde Kararnameler: Kanunlarla, kanun hükmünde kararnameler normlar hiyerarşisi içinde eş değer sayılmıştır. Kanun hükmünde kararname çıkarma yetkisi Bakanlar Kuruluna 1961 Anayasası’nın 1971 – 1973 değişikliğiyle verilmiştir. \n
+Uluslararası Antlaşmalar: Normlar hiyerarşisi içinde uluslararası antlaşmalar kanun ile eş değer sayılmaktadır. Uluslararası antlaşmalar yürütme güçleri (erkleri) tarafından yapılır. TBMM uygun bulur, Cumhurbaşkanı onaylar ve Resmi Gazete’de yayımlanır. \n
+Yürürlükteki temel hak ve özgürlüklere ilişkin uluslararası antlaşmalar ile kanunların aynı konuda farklı hükümler içermesi halinde çıkabilecek uyuşmazlıklarda, uluslararası antlaşma hükümleri esas alınır. \n
+Uluslararası antlaşmalar için yargı yolu kapalıdır. \n
+Süresi bir yılı aşmayan ve Türkiye’ye ekonomik yükümlülük yükleyen uluslararası antlaşmaların TBMM tarafından uygun bulunması şart değildir. \n
+Meclis İçtüzüğü: Kpss genel kültür vatandaşlık dersinde, normlar hiyerarşisi içinde kanunlara eş değer metin sayılan bir diğer madde de meclis içtüzüğüdür. Meclis iç tüzüğü bir parlamento kararıdır. \n
+!Meclis iç tüzüğünde değişiklik yapmak için yürütme teklif vermez, sadece milletvekilleri teklif verebilir. \n
+•	Parlamento Kararı: TBMM’nin kanun yapmak dışındaki tüm kararlarıdır. Bir diğer tanımıyla parlamento kararları, Cumhurbaşkanı onayına gitmeyen meclis kararlarıdır. \n
+TBMM’nin savaş ilanı, erken seçim, ara seçim, hükümete güvenoyu verme, gensoru ya da bakanlığı düşürme, Cumhurbaşkanını yüce divana gönderme, RTÜK üyelerini seçme, Anayasa Mahkemesine üye seçme, Sayıştay başkan ve üyelerini seçme, Meclis başkanını seçme, milletvekilliği düşürme, dokunulmazlığı kaldırma gibi kararlar parlamento kararlarıdır. \n
+Genel af ve özel af ilan etme, para basılmasına karar verme, uluslararası antlaşmaların onaylanmasını uygun bulma kararları parlamento kararları değildir. Çünkü bunlar Cumhurbaşkanı onayına gider. Kısaca püf nokta olarak Cumhurbaşkanı onayına gidiyor mu gitmiyor mu? Bu sorunun cevabı parlamento kararı olup olmadığını açıklamaktadır. \n
+Parlamento kararlarından Meclis içtüzüğü, milletvekilliği düşürme ve dokunulmazlıkları kaldırma gibi kararlara yargı yolu açık, bunlar dışında kalan diğer parlamento kararlarına da yargı yolu kapalıdır. \n
+Tüzükler: Normlar hiyerarşisi sırasına göre kanunlardan sonra gelen tüzükler, kanunların işleyişini göstermek için Danıştayın yargısal denetiminden sonra Bakanlar Kurulu tarafından çıkartılmaktadır. Tüzükleri Cumhurbaşkanı onaylar ve Resmi Gazete’de yayımlanır. Tüzükler bir tarih belirtilmezse yürürlüğe yayımlandıktan 45 gün sonra girer. \n
+Yönetmelikler: Normlar hiyerarşisi içindeki sıraya göre tüzüklerden sonra yönetmelikler gelmektedir. Yönetmelikler anayasal olarak, Başbakanlık, bakanlıklar ve kamu tüzel kişileri kendi görev alanını ilgilendiren kanunların ve tüzüklerin uygulanmasını sağlamak amacıyla çıkartılır. \n
+Bakanlar kurulu da yönetmelik çıkartabilmektedir ancak bu anayasada belirtilmemiştir. \n
+Hangi yönetmeliğin Resmi Gazete’de yayımlanacağını kanunlar belirler. Dolayısıyla her yönetmelik Resmi Gazete’de yayınlanacak diye bir şey yoktur. Genel olarak toplumun genelini ilgilendiren yönetmelikler Resmi Gazete’de yayımlanmaktadır. \n
+Yönetmelik davalarına eğer ülkeyi ilgilendiriyorsa Danıştay, bölgeyi ilgilendiriyorsa Bölge İdare Mahkemesi bakar. \n
+Genelge ve Yönerge: Normlar hiyerarşisinde yönetmelikten sonra genelge, genelgeden sonra ise son olarak yönergeler gelmektedir. Genelge ve Yönergeler Anayasada düzenlenmemiştir. \n
+Kpss genel kültür vatandaşlık dersine ait Normlar Hiyerarşisi konusu tamamlanmıştır. Bir sonraki kpss vatandaşlık konusu Müeyyide (Yaptırım) Kavramı olacaktır. \n
+    </string>
+    <string name="vtd_yaptitirim">
+
+Yaptırım (müeyyide), toplumsal hayatı düzenleyen kurallara uyulmadığında karşılaşılan tepkidir. Hukuk kurallarına uyulmadığı takdirde devlet tarafından yaptırım yani müeyyide uygulanır. Yaptırım türleri maddi müeyyide ve manevi müeyyide olarak ikiye ayrılmaktadır. Kpss vatandaşlık konuları içinde yer alan bu konu birçok kavramı da beraberinde getirmektedir.\n
+Yaptırım Türleri\n
+1) Maddi Müeyyide: Hukuk kurallarına uyulmadığında devlet tarafından uygulanan kamu gücünü belirtmektedir. \n
+a) Ceza: Yasayı çiğneyen kişiye, yöntemine göre mahkemelerce uygulanan yaptırımdır. Bir diğer deyişle, Türk Ceza Kanunu’nun ihlali sonucu karşılaşılan yaptırım türüdür. Kpssaçısından önemli olan ceza kavramının da türleri bulunmaktadır. \n
+•	Ölüm Cezası: Ölüm cezasının alanı 2002 yılında ”savaş, savaş tehdidi ve terör suçları” olarak daraltılmıştır. 2004 yılında imzalanan ”ölüm cezasının her koşulda kaldırılmasına ilişkin 13 no’lu protokol” , 2006 yılında onaylanma işlemleri tamamlanmış ve yürürlüğe konulmuştur.
+Ülkemizde artık ölüm cezası yoktur. \n
+•	Hapis Cezası: Ömür boyu hapis cezası (müebbet) ve süreli hapis cezası şu anda ülkemizde uygulanan hapis cezalarıdır. \n
+•	Disiplin Cezası: Belirli statüdeki kişilerin çarptırılabileceği ceza türüdür. ( Öğretmen, öğrenci, memur vs.) Disiplin cezaları uyarma, kınama, aylıktan kesme, kademe ilerlemesinin durdurulması ve devlet memurluğundan çıkarma gibi cezalardan oluşur. \n
+Devlet memurluğundan çıkarma ile meslekten men cezası birbirinden farklı kavramlardır. Devlet memurluğundan çıkarılsanız dahi mesleğinizi icra edebilirsiniz. Ancak men edilirseniz mesleğinizi yerine getiremezsiniz. \n
+•	Kamu Haklarından Men Cezası: Memur olamama, seçme ve seçilme hakkını kullanamama gibi yaptırım türleridir. \n
+•	Adli Para Cezası\n
+b) Cebri İcra: Maddi yaptırım türleri içinde bulunan cebri icra, kişilerin yapmakla yükümlü olduğu durumlarda, davranışlarını yerine getirmediyse bu davranışın kamu gücü uygulanarak zorla yerine getirilmesidir. Başka bir deyişle cebri icra, bir borç ilişkisinde borcunu rızası ile yerine getirmeyen borçlunun, devlet gücü aracılığıyla bu borcunun zorla yerine getirilmesini sağlayan bir yaptırım çeşididir. \n
+Askerlik, vergi, haciz, nafaka vs cebri icra örnekleridir. \n
+c) Tazminat: Hukuka aykırı olarak, başkalarına verilen zararın ödetilmesi biçimindeki yaptırım türüdür. Bir kimsenin hukuka aykırılık teşkil eden kusurlu bir davranışı sonucu başkasına zarar verdiyse, zararı veren kişiye ödettirilmesi durumudur. Tazminat türleri de kendi içinde ikiye ayrılır. \n
+•	Maddi Tazminat: Mal varlığına yönelik olarak parasal açıdan zarar vermektir. Mutlak olarak zarar para ile giderilmektedir. \n
+•	Manevi Tazminat: Kişilik hakları, vücut bütünlüğü gibi para ile ölçülemeyen değerlere verilen zarardır. Bu zarar para ile giderilebileceği gibi her zaman para da olmayabilir. (Özür, tekzip vs.)
+d) İptal: Hukuk kurallarına aykırı bir biçimde yapılmış olan idari işlemin ortadan kaldırılmasıdır. Aykırı olan idari işlemin geçersizliği mahkeme tarafından tespit edilir ve ortadan kaldırılır. \n
+İki kişi arasında yapılmış olan sözleşmenin ortadan kaldırılmasına fesih denir.İptal işleminde ise ortada devlet vardır. Kpss soruları açısın bu ayırıma dikkat edelim. \n
+d) Hükümsüzlük: Hukuka ters bir şekilde yapılan işlemin kanunun öngördüğü şekilde yapılmaması sonucu veya kanuna aykırı olarak yapılması sonucu hukuki işlem yetkisinin doğmamasıdır. Hukuki işlemleri, hukukun aradığı şekilde yapmalıyız. Aksi durumlarda hükümsüzlük ortaya çıkar. Yapılan bu işlem sonuç doğurmaz, sakattır. Hükümsüzlük türleri üçe ayrılmaktadır. \n
+•	Yokluk: Hukuki işlemin hiç oluşmaması halidir. Yani hukuksal işlemin kurucu unsuru eksiktir.
+!İmam nikahı, imzasız senet vs yokluk kavramına örnektir. \n
+•	Butlan: Kpss genel kültür vatandaşlık konuları içinde karıştırılan kavramlardan birisi olan butlan, yapılan hukuksal işlemin kurucu unsurları yapılmış olsa da, içeriğinde yani konusunda hukuka aykırılık olması durumudur. Yani hukuken işlem var, doğmuştur ama sakattır. \n
+•	Mutlak Butlan: Akıl hastası bir kimsenin evlenmesi. \n
+•	Nispi Butlan: Sarhoşluk anında evlenilmesi. \n
+•	Tek Taraflı Bağlamazlık: Yapılan hukuki işlemin taraflardan birisi için geçerli olmaması halidir. \n
+18 yaşından küçük biriyle, reşit olan bir kişinin aralarında yaptıkları sözleşmenin hükümleri, 18 yaşından küçük kişiyi bağlamaz ama karşı tarafı bağlar. Ancak yapılan sözleşmeye velisi veya kanuni temsilcisi onay vermişse her iki tarafı da bağlar. Onay verilmemiş ise her iki tarafı da bağlamaz. \n
+Küçüğün yapmış olduğu sözleşme anından, velisinin / kanuni temsilcisinin onay vermesine kadar arada geçen süreye askı süresi denir. \n
+2) Manevi Müeyyide: Yaptırım türleri içinde bir diğer müeyyide türü de manevi müeyyidedir. Manevi müeyyide türleri ayıplanma, kınama, günahkar sayılma şeklindedir. Din, görgü ve ahlak kurallarına uyulmadığında uygulanan yaptırım türüdür. \n
+Manevi müeyyide toplum tarafından uygulanan bir yaptırım türüdür. \n
+Yaptırım (Müeyyide) Unsurları\n
+•	Müeyyide hukuk kuralının ihlaline tepki olarak gösterilir. \n
+•	Müeyyidenin özünde cebir yani zorlama vardır. \n
+Cebir kişinin yaşamına, sağlığına, özgürlüğüne, mal varlığına verilen bir zarardır. \n
+•	Cebir sadece hukuk düzeni tarafından öngörülür. \n
+Kpss genel kültür vatandaşlık dersine ait Yaptırım (Müeyyide) konusu tamamlanmıştır. Bir sonraki kpss vatandaşlık konusu Hak Kavramı olacaktır. \n
+    </string>
+    <string name="vtd_hak_kavrami">
+
+Hak kavramı ve hakların korunması konusu kpss vatandaşlık konu anlatımı dahilindedir. Bu bölümde hak kavramı ve hakların korunmasını incelerken hakları doğuran olaylar ile hakların kazanılması konularına da değineceğiz.\n
+Hak Kavramı\n
+Hak kavramı, hukuk düzeninin kişilere tanıdığı yetkilere ve kişilerin hukuk düzeni tarafından korunan menfaatlerine denir. Hukuk kelimesi de hak kelimesinden türetilmiştir. Kpss vatandaşlık konusu içinde yer alan hak kavramı bir başka tanımla, hukuk tarafından tanınan ve korunmasını isteme hususunda ferdin yetkili sayıldığı menfaattir. \n
+Hakları Doğuran Olaylar\n
+Kpss vatandaşlık konusu içinde hakları doğuran olaylar 3 terimler açıklanabilir.
+Hukuki Olay: Gerek insan iradesi gerekse irade dışında meydana gelen, hukuk düzeninin kendilerine hukuki sonuç bağladığı olaylardır. \n
+Örneğin ölüm, ölen kişinin haklarını kaybetmesine sebep olurken, mirasçılarına hak kazandırabilir. \n
+Hukuki Fiil: Hukukun sonuç bağladığı insan davranışlarına denir. Hukuki olayın insan iradesi ile gerçekleşeni diyebiliriz. \n
+İkametgah. \n
+Hukuki İşlem: Bir ya da birden fazla kişinin hukuki sonuç elde etmek üzere irade açıklamasında bulunmasıdır. \n
+Evlenme. \n
+Hakların Kazanılması\n
+Bir hakkın kişiye bağlanması, bir hak ile kişi arasında bağlantı kurulmasını ifade eder. \n
+Aslen Kazanma: Kimseye ait olmayan bir hakkın bir kişi tarafından kazanılmasıdır. \n
+Nehirde tutulan balık. Velayet hakkı gibi. \n
+Devren Kazanma: Hakkın hukuki bir işlemler ya da miras yoluyla bir kişiden başka bir kişiye geçmesidir. \n
+Hakların kazanılmasında geçerli olan ilke İyi Niyet (Subjektif iyi niyet)’tir. \n
+İyi Niyet (Subjektif İyi Niyet): bir hakkın kazanılabilmesi için gerekli bir şartın yokluğunun ya da hakkın kazanılmasına engel bir sebebin varlığının haklı bir sebeple bilinmemesidir. \n
+Dürüstlük Kuralı (Objektif İyi Niyet): Bir hak sahibinin hakkını kullanırken ya da borçlarını yerine getirirken iyi, doğru, dürüst, makul, mantıklı, orta zekalı, aklı başında bir kimse gibi hareket etmesidir. \n
+Hakların Korunması\n
+Kpss genel kültür vatandaşlık dersinde Hak kavramı ile beraber işleyeceğimiz hakların korunması, kural olarak devlet tarafından gerçekleştirilir. Buna hakların kamu gücü ile korunması denir. Ancak bazı durumlarda kişiler haklarını bizzat kendileri de korumak zorunda kalabilir. \n
+Meşru Müdafaa: Bir kimsenin kendi şahsına veya malına yapılan hukuka aykırı ve halen devam eden bir saldırıyı önlemek için yaptığı ölçülü karşı saldırıya meşru müdafaa denir. \n
+Zaruret Hali (Iztırar): Kendisini veya başkasını bilerek sebebiyet vermediği zarardan veya derhal oluşabilecek tehlikeden kurtarmak için başkalarının mallarına zarar vermektir. \n
+Kuvvet Kullanma: Hakkın kaybolma tehlikesi mevcutken ve o anda hükümet güçlerine başvurmanın imkansız bulunması durumunda bir kimsenin hakkını bizzat kuvvete başvurarak korumasıdır. \n
+Kpss genel kültür vatandaşlık dersine ait Hak Kavramı ve Hakların Korunması konusu tamamlanmıştır. Bir sonraki kpss anayasa dersinin konusu Kamu Hakları ve Özel Haklar olacaktır. \n
+    </string>
+    <string name="vtd_kamu_haklari">
+
+Kamu hakları ve özel haklar kpss vatandaşlık dersinde hakkın türleri içinde işlenmektedir. Hakkın türleri kamu hakları ve özel haklar olarak 2 alt başlıkta incelenmektedir. Kamu hakları da özel nitelikli kamu hakları ve genel nitelikli kamu hakları olarak ikiye ayrılmaktadır. Öncelikle kamu haklarını inceleyelim.\n
+Kamu Hakları\n
+Kpss vatandaşlık dersinde hakkın türleri içinde kamu hakları 2’ye ayrılmaktadır.
+Özel Nitelikli Kamu Hakları: Belli kişilerle kamu kuruluşlarındaki ilişki sonucu olarak ortaya çıkan haklardır. \n
+Memurun doğum izni, yıllık izi gibi haklar. \n
+Genel Nitelikli Kamu Hakları: Vatandaşlara sağlanan haklardır. 3 başlık halinde incelenmektedir. \n
+•	Kişi Hakları: Özel hayatın gizliliği, din ve vicdan özgürlüğü vs. \n
+•	Sosyal ve Ekonomik Haklar: Sendika kurma hakkı, konut hakkı, eğitim ve öğrenim hakkı gibi haklardır. \n
+•	Siyasal Haklar: Türk vatandaşlığı hakkı, dilekçe hakkı, vergi ödevi gibi. \n
+Özel Haklar\n
+Kpss vatandaşlık dersinde yer alan özel haklar, özel hukuktan doğan haklardır. Kişiler ile kişiler arasındaki ilişkileri düzenleyen hukuk kurallarından doğan haklardır. Bu haklara medeni haklar da denir. \n
+Mahiyetlerine Göre Haklar: Mutlak haklar ve nisbi haklar olmak üzere ikiye ayrılır. \n
+•	Mutlak Haklar: Herkese karşı ileri sürülebilen haklardır. \n
+Eşya üzerindeki ayni haklar, ya da sanatçının yapıtı üzerindeki fikri haklarmutlak haklardır. \n Nisbi Haklar: Sadece ilişkide bulunduğumuz diğer kişiye karşı ileri sürülebilen haklardır.
+Alacaklı borçlu ilişkisinde, alacaklının borçludan alacağını isteme hakkı buna örnektir. \n
+Konularına Göre Haklar: \n
+•	Mal Varlığı Hakları: Para ile ölçülebilen , kişilerin maddi menfaatlerini koruyan haklardır. \n
+Telif Hakkı, alacak hakkı vs. \n
+•	Kişilik Hakları: Para ile ölçülemeyen, kişilerin manevi menfaatlerini koruyan haklardır. \n
+Bir kişinin şerefi, haysiyeti, ismi, resmi vb. \n
+Kullanımlarına Göre Haklar: \n
+•	Devredilebilen Haklar: Başkalarına devri veya intikali mümkün olan haklardır. \n
+Mal varlığı hakları, mülkiyet hakkı vs. \n
+•	Devredilemeyen Haklar: Kişilik hakları, oturma hakkı, nafaka hakkı gibi devredilemeyen haklardır. \n
+Amaçlarına Göre Haklar: \n
+•	Yenilik Doğuran Haklar: Kullanılmalarıyla mevcut hukuki durumu etkiler. 3’e ayrılmaktadır. \n
+1.	Kurucu Yenilik Doğuran Haklar: Bu hakların kullanılması ile daha önce mevcut olmayan bir hak kazanılır. \n
+Satış sözleşmesi gibi. \n
+2.	Değiştirici Yenilik Doğuran Haklar: Bu hak kullanıldığında var olan durumda değişiklik yapan haklardır. \n
+Defolu bir malı değiştirmek gibi. \n
+3.	Bozucu Yenilik Doğuran Haklar: Kullanıldığında var olan durumu ortadan kaldıran haklardır. Daha önce mevcut olan hukuksal bir durum ortadan tamamen kalkar. \n
+Fesih, askerlik dolayısıyla işe devam edememe gibi. \n
+•	Yenilik Doğurmayan Haklar: Alelade haklar da denilen bu hakların kullanılması sonucu yeni bir hukuksal sonuç doğmaz. \n
+Velayet gibi. \n
+Kpss genel kültür vatandaşlık dersine ait kamu hakları ve özel haklar konusu tamamlanmıştır. Bir sonraki kpss vatandaşlık konusu Devlet Sistemleri ve Hükümet Sistemleri olacaktır. \n
+    </string>
+    <string name="vtd_devlet_sistemi">
+
+Devlet sistemleri kpss vatandaşlık dersi içinde yer almaktadır. Kpss sorularında da ara ara çıkan bu konu ile ilgili ayrıntıları bu bölümde işleyeceğiz. Devlet tanımı, devlet sistemleri, egemenlik anlayışına göre devlet çeşitleri ve hukuk kaynağı bakımından devlet türleri bu bölümde aktarılmıştır.\n
+Devlet Sistemleri\n
+Devlet, belli toprak parçası üzerinde yaşayan insanların oluşturdukları, örgütlenmiş en üst siyasi otoritedir. Diğer bir tanımla da devlet, bir insan topluluğunun, bir toprak parçası üzerinde egemenlik kurmasıyla oluşmuş bağımsız hukuki varlıktır. \n
+Devlet kurmak için Ulus (Halk-Millet), Vatan (toprak) ve Egemenlik (güç, otorite) gibi 3 temel unsur gereklidir. \n
+Yapılarına Göre Devlet Sistemleri\n
+Kpss vatandaşlık konusu içinde yapılarına göre devlet sistemleri tekli devlet (tek yapılı) ve çoklu devlet (karma yapılı) olarak ikiye ayrılmaktadır. \n
+1) Tekli Devlet (Tek Yapılı) \n
+•	Üniter Devlet: Devleti oluşturan unsurların birliğine ve tekliğine dayanır. Tek merkezden yönetilen, ülkenin her tarafında aynı hukuk kurallarının geçerli olduğu devlet şeklidir. \n
+Türkiye, İngiltere, İtalya, Fransa, Yunanistan ve İsveç gibi ülkeler üniter devlet yapısına sahiptir. \n
+•	Bölgeli Devlet: Ülkenin ve milletin bölünmez tekliği içinde, bölgesel özerkliğin tanındığı devlet türüdür. \n
+İspanya’daki Bask Bölgesi buna örnek verilebilir. Bknz Bask Bölgesi\n
+2) Çoklu Devlet (Karma Yapı) \n
+•	Federasyon (Federal Devlet): Kendi iç yapılarında bağımsız, dışarıya karşı ise aynı hukuk kurallarına tabi olan birden fazla devletten oluşan devlet şeklidir. \n
+ABD, Almanya, Kanada gibi ülkeler federal yapıya sahiptir. \n
+•	Konfederasyon (Konfederal Devlet): Birden fazla devletin varlıklarını korumak şartıyla, özellikle savunma gibi belirli bir amaç çerçevesinde oluşturdukları topluluklardır. \n
+Avrupa Birliği bir konfederasyondur. \n
+Egemenlik Anlayışına Göre Devlet Sistemleri\n
+1) Monarşi: Devlet başkanının soya bağlı olarak geçtiği devlet biçimidir. Mutlak ve meşruti (anayasalı) monarşi olarak ikiye ayrılmaktadır. \n
+Krallık, padişahlık monarşiye örnektir. \n
+2) Oligarşi: Egemenliğin bir grup ya da zümre tarafından kullanıldığı devlet sistemidir. \n
+Suriye oligarşidir. \n
+3) Meşrutiyet: Kral ya da padişahın yanında halkın da devlet yönetimine katılmasıdır. \n
+1876 -1878 yılları arasında ve 1908’den donra Osmanlı da meşrutiyetle yönetilmiştir. \n
+4) Demokrasi: Halkın kendi kendini yönettiği devlet şeklidir. Bir sonraki konuda demokrasi kavramı ayrıntılarıyla işlenecektir. \n
+Hukuk Kaynağı Bakımından Devlet Çeşitleri\n
+Kpss devlet sistemleri konusundaki son başlık devletin hukukun kaynağı bakımından incelenmesi olacaktır. \n
+1) Laik Devlet: Devlet yönetiminde dini kuralların yer almamasıdır. \n
+Türkiye, Fransa gibi ülkeler buna örnektir. \n
+2) Teokratik Devlet: Din kurallarına dayalı devlet şeklidir. \n
+İran, İsrail gibi devletler teokratik devlettir. \n
+Kpss genel kültür vatandaşlık dersine ait devlet sistemleri konusu tamamlandı. Bir sonraki kpss vatandaşlık konusu Demokrasi ve Demokrasi Çeşitleri olacaktır. \n
+    </string>
+    <string name="vtd_demokrasi">
+
+Demokrasi ve çeşitleri kpss vatandaşlık dersine ait, özellikle ülkemizdeki bireylerin de bilmesi gereken temel özelliklere sahip bir konudur. Vatandaşlık dersinin bu bölümünde demokrasinin tanımını ,araçlarını ve demokrasinin çeşitlerini irdeleyeceğiz.\n
+Demokrasi\n
+Kpss vatandaşlık dersinde yer alan demokrasi, kısa bir tanımla halkın kendi kendini yöntemesidir. Demokraside meclisin olması şart değildir. Bu önemli bir ayrıntıdır. Doğrudan demokraside görüldüğü gibi halk kendini meclis olmadan da doğrudan yönetebilmektedir. \n
+5 temel ilkeye dayanır. Bu ilkeler olmadan demokratikleşmeden bahsedilemez. \n
+•	Eşitlik\n
+•	Özgürlük\n
+•	Milli Egemenlik\n
+•	Çoğulculuk (Çok Particilik) \n
+•	Temel hak ve hürriyetlerin güvenliği\n
+Demokrasinin Araçları\n
+1) Parlamento (Meclis): Halkı temsilen bir meclis seçilir. \n
+2) Belli Aralıklarla Yapılan Seçim: Meclisin seçimlerle yenilenmesidir. Anayasamızın siyasi haklar ve ödevler kısmında seçim ilkeleri sayılmıştır. Bunlar; \n
+•	Serbest Oy: Oyların özgürce kullanılmasıdır. \n
+•	Genel Oy: Servet, vergi, öğrenim durumu ve cinsiyet gibi sınırlamalar olmaksızın bütün vatandaşların oy hakkına sahip olmasını ifade eder. \n
+•	Gizli Oy – Açık Sayım: Oyların gizli kullanılması ve herkese açık olarak sayılmasıdır. \n
+İlk olarak 1948 yılında kabul edilmiştir. 1950 seçimlerinde de ilk kez uygulanmıştır. \n
+•	Eşit Oy: Her seçmenin bir tek oya sahip olması anlamına gelmektedir. \n
+•	Tek Dereceli Seçim: Seçmenlerin temsilcilerini doğrudan seçmelerini ifade eder. \n
+İlk olarak 1946 yılında ülkemizde tek dereceli seçime geçilmiştir. \n
+3) Çoğunlukçuluk: Çoğunluğun dediğinin yerine getirilmesidir. Demokrasinin olmazsa olmazı değildir. \n
+Ülkemizde daha az oy alan partilerin azınlık hükümeti kurması buna örnek teşkil eder. \n
+Demokrasi Çeşitleri\n
+Kpss vatandaşlık dersinde demokrasinin çeşitleri 3 tanedir. \n
+1) Doğrudan Demokrasi: Halkın tamamının alınan kararlarda etkili olmasıdır. Doğrudan demokraside meclis yoktur. Bu sebeple uygulanması zordur. Zenginlik ve nüfus azlığı ister. \n
+2) Yarı Doğrudan Demokrasi: Temsilciler olmasına rağmen halkın da alınan kararlarda etkili olmasıdır. \n
+•	Referandum: Parlamento tarafından kabul edilen veya kabul edilecek olan bir kanunun halkın onayına sunulmasıdır. Türkiye’deki referandumlar : \n
+1.	1961 Anayasası’nın yürürlüğe girmesi. \n
+2.	1982 Anayasası’nın yürürlüğe girmesi. \n
+3.	1987 yılında siyasi yasaklıların yasağı kalksın mı? Diye yapılan referandum. \n
+4.	1988 yılında seçimlerle genel seçimler birleşsin mi? Diye yapılan referandum. \n
+Tek ”Hayır” olarak çıkan referandum budur. \n
+5.	2007 Anayasa değişikliği referandumu. \n
+6.	2010 Anayasa değişikliği referandumu. \n
+•	Halk Vetosu: Halkın referandum yapılması konusunda girişimde bulunmasıdır. Kısaca halkın referandum isteğidir. \n
+•	Halk Teşebbüsü: Halkın belli sayıda imza toplayarak belli bir konuda yasa çıkarması için veya yasalarda değişiklik yapılması için yasama organını harekete geçirmesidir. \n
+•	Temsilcilerin Azli: Halkın çalışmalarından memnun kalmadığı temsilcilerini görevden almasına imkan veren bir yöntemdir. \n
+3) Temsili Demokrasi: Halkın, kendi seçtiği temsilciler tarafından idare edilmesidir. \n
+Türkiye, temsili olmasına rağmen zaman zaman yarı doğrudan demokrasinin aracı olan referandumu da uygulamaktadır. \n
+Kpss genel kültür vatandaşlık dersine ait bu konu da tamamlanmıştır. Bir sonraki kpssanayasa konusu Hükümet Sistemleri olacaktır. \n
+    </string>
+    <string name="vtd_demokrasi_sistemleri">
+
+Hükümet sistemleri kpss vatandaşlık konuları içinde demokratik hükümet çeşitleri başlığında incelenmektedir. Hükümet sistemleri başkanlık sistemi, yarı başkanlık sistemi, parlamenter sistem ve meclis hükümeti sistemi olarak 4 başlık halinde ele alınmaktadır. Bu bölümde Hükümet sistemleri ve özelliklerini işlemekteyiz.\n
+Hükümet Sistemleri\n
+Kpss vatandaşlık dersindeki demokratik hükümet sistemleri 4’e ayrılmaktadır.
+1) Başkanlık Sistemi: Kuvvetler birbirinden kesin ve katı bir biçimde ayrılmıştır. Yürütme tek kanatlıdır ve devlet başkanını halk seçer. Devlet başkanının siyasi partisiyle ilişiği kesilmez. \n
+ABD ve Brezilya gibi ülkeler başkanlık sistemini kullanırlar. \n
+2) Yarı Başkanlık Sistemi: Devlet başkanı ve bakanlar kurulundan oluşan yürütme organı iki başlıdır. Devlet başkanını halk seçer. Yarı başkanlık sisteminde yumuşak kuvvetler ayrılığı vardır. Özellikle dış politikada devlet başkanı etkilidir. \n
+Fransa, Rusya, İran yarı başkanlık sistemine örnek teşkil eder. \n
+3) Parlamenter Sistem: Yürütme iki kanatlıdır ve devlet başkanını meclis seçer. Yumuşak kuvvetler ayrılığı vardır. İç ve dış politikalarda Başbakan etkilidir. \n
+İtalya parlamenter sistemdir. \n
+4) Meclis Hükümeti Sistemi: Yürütme tek kanatlı olmakla beraber, yasama ve yürütme mecliste toplanmıştır. Meclis başkanını meclis seçer. Bakanları da tek tek meclis seçer. Buna karşın bakanlarında meclise karşı bireysel sorumlulukları vardır. \n
+Yürütme vardır, meclis üstünlüğü söz konusudur. \n
+İsviçre meclis hükümeti sistemi içindedir. \n
+Demokratik Hükümet Sistemleri Özellikleri\n
+1) Kuvvetler Ayrılığı: Yasama, yürütme ve yargının birbirinden ayrılmasıdır. \n
+•	Sert Kuvvetler Ayrılığı (Erkler): Erkler, yani güçler sert bir şekilde ayrılmıştır. Yasama yürütmeyi, yürütme de yasamayı feshedemez. Bir kişi hem yasamada hem de yürütmede görev alamaz. \n
+Başkanlık sistemi buna örnektir. \n
+•	Yumuşak Kuvvetler Ayrılığı: Erkler birbirine müdahale edebilir. Bir kişi hem yasamada hem de yürütmede yer alabilir. Milletvekili aynı zamanda Başbakan ya da bakan olabilir. \n
+Parlamenter sistemde olduğu gibi yasama gensoru ile hükümetin görevine son verebilir. \n
+2) Yürütmenin Sayısına Göre: \n
+•	Tek Başlı (Kanatlı) Yürütme: Devlet başkanı aynı zamanda hükümetin de başkanıdır. \n
+•	İki Başlı (Kanatlı) Yürütme: Devlet başkanının yanında Başbakan başkanlığında hükümetin olmasıdır. \n
+Türkiye iki kanatlı yürütmeye 1921 Anayasası’nın 1923 değişikliği ile geçmiştir. \n
+3) Devlet Başkanının Seçilmesi: \n
+•	Halk Seçer\n
+•	Meclis Seçer\n
+Türkiye’de 2007 yılına kadar devlet başkanını meclis seçmekteydi. 2007 anayasa değişikliği ile halkın seçmesi karara bağlanmıştır. 11. Cumhurbaşkanı Abdullah Gül’ü TBMM seçmiştir. \n
+Kpss genel kültür vatandaşlık dersine ait Hükümet Sistemleri ve Özellikleri konusu tamamlanmıştır. Bir sonraki kpss vatandaşlık konusu Anayasa Hukuku Gelişimi olacaktır. \n
+    </string>
+    <string name="vtd_anayasa_hukuku">
+
+Anayasa Hukuku ve Türk Anayasa Tarihi konusu genel kültür vatandaşlık dersinde işlenmektedir ancak tabi ki bu konular Tarih dersi içinde de ele alınmaktadır. Önceki konumuzda kpssvatandaşlık dersi konusu olan Hükümet Sistemleri konusundan başkanlık sistemi, yarı başkanlık sistemi, parlamenter sistem ve meclis hükümeti sistemi gibi başlıkları incelemiştik. Sıradaki kpss vatandaşlık dersi konumuzda ise Anayasa HukukuGelişimini inceleyeceğiz.\n
+Anayasa Hukuku ve Türk Anayasa Tarihi\n
+ Türk Anayasa Tarihi\n
+Sened-i İttifak – 1808\n
+Tanzimat Fermanı – 1839\n
+Islahat Fermanı – 1856\n
+I.Meşrutiyet  – 1876\n
+II.Meşrutiyet – 1909\n
+Teşkilat-ı Esasiye – 1921\n
+1924 Anayasası – 1924\n
+1961 Anayasası – 1961\n
+1982 Anayasası – 1982\n
+A) Sened-i İttifak\n
+Osmanlı devleti kendi başlarına göre hareket eden ayanları kontrol altına almayı amaçlamıştır. Anayasalcılık hareketi bu belge ile başlar. II.Mahmut döneminde düzenlenmiştir. Sözleşme biçimde ilan edilmiştir. Osmanlı devleti ayanları tanıyarak hukukileştirmiştir. Padişahın yetkileri sınırlandırılmıştır. \n
+Manga Carta’ya benzemektedir. \n
+Sened-i İttifak bir anayasa değildir fakat anayasal bir belge niteliği taşımaktadır. \n
+B) Tanzimat Fermanı\n
+Osmanlı uyruğunda bulunan bütün vatandaşlara eşit haklar vermek ve Avrupa desteğini almak amacı ile çıkarılmıştır. Devlet harcamalarının kanunlara dayandırılması hükmü karara bağlanmıştır. \n
+Türklerin ilk haklar beyannamesi olarak kabul edilir. \n
+Halkın gelirine göre vergi vermesi ve askerlik işleri düzenlenmiştir. Abdülmecit bu esaslara uyacağına dair söz vermiştir. Kanun gücü ilkesi benimsenmiştir. Avrupa hukuk kuralları geçerli olmaya başlamıştır. Herkesin can, mal, ırz güvenliğinin düzene kavuşturulması kararı alınmıştır. Padişah yetkileri sınırlandırılmış, anayasalcılığa ve demokrasiye atıla ilk adım olmuştur. Bir anayasa taslağı olarak kabul edilir. Hukuki açıdan sadece bir ferman niteliğindedir. \n
+C) Islahat Fermanı\n
+Yabancı devletlerin Osmanlının iç işlerini karışmasını engellemek ve azınlıkların ayaklanmasını önlemek amacıyla çıkarılmıştır. Ferman biçiminde ilan edilen bu belge Müslümanlar ile Gayrimüslimler arasındaki tam eşitliği sağlamaktır. Gayrimüslimlere küçük düşürücü sözler söylenmesi yasaklanmıştır. Cizye ve iltizam kaldırılmış yabancılara mülk dinme hakkı getirilmiştir. İşkence ve kötü muamele yasaklanmıştır.azınlıklara Türk okullarında veya kendi dinlerinde eğitim yapan okullarda okuma özgürlüğü tanınmıştır. \n
+D) I. Meşrutiyetin İlanı (Kanun-i Esasi) \n
+Anayasa Hukuku ve Türk Anayasa Tarihi konusunda önemli bir yere sahip olan 1. Meşrutiyetin İlanı yani Kanun-i Esasi, Osmanlı devletinin dağılmasını engellemek amacı ile çıkarılmıştır. II. Abdülhamit tarafından kabul ve ilan edilmiştir. \n
+Kanun-i Esasi ilk yazılı anayasamızdır. \n
+ Prusya ve Belçika anayasaları esas alınarak yazılmıştır. Halk ilk defa sınırlı da olsa seçme ve seçilme hakkı kullanmıştır. Yasama ve yürütme padişahın elinde toplanmıştır. Yasama dokunulmazlığı ve yüce divan ilk kez bu anayasa ile düzenlenmiştir. I. Meşrutiyetin ilanında Osmanlıcılık ve Batıcılık etkili olmuştur. \n
+E) II. Meşrutiyetin İlanı\n
+II. Abdülhamit zamanında ilan edilmiştir. Padişah yetkileri daraltılmış ve Mebusan meclisinin yetkileri arttırılmıştır. Padişahın sürgün yetkisi kaldırılmış ve basına sansür yasağı koyamayacağı belirlenmiştir. Değişiklikler sonucunda bir meşruti monarşi anayasası haline gelmiştir. Parti kurma hakkı getirilerek çok partili hayata geçiş sağlanmıştır. \n
+Kpss genel kültür vatandaşlık dersine ait Anayasa Hukuku Gelişimi ile Türk Anayasa Tarihinin bir bölümünü işledik. Bir sonraki kpss vatandaşlık dersi konumuz Türkiye Cumhuriyetinin Anayasaları olacaktır. \n
+    </string>
+    <string name="vtd_21Anayasasi">
+
+1921 Anayasası (Teşkilatı Esasiye) ve 1924 Anayasası başlıkları Türkiye Cumhuriyeti Anayasaları Bölüm 1’de işlenecektir. Konumuzda Cumhuriyet dönemi anayasalarının bir bölümünü inceleyeceğiz. Önceki konumuzda kpssvatandaşlık dersi konusu olan Anayasa Hukuku Gelişimi konusunu inceledik. Sıradaki kpss vatandaşlık dersi konumuzda ise Türkiye Cumhuriyeti Anayasaları Bölüm 1’den 1921 Anayasası (Teşkilatı Esasiye) ve 1924 Anayasası konularını irdeleyeceğiz.\n
+Türkiye Cumhuriyeti Anayasaları Bölüm 1\n
+A) 1921 Anayasası (Teşkilatı Esasiye) \n
+Türkiye Cumhuriyeti Anayasalarından 1876 anayasası henüz yürürlükten kaldırılmadığı için bu anayasa 24 maddeden oluşmuştur. En kısa ve özlü anayasadır. Anayasanın en önemli özelliği saltanat ve mutlak monarşi ile bağdaşmayacak olan milli egemenlik ilkesinin dile getirilmesidir. Bu Türkiye Cumhuriyeti Anayasalarından 1921 anayasası ile oluşturulan hükümet sistemi meclis hükümeti sistemidir. \n
+•	“Egemenlik kayıtsız şartsız milletindir.” İlkesi benimsenmiştir. \n
+•	“GÜÇLER BİRLİĞİ” ilkesi benimsenmiştir. \n
+•	Meclis hükumeti sistemi ile yasama, yürütme ve yargı gücü TBMM’nin elindedir. \n
+•	Hükümetin doğal başkanı aynı zamanda meclis başkanıdır. \n
+•	Hükümet meclisin denetimindedir. \n
+•	Seçimler iki yılda bir yapılır. \n
+•	Seçmen yaşı 18’dir. \n
+•	Çift dereceli seçim sistemi hakimdir. \n
+•	Yerinden yönetim ilkesi benimsenmiştir. \n
+1921 Anayasasının 1923 Değişikleri\n
+•	Türkiye devletinin hükümet şekli Cumhuriyettir. \n
+•	Cumhurbaşkanı milletvekilleri tarafından bir dönemlik seçilecektir. \n
+•	Cumhurbaşkanının görev süresi 4 yıldır. \n
+•	İkinci kez seçilebilmesi mümkündür. \n
+•	Başbakan, Cumhurbaşkanı tarafından milletvekilleri arasından seçilecektir. \n
+•	Bakanlar ise Başbakan tarafından meclis üyeleri arasından seçilip, Cumhurbaşkanınca meclis onayına sunulacaktır. \n
+•	Devletin dini İslam’dır. \n
+•	Devletin resmi dili Türkçedir. \n
+•	Başkenti Ankara’dır. \n
+Türkiye Cumhuriyeti Anayasaları içindeki en kısa ve özlü anayasadır. Tek yumuşak çerçeve anayasa özelliğindeki anayasadır. Laik bir anayasa değildir. \n
+B) 1924 Anayasası\n
+Kpss vatandaşlık dersinde TC Anayasalarından işleyeceğimiz ikinci başlık 1924 Anayasası’dır. Türkiye Cumhuriyeti Anayasalarından 1921 Anayasası olağanüstü dönemin ihtiyaçlarına yönelik olarak hazırlanmıştır. Koşulların değişmesi ve Cumhuriyet’in ilanıyla yetersiz kalmış ve yeni bir anayasa ihtiyacı doğmuştur. TBMM 20 Nisan 1924’te ikinci anayasayı kabul etmiştir. \n
+•	Karma hükümet sistemini benimsemiştir. \n
+•	Devletin temel niteliği Cumhuriyettir. \n
+•	“Güçler birliği” ve “meclis üstünlüğü” esastır. \n
+•	Seçilme yaşı 30’dur. \n
+•	Cumhurbaşkanının kanunları yayımlama süresi 10 gündür. \n
+•	Tüzükler, Danıştay incelemesinden geçmek zorundadır. \n
+Sert bir anayasadır. En sivil ve en fazla değişikliğe uğrayan anayasadır. Çoğunlukçu demokrasi anlayışını benimsemiştir. En uzun süre yürürlükte kalan anayasadır. Sıkıyönetim kavramına yer verilmiştir. \n
+Türkiye Cumhuriyeti Anayasalarından 1924 Anayasasındaki Değişiklikler\n
+•	1928 yılında “ Devletin dini İslam’dır” ibaresi kaldırılmıştır. \n
+•	1929 yılında toprak reformu yapılmıştır. \n
+•	1930-1934 yılları arasında kadınlara siyasi haklar tanınmıştır. (B,M,V (Belediye, muhtarlık,vekil))v
+•	1934 yılında seçmen yaşı 18’den 22’ye çıkarılmıştır. \n
+•	1937 yılında Laiklik ve diğer Atatürk ilkeleri anayasaya eklenmiştir. \n
+•	1945 yılında anayasa dili Türkçeleştirilmiştir. \n
+•	1946 yılında çok partili hayata geçiş\n
+•	1946 yılında tek dereceli seçim sistemine geçilmiştir. \n
+Kpss genel kültür vatandaşlık dersine ait Türkiye Cumhuriyetinin Anayasaları Bölüm 1 konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz Türkiye Cumhuriyetinin Anayasaları Bölüm 2 olacaktır. \n
+    </string>
+    <string name="vtd_61Anayasasi">
+
+1961 Anayasası ve 1961 Anayasası 1971-1973 değişiklikleri Türkiye Cumhuriyeti Anayasaları Bölüm 2 konusu birinci bölümde işlenen anayasaların devamını niteliğindedir. Önceki konumuzda kpss vatandaşlık dersi konusu olan Türkiye Cumhuriyeti Anayasalarının birinci bölümünü olan 1921 Anayasası ve 1924 Anayasası başlıklarını incelemiştik. Sıradaki kpss vatandaşlık dersi konumuzda ise Türkiye Cumhuriyeti Anayasalarının ikinci bölümünü olan 1961 Anayasası , 1971-1973 değişikliklerini, 12 Eylül 1980 ve Milli güvenlik konseyi başlıklarını ele alacağız..\n
+Türkiye Cumhuriyeti Anayasaları Bölüm 2\n
+C) 1961 Anayasası\n
+27 Mayıs 1960 ihtilalı ile anayasal dönem değişmiş ve Milli Birlik Komitesi iktidara geçmiştir. Yeni anayasa için kurucu bir meclis kurulmuş ve yeni yasa bu meclis tarafından hazırlanıp halkoyuna sunulmuştur. \n
+•	Rejim, Atatürk ilke ve inkılaplarını, milli egemenlik ve meclis üstünlüğünü benimsemiştir.
+•	Devlet iktidarı, kuvvetler ayrılığı ilkesi ile sınırlandırılmış olup yasama yetkisi TBMM ve Cumhuriyet senatosuna, yürütme yetkisi Cumhurbaşkanı ve Bakanlar kuruluna, Yargı yetkisi ise Bağımsız mahkemelere verilmiştir. \n
+•	Millet meclisi ve Cumhuriyet senatosundan oluşan çift meclisli bir sistem oluşturdu. \n
+•	Parlamenter sisteme geçilmiş, tek dereceli seçime karar verilmiştir. \n
+•	Cumhurbaşkanı görev süresi 7 yıl ve tek sefer kuralı getirilmiştir. \n
+•	En demokratik ve liberal yasa olma özelliği taşır. \n
+•	MGK kuruldu. \n
+Anayasanın üstünlüğü ilkesi kabul edilmiş ve kanunların anayasaya uygunluğunu denetlemek için Anayasa Mahkemesi kurulmuştur. İşçilere ve kamu çalışanlarına sendika kurma, toplu sözleşme ve grev hakkı tanınmıştır. \n
+•	Temel haklar genişletilmiştir. \n
+•	Sosyal devlet ve insan haklarına dayalı devlet ilkesi benimsenmiştir. \n
+•	Sosyal hak ve ödevler ilk defa sistematik olarak düzenlenmiştir. \n
+•	Türkiye Cumhuriyeti Anayasalarından 1961 Anayasasında yine devlet şekli Cumhuriyet seçilmiş ancak nitelikleri 1924 Anayasasından farklı olarak düzenlenmiştir. \n
+•	Türkiye Cumhuriyeti Anayasalarının gelişiminde 1961 Anayasasında cumhuriyetin temel ilkelerinden halkçılık, inkılapçılık ve devletçilik ilkeleri kabul edilmemiştir. \n
+•	Hakimlerin bağımsızlığı amacıyla Yüksek Hakimler Kurulu kurulmuştur. \n
+1961Anayasasında 1971-1973 Değişiklikleri\n
+Kpss vatandaşlık dersinde işlediğimiz Türkiye Cumhuriyeti Anayasalarından 1961 Anayasası, çeşitli siyasal nedenlerle önemli değişikliklere uğramıştır. \n
+•	Bakanlar kuruluna kanun hükmünde kararname çıkarma yetkisi verilmiştir. \n
+•	Üniversite özerkliği zayıflamış ve TRT’nin özerkliği kaldırılmıştır. \n
+•	Askeri otorite güçlenmiştir. \n
+•	Devlet memurlarının sendika kurma hakları kaldırılmıştır. \n
+•	Askeri Yüksek idare mahkemesi DGM’ ler kurulmuştur. \n
+12 Eylül 1980 ve Milli Güvenlik Konseyi Süreci\n
+12 Eylül  darbesiyle MGK tasfiye edilip sivillerden kurulu bir hükümet kurulmuştur. Kurucu meclis oluşturulmuştur. Bu meclis genel seçimler sonrası kurulan TBMM göreve başladıktan sonra son bulacaktır. MGK ve danışma meclisi hazırladığı anayasayı halkoyuna sunmuş ve % 91.37 ile anayasa kabul edilmiştir. \n
+Kpss genel kültür vatandaşlık dersine ait Türkiye Cumhuriyetinin Anayasaları Bölüm 2 konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz 1982 Anayasasına Giriş Bölüm 1 olacaktır. \n
+    </string>
+    <string name="vtd_82Anayasasi">
+
+1982 Anayasası ve genel esasları konusu günümüz anayasasının oluşum ve içeriğini içermektedir. Önceki konumuzda kpssvatandaşlık dersi konusu olan Türkiye Cumhuriyeti Anayasalarının ikinci bölümünden 1961 anayasasını inceledik. Sıradaki kpss vatandaşlık dersi konumuzda ise 1982Anayasası genel esaslar konusunu inceleyeceğiz.\n
+1982 Anayasası ve Genel Esaslar\n
+GENEL ESASLAR\n
+1982 Anayasasına Giriş konusunun devam maddeleri şu şekildedir. 1982 Anayasasına Giriş konusu daha sonra işleyeceğimiz birçok konunun temelini oluşturmaktadır. \n
+1. MADDE; Devletin şekli\n
+Türkiye Devleti bir cumhuriyettir. \n
+2. MADDE; Cumhuriyetin nitelikleri\n
+Türkiye cumhuriyeti toplum huzuru, adalet ve milli dayanışma için insan haklarına saygılı, Atatürk milliyetçiliğine bağlı demokratik, sosyal ve laik hukuk devletidir. \n
+a. Cumhuriyetçilik ilkesi\n
+Devlet şekli olarak cumhuriyet, egemenliğin bir kişi veya zümreye değil tüm topluma ait olmasıdır. Cumhuriyet yönetiminde seçim vardır, monarşide ise veraset sistemi geçerlidir. Cumhuriyet vatandaşlık kavramına dayanırken monarşide uyrukluk tabiiyet durumu bulunur. \n
+b. İnsan haklarına saygılı devlet ilkesi\n
+Yapılan değişiklikle 1982 Anayasasında insan haklarına saygılı olarak ifade edilmiştir. \n
+c. Atatürk milliyetçiliğine bağlı devlet\n
+Bu kavram 1982 anayasası içinde Atatürk milliyetçiliği olarak ifade edilmiştir. Atatürk milliyetçiliği; akılcı, bilimsel, çağdaş, demokratik, toparlayıcı, birleştirici ve barışçı esasları temel alır. Ülkenin ve milletin bölünmez bütünlüğü ve resmi dilin Türkçe olması bununla ilgilidir. \n
+d. Demokratik devlet\n
+Demokrasi halkın iktidarı yani halkın bizzat kendi belirlediği temsilcilerle yönetilmesidir. Genel oy, eşit oy, seçim serbestîsi, gizli oy, açık sayım ve döküm seçim temel ilkelerindendir. \n
+e. Laik devlet\n
+Laiklik inanç ve düşünceleri nedeniyle kişileri herhangi bir ayırıma tabii tutulmadan, kamu kurallarına uyduğu biçimde serbestçe ibadette bulunmalarıdır. \n
+1924 Anayasasında yapılan 1937 değişikliği ile laiklik ilkesi anayasaya eklenmiştir. Bu şekilde din ve devlet işleri birbirinden ayrılmış ve din hizmetleri bir kamu hizmeti sayılmıştır. \n
+f. Sosyal Devlet\n
+Devletin sosyal barış ve adaleti sağlamak için sosyal ve ekonomik hayata aktif müdahalesi gerekli görülür. Devlet vergi adaleti, kamulaştırma, sosyal hak sağlama, ulusal geliri arttırma, özelleştirme, eşitlik ve planlama gibi ilkeleri benimsemiştir. \n
+g. Hukuk devleti\n
+Devlet düzeni vatandaşlarına hukuk güvenliği sağlamalıdır. \n
+h. Başlangıç ilkeleri\n
+•	Atatürk ilke ve inkılâplarına bağlılık\n
+•	Milliyetçili ve medeniyetçilik\n
+•	Çağdaş medeniyet düzeyine ulaşma\n
+•	Milli egemenlik\n
+•	Anayasa ve hukukun üstünlüğü\n
+•	Hürriyetçi demokrasi\n
+•	Kuvvetler ayrılığı\n
+•	Ülke, millet ile bölünmez bütünlük\n
+•	Laiklik\n
+•	Yurtta sulh cihanda sulh\n
+3. MADDE; Devletin bütünlüğünü, resmi, dili, bayrağı, milli marşı ve başkenti\n
+•	Dili Türkçedir. \n
+•	Bayrağı, şekli kanunla belirtilen, beyaz ay yıldızlı bayraktır. \n
+•	Milli marşı “İstiklal Marşı” \n
+•	Başkenti Ankara\n
+4. MADDE; Değiştirilemeyecek hükümler\n
+Anayasanın 1’inci, 2’inci ve 3’üncü madde hükümleri değiştirilemez ve değiştirilmesi teklif edilemez. \n
+5. MADDE; Devletin temel amaç ve görevleri\n
+•	Türk milletinin bağımsızlığını ve bütünlüğünü korumak\n
+•	Ülkenin bölünmezliğini korumak\n
+•	Cumhuriyeti ve demokrasiyi korumak\n
+•	Kişilerin ve toplumun refah, huzur ve mutluluğunu sağlamak. \n
+•	Kişinin temel hak ve hürriyetini sınırlayan siyasi, ekonomik ve sosyal engelleri kaldırmak. \n
+•	İnsanın maddi ve manevi varlığın gelişmesi için gerekli şartları hazırlamaya çalışmak. \n
+6. MADDE; Egemenlik\n
+•	Egemenlik, kayıtsız şartsız milletindir. \n
+•	Türk milleti egemenliğini Anayasanın koyduğu esaslara göre yetkili organ eliyle kullanır. \n
+•	Egemenlik kullanımı hiçbir surette hiçbir kişiye, zümreye ve sınıfa bırakılamaz. \n
+7. MADDE; Yasama yetkisi\n
+Yasama yetkisi Türk milleti adına TBMM’nindir. Bu yetki devredilemez. \n
+8. MADDE; Yürütme yetkisi ve görevi\n
+Cumhurbaşkanı ve bakanlar kurulu tarafından, anayasaya ve kanunlara uygun olarak kullanılıp yerine getirilir. \n
+9. MADDE; Yargı yetkisi\n
+Türk milleti adına bağımsız mahkemelerce kullanılır. \n
+10. MADDE; Kanun önünde eşitlik\n
+•	Herkes dil, ırk, renk, cinsiyet, siyasi düşünce, din, mezhep vb. sebeplerle ayrım gözetilmeksizin kanun önünde eşittir. \n
+•	Hiç kimseye, aile, zümre e sınıfa imtiyaz tanınamaz. \n
+•	Devlet organları ve idare makamları bütün işlemlerinde eşitlik ilkesine karşı uygun hareket etmek zorundadır. Bu ilke ile mutlak eşitlik elde edilmek istenmektedir. \n
+11. MADDE; Anayasanın bağlayıcı üstünlüğü \n
+•	Anayasa bütün kanunların temelidir. Anayasalar, önemli konuların ana başlıklarını düzenler. Yasalar ise bir konunun ayrıntılarını düzenler. \n
+•	Kanunlar anayasaya aykırı olamaz. \n
+•	Hiçbir kimse veya organ kaynağını anayasadan almayan bir devlet yetkisi kullanamaz. \n
+•	Yasama organı yasa yaparken anayasaya uygun hareket etmek mecburiyetindedir. \n
+Kpss genel kültür vatandaşlık dersine ait 1982 Anayasasına Giriş Bölüm 2 konusunu işledik. 1982 Anayasasına Giriş konumuz anayasa konumuzun temelini oluşturmaktadır. Bir sonraki kpss vatandaşlık dersi konumuz Temel hak ve Ödevler olacaktır. \n
+    </string>
+    <string name="vtd_temel_haklar">
+
+Temel hak ve ödevler konusu temel hak ve hürriyetlerin niteliği, kötüye kullanılması veya kullanılamaması, durdurulması ve yabancıların durumu gibi alt başlıklarla beraber irdelenmektedir. Temel hak ve ödevler konumuzda anayasada belirlenmiş vatandaşlık hak ve ödevlerini ve  çeşitlerini inceleyeceğiz. Karışık ve anlaması zor bir konu olduğu ön yargısı oluşan konulardan biri olmakla birlikte aslında günlük hayatımızla iç içe olan maddeleri daha iyi kavrayacağız. Önceki konumuzda kpss vatandaşlık dersi 1982 Anayasasına Giriş ikinci bölümünü incelemiştik. Sıradaki konumuzda ise Temel Hak ve Ödevler konusunu işleyeceğiz.\n
+Temel Hak ve Ödevler\n
+Aynı vatan toprağını paylaşan, aynı devlet vatandaşı olan her bireye vatandaş denir. Herkes kişiliğine bağlı, dokunulup, devredilemez, vazgeçilemez, temel hak ve hürriyete sahiptir. \n
+Temel Hak ve Ödevlerle İlgili Genel Hükümler\n
+1.Temel hak ve hürriyetlerin niteliği\n
+Temel hak ve hürriyetler, kişinin topluma, ailesine ve diğer kişilere karşı ödev ve sorumluluklarını içerir. \n
+2.Temel hak ve hürriyetlerin kötüye kullanılması   \n
+Temel hak ve hürriyetler, özlerine dokunulmadan sadece anayasanın ilgili maddelerinde belirtilmiş nedenlere bağlı olarak kanunla sınırlandırılabilir. Sınırlamalar anayasanın özüne ve ruhuna, demokratik toplum düzenine, laik Cumhuriyetin gereklerine ve ölçülülük ilkesine uygun olmak zorundadır. \n
+3.Temel hak ve hürriyetlerin kötüye kullanılamaması\n
+Anayasada yer alan hiçbir hak ve hürriyet , Devletin ülke ve milleti ile bölünmez bütünlüğünü bozmayı ve insan haklarına dayalı demokratik ve laik cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler olarak kullanılamaz. \n
+Hiçbir anayasa hükmü, Devlete veya kişilere tanınan temel hak ve hürriyetlerin yok edilip sınırlandırılmasını amaçlayan bir faaliyette bulunmayı sağlayacak biçimde yorumlanamaz. \n
+Bu hükümlere karşı faaliyette bulananlar hakkında uygulanacak işlemler kanunla düzenlenir. \n
+4.Temel hak ve hürriyetlerin kullanılmasının durdurulması\n
+Savaş, seferberlik, sıkıyönetim veya olağanüstü hallerde, uluslararası  hukuktan doğan ilkeler ihlal edilmemek haydı ile gerekli ölçüde temel hak ve hürriyetlerin kullanılması kısmen veya tamamen durdurulabilir. Ya da bunlar için anayasada öngörülen güvencelerle aykırı tedbirler alınabilir. \n
+Birinci fıkrada belirlenen durumlarda da savaş hukukuna uygun fiiller neticesinde ortaya çıkan ölümler dışında, kişinin yaşama hakkına, maddi ve manevi varlığının bütününe dokunulamaz. Temel hak ve ödevler çerçevesinde kimse din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamaz ve bunlardan dolayı suçlanamaz. Suç ve cezalar geçmişe ve geriye yürütülemez.  Suçluluğu mahkeme kararı ile belirleninceye kadar kimse suçlu sayılamaz. Bu temel hak ve ödevlerin kazandırdığı bir haktır. \n
+5.Yabancıların durumu
+Temel hak ve hürriyetler, yabancılar için, milletler arası hukuka uygun olarak kanunla sınırlanabilir. \n
+Kpss genel kültür vatandaşlık dersine ait Temel Hak ve Ödevler konusunu işledik. Temel niteliklerini incelediğimiz vatandaşlık hak ve ödevlerinin, alanlarına göre detaylı incelemesini devam eden konularımızda işleyeceğiz. Bir sonraki kpss vatandaşlık dersi konumuz Kişinin Hakları ve Ödevleri olacaktır. \n
+    </string>
+    <string name="vtd_kisi_haklari">
+
+Kişinin Hakları ve Ödevleri – Bölüm 1’de kişinin dokunulmazlığı, maddi ve manevi varlığı, zorla çalıştırma yasağı, kişi hürriyeti ve güvenliği gibi vatandaşın bireysel haklarını ve bu hakların çeşitlerini inceleyeceğiz. Bu haklar ve ödevler günlük hayatımızda çoğu zaman farkında bile olmadan kullandığımız haklardır. Önceki konumuzda kpss vatandaşlık dersi Temel Hak ve Ödevler konusunu incelemiştik. Sıradaki konumuzda ise Kişinin Hakları ve Ödevlerindenbirinci bölümünü işleyeceğiz. Kişinin Hakları ve Ödevleri konusu 15 ana başlık altıda toplanmış kişinin sahip olduğu hakları ele alan bir bölümdür. konumuzun uzunluğu nedeni ile bölümler halinde konumuzu inceleyeceğiz. Kişinin bütünlük, özgür irade, hürriyet, varlık ve birçok alandaki hakkının korunmasını sağlayan bu bölümleri inceleyelim.\n
+Kişinin Hakları ve Ödevleri – Bölüm 1\n
+1. Kişinin dokunulmazlığı, maddi ve manevi varlığı\n
+Herkes yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkına sahiptir. Tıbbi zorunluluklar ve kanunda yazılı haller dışında, kişinin vücut bütünlüğüne müdahale edilemez. Kişinin Hakları ve Ödevleri kapsamında kişinin rızası olamadan bilimsel ve tıbbi deneylere tabii tutulamaz. \n
+Ve yine Kişinin Hakları ve Ödevleri kapsamında kimseye işkence ve eziyet yapılamaz. Kimse insan haysiyetiyle bağdaşmayan bir ceza veya muameleye tabi tutulamaz. \n
+Meşru müdafaa hali, tutuklama ve yakalama kararının uygulanması, bir tutuklu veya hükümlünün kaçmasının önlenilmesi , bir ayaklanma veya isyanın bastırılması,sıkıyönetim veya olağanüstü hallerde yetkili makamın verdiği emirlerin uygulanması sırasında silah kullanılmasına kanunun izin verdiği durumlarda meydana gelen öldürme fiilleri, “herkes yaşama, maddi, manevi varlığını koruma ve geliştirme hakkına sahiptir.” hükmünün dışındadır. \n
+2. Zorla çalıştırma yasağı\n
+Hiç kimse zorla çalıştırılamaz. Angarya Kişinin Hakları ve Ödevlerinde yasaktır. \n
+Şekil ve şartları kanunla düzenlenmek üzere hükümlülük ve tutukluluk süreleri içindeki çalıştırmalar, olağanüstü hallerde vatandaşlardan istenecek hizmet ve çalışmalar, ülke ihtiyaçlarının zorunlu kıldığı alanlarda öngörülen vatandaşlık görevi niteliğindeki beden ve fikir çalışmaları zorla çalıştırma sayılmaz. \n
+3. Kişi hürriyeti ve güvenliği\n
+Herkes kişi hürriyeti ve güvenliğine sahiptir. Şekli ve şartı kanunda gösterilen hallerin dışında kimse hürriyetinden yoksun bırakılamaz. Suçluluğu hakkında kuvvetli belirti bulana kişilerin tutuklanmayı zorunlu kılan hallerde tutuklanabilir. \n
+Yakalanan veya tutuklanan kişilere bunların nedenleri ve haklarında yapılmış iddialar hemen , toplu suçlarda ise hakim karşısına çıkarılana kadar bildirilir. Ayrıca  kişinin yakalandığı veya tutuklandığı yakınlarına hemen bildirilir. Bu kişiler makul süre içinde yargılanmayı ve soruşturma süresinde serbest bırakılmayı isteyebilirler. \n
+Bu esaslara uygun olmayan işleme uğrayan kişilerin uğrayacağı zarar, tazminat devlet tarafından ödenir. \n
+Kpss genel kültür vatandaşlık dersine ait Kişinin Hakları ve Ödevleri- Bölüm 1  konusunu işledik. Temel niteliklerini incelediğimiz Kişinin Hakları ve Ödevleri vatandaşın bireysel haklarının korunmasını sağlayan maddeleri içerir. Bir sonraki kpss vatandaşlık dersi konumuz Kişinin Hakları ve Ödevleri – Bölüm 2 olacaktır. \n
+    </string>
+    <string name="vtd_kisi_haklari2">
+Özel Hayatın Gizliliği ve Korunması, Yerleşme ve Seyahat Hürriyeti, Din ve Vicdan Hürriyeti başlıkları Kişinin Hakları ve Ödevleri – Bölüm 2’de işleyeceğimiz bireysel hak ve ödevlerin devamını içermektedir. Önceki konumuzda kpss vatandaşlık dersi Kişinin Hakları ve Ödevleri – Bölüm 1 kısmını incelemiştik. Sıradaki konumuzda ise Kişinin Hakları ve Ödevleri – Bölüm 2’yi işleyeceğiz. Bütünlük, özgür irade, hürriyet, varlık ve birçok alanda kişinin hakkının korunmasını sağlayan bu bölümleri inceleyelim.\n
+Kişinin Hakları ve Ödevleri – Bölüm 2\n
+1. Özel hayatın gizliliği ve korunması\n
+Kişinin Hakları ve Ödevlerinden özel hayatın gizliliği ve korunması üç bölüme ayrılır; \n
+a. Özel hayatın gizliliği\n
+Kanunlara göre herkesin özel hayatına ve aile hayatına saygı gösterilmesini istemek hakkıdır. Özel hayatın ve aile hayatının gizliliğine kimse dokunamaz. Kanunda belirlenmiş sebepler, haller, yazılı emir bulunmadıkça kimsenin üstü, özel eşyaları ve kağıtları aranıp bunlara el konulamaz. \n
+2010 yılında yapılan değişiklikle bu haklara şu madde eklenmiştir. Herkes kendisi ile ilgili kişisel verilerin korunmasını isteme hakkına sahiptir. Kişisel veriler ancak kanunda öngörülen durumlarda ya da kişinin kendi rızası alınarak işlenebilir. \n
+b. Konut dokunulmazlığı\n
+Kimsenin konutuna dokunulamaz. Kanunda belirlenmiş özel durum ve ayrıcalıklara dayalı hakim kararı, yazılı emir olmadıkça kimsenin konutuna girilemez, arama yapılamaz ve kişinin burada bulunan eşyalarına el konulamaz. \n
+c. Haberleşme hürriyeti\n
+Herkes, haberleşme hürriyetine sahiptir ve haberleşmenin gizliliği esastır. Belirlenmiş sebeplere göre verilen bir hakim kararı olmadıkça yada herhangi bir yazılı emir bulunmadıkça haberleşme engellenemez ve gizliliğine dokunulamaz. ayrıca istisnaların uygulanacağı kamu kurum ve kuruluşları varsa bu kanunda belirtilir. \n
+2. Yerleşme ve seyahat hürriyeti\n
+Herkes yerleşme ve seyahat özgürlüğüne sahiptir. Suç işlenmesini önleme, sosyal ve ekonomik gelişmeyi sağlama, düzenli kentleşme ve kamu mallarının korunması için yerleşme hürriyeti kanunla sınırlandırılabilir. \n
+Seyahat hürriyeti ise soruşturma ve suç işlenmesini önlemek amacıyla kanunla sınırlandırılabilir. \n
+Vatandaş sınır dışı edilemez ve yurda girme hakkından yoksun bırakılamaz. \n
+3. Din ve vicdan hürriyeti\n
+Herkes dini inanç, vicdan ve kanaat hürriyetine sahiptir. 14. maddede yer alan hükümlere aykırı olmadığı sürece tüm dini ibadet, dini ayin ve törenler serbesttir. Kimse dini açıdan herhangi bir dini zorlamaya uğrayamaz. Kimse dini törenlere katılmaya, dini inancını açıklamaya zorlanamaz. Ve dini inanç ve ibadetlerinden dolayı kınanıp suçlanamaz. \n
+Ülkemizde din ve ahlak eğitimi ve öğretimi devlet kontrolünde yapılır. \n
+Kpss genel kültür vatandaşlık dersine ait Kişinin Hakları ve Ödevleri- Bölüm 2  konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz Kişinin Hakları ve Ödevleri – Bölüm 3 olacaktır. \n
+    </string>
+    <string name="vtd_kisi_haklari3">
+
+Düşünceyi açıklama ve yayma hürriyeti, düşünce ve kanaat hürriyeti, bilim ve sanat hürriyeti ile basın ve yayımla ilgili hükümler, Kişinin Hakları ve Ödevleri konusunun bireysel hak ve ödevlerin devamı olan 3. bölümünde işlenecektir. Önceki konumuzda kpss vatandaşlık dersi Kişinin Hakları ve Ödevleri – Bölüm 2 kısmını incelemiştik. Sıradaki konumuzda ise Kişinin Hakları ve Ödevleri – Bölüm 3’ü işleyeceğiz.\n
+Kişinin Hakları ve Ödevleri – Bölüm 3\n
+1. Düşünce ve kanaat hürriyeti\n
+Herkes düşünce ve kanaat özgürlüğüne sahiptir. Ne sebeple olursa olsun hiç kimse düşünce ve kanaatlerini açıklamaya zorlanamaz ve bu düşünce ve kanaatler nedeniyle kınanıp suçlanamaz. \n
+2. Düşünceyi açıklama ve yayma hürriyeti\n
+Herkes, düşüncelerini söz, yazı, resim veya toplu olarak açıklama ve yayma hakkına, özgürlüğüne sahiptir. Bu hürriyet haber ya da fikir alma veya verme serbestliğini de sağlar. Fakat radyo, televizyon, sinema vb. yayınlara uygulanan izin sistemini kapsamaz. Bu hürriyetin kullanımı Kişinin Hakları ve Ödevleri kanununda belirtilmiş olan korunma, sır, hak vb. sebeplerle sınırlandırılabilir. Düşünceyi açıklama ve yayma hürriyeti kullanımında uygulanacak şartlar ve usuller kanunla düzenlenir. \n
+3. Bilim ve sanat hürriyeti\n
+Herkes bilim ve sanatı serbestçe öğrenme, öğretme, yayma, araştırma ve araştırma hakkına sahiptir. \n
+4. Basın ve yayımla ilgili hükümler\n
+Kişinin Hakları ve Ödevlerinde basın ve yayımla ilgili hükümler 5 başlık altında yorumlanır; \n
+a. Basın hürriyeti\n
+Basın hürdür ve sansür edilemez. Devlet basın ve haber alma özgürlüğünü sağlayan önlemleri alır. Basın yapanlar kanunlarla belirlenmiş çerçeveye aykırı davranışlarda bulundukları takdirde kanunda mahkeme kararıyla kapatılabilir ve yayınlar hakim kararı ile toplatılabilir. \n
+b. Süreli ve süresiz yayın hakkı\n
+Bu hak önceden izin veya mali teminat şartına bağlanamaz. Süreli yayın çıkarmak için kanunda belirtilen bilgi ve belgeler yetkili makamlara verilerek çıkarılır. \n
+c. Basın araçlarının korunması\n
+Kanuna uygun olarak kurulan basımevi basın araçları suç aleti olarak zapt edilemez. \n
+d. Kamu tüzel kişilerinin elindeki basın dışı kitle haberleşme araçlarından yararlanma hakkı\n
+Kişiler ve siyasi partiler kamu elindeki basın dışı araçları kullanma hakkına sahiptir. Yararlanmanın şekli, şartı kanunla düzenlenir. \n
+e. Düzeltme ve cevap hakkı\n
+Kişi haysiyet ve onuruna dokunulması veya gerçeğe aykırı yayınlar yapılması durumunda tanınır. \n
+Kpss genel kültür vatandaşlık dersine ait Kişinin Hakları ve Ödevleri  konusundan düşünceyi açıklama ve yayma hürriyeti, düşünce ve kanaat hürriyeti, bilim ve sanat hürriyeti ile basın ve yayımla ilgili hükümleri işledik. Bir sonraki kpss vatandaşlık dersi konumuz Kişinin Hakları ve Ödevleri – Bölüm 4 olacaktır. \n
+    </string>
+    <string name="vtd_kisi_haklari4">
+
+Toplantı hak ve hürriyetleri, Mülkiyet hakkı, Hakların korunması, İspat hakkı, Temel hak ve hürriyetlerin korunmasını Kişinin Hakları ve Ödevleri – Bölüm 4 konumuzda inceleyeceğiz. Önceki konumuzda kpss vatandaşlık dersi Kişinin Hakları ve Ödevleri – Bölüm 3 kısmını incelemiştik. Şimdi de Kişinin Hakları ve Ödevleri – Bölüm 4 ü işleyeceğiz.\n
+Kişinin Hakları ve Ödevleri – Bölüm 4\n
+1.Toplantı hak ve hürriyetleri\n
+A. Dernek kurma hürriyeti\n
+Tüm vatandaşlar izin almadan dernek kurma ve üye olma hakkına sahiptir. Fakat hiç kimse bu dernekleri kurmaya veya üye olmaya zorlanamaz. Dernek hakkındaki sınırlamalar ancak kanunda belirtilen sebeplerle yapılabilir. Dernekler kanunun gerektirdiği hallerde hakim tarafından kapatılabilir. \n
+B. Toplantı ve gösteri yürüyüşü düzenleme hakkı\n
+Herkes izin almadan, silahsız ve saldırı yapmadan toplantı ve gösteri yürüyüşü yapma hakkına sahiptir. Bu toplantı ve yürüyüşler ancak milli güvenlik, kamu düzeni, özgürlüklerin korunması, suç işlenmesinin önlenmesi gibi sebeplerle kanunla sınırlanabilir. \n
+2. Mülkiyet hakkı\n
+Herkes, mülkiyet ve miras hakkına sahiptir. Bu haklar, ancak kamu yararı amacıyla sınırlanabilir. Bu hakkın kullanılması toplum yararına aykırı olamaz. \n
+3. Hakların korunması ile ilgili hükümler\n
+a. Hak arama hürriyeti\n
+Herkes meşru araç ve yollardan faydalanarak yargı önünde davalı ve davacı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir. \n
+b.Kanuni hakim güvencesi\n
+Hiç kimse kanunen bağlı olduğu mahkemeden başka bir makam önüne çıkarılamaz. Ve bu sonucu doğuracak herhangi bir olağanüstü makam kurulamaz. \n
+c.Suç ve cezalara ilişkin esaslar\n
+Kimse işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilinden dolayı cezalandırılamaz. Yani kanundaki ceza geriye yürütülemez. Ceza ve ceza yerine geçecek güvenlik tedbirleri ancak kanunla konulur. Suçlu olduğu hükmen belirlenmeyinceye kadar kimse suçlu sayılmaz. \n
+Kanuna aykırı olarak elde edilen bilgiler delil olarak kabul edilemez. Cezanın sorumluluğu şahsidir. Kimse sözleşmeden doğan bir yükümlülüğü yerine getirmediği için özgürlüğü kısıtlanamaz.  Ölüm cezası  verilemez. \n
+4. İspat hakkı\n
+Kamu hizmet ve görevlerini yerine getirenlere görev başında yapılan isnatlardan dolayı açılan hakaret davalarında sanık isnadın doğruluğunu ispat hakkına sahiptir. \n
+5. Temel hak ve hürriyetlerin korunması\n
+Anayasa ile tanınmış hak ve hürriyetleri ihlal eden tüm vatandaşlar yetkili makama geç kalınmadan başvurma imkanın sağlanmasını isteme hakkına sahiptir. Kişinin resmi görevliler tarafından uğradığı haksız işlemler sonucu uğradığı zarar devlet tarafından karşılanır. \n
+Kpss genel kültür vatandaşlık dersine ait Kişinin Hakları ve Ödevleri- Bölüm 4  konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz Sosyal ve Ekonomik Haklar olacaktır. \n
+    </string>
+    <string name="vtd_sosyal_haklar">
+
+Sosyal ve Ekonomik Haklar konumuzda Ailenin korunması ve çocuk hakları, Eğitim ve öğrenim hakkı, Kamu yararı bölümlerini inceleyeceğiz. 3 başlığa ayırarak işleyeceğimiz bu konuda bazı 2010 değişiklikleri de belirtilmiştir. Önceki konumuzda kpss vatandaşlık dersi Kişinin Hakları ve Ödevleri – Bölüm 4 kısmını incelemiştik. Sıradaki konumuzda ise Sosyal ve Ekonomik Haklar konusunuişleyeceğiz.\n
+Sosyal ve Ekonomik Haklar \n
+1. Ailenin korunması ve çocuk hakları\n
+Türk toplumunun temeli ailedir. Aile eşler arasındaki eşitliğe dayanır. Devlet Sosyal ve Ekonomik Hakların gereği olarak ailenin huzur ve refahı , ananın ve çocukların korunması için gerekli tedbirleri alır. \n
+Her çocuk, korunma ve bakımdan yararlanma, yüksek yararına aykırı olamadıkça ana ve babasıyla kişisel ve doğrudan ilişki kurma ve sürdürme hakkına sahiptir. (2010 değişikliği) \n
+Devlet her türlü istismara ve şiddete karşı çocukları koruyucu tedbirleri alır. (2010 değişikliği) \n
+2. Eğitim ve öğrenim hakkı ve ödevi\n
+Sosyal ve ekonomik haklar konusunda ikinci başlık eğitim ve öğrenim hakkı ve ödevidir. Kimse eğitim ve öğrenim hakkından yoksun bırakılamaz. Öğrenim hakkının kapsamı kanunlarla belirlenir ve düzenlenir. Eğitim ve öğretim devlet kontrolü altında yapılır. Kanunda belirlenmiş maddelere aykırı eğitim ve öğretim yerleri açılamaz. İlköğretim kız ve erkek bütün vatandaşlar için zorunludur. Sosyal ve Ekonomik Hakların gereğiyle devlet okullarında eğitim parasızdır. Devlet maddi durumu olmayan başarılı öğrencilere burs ve diğer yollarla yardım eder. \n
+3. Kamu yararı\n
+a. Kıyılardan yararlanma\n
+Kıyılar devlet tasarrufu altındadır. Deniz, göl, akarsu kıyıları ve sahil şeritlerinde yararlanmada öncelikle kamu yararı gözetilir. \n
+b. Toprak mülkiyeti\n
+Devlet toprağın verimli olarak işletilmesini korumak ve geliştirmek, erozyonu önlemek için gerekli tedbirleri alır. \n
+c. Tarım, hayvancılık ve bu üretim dallarında çalışanların korunması\n
+Devlet, tarım arazileri ile çayır ve meraların amaç dışı kullanımını ve tahribini önlemek, bitkisel ve hayvansal üretimi arttırmak için bu işle uğraşanları araç gereç ve girdilerinin sağlanmasını kolaylaştırır. \n
+d. Kamulaştırma\n
+Kamu yararı için gerçek karşılıklarını eşin ödemek şartı ile özel mülkiyette bulunan taşınmazların tamamı yada bir kısmının kanuna uygun olarak, kamulaştırmaya denir. Kamulaştırma bedeli ile kesinleşen artırım bedeli nakden ve peşin olarak ödenir. \n
+e. Devletleştirme ve özelleştirme\n
+Kamu hizmeti özelliği taşıyan özel teşebbüsle, kamu yararı adına devletleştirilebilir. Devletleştirme gerçek karşılı üzerinde yapılır. \n
+Kpss genel kültür vatandaşlık dersine ait Sosyal ve Ekonomik Haklar  konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz Çalışma ve Sözleşme Hürriyeti olacaktır. \n
+    </string>
+    <string name="vtd_calsma_sozlesmesi">
+Çalışma ve Sözleşme Hürriyeti konumuzda Çalışma ile ilgili hükümler, Toplu sözleşme, grev hakkı ve lokavt, Ücrette adalet sağlanması bölümlerini inceleyeceğiz. Uzun bir konu olduğu için 3 bölüme ayırarak incelediğimiz Sosyal ve Ekonomik Haklarının ikinci bölümünü oluşturmaktadır. . Önceki konumuzda kpss vatandaşlık dersi Sosyal ve Ekonomik Haklarınıincelemiştik. Sıradaki konumuzda ise Çalışma ve Sözleşme Hürriyetini işleyeceğiz.\n
+Çalışma ve Sözleşme Hürriyeti\n
+Herkes dilediği anda çalışma ve sözleşme kurma hürriyetine sahiptir. Çalışma ve Sözleşme Hürriyetinde özel teşebbüs kurmak serbesttir. Devlet bu özel kuruluşların milli ekonominin gereklerine ve sosyal amaçlarına uygunluğunu sağlar. \n
+1. Çalışma il ilgili hükümler\n
+a.Çalışma hakkı ve ödevi\n
+Çalışma ve Sözleşme Hürriyetine göre çalışma herkesin hakkı ve ödevidir. Devlet çalışanın hayat seviyesini yükseltmek, çalışma hayatını geliştirmek için çalışanları ve işsizleri korumakla yükümlüdür. Çalışmayı desteklemek, işsizliği önlemeye elverişli ortam hazırlamak için gerekli tedbirleri alır. \n
+b.Çalışma şartları ve dinlenme hakkı\n
+Kimse yaşına, cinsiyetine ve gücüne uygun olmayan işlerde çalıştırılamaz. Küçükler ve kadınlar ile engel durumu olanlar çalışma şartları bakımından korunurlar. Dinlenmek çalışanların hakkıdır. Ücretli hafta ve bayram tatilleri ve ücretli izin hakları kanunla düzenlenir. \n
+c.Sendika kurma hakkı\n
+Çalışanlar ve işverenler ekonomik ve sosyal haklarını korumak için izin almadan sendikalar ve üst kuruluşlar kurma, üye olma ve üyelikten serbestçe çekilme hakkına sahiptir. Hiç kimse bir sendikaya üye olmaya ya da ayrılmaya zorlanamaz. Sendika kurma hakkı kanunda belirlenen sebeplerle sınırlanabilir. \n
+Aynı zamanda ve aynı iş kolunda birden fazla sendikaya üye olunamaz. (2010 Anayasa değişikliği ile kaldırıldı.) \n
+Sendika ve üst kuruluşların tüzükleri, yönetimleri ve işleyişleri Cumhuriyetin niteliğine ve demokrasiye aykırı olamaz. \n
+d.Sendikal faaliyet\n
+2. Toplu iş sözleşmesi, grev hakkı ve lokavt\n
+İşçiler ve işverenler, karşılıklı olarak ekonomik ve sosyal  durumlarını ve çalışma koşullarını düzenlemek için toplu iş sözleşmesi yapma hakkına sahiptir. Toplu iş sözleşmesinin nasıl yapılacağı kanunla düzenlenir. \n
+Toplu iş sözleşmesinin yapılması sırasında, uyuşmazlık çıkması halinde işçiler grev hakkına sahiptir.  Grev hakkı ve lokavt iyi niyete aykırı, toplum zararına kullanılamaz. Grev ve lokavtın yasaklanması ve ertelenmesi haller ve iş yerlerini kanun düzenler. \n
+3.Ücrette adalet sağlanması\n
+Ücret çalışanın emeğinin karşılığıdır. Devlet çalışanların işlerine uygun adaletli bir ücret kazanmaları ve diğer sosyal haklardan yararlanması için gerekli tedbirleri almadır. \n
+Kpss genel kültür vatandaşlık dersine ait Çalışma ve Sözleşme Hürriyeti konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz Diğer Sosyal ve Ekonomik Haklar olacaktır. \n
+    </string>
+    <string name="vtd_diger_haklar">
+
+Diğer Hak ve Ödevler konumuzda Sağlık,çevre ve konut, Gençlik ve spor, Sosyal güvenlik hakları, Tarih, kültür ve tabiat varlıklarının korunması, Sanatın ve sanatçının korunması, Devletin iktisadi ve sosyal ödevlerinin sınırları  bölümlerini inceleyeceğiz. Diğer Hak ve Ödevler, uzun bir konu olduğu için 3 bölüme ayırarak incelediğimiz Sosyal ve Ekonomik Haklarının üçüncü bölümünü oluşturmaktadır. Önceki konumuzda kpss vatandaşlık dersi Çalışma ve Sözleşme Hürriyeti konusunuincelemiştik. Sıradaki konumuzda ise Diğer Hak ve Ödevler konusunu işleyeceğiz.\n
+Diğer Hak ve Ödevler\n
+ 1. Sağlık, çevre ve konut\n
+a. Sağlık hizmetleri ve çevrenin korunması\n
+Herkes, sağlıklı ve dengeli bir çevrede yaşama hakkına sahiptir. Çevreyi geliştirme, çevre sağlığı ve çevre kirliliğini önlemek devletin ve vatandaşların ödevidir. \n
+b. Konut hakkı\n
+Devlet, şehirlerin özelliklerini ve çevre şartlarını gözeten bir planlama çerçevesinde konut ihtiyacını karşılayacak tedbir alır. Ayrıca toplu konut teşebbüslerini destekler. \n
+2. Gençler ve spor\n
+a. Gençliğin korunması\n
+Devlet, istiklal ve Cumhuriyetin emanet edildiği gençlerin ilim ışığında, Atatürk ilke ve inkilapları doğrultusunda ve devletin ülkesi ve milleti ile bölünmez bütünlüğü ortadan kaldırmayı amaç edinen görüşlere karşı yetiştirme ve gelişmelerine sağlayıcı tedbirleri alır. \n
+b. Sporun gelişmesi\n
+Devlet, her yaştaki Türk vatandaşlarının beden ve ruh sağlığını geliştirecek tedbirleri alır ve sporun kitlelere yayılmasını destekler. Devlet başarılı her sporcuyu korur. \n
+3. Sosyal güvenlik hakları\n
+a. Sosyal güvenlik hakkı\n
+Bu hakka herkes sahiptir. Devlet bu güvenliği sağlayacak gerekli önlemleri alır ve teşkilatı kurar. \n
+b. Sosyal güvenlik bakımından özel olarak korunması gerekenler\n
+Savaş ve vazife şehitlerinin dul ve yetimleriyle, malul ve gazileri korumakla yükümlüdür. Bu kişilere toplumda kendilerine yakışır biçimde hayat seviyesi sağlar. Sakatların koruma ve topluma uyumu için gereken tedbirleri alır. Yaşlılar devlet tarafından korunur. Korunmaya muhtaç çocuklar da devletçe korunur ve topluma kazandırılması için gerekli önlemler alınır. \n
+c. Yabancı ülkelerde çalışan Türk vatandaşları\n
+Yabancı ülkelerde çalışan Türk vatandaşlarının aile birliği, çocuklarının eğitimi, kültürel ve sosyal ihtiyaçlarının sağlanması, anavatan bağlarının kurulması ve yurda dönüşlerinde yardımcı olması için gerekli önlemleri alır. \n
+4. Tarih, kültür ve tabiat varlıklarının korunması\n
+Devlet bu varlıkların ve değerlerinin korunmasını sağlar. Özel mülkiyet kapsamına giren varlık ve değerlere ise sınırlamalar getirebilir. \n
+5. Sanatın ve sanatçının korunması\n
+Devlet sanatsal faaliyet ve sanatçıları korur. Eserlerin, sanatçının korunması ve sanat sevgisinin yayılması için gerekli önlemleri alır. \n
+6. Devletin iktisadi ve sosyal ödevlerinin sınırları\n
+Devlet, sosyal ve ekonomik alanlarda belirlenen görevlerini amacına uygun ve mali kaynakların yeterliliği ölçüsünde yerine getirir. \n
+Kpss genel kültür vatandaşlık dersine ait Diğer Hak ve Ödevler konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz Siyasi Hak ve Ödevler olacaktır. \n
+    </string>
+    <string name="vtd_siyasi_haklar">
+
+Siyasi Hak ve Ödevler konusunda her Türk vatandaşının sahip olduğu seçme, seçilme, siyasi faaliyet, siyasi partilerle ilgili hükümleri inceleyeceğiz. Çoğu zaman kullandığımız belki de farkında bile olmadığımız bu hak ve ödevleri inceleyelim. Önceki konumuzda kpss vatandaşlık dersi Diğer Hak ve Ödevleri başlığını incelemiştik. Sıradaki konumuz ise Siyasi Hak ve Ödevler olacaktır.\n
+Siyasi Hak ve Ödevler\n
+1. Türk Vatandaşlığı\n
+Kanunlarımıza göre Türkiye Cumhuriyeti Devletine vatandaşlık bağı olan herkes Türk’tür. Bir kişinin baba veya annesi Türk ise o kişi de Türk’tür. Vatandaşlık hakları kanundaki şartlar çerçevesinde kazanılıp kaybedilebilir. Vatandaşlıkla bağdaşmayan eylemlerin dışında hiç kimse vatandaşlıktan çıkarılamaz. \n
+2. Seçme, Seçilme ve Siyasi Faaliyette Bulunma Hakları\n
+Tüm vatandaşlar kanunda bulunan şartlara göre seçme, seçilme ve siyasi faaliyet hakkına sahiptir. Seçimler ve halk oylaması serbest, eşit, gizli, tek dereceli,genel oy, açık sayım ve döküm esasına göre yapılır. 18 yaşını doldurmuş her vatandaş seçme ve halk oylamasına katılma hakkına sahiptir. Silah altındaki er ve erbaşlar, askeri öğrenciler,taksirli suçlulardan cezaevinde bulunan hükümlüler oy kullanamazlar. \n
+3. Siyasi Partilerle İlgili Hükümler\n
+a. Parti Kurma, Partilere Girme ve Partilerden Ayrılma\n
+Her vatandaş siyasi partilere girme ve ayrılma hakkına sahiptir. Bir partiye üye olabilmek için 18 yaşını doldurmuş olmak gerekir. Siyasi partiler izin alınmadan kurulur ve kanunlara uygun olarak faaliyet gösterirler. \n
+b. Siyasi Partilerin Uyacakları Esaslar\n
+Partilerin faaliyetleri, parti içi düzenleme ve çalışmaları demokrasi ilkelerine uygun olmalıdır. Ticari herhangi bir faaliyet gösteremezler. Gelir ve giderlerinin amaçlarına uygun olması esastır. Siyasi partilerin kapatılması Yargıtay Cumhuriyet Başsavcısının açacağı dava ile Anayasa Mahkemesi tarafından kesin olarak karara bağlanır. Parti tüzük veya programı 68. maddenin 4. fıkrasına aykırı olur ise parti hakkında temelli kapatma kararı verilir. Temelli kapatılan bir parti farklı bir isim altında da toplanamaz. \n
+4. Kamu Hizmetlerine Girme Hakkı\n
+Her Türk, kamu hizmetine girme hakkına sahiptir. Kamu hizmetlerine giren kişiler mal bildiriminde bulunma ve tekrarlanması süreci kanunla düzenlenir. \n
+5. Vatan Hizmeti\n
+Her Türk vatandaşının hakkı ve ödevidir. \n
+6. Vergi Ödevi\n
+Tüm vatandaşlar kamu giderlerinin karşılanması için mali durumu oranında vergi ödemekle yükümlüdür. Adaletli ve dengeli vergi yükü dağılımı esastır. \n
+7. Dilekçe, Bilgi Edinme ve Kamu Denetçisine Başvurma Hakkı\n
+Vatandaşlar ve ülkemizde ikamet eden yabancılar kendileri yada kamu ile ilgili istek ve şikayetleri hakkında yetkili makamlara ve TBMM’ye yazı ile başvurma hakkına sahiptir. Başvuruların sonucu gecikmeksizin dilekçe sahiplerine yazılı biçimde bildirilir. \n
+Kpss genel kültür vatandaşlık dersine ait Siyasi Hak ve Ödevler konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz Yasama olacaktır. \n
+    </string>
+    <string name="vtd_yasama">
+Yasama konusu oldukça kapsamlı ve geniş bir konudur. Ülkemizde Yasama TBMM tarafından yapılmaktadır. Yasama konumuz kapsamında TBMM’nin kuruluşu, Milletvekili seçimi konularını inceleyeceğiz. Önceki konumuzda kpssvatandaşlık dersi Siyasi Hak ve Ödevleri incelemiştik. Sıradaki konumuz ise Yasama olacaktır.\n
+Yasama\n
+Yasama kanun yapma, kanun değiştirme ve kanun kaldırma yetkilerini içeren işlemlerdir. Yasama direkt ilk elden meclis tarafından yapılmaktadır. TBMM anayasaya aykırı olmamak kaydıyla her konuyu kanunlarla düzenleyebilir. Fakat TBMM yargılama işlemi yapamaz ve mahkeme kararlarını değiştiremez. Kanun koyma ve kaldırma TBMM’nin görevidir ve bu yetki devredilemez. \n
+A. TBMM’nin Kuruluşu\n
+Genel oyla seçilen 550 milletvekili TBMM’yi oluşturur. TBMM seçimleri 4 yılda bir yapılmaktadır. Meclisin kararıyla bu süre dolmadan seçim yapılabileceği gibi Anayasada belirtilmiş şartlara göre Cumhurbaşkanı tarafından verilecek karara göre de seçimler yeniden yapılabilir. \n
+B. Milletvekilliği Seçimi\n
+1. Milletvekilliği\n
+25 yaşını dolduran her vatandaşımız milletvekili olarak seçilebilir. Milletvekilleri sadece kendi seçilikleri bölgeyi değil bütün milleti temsil eder. Süresi biten vekiller tekrar seçilebilir. Göreve başlarken and içer ve mazbatalarını il seçim kurulundan alırlar. \n
+2. Milletvekili Seçilme Şartları\n
+Türk vatandaşı olmak ve 25 yaşını doldurmuş olmak, \n
+En az ilkokul düzeyinde mezun olmak, \n
+Kısıtlı olmamak, \n
+Askerliğini yapmış olmak, \n
+Kamu hizmetinden yasaklı olmamak, \n
+Yüz kızartıcı suçlardan hüküm giymemiş olmak, \n
+Kamu görevlisi ise görevinden çekilmiş olmaktır. \n
+3. Milletvekili Sıfatının Kazanılması ve And İçme\n
+Milletvekili seçilenler saptanarak il seçim kurulu tarafından tutulan tutanak ile milletvekilliği sıfatını kazanırlar. \n
+4. Görevden Çekilmedikçe Aday Olamayan ve Milletvekili Seçilemeyenler\n
+Yüksek yargı üyeleri, hakimler ve savcılar, YÖK üyeleri, Kamuda çalışan memurlar,TSK mensupları görevlerinden çekilmeden aday olamazlar. \n
+5. Milletvekilliği İle Bağdaşmayan İşler\n
+TBMM Üyeleri (Milletvekilleri);Devlet ve diğer kamu tüzel kişilerinde ve bunlara bağlı kuruluşlarda, \n
+Devletin veya diğer kamu tüzel kişilerinin doğrudan doğruya ya da dolaylı olarak katıldığı teşebbüs ve ortaklıklarda, \n
+Özel gelir kaynakları ve özel imkanları kanunla sağlanmış kamu yararına çalışan kurumların yönetim ve denetim kurullarında görev alamazlar , vekili olamazlar temsilcilik ve hakemlik yapamazlar. \n
+6.Parlamenter Muafiyet\n
+Bu durumdan milletvekilleri ve milletvekili olmayan bakanlar yararlanmaktadır.
+Yasama Sorumsuzluğu: Milletvekilleri meclis çalışmalarındaki oy ve sözlerinden TBMM’de ileri sürdükleri düşüncelerden sorumlu olamazlar.Buna , ‘’yasama sorumsuzluğu’’ denir. Hareket ve küfür etme gibi sözlü suçlar da sorumsuzluk kapsamındadır. \n
+Yasama Dokunulmazlığı: Seçimden önce veya sonra , bir suç işlediği ileri sürülen milletvekillerinin , Meclis’ten karar alınmadıkça sorguya çekilememesi , tutuklanamaması veya yargılanmamasıdır. \n
+Yasama  dokunulmazlığı Meclis kararı ile kaldırabilir. \n
+7. Milletvekilliğinin Düşme Nedenleri\n
+Milletvekilliğin Düşmesi İle İlgili Meclis Kararına Gerek Olan Durumlar: \n
+Milletvekilliliği görevinden istifa etmek (istifa), \n
+Meclis çalışmalarına özürsüz veya izinsiz olarak bir ay içerisinde toplam beş birleşim günü katılmama (devamsızlık) \n
+Milletvekilliğinin Düşmesi İle İlgili Meclis Kararına Gerek Olamayan Durumlar (Kendiliğinden) \n
+Milletvekili seçilmeye engel bir suçtan hüküm giyme kısıtlı olma, \n
+Ölüm veya yeniden seçilmeme, \n
+Cumhur başkanı seçilme, \n
+Milletvekilinin mahkeme kararı ile kısıtlanması ve bu kararın TBMM genel kuruluna bildirmesidir. \n
+Milletvekillerinin Ödenek Yoluk Emeklilik Ve Sosyal Hakları\n
+TBMM üyelerinin ödenek ve yollukları ile sosyal hakları emeklilikleri ve tazminatları özel kanunla düzenlenir. \n
+Kpss genel kültür vatandaşlık dersine ait Yasama konusunu işledik. Bir sonraki kpssvatandaşlık dersi konumuz TBMM’nin Çalışma Düzeni olacaktır. \n
+    </string>
+    <string name="vtd_tbmm_calısma">
+
+TBMM’nin Çalışma Düzeni konusunda meclis çalışmaları, meclis görüşmeleri alt başlıklarını inceleyeceğiz. TBMM çalışmalarının içeriği ile ilgili detaylı bilgiler bulacağımız bu konu kpssvatandaşlık dersinin önemli bir bölümüdür. Önceki konumuzda Yasamayı işlemiştik. Sıradaki konumuz ise TBMM’nin Çalışma Düzeni olacak.\n
+TBMM’nin Çalışma Düzeni\n
+Meclis Çalışmaları\n
+Meclis her yıl ekim aynın ilk günü toplanır. Bu ilke 1876 Kanun-i Esasi’de 1909’da yapılan değişiklik  ile anayasamıza giren bir ilkedir. Meclis bir yasama yılında en çok üç ay tatil yapar. TBMM tatil kararı vermeden çalışmalarına ara verebilir, çalışmalarını belli bir süre erteleyebilir. Çalışma döneminde 15 günü geçmeyecek şekilde ara tatiller verilebilir. \n
+Meclis Çalışmaları İle İlgili Kavramlar\n
+Yasama Dönemi: TBMM’nin iki seçim dönemi arasındaki süreye dönem denir.(Erken seçim olmazsa 4 yıldır) \n
+Yasama Yılı: Meclisin olağan toplantısına başladığı günden ertesi yıl ayını güne kadar geçen süreye yasama yılı denir. (1 Ekimde başlar, takip eden yılın 30 Eylül’ünde sona erer.) \n
+Birleşim: Genel kurulun belli bir günde açılan toplantısına birleşim denir. \n
+Oturum: Bir birleşim içinde ara vermeden yapılan toplantıya oturum denir. \n
+Meclisin ara verme sırasında veya tatildeyken toplanmasına olağanüstü toplantı denir.Meclisi olağanüstü toplantıya çağırma yetkisi Cumhurbaşkanı ile Meclis başkanına tanınmıştır. \n
+Anayasaya göre aksi bir karar yoksa meclis üye tam sayısının en az 3 te 1’i ile toplanır. \n
+Üye tam sayısı 550’dir. Toplantı yeter sayısı en az 184, karar yeter sayısı en az 139 olur. \n
+Salt çoğunluk üye tamsayısının yarısından en az 1 fazla olan çoğunluktur.Nitelikli çoğunluk ise meclisin veya anayasanın herhangi bir karar için önceden belirlemiş olduğu karar sayısıdır. \n
+Meclis Görüşmeleri \n
+Meclis Görüşmeleri: \n
+-TBMM Genel kurulundaki görüşmeler açıktır ve görüşmelerin tam metni ‘’Tutanak  Dergisi ‘’’nde yayımlanır. \n
+– Meclis, kapalı oturum da yapabilir. Kapalı oturumdaki görüşmelerin yayımlanması Meclis kararındadır. \n
+•	Görüşmeler bir gündeme göre sırasıyla yapılır. \n
+•	Milletvekilleri sadece kendi adlarına oy kullanabilirler. Görüşmelere özürlü veya özürsüz olarak katılmayan bir milletvekili yerine bir başka milletvekili oy kullanamaz. \n
+Toplantı Yeter Sayısı: TBMM’nin toplanıp görüşme yapabilmesi için TBMM Genel Kurulunun üye tam sayısının en az üçte biri oranında (184) milletvekilinin hazır bulunması gerekir. \n
+Karar Yeter Sayısı: TBMM’de toplananların salt çoğunluğunun karar yönünde oy kullanması gerekir. Salt çoğunluk sayısı hiçbir zaman TBMM’nin dörtte birinin bir fazlasından az olmamalıdır. (139) \n
+Nitelikli Çoğunluk Halleri\n
+•	2/3 (367) veya 3/5 (330) karar yeter sayısı ile anayasa değiştirilir. \n
+•	3/5 karar yeter sayısı ile genel ve özel af ilanı çıkarılır. \n
+•	¾ karar yeter sayısı ile cumhurbaşkanının vatana ihanetten dolayı yargılanma yolu açılır. \n
+Salt çoğunluk ile; \n
+Gensoru sonucu güven oylaması yapılır. \n
+Yüce divana sevk edilir. \n
+Devamsızlık nedeniyle milletvekilliği düşürülür. \n
+Hükumetin kurulması için güven oylaması yapılır. \n
+Kpss genel kültür vatandaşlık dersine ait TBMM’nin Çalışma Düzeni konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz TBMM’de Oylama Türleri olacaktır. \n
+    </string>
+    <string name="vtd_tbmm_oylama">
+
+TBMM’de Oylama Türleri, işaretle oylama, açık oylama ve gizli oylamadır. Ayrıca TBMM’de Oylama Türleri konumuzda meclis (parlamento) kararları konusunu da inceleyeceğiz. Önceki kpsskonumuzda TBMM’nin Çalışma Düzenini incelemiştik. Sıradaki konumuzda ise TBMM’de Oylama Türlerini inceleyeceğiz.\n
+TBMM’de Oylama Türleri\n
+1. İşaretle oylama\n
+Milletvekillerinin el kaldırmaları, ayağa kalkmaları veya olumlu ya da olumsuz oy verenlerin ikiye ayrılarak sayılmaları biçiminde yapılır. \n
+2. Açık oylama\n
+Üzerine milletvekillerinin adları ve seçim çevrelerinin yazılı olduğu oy pusulalarının sandığa atılması veya elektronik oylama aracının çalıştırılması veya ad okunarak kabul,red veya çekimser sözcüklerinden birinin söylenmesi ile yapılır. \n
+3. Gizli oylama\n
+Üzerinde hiçbir işaret bulunmayan üç ayrı renk yuvarlağın Meclis kürsüsündeki kutuya atılması ile yapılır. \n
+ Oy Pusula Renkleri\n
+beyaz  = kabul\n
+kırmızı = red\n
+yeşil = çekimser\n
+Zorunlu Gizli Oylama : \n
+•	Anayasa değişikliği teklifinin oylanması\n
+•	TBMM Başkanlık seçimi\n
+•	Yüce divana sevke ilişkin oylama\n
+•	Meclis soruşturmasının açılıp açılmayacağına ilişkin karar verilmesi\n
+•	Milletvekilliğinin düşmesi ile ilgili kararlarda zorunlu gizli oylama yapılır. \n
+Meclis Kararları (Parlamento Kararları) \n
+Yasama işlemlerinin birinci türü parlamento kararları, ikincisi ise kanunlardır. meclis kararları en kısa tanımıyla TBMM’nin kanun dışındaki tüm işlemleridir. Meclis kararı veya TBMM kararı olarak da adlandırılmaktadır. TBMM kural olarak kendi iç örgütlenişi veya çalışmaları hakkında istediği kararı alır. Ayrıca TBMM’nin yürütme organı il ilgili ilişkileri de bu meclis kararları çerçevesindedir. Ancak parlamento kararları içerik açısından sınırlıdır.Her konu meclis kararı konusu yapılamaz. Anayasamız genel olarak meclis kararlarını yargı denetimine tabi tutmamıştır. \n
+Anayasa tarafından öngörülmüş meclis kararları şunlardır: \n
+TBMM iç tüzüğü hazırlanması , \n
+Yasama dokunulmazlığının kaldırılması, \n
+Milletvekilliğinin düşürülmesi, \n
+Meclisin kendi seçimlerinin yenilenmesi kararı, \n
+TBMM Başkanı ve Başkanlık Divanı seçimi, \n
+Meclisin tatili girmesi, \n
+Kapalı oturum, \n
+Bakanlar kurulunca bir vekile en fazla 6 ay süre ile vereceği görev kabulü, \n
+Bakanlar Kuruluna güven oyu verilmesi, \n
+Gensoru ve güven istemi, \n
+Cumhurbaşkanı seçimi, \n
+Meclis soruşturması ve Yüce Divana sevk, \n
+Cumhurbaşkanının vatana ihanetten suçlanması, \n
+Genel görüşme açılması, \n
+Meclis araştırması, \n
+Olağanüstü hal, \n
+Sıkı yönetim ilanı, \n
+Savaş ilanı ile ilgili kararlardır. \n
+Parlamento kararları önce ilgili komisyonlarda görüşülüp hazırlanır. Sonra genel kurulda oylanır.Bu kararlar bir kanun olmadığı için Resmi Gazetede TBMM Başkanlığı tarafından yayınlanır. \n
+Kpss genel kültür vatandaşlık dersine ait TBMM’de Oylama Türleri konusunu işledik. Bir sonraki kpss vatandaşlık dersi konumuz TBMM’nin Görev ve Yetkileri olacaktır. \n
+    </string>
+    <string name="vtd_tbmm_gorev">
+
+TBMM’nin Görev ve Yetkileri konusunda meclisin sahip olduğu yetkileri ve yapmakla yükümlü olduğu görevleri inceleyeceğiz. Önceki konumuzda TBMM’de Oylama Türlerini incelemiştik. Sıradaki kpss vatandaşlık konumuz ise TBMM’nin Görev ve Yetkileri konusunuinceleyeceğiz.\n
+TBMM’nin Görev ve Yetkileri\n
+TBMM’nin Görev ve Yetkilerini başlıklar halinde inceleyelim. \n
+1. Kanun Koymak, Değiştirmek veya Kaldırmak\n
+Bakanlar Kurulu tarafından verilen kanun tasarısı veya milletvekilleri tarafından verilen kanun teklifi TBMM Başkanlığına sunulur. İlgili komisyona sevk edilir. TBMM genel kurulunda oylanır; kabul edilmemesi durumunda düzenlenmesi için geri gönderilir, kabulü halinde ise kanunlaşır. Cumhurbaşkanı onayına sunulur ve Cumhurbaşkanı 15 gün içerisinde ya geri gönderir ya da onaylanır ve resmi gazetede yayınlanır. \n
+Cumhurbaşkanı uygun bulmadığı konular için anayasa mahkemesine iptal davası açabilir. \n
+2. Bütçe Kanunu ve Kesin Hesap Kanunun Hazırlanması ve Görüşülmesi
+Bütçe Kanunu\n
+Bakanlar kurulu bütçe tasarılarını mali yılbaşından en az 75 gün önce TBMM’ye sunar. Komisyonda incelenen tasarı TBMM’de görüşülür. Mali yılbaşına kadar karara bağlanır. Cumhurbaşkanı bütçe kanunlarını veto edemez. \n
+Kesin Hesap Kanunu\n
+Bütçe kanunu kabul etme yetkisi olan TBMM uygulanışını da denetleme yetkisine sahiptir. Bu denetimi TBMM adına Sayıştay yapar. \n
+3. Milletlerarası Antlaşmaları Uygun Bulma\n
+Bu türdeki antlaşmalar yayımlarında itibaren 2 ay içinde TBMM’ye sunulur. Usulüne göre yürürlüğe konan milletlerarası antlaşmalar kanun hükmündedir. Anayasaya aykırılık iddiası ile bu anlaşmalara karşı Anayasa Mahkemesine başvurulamaz.  Bu anlaşmaları uygun bulan TBMM, onaylayan ise Cumhurbaşkanıdır. \n
+4. Bakanlar Kuruluna Kanun Hükmünde Kararname Çıkarma Yetkisi Verme\n
+TBMM Bakanlar Kuruluna KHK çıkarma yetkisi verebilir. KHK kanunlara aykırı olamaz. Bakanlar Kurulu KHK ile bütçe de değişikli yapamaz. KHK resmi gazetede yayınlanmasının ardından yürürlüğe girer. Kararnameler Resmi Gazetede yayınlaması ile TBMM’ye sunulur. \n
+Kişilik hakları ve ödevleri, Siyasi haklar ve ödevlerde  sıkıyönetim ve OHAL durumları dışında KHK çıkarılamaz. \n
+5. Savaş Hali İlanı ve Silahlı Kuvvet Kullanmasına İzin Verme\n
+Savaş ilanına ve TSK’nın yabancı ülkelere gönderilmesine veya yabancı silahlı kuvvetlerin ülkemizde bulunmasına izin verme yetkisi TBMM’ye aittir. TBMM tatildeyken ülkeye yapılan ani bir silahlı saldırı da Cumhurbaşkanı TSK’nın kullanılmasına karar verebilir. \n
+6. Genel ve Özel Af İlanı\n
+TBMM üye tamsayısının 3/5 çoğunluğun kararı ile genel ve özel af ilanına karar verebilir. Sadece orman suçları için genel özel af çıkarılamaz. \n
+7. Meclis İç Tüzüğünü Hazırlamak veya Değiştirmek\n
+İç tüzük meclis iç çalışmasını düzenleyen kurallardır. İç tüzük sadece parlamentonun işleyişini gösterir ve konusu yönüyle kanunlardan ayrılır. Meclis iç tüzüğünü istediği zaman değiştirebilir. Cumhurbaşkanı, İktidar ve Ana muhalefet partisi, TBMM üye sayısının 1/5’i iç tüzükler için doğrudan Anayasa Mahkemesine iptal davası açabilir. \n
+8. Anayasanın Değiştirilmesi\n
+Teklif TBMM üye sayısının 1/3’ü tarafından verilmek zorundadır. TBMM Genel Kurulunda iki kez görüşülür. Meclisin 2/3’ünün kabulü halinde Cumhurbaşkanı onaylar veya halk oylamasına sunar. 3/5 veya 2/3 arasında kabulü halinde Cumhurbaşkanı zorunlu olarak halk oylamasına gider veya geri gönderir. \n
+Kpss genel kültür vatandaşlık dersi TBMM’nin Görev ve Yetkileri konusunu tamamladık. Bir sonraki vatandaşlık dersi konumuz ise TBMM Başkanlık Divanı olacaktır. \n
+    </string>
+    <string name="vtd_tbmm_baskanlik">
+
+TBMM Başkanlık Divanı konumuzda, TBMM Başkanlık Divanını oluşumu, görev süresi, Meclis Başkanının görev ve yetkileri, TBMM’nin bilgi edinme ve denetim yollarını inceleyeceğiz. Önceki konumuzda TBMM’nin Görev Yetkileri konusunu işlemiştik. Sıradaki kpsscoğrafya konumuz ise TBMM Başkanlık Divanıolacaktır.\n
+TBMM Başkanlık Divanı\n
+TBMM Başkanlık Divanı; \n
+Meclis Başkanı\n
+Başkanvekilleri\n
+Katip üyeler\n
+İdare amirlerinden oluşur. \n
+TBMM Başkanlık Divanı, meclis üyeleri arasından seçilen üyelerden oluşur. Başkanlık Divanı, mecliste bulunan siyasi parti gruplarının üye sayısı oranında katılmalarını sağlayacak şekilde kurulur. Siyasi parti grupları Meclis Başkanlığı için aday gösteremezler. \n
+TBMM Başkanlık Divanı Görev Süresi\n
+Bir yasama yılı içinde 2 defa seçim yapılır. İlk seçilenlerin görev süresi 2 yıl, ikinci seçilenlerin görev süresi ise yasama döneminin sonuna kadardır. Başkan ve oturumu yöneten Başkanvekili oy kullanamaz. \n
+Meclis Başkanlığı\n
+Meclis başkanlığı seçimi 4 turda ve gizli oy ile yapılır. 1. ve 2. turda üye tam sayısının 2/3 çoğunluğu ile, 3. turda salt çoğunluk ile, 4. turda ise en çok oy alan iki aday arasında yapılan seçimle en fazla oyu alan adayın kazanması yolu ile yapılır. 2001 Anayasa değişikliği ile seçimlerin 5 gün içerisinde bitirileceği hükmü getirilmiştir. \n
+Meclis Başkanı Görev ve Yetkileri\n
+•	Meclisin temsili ve Meclis toplantılarına başkanlık edilmesi. \n
+•	Cumhurbaşkanlığına vekillik etmek. \n
+•	Tatil veya ara verme döneminde kendiliğinden veya 1/5 milletvekili isteği ile meclisi toplantıya çağırma. \n
+•	Cumhurbaşkanı tarafından seçim yenileme kararı konusunda görüş belirtmek. \n
+•	Seçim yenilenmesi kararının verilmesi durumunda geçici Bakanlar Kuruluna siyasi parti gruplarından alınacak bakan sayısını belirlemek. \n
+•	Meclis sekreterine açılacak davada soruşturma izni vermek.
+•	 Meclisin kolluk ve yönetim hizmetlerini yönetmek. \n
+•	Meclis tutanak dergisini denetlemek. \n
+•	TBMM komisyonlarını denetlemek. \n
+TBMM’nin Bilgi Edinme Yolları\n
+Soru\n
+Bir konu üzerinde bilgi edinmek için milletvekillerinin Başbakan veya ilgili Bakana soru sormasıdır. Yazılı ve sözlü olarak iki türlüdür. \n
+Meclis Araştırması\n
+Bir konuda bilgi edinmek amacıyla milletvekillerinden oluşan bir komisyon tarafından yapılan incelemelerdir. Önce meclise önerge verilmesi gerekir. Cezalandırma yaratmayan denetleme yollarından biridir. Devlet sırları ve ticari sırlar bu araştırma dışındadır. \n
+Genel Görüşme\n
+Toplum ve devlet faaliyetleri ile ilgili bir konunun Meclis Genel Kurulunda görüşülmesidir. \n
+Gensoru\n
+Bakanlar kurulu genel politikası, Bir bakanın izlediği politika ve etkinlikler hakkında meclise yapılan bir denetim yoludur. Herhangi bir siyasi parti grubu veya en az yirmi milletvekili imzası ile verilir. Gensoru siyasi sorumluğa yol açar. \n
+Meclis Soruşturması\n
+Başbakan veya bir bakanın Yüce Divanda yargılanabilmesi için açılan soruşturmadır. Meclis üye sayısının onda birinin imzası ile verilir. \n
+Kpss genel kültür vatandaşlık dersi TBMM Başkanlık Divanı konusunu işledik. Bir sonrakivatandaşlık dersi konumuz Türkiye’de Seçim olacaktır. \n
+    </string>
+    <string name="vtd_tbmm_secim">
+
+Türkiye’de Seçim konusunda anayasaya göre ülkemizde seçim işlerinin yürütülmesi, yüksek seçim kurulu başlıklarını inceleyeceğiz. Hayatımızda bir çok kez karşılaştığımız seçim sürecinin işleyişini, kurallarını bu konu içerisinde değerlendireceğiz. Önceki konumuzda TBMM Başkanlık Divanını işlemiştik. Sıradaki kpsskonumuz ise Türkiye’de Seçim  olacaktır.\n
+Türkiye’de Seçim \n
+Türkiye’de Seçimler, yargı organlarının yönetim ve denetimi altında yapılmaktadır. Seçimlerin başlamasından bitimine kadar, seçimin yönetimi ve dürüstlüğü ile ilgili bütün işlemler, seçim süresince ve seçimden sonra seçim konularıyla ilgili tüm yolsuzlukları, şikayet ve itirazları inceleme, kesin karara bağlama ve TBMM üyelerinin seçim tutanaklarını kabul etme görevi Yüksek Seçim Kurulu’ nundur. \n
+Yüksek Seçim Kurulu\n
+Kurulun Oluşumu: \n
+YSK yedi asıl ve dört yedek üyeden oluşur. \n
+Üyelerin altısı Yargıtay, beşi Danıştay genel kurullarınca kendi üyeleri arasında seçilir. Bu üyeler, aralarında bir başkan ve bir başkanvekili seçerler. YSK’ ya Yargıtay ve Danıştay’dan seçilmiş üyeler arasından ad çekme ile ikişer yedek üye ayrılır. Seçilen Başkan ve Başkanvekili ad çekmeye girmezler. \n
+Görevleri: \n
+Seçimler ve halk oylamaları, YSK’nın genel yönetim ve denetimi altında yapılır. Seçim sonuçları ile milletvekili seçilenlerin adları Yüksek Seçim Kurulunca ilan edilir ve Resmi Gazete’de yayımlanır. YSK’nın karaları yargı yoluna kapalıdır. 2007 Referandum değişiklikleri ile artık Cumhurbaşkanı halk tarafından seçildiği için YSK  Cumhurbaşkanlığı seçim tutanaklarını da incelemeye yetkili kurul olmuştur. \n
+Yüksek Seçim Kurulu Birimleri\n
+İl seçim kurulu:İl merkezindeki en yüksek dereceli üç hakimden oluşur. En önemli görevi,il seçim çevresinde seçimin düzenli yürütülmesini sağlamaktır. \n
+İlçe seçim kurulu :İlçedeki en yüksek dereceli hakim,başkan olur. Dört üye siyasi partilerden alınır;iki üye öğretmenler arasından seçilir. Bu kurulun görevi,ilçede seçimin düzenle yürütülmesini sağlamak ve seçim işlerini denetlemektir. \n
+Sandık Kurulu:Bir başkan ve dört üyeden oluşur. İlçe seçim kurulunca iyi ün sahibi okur yazar olanlar arasından sandık kurulu başkanı seçilir. Üyelerden üçü siyasi partilerden alınır. Bir üye de ihtiyar heyeti veya ihtiyar meclisi üyeleri arasından ayrılır. \n
+Seçmen Kütükleri:Seçim belgesi adı verilen her muhtarlıkta bir seçmen kütüğü düzenlenir. Seçme yeterliğine sahip olan her vatandaş konutunun bulunduğu veya en az üç aydan beri oturmakta bulunduğu mahalle muhtarlığının seçmen kütüğüne yazılır. Bu listeler ait olduğu seçim bölgesinde, halkın görüp okuyabileceği yerlere asılır. Yedi gün asılı kalır. \n
+Kpss genel kültür vatandaşlık dersi Türkiye’de Seçim konusunu tamamladık. Bir sonrakivatandaşlık dersi konumuzda Seçim İlkelerini işleyeceğiz. \n
+    </string>
+    <string name="vtd_secim_ilkeri">
+
+Seçim İlkeleri konusunda ülkemizdeki seçimlere hakim olan ilkeleri, seçmen olabilme şartlarını, seçimin erkene alınması ve ertelenmesi, Türk seçim sistemleri konularının üzerinde duracağız. Ülkemizdeki seçim sürecinin nasıl geliştiği ve değiştiğini hep birlikte göreceğiz. önceki konumuzda Türkiye’de Seçimi işlemiştik. Sıradaki kpss vatandaşlık dersi konumuz iseSeçim İlkeleri olacak.\n
+Seçim İlkeleri \n
+Seçimlerin Serbestliği:Bu ilke vatandaşların hiçbir baskı ve zorlama olmadan oy kullanabilmelerini  ifade eder. Ama anayasamız ‘’mecburi’’ oy sistemini kabul etmiştir. \n
+Genel Oy İlkesi: Maddi ve cinsiyet gibi farklılıklarına bakılmaksızın tüm vatandaşların oy hakkına sahip olmasını ifade eder. \n
+Eşit Oy İlkesi:Her seçmenin bir tek oya sahip olmasıdır. \n
+Tek Dereceli Seçim İlkesi:Tek dereceli seçim,seçmenlerin temsilcileri aracısız yani doğrudan seçmesidir. \n
+Gizli Oy İlkesi: Oyun gizli olarak verilmesi, kullanılmasıdır. \n
+Açık Sayım ve Döküm İlkesi: Oyların sayımının açık olarak yapılmasıdır. \n
+Seçmen olabilme şartları: \n
+•	TC vatandaşı olmak\n
+•	18 yaşını doldurmuş olmak\n
+•	Seçmen kütüğünde kaydı bulunmak\n
+•	Kısıtlı olmamak\n
+•	Kamu hizmetlerinde yasaklı olmamak\n
+Seçimin Erkene Alınması Durumu\n
+TBMM seçimleri 2007 referandum değişikliğine göre 4 yılda bir yapılır. Fakat TBMM süre dolmadan seçimin yenilenmesine karar verebilir. Cumhurbaşkanının seçilememesi durumunda TBMM seçimleri tekrar yapılır. \n
+Ayrıca yeni kurulan bakanlar kurulunun güvenoyu alamaması, gen soru sonucu yada görev sırasında Başbakanın güvenoyu isteminin red edilmesi, 45 gün içinde bakanlar kurulu kurulamaması ya da güven oyu alamaması durumlarında seçimin yenilenmesine karar verilir. Normal seçimlerden önce yapılan seçimlere erken genel seçim denir. \n
+Seçimlerin Ertelenmesi\n
+Savaş nedeni ile seçimler TBMM’nin kararı ile bir yıl sonraya ertelenebilir. Erteleme sebebi ortadan kalkmaz ise alınan karara göre erteleme işlemi tekrar edilir. \n
+Ara Seçimler\n
+TBMM üyelerinde gerçekleşen azalma ve boşalma halinde ara seçime gidilir. her seçim döneminde bir kez yapılabilir. Genel seçim üzerinden 30 ay geçmiş olması şartı vardır. Üye tam sayısının (550) %5’i oranında üyelik boşalırsa ara seçime 3 ay içinde gidilir. Fakat genel seçimlere 1 yıl kala ara seçim yapılamaz. \n
+Türk Seçim Sistemleri\n
+1983 yılında 2839 sayılı milletvekili seçimi kanununda genel baraj ve seçim çevresi barajı olarak iki farklı baraj bulunuyordu. \n
+1986 yılında ise kontenjan barajı eklenmişti. \n
+1995 yılında 4125 sayılı kanun ile seçim ve siyasi partiler kanunlarında değişikliğe gidilmiş ve kontenjan barajı kaldırılmıştır. Artık yeni kanunlara göre ülkemizde %10 ülke genel barajı yanı tek barajlı seçim sistemi kullanılmaktaydı. \n
+Kpss genel kültür vatandaşlık dersi Seçim İlkeleri konusunu tamamlamış bulunuyoruz. Bir sonraki vatandaşlık dersi konumuz Siyasi Partiler olacaktır. \n
+    </string>
+    <string name="guncel_bm">
+
+Birleşmiş Milletler Türkiye’nin üyesi olduğu bir kuruluştur. 2. Dünya Savaşı’ndan sonra birçok insanın ölmesi sonucu barış ve güvenliği sağlamak amacıyla 1945 yılında kurulmuştur. 192 üyesi bulunan Birleşmiş Milletlerin merkezi New York, Avrupa’da ise merkez Cenevre’dir.\n
+Birleşmiş Milletler resmi dil olarak şu anda ingilizce, fransızca, rusça, çince, ispanyolca ve arapçayı kullanmaktadır. \n
+* Genel Kurul: Silahsızlanma, barış ve güvenliği sağlamak, bozulan iyi ilişkiler için barışçıl çözüm üretmek genel kurulun görevleri arasındadır. Birinci karar alma organıdır. \n
+* Güvenlik Konseyi: Birleşmiş milletler yürütme organıdır. Daimi üyesi olan ABD, Çin, İngiltere,Fransa ve Rusya’nın veto hakları bulunmaktadır. 10 tane geçici üye vardır ve bunlar her iki yılda bir seçilmektedir. Türkiye de 2009 yılından beri geçici üye olarak görev almaktadır bu konseyde ancak Türkiye’nin diğer geçici üyeler gibi veto hakkı yoktur. \n
+Güvenlik konseyinin amacı BM’nin amaçlarına uygun barışı korumak, silahsızlanmayı denetleyici planlar hazırlamak, barışa karşı oluşabilecek tehditleri ortadan kaldırmak ve bu durumları soruşturmak, barışı bozanlara karşı askeri birlik kurarak onlara karşı tedbir almaktır. \n
+* Ekonomik Sosyal Konsey: Birleşmiş milletler ekonomik ve sosyal sorunlara müdahale etmek amacıyla bu konseyi kurmuştur. İnsan hakları ve temel özgürlükleri baz alırlar ve bu yönde hareket ederler. \n
+* Genel Sekreterlik: BM’nin diğer organlarının daha rahat çalışabilmesi için gerekli ortamı hazırlamaktadır. Barış ve güvenliği bozucu her türlü olay için raporlar hazırlayıp bu raporları güvenlik konseyine sunmaktadır. \n
+* Uluslararası Adalet Divanı: Birleşmiş Milletler yargı organıdır. Hollanda Lahey’dedir. Uluslararası sorunları ve savaş suçlularını yargıç kararıyla yargılamaktadır. \n
+BM YARDIMCI KURULUŞLAR\n
+* Unesco (BM eğitim, bilim ve kültür örgütü): Eğitim , bilim, kültür ve haberleşme alanlarında uluslararası işbirliği ve aktiviteler sağlamak için Paris’te 1946 yılında kurulmuştur. Türkiye de 1946 yılında Unesco’ya üye olmuştur. \n
+– Unesco 2011 yılını Evliya Çelebi yılı ilan etmiştir. \n
+– Kapadokya ve Göreme Milli Parkı, İstanbul’daki tarihi yerler, Divriği Ulu Camii, Darüşşifa, Hitit başkenti Hattuşaş, Nemrut Dağı, Pamukkale, Ksantos-Letoon, Safranbolu tarihi şehri ve Truva Unesco’nun Türkiye’deki Dünya Kültür Mirası olarak saydığı yerler arasındadır. \n
+* Unicef (BM Çocuk Fonu): Merkezi New York. kuruluşu 1946’dır. Türkiye 1954’te üye olmuştur. 2010’da Türkan Şoray ”Barış Elçisi” olarak seçilmiştir. \n
+* Dünya Bankası (WB): Merkezi Washington, kuruluş yılı 1945’tir. 1947’de Türkiye üye olmuştur. Uzun, kısa vadeli bazende karşılıksız kredi vermektedir. \n
+* Dünya Sağlık Örgütü (WHO): Merkezi Cenevre, Kuruluş yılı 1948’dir. Uluslararası boyutta sağlık alanında çalışma ve hastalıklarla mücadele etmek amacıyla kurulmuştur. \n
+* Dünya Ticaret Örgütü (WTO): Merkezi Cenevre, Kuruluş yılı 1953, Türkiye’nin üyeliği 1953’tür. Hükümetlerin ticaret yasalarını uluslararası çerçevede geliştirmek ve ticari ilişkilerin düzenlenmesini sağlamak amacıyla kurulmuştur. \n
+* Gıda ve Tarım Örgütü (FAO): Merkezi Roma, Kuruluş yılı 1946, Türkiye’nin üyeliği 1947’dir. Açlığa karşı ortaya çıkan tehlikeleri ortadan kaldırmak amacıyla kurulmuştur. \n
+* Uluslararası Çalışma Teşkilatı(ILO): Asıl kuruluş yılı 1919, BM bünyesine geçmesi 1946’dır. Merkezi Viyana’dır ve Türkiye 1932 yılında üye olmuştur. Dünya işçilerinin sosyal ve çalışma koşullarını geliştirmek ve sosyal güvenlik önlemlerini yaygınlaştırma amacıyla kurulmuştur. \n
+* BM Mülteciler Yüksek Komiserliği (UNHCR): BM bünyesi altında mültecilerin ülkelerine dönmesine yardımcı olmak amacıyla 19580’de kurulmuştur. \n
+* BM Kalkınma Programı (UNDP): Başkanlığını bir süre Kemal Derviş’in yaptığı bu programın amacı, geri kalmış ülkelerin kendi kaynaklarına yönelmesini sağlama ve bu yönde teşvikler oluşturmadır. \n
+* BM Çevre Programı (UNEP): Merkezi Nairobi, kuruluş yılı 1972’dir. \n
+* IMF (Uluslararası Para Fonu): Merkezi Washington olan İMF 1944 yılında kurulmuş, Türkiye de 1947 yılında üye olmuştur. Türkiye hazine müsteşarlığı aracılığıyla IMF ile ilişkilerini sürdürmektedir. \n
+    </string>
+    <string name="guncel_kuruluslar">
+
+Türkiye’nin üye olduğu uluslararası kuruluşlar devamlı güncellenmekle birlikte Kpss güncel konular içinde bilinmesi gereken önemli konulardandır. Kpss genel kültür sorularının içerisinde yer alan bu konu sadece Kpss açısından değil genel kültürümüzün gelişmesi açısından da bize katkı sağlayacaktır. Bu üye kuruluşları teker teker inceleyelim.\n
+1) Nato (Kuzey Atlantik Paktı): 2. Dünya Savaşı’ndan sonra Sovyet Rusya’nın yayılımcı politikasına karşı 4 nisan 1949’da kurulmuştur.Üye sayısı 28 olan Nato birliğine Türkiye 1952 yılında kabul edilmiştir. Ülkemiz askerlerini Avrupa dışında ilk olarak Afganistan’a sonra da Avrupa dışına ikinci kez Libya’ya (Mart 2011) Nato bünyesinde göndermiştir. 2012 Nato zirvesi en son Chicago’da yapılmıştır. \n
+2) AGİT (Avrupa Güvenlik İşbirliği Teşkilatı): 1970’li yılların başında soğuk savaş koşullarındaki Avrupa’nın bölünmüşlüğüne son vermek , güvenlik ve istikrarın kazanılmasını sağlamak amacıyla 1973 tarihinde Helsinki’de çalışmalara başlanmış ve 1975’de 33 Avrupa ülkesi, ABD ve Kanada  tarafından  Helsinki Nihai Senedi’nin imzalanmasıyla sonuçlanmıştır. \n
+3) Ekonomik İşbirliği Örgütü (EİT): 1985 yılında Türkiye, İran ve Pakistan arasında kurulmuştur. Sonradan Afganistan, Azerbaycan, Kazakistan, Kırgızistan, Tacikistan, Türkmenistan ve Özbekistan’ın katılımıyla 10 üyeli bir teşkilat haline gelmiştir. \n
+4) G-20 (Ekonomisi Gelişmiş ve Gelişmekte Olan 20 Ülke): Küresel ekonomi ve mali sistemin daha fazla geliştirilmesini sağlamak ve küresel krizlere karşı önlem almak amacıyla 1999 yılında kurulmuştur. G-20 üyeleri; Arjantin, Avustralya, Brezilya, Kanada, Çin, Fransa, Almanya, Hindistan, Endonezya, İtalya, Japonya, Meksika, Rusya, Suudi Arabistan, Güney Afrika, Türkiye, İngiltere, ABD ve Avrupa Birliğinden oluşmaktadır. \n
+5) OECD (Ekonomik İşbirliği ve Kalkınma Örgütü): Türkiye’nin üye olduğu uluslararası kuruluşlar arasında olan OECD, 1947 ile 1960 yılları arasında faaliyet gösteren Avrupa İktisadi İşbirliği Teşkilatı (OEEC) yerine oluşturulmuş bir örgüttür. OECD 1961 yılında resmen faaliyete başlamıştır. Son üyesi Şili olup şu anda Türkiye dahil 31 üyesi bulunmaktadır. \n
+6) Karadeniz Ekonomik İşbirliği Örgütü (KEİ): 25 Haziran 1992 tarihinde Türkiye’nin öncülüğünde İstanbul Zirvesi Bildirisi ile kurulmuştur. KEİ üyeleri; Arnavutluk, Azerbaycan, Bulgaristan, Ermenistan, Gürcistan, Moldova, Romanya, Rusya, Sırbistan, Türkiye, Ukrayna ve Yunanistan olmak üzere 12  üyeden oluşmaktadır. Merkezi İstanbul’dadır. \n
+* KEİ Vize Anlaşmaları: ”KEİ Üyesi Ülkelerin İşadamları İçin Vize İşlemlerinin Kolaylaştırılması Anlaşması” ile ”KEİ Üyesi Ülkelerin Profesyonel Sürücüleri İçin Vize İşlemlerinin Kolaylaştırılması Anlaşması” 2008 yılında Tirana’da 19. Balkanlar Konseyi Toplantısında, Arnavutluk, Ermenistan, Moldova ile Türkiye arasında imzalanmıştır. \n
+7) Gelişmekte Olan 8 İslam Ülkesi (D-8): Türkiye’nin üye olduğu uluslararası kuruluşlar  dahilinde olan, ilk adımlarını Necmettin Erbakan’ın attığı D-8, Türkiye, İran, Pakistan, Bangladeş, Malezya, Endonezya, Mısır ve Nijerya’nın katılımıyla 1997 yılında İstanbul’da yapılan Devlet/Hükümet Başkanları Zirvesi ile resmen kurulmuştur. \n
+8) İslam Konferansı Örgütü (İKÖ): 1969’da Fas’ta kurulmuş olup merkezi Cidde’dedir. Türkiye dahil 57 üyesi bulunmaktadır. 2005’ten bu yana genel sekreterliğini Prof. Dr. Ekmeleddin İhsanoğlu yürütmektedir. \n
+9) Avrupa Konseyi (AK): Türkiye’nin üye olduğu uluslararası kuruluşlar içerisinde bulunan Avrupa Konseyi, 1949 yılında Avrupa’da insan hakları, demokrasi, ve hukukun üstünlüğünü savunmak amacıyla Avrupa çapında kurulmuş hükümetler arası kuruluştur. Avrupa Birliğinden farklı olmakla beraber Avrupa İnsan Hakları Mahkemesi Avrupa Konseyine bağlıdır. 2010 Anayasa değişikliği ile Türkiye vatandaşları haklarını burada aramadan önce Anayasa Mahkemesinde haklarını arayabilecektir. Avrupa İnsan Hakları Mahkemesi’nin merkezi Fransa’nın Strasbourg kentindedir. Burada görev yapan Türk yargıcın adı Ayşe Işıl Karataş’tır. Avrupa Konseyi Parlamenter Meclis Başkanlığına Mevlüt Çavuşoğlu seçilmiştir. \n
+10) Birleşmiş Milletler (BM): Türkiye’nin üye olduğu uluslararası kuruluşlar içerisinde yer alan Birleşmiş Milletler konusu bir önceki konuda detaylı bir şekilde anlatılmış. \n
+    </string>
+    <string name="guncel_ab">
+
+Avrupa Birliği Türkiye’nin üyelik aşamasında olduğu uluslararası kuruluşlar arasında yer almaktadır. Bir önceki kpss güncel olaylar konusunda Türkiye’nin üye olduğu uluslararası kuruluşları incelemiştik. Bu bölümde de Avrupa Birliği konusunu ve Türkiye’nin üye olmadığı uluslararası kuruluşları işleyeceğiz.\n
+Avrupa Birliği (AB) \n
+Avrupa birliği’nin temeli 1951’de kurulan ”Avrupa Kömür ve Çelik Topluluğu”dur. Bu topluluk 1957’de Roma Antlaşması ile beraber ”Avrupa Ekonomik Topluluğu” adını almıştır. En başta her ne kadar ekonomik işbirliğini öngören çalışmalar yürütse de, zaman içinde  sosyal, siyasal alanlarda da kendisine hedef koymuş ve ”Avrupa Topluluğu” adını almıştır. Nihai olarak 1992’de ”Avrupa Birliği” adını almıştır. \n
+•	1957 Avrupa Ekonomik Topluluğu kurucuları Belçika, Fransa, Hollanda, Lüksemburg, Batı Almanya ve İtalya olmak üzere 6 tanedir. \n
+•	1981’de Yunanistan katılmıştır. \n
+•	1986’da Portekiz ve İspanya katılmıştır. \n
+•	1995’de Avusturya, Finlandiya ve İsveç katılmıştır. \n
+•	2004 Çek Cumhuriyeti, Estonya, Güney Kıbrıs Rum Kesimi, Letonya, Litvanya, Macaristan, Malta, Polonya, Slovakya ve Slovenya Avrupa Birliğine katılmıştır. \n
+•	2007’de Bulgaristan, Romanya ve son ülkelerin katılımıyla üye sayısı 27 olmuştur. \n
+•	Türkiye, Hırvatistan, Makedonya, İzlanda, Sırbistan ve Karadağ şu anda aday ülke konumundadır. \n
+Norveç, İzlanda ve İsviçre Avrupa Birliği üyesi değildir. \n
+* Avrupa Birliği Para Birimi: 1 Ocak 2002 tarihinde Avrupa ortak para birimi Euro olarak belirlenmiştir. 1 ocak 2009 tarihinde Slovakya da ortak para birimi Euro’ya geçmiştir. 1 ocak 2008’den itibaren Malta ve Güney Kıbrıs Rum Kesimi de AB ortak para birimi olan Euro’ya geçmiştir. Letonya ve Polonya gibi ülkeler kademeli olarak Euro kullanmaya başlayacaklardır. \n
+İngiltere, İsveç, Danimarka Avrupa Birliği ortak para birimi olan Euro’yu kabul etmeyerek kendi para birimlerini kullanmaya devam etmişlerdir. \n
+Avrupa Birliği Anayasası (Lizbon) \n
+Kpss güncel konular dersinde yer alan AB anayasasının yürürlüğe girebilmesi için üye devletlerin kabul etmesi gerekmektedir. Fransa ve Hollanda 2005 yılında AB anayasasını halk oylamasına sunmuşlardır ve reddetmişlerdir. 2077 yılında Lizbon Antlaşması adı altında yeni bir AB anayasası oluşturulmuştur. Bu AB anayasasını halk oylamasına sunan tek ülke olan İrlanda 2008’de reddetmiştir. Ancak 2009 yılındaki yeni halk oylamasıyla kabul etmişlerdir. \n
+Yeni bir uygulama olan ve 2.5 yılda bir değişen AB Başkanlığı sistemini getirmiştir. \n
+Avrupa Birliği merkezi Belçika’nın başkenti Brüksel’dir. \n
+Avrupa Birliği ile Türkiye İlişkileri\n
+Kpss genel kültür güncel konulara Avrupa Birliği ile Türkiye İlişkileri ile devam edeceğiz. Türkiye ile AB ilişkileri 1959 yılında Türkiye’nin Avrupa Ekonomik Topluluğu’na ortaklık başvurusu ile başlamıştır. Bu başvuru 1963 yılında Ankara’da Ankara Antlaşması’nın imzalanmasıyla hayata geçmiştir. \n
+O dönemlerde Türkiye iç sorunlar nedeniyle AB sürecine fazla önem gösterememiştir. Fakat 1987 yılında Turgut Özal döneminde AB üyeliği tekrar gündeme gelmiş ve Avrupa Birliğine tam üyelik başvurusu yapılmıştır. \n
+Bu başvurunun ardından Türkiye 1996 yılında Avrupa Birliği Gümrük Birliğine dahil olmuştur. 1999 yılında Helsinki zirvesiyle adaylık statüsü kazanan Türkiye, 3 Ekim 2005 yılında Lüksemburg zirvesiyle tam üyelik müzakerelerine başlamıştır.
+Avrupa Birliği ile ilişkilerde şu anda baş müzakereci AB Bakanımız Egemen Bağış’tır. Daha fazla bilgi için tıklayın. \n
+Türkiye’nin Üye Olmadığı Uluslararası Kuruluşlar\n
+Kpss genel kültür güncel konular dersinin bir önceki konusu Türkiye’nin Üye olduğu Uluslararası kuruluşlardı. Şimdi de Türkiye’nin Üye olmadığı Uluslararası Kuruluşları işleyeceğiz. \n
+1) EFTA (Avrupa Serbest Ticaret Bölgesi): 1960 yılında AB’ye alternatif olarak kurulmuş, 4 Avrupa ülkesinin üye olduğu uluslararası bir ticaret örgütüdür. Kurucular dahil üyelerin çoğu EFTA’dan ayrılarak AB’ye girmiştir. \n
+2) Şanghay İşbirliği Örgütü: Varşova Paktı’nın yerini alması beklenen bu örgüt üyeleri Çin, Rusya, Kazakistan, Kırgızistan, Tacikistan ve 2001 yılında Özbekistan katılımı ile 6ülkeden oluşmaktadır. \n
+Dünya petrol üretim ve kullanım pazarının yarısından fazlasını elinde bulunduran bu örgüt ABD’ye karşı etkili bir kutup oluşturmaktadır. \n
+Hindistan, İran, Moğolistan ve Pakistan bu örgütte gözlemci olarak bulunmaktadır. \n
+3) BDT ( Bağımsız Devletler Topluluğu): 1991’de Sovyet Rusya’nın dağılmasından sonra Baltık devletleri ve Gürcistan hariç tüm eski Sovyetler Birliği Cumhuriyetleri bu anlaşmayı imzalamışlardır. 1993 yılında Gürcistan bu anlaşmayı imzalasa da 2008’de Rusya ile yapılan savaştan sonra birlikten ayrılmışlardır. \n
+Azerbaycan, Beyaz Rusya, Ermenistan, Kazakistan, Kırgızistan, Moldova, Özbekistan, Tacikistan, Türkmenistan, Rusya Federasyonu ve Ukrayna Bağımsız Devletler Topluluğu’na dahil ülkelerdir. \n
+4) OPEC (Petrol İhraç Eden Ülkeler Birliği): 1960’ta kurulan Petrol İhraç Eden Ülkeler Örgütü, petrol ihraç eden ve Dünya petrol rezervlerinin üçte ikisini ellerinde bulunduran 13 ülkeden oluşmaktadır. \n
+5) OAPEC (Petrol ihraç eden Arap Ülkeler Birliği): 1968 yılında kurulan bu örgüt 11 ülkeden oluşmaktadır. Bu örgütün kurulma amacı üye ülkeler arasındaki işbirliğini geliştirmek, hem bireysel hem de kollektif olarak petrol sanayisindeki yasal çıkarlarını korumaktır. \n
+6) NAFTA (Kuzey Amerika Serbest Ticaret Bölgesi): ABD, Meksika ve Kanada arasında 1994 yılında imzalanmıştır. \n
+7) G8 (Gelişmiş 8 Ülke): G-8 (Group Of Eight), dünyanın en zengin ülkelerini kapsamaktadır. Bu ülkeler, ABD, Japonya, Almanya, Birleşik Krallık, Fransa, İtalya, Kanada ve Rusya’dır. \n
+2011 G8 zirvesi Fransa’da, 2012 G8 zirvesi Washington’da yapılmıştır. 2013 G8 zirvesi İngiltere’de (Birleşik Krallık) yapılacaktır. \n
+Avrupa Birliği ve Türkiye’nin üye olmadığı uluslararası kuruluşları konularını bitirdik. Bir sonraki kpss güncel olaylar konusu Ulusal Kuruluşlar olacaktır. \n
+    </string>
+
 </resources>
