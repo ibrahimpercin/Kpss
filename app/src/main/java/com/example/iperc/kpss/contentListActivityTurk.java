@@ -86,120 +86,120 @@ public class contentListActivityTurk extends AppCompatActivity {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v,
                                         int groupPosition, int childPosition, long id) {
-                final String selected = (String) listAdapter.getChild(groupPosition, childPosition);
-                Intent intent;
-                //Seçime göre açılma ve içeriği güncelleme
-                switch(selected){
-                    case "Sözcükte Anlam":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam));
-                        intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_title));
-                        startActivity(intent);
-                        break;
-                    case "Sözcükte Anlam İlişkileri":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam_iliskisi));
-                        intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_iliskisi_title));
-                        startActivity(intent);
-                        break;
-                    case "Sözcükte Anlam Olayları":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam_olayları));
-                        intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_olayları_title));
-                        startActivity(intent);
-                        break;
-                    case "Atasözleri ve Deyimler | İkilemler":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_atasozleri_deyimler));
-                        intent.putExtra("icerik2",getString(R.string.turkce_atasozleri_deyimler_title));
-                        startActivity(intent);
-                        break;
-                    case "Cümlede Anlam İlişkileri":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam));
-                        intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_title));
-                        startActivity(intent);
-                    case "Cümlede Anlam İlişkileri – 2":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_cumlede_anlam));
-                        intent.putExtra("icerik2",getString(R.string.turkce_cumlede_anlam_title));
-                        startActivity(intent);
-                        break;
-                    case "Cümlede Anlatım Özellikleri":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_cumlede_anlam2));
-                        intent.putExtra("icerik2",getString(R.string.turkce_cumlede_anlam2_title));
-                        startActivity(intent);
-                        break;
-                    case "Anlatım Biçimleri":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_anlatim_bicimleri));
-                        intent.putExtra("icerik2",getString(R.string.turkce_anlatim_bicimleri_title));
-                        startActivity(intent);
-                        break;
-                    case "Düşünceyi Geliştirme Yolları":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_dusunceyi_gelistirme_yollari));
-                        intent.putExtra("icerik2",getString(R.string.turkce_dusunceyi_gelistirme_yollari_title));
-                        startActivity(intent);
-                        break;
-                    case "Paragrafta Anlatım Özellikleri":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_paragrafta_anlatim_ozellikleri));
-                        intent.putExtra("icerik2",getString(R.string.turkce_paragrafta_anlatim_ozellikleri_title));
-                        startActivity(intent);
-                        break;
-                    case "Ünlülerle İlgili Ses Olayları":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_ses_olayları));
-                        intent.putExtra("icerik2",getString(R.string.turkce_ses_olayları_title));
-                        startActivity(intent);
-                        break;
-                    case "Ünsüzlerle İlgili Ses Olayları":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_ses_olayları2));
-                        intent.putExtra("icerik2",getString(R.string.turkce_ses_olayları2_title));
-                        startActivity(intent);
-                        break;
-                    case "Ünsüz Benzeşmesi":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_unsuz_benzesmesi));
-                        intent.putExtra("icerik2",getString(R.string.turkce_unsuz_benzesmesi_title));
-                        startActivity(intent);
-                        break;
-                    case "Yazım Kuralları":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_yazim_kurallari));
-                        intent.putExtra("icerik2",getString(R.string.turkce_yazim_kurallari_title));
-                        startActivity(intent);
-                    case "Ses Olayları Yazım Kuralları":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_yazim_kurallari2));
-                        intent.putExtra("icerik2",getString(R.string.turkce_yazim_kurallari2_title));
-                        startActivity(intent);
-                        break;
-                    case "Paragraf – Ana Düşünce – Paragraf Yapısı":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_paragrafta_anadusunce));
-                        intent.putExtra("icerik2",getString(R.string.turkce_paragrafta_anadusunce_title));
-                        startActivity(intent);
-                        break;
-                    case "Noktalama İşaretleri":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_noktalama_isaretleri));
-                        intent.putExtra("icerik2",getString(R.string.turkce_noktalama_isaretleri_title));
-                        startActivity(intent);
-                        break;
-                    case "Sözcüğün Yapısı":
-                        intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
-                        intent.putExtra("icerik",getString(R.string.turkce_sozcugun_yapisi));
-                        intent.putExtra("icerik2",getString(R.string.turkce_sozcugun_yapisi_title));
-                        startActivity(intent);
-                        break;
+                    final String selected = (String) listAdapter.getChild(groupPosition, childPosition);
+                    Intent intent;
+                    //Seçime göre açılma ve içeriği güncelleme
+                    switch(selected){
+                        case "Sözcükte Anlam":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam));
+                            intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_title));
+                            startActivity(intent);
+                            break;
+                        case "Sözcükte Anlam İlişkileri":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam_iliskisi));
+                            intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_iliskisi_title));
+                            startActivity(intent);
+                            break;
+                        case "Sözcükte Anlam Olayları":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam_olayları));
+                            intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_olayları_title));
+                            startActivity(intent);
+                            break;
+                        case "Atasözleri ve Deyimler | İkilemler":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_atasozleri_deyimler));
+                            intent.putExtra("icerik2",getString(R.string.turkce_atasozleri_deyimler_title));
+                            startActivity(intent);
+                            break;
+                        case "Cümlede Anlam İlişkileri":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_sozcukte_anlam));
+                            intent.putExtra("icerik2",getString(R.string.turkce_sozcukte_anlam_title));
+                            startActivity(intent);
+                        case "Cümlede Anlam İlişkileri – 2":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_cumlede_anlam));
+                            intent.putExtra("icerik2",getString(R.string.turkce_cumlede_anlam_title));
+                            startActivity(intent);
+                            break;
+                        case "Cümlede Anlatım Özellikleri":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_cumlede_anlam2));
+                            intent.putExtra("icerik2",getString(R.string.turkce_cumlede_anlam2_title));
+                            startActivity(intent);
+                            break;
+                        case "Anlatım Biçimleri":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_anlatim_bicimleri));
+                            intent.putExtra("icerik2",getString(R.string.turkce_anlatim_bicimleri_title));
+                            startActivity(intent);
+                            break;
+                        case "Düşünceyi Geliştirme Yolları":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_dusunceyi_gelistirme_yollari));
+                            intent.putExtra("icerik2",getString(R.string.turkce_dusunceyi_gelistirme_yollari_title));
+                            startActivity(intent);
+                            break;
+                        case "Paragrafta Anlatım Özellikleri":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_paragrafta_anlatim_ozellikleri));
+                            intent.putExtra("icerik2",getString(R.string.turkce_paragrafta_anlatim_ozellikleri_title));
+                            startActivity(intent);
+                            break;
+                        case "Ünlülerle İlgili Ses Olayları":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_ses_olayları));
+                            intent.putExtra("icerik2",getString(R.string.turkce_ses_olayları_title));
+                            startActivity(intent);
+                            break;
+                        case "Ünsüzlerle İlgili Ses Olayları":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_ses_olayları2));
+                            intent.putExtra("icerik2",getString(R.string.turkce_ses_olayları2_title));
+                            startActivity(intent);
+                            break;
+                        case "Ünsüz Benzeşmesi":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_unsuz_benzesmesi));
+                            intent.putExtra("icerik2",getString(R.string.turkce_unsuz_benzesmesi_title));
+                            startActivity(intent);
+                            break;
+                        case "Yazım Kuralları":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_yazim_kurallari));
+                            intent.putExtra("icerik2",getString(R.string.turkce_yazim_kurallari_title));
+                            startActivity(intent);
+                        case "Ses Olayları Yazım Kuralları":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_yazim_kurallari2));
+                            intent.putExtra("icerik2",getString(R.string.turkce_yazim_kurallari2_title));
+                            startActivity(intent);
+                            break;
+                        case "Paragraf – Ana Düşünce – Paragraf Yapısı":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_paragrafta_anadusunce));
+                            intent.putExtra("icerik2",getString(R.string.turkce_paragrafta_anadusunce_title));
+                            startActivity(intent);
+                            break;
+                        case "Noktalama İşaretleri":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_noktalama_isaretleri));
+                            intent.putExtra("icerik2",getString(R.string.turkce_noktalama_isaretleri_title));
+                            startActivity(intent);
+                            break;
+                        case "Sözcüğün Yapısı":
+                            intent = new Intent(contentListActivityTurk.this, icerikViewActivity.class);
+                            intent.putExtra("icerik",getString(R.string.turkce_sozcugun_yapisi));
+                            intent.putExtra("icerik2",getString(R.string.turkce_sozcugun_yapisi_title));
+                            startActivity(intent);
+                            break;
+                    }
+                    return true;
                 }
-                return true;
-            }
-        });
+            });
     }
 
     /*

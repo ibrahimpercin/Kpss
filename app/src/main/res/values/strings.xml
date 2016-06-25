@@ -13,6 +13,7 @@
     <string name="action_settings">Ayarlar</string>
     <string name="title_activity_content">contentActivity</string>
     <string name="title_activity_icerik_view"></string>
+
       <!-- TÜRKÇE İÇERİK -->
     <string name="turkce_sozcukte_anlam_title">Sözcükte Anlam</string>
     <string name="turkce_sozcukte_anlam_iliskisi_title">Sözcükte Anlam İlişkileri</string>
@@ -2958,4 +2959,836 @@ Kpss genel kültür Tarih dersine ait Osmanlı fikir akımları konusu tamamlanm
     </string>
 
    <!-- COĞRAFYA İÇERİK -->
+   <string name="cografya_tr_konum_title">Türkiyenin Matematik Konumu</string>
+   <string name="cogafya_tr_konum_sonuclari_title">Türkiyenin Matematik Konumunun Sonuçları</string>
+   <string name="cografya_yeryuzu_sekli_title">Türkiye’de Yeryüzü Şekilleri</string>
+   <string name="cografya_tr_daglar_title">Türkiye'nin Dağları</string>
+   <string name="cografya_tr_ovalar_title">Türkiye’nin Ovaları</string>
+   <string name="cografya_platoalr_title">Türkiye’nin Platoları</string>
+   <string name="cografya_dogal_afetler_title">Türkiye’de Doğal Afetler</string>
+   <string name="cografya_akarsular_title">Türkiye'de Akarsular</string>
+   <string name="cografya_akarsular2_title">Akarsu Rejimleri ve Debi</string>
+   <string name="cografya_akarsular3_title">Akarsu Aşındırma Şekilleri ve Akarsu Biriktirme Şekilleri</string>
+   <string name="cografya_yeralti_sulari_title">Türkiye'nin Yeraltı Suları</string>
+   <string name="cografya_yer_sekilleri_title">Türkiye’nin Yer Şekilleri</string>
+   <string name="cografya_kiyi_tipleri_title">Türkiye’de Kıyı Tipleri</string>
+   <string name="cografya_goller_title">Türkiye’de Göller ve Oluşumu</string>
+   <string name="cografya_cevre_title">Türkiye’nin Çevre Sorunları</string>
+   <string name="cografya_iklim_title">Türkiye’nin İklimi</string>
+   <string name="cografya_sicaklik_title">Türkiye’de Sıcaklık</string>
+   <string name="cografya_basinc_title">Türkiye’de Basınç ve Rüzgarlar</string>
+   <string name="cografya_yagis_title">Türkiye’de Yağış</string>
+   <string name="cografya_iklim_tipleri_title">Türkiye’de İklim Tipleri ve Bitki Örtüsü</string>
+   <string name="cgrafya_karasal_iklim_title">Türkiye’de Karasal İklim</string>
+   <string name="cografya_nufus_title">Türkiye’de Nüfus</string>
+    <string name="cografya_tr_konum">
+Türkiyenin matematik konumu 26-45 Doğu meridyenleri ile 36-42 Kuzey paralelleri arasında yer almaktadır. Dünya’ya göre bu yer de Türkiye Kuzey Doğu yarım kürede yer alır demektir.\n
+Peki Türkiye’nin matematik konumunu belirlerken yukarıda bahsettiğimiz paralel ve meridyen ne demektir? \n
+Paraleller ve özellikleri: Paraleller doğu-batı doğrultusunda konum belirlemek amacıyla çizilmiş hayali dairelerdir. Paralelin bir diğer terim adı da enlemdir.
+En büyük paralel dairesi ekvatordur , resimde 0 derece ile gösterilen dairedir. Buradan çıkaracağımız  bir sonuç vardır, eğer en büyük paralel ekvatorda ise bu Dünya’nın geoid bir şekle sahip olduğu anlamına gelir. Yani Dünya’nın şekli kutuplardan basık ve ekvatordan şişik olarak aklımızda bulunmalıdır. \n
+Paralellerin çevreleri Ekvator’dan kutuplara doğru küçülmektedir. ( Yine Dünya’nın yuvarlak bir şekle sahip olduğunu kanıtlar ) \n
+Bu temel bilgilerin dışında Kpss sorularında enlemler açısından bilmemiz gereken bazı özellikler vardır, şimdi bunları sıralayalım: \n
+–  Aynı enlem üzerinde yer alan merkezlerin; \n
+* Güneş ışınlarını alış açısı\n
+* Aydınlanma ve gece-gündüz süreleri\n
+* Yer çekimleri\n
+* Herhangi bir paralele olan uzaklıkları\n
+* Grup ve Tan zamanları (Yani Güneş’in doğduğu ve battığı vakitler) \n
+* Aynı cisimlerin gölge boyları\n
+* Çizgisel hızları ( Dünya’da bir yerin birim zamanda dönerken aldığı yoldur.) \n
+her zaman aynıdır ve aynı kalacaktır. \n
+–  İki enlem arası mesafe 111 km’dir. İki enlem arasındaki mesafeyi (enlem sayısı x 111) şeklinde bulabiliriz. Örneğin 28 Güney  32 Kuzey enlemleri arası mesafe: 60×111 =6660 Km’dir. \n
+* Özel Enlemler: \n
+
+1) Yengeç Dönencesi: Kuzey yarım kürede güneş ışınlarının dik düştüğü son enlemdir. Yengeç dönencesi sadece 21 Haziranda güneş ışınlarını dik alır. \n
+2) Oğlak Dönencesi: Güney kürede güneş ışınlarının dik düştüğü son enlemdir. Oğlak Dönencesi sadece 21 Aralık’ta güneş ışınlarını dik almaktadır. \n
+3) Kuzey ve Güney Kutup Daireleri: Gece-gündüz sürelerinin 24 saate olaştığı son enlemlerdir. \n
+4) Kutup Noktaları: Güneş ışınlarını en eğik açıyla yer alan bölgelerdi. Kutup noktalarında 6 ay gece ve 6 ay gündüz yaşanmaktadır. \n
+5) Ekvator: Belki de coğrafya dersinde karşımıza en sık çıkan Ekvator Dünya’yı iki eşit parçaya bölmektedir. 21 Mart ve 23 Eylül tarihlerinde güneş ışınlarını dik ekvatorda saat tam 12:00’de cisimlerin gölge boyları sıfır olur. \n
+Tüm bu özel enlemlere bağlı olarak bazı kuşaklar oluşmaktadır. Ekvator ile dönenceler arasındaki kuşak Tropikal Kuşak, dönencelerle kutup daireleri arasındaki kuşak Orta Kuşak ve kutup daireleri ile kutup noktaları arasındaki kuşak ta Kutup Kuşağı olarak adlandırılmaktadır. \n
+
+Meridyenler ve Özellikleri: Meridyenler de konum belirlemek amacıyla çizilmiş olan hayali dairelerdir ancak doğrultusu kuzey-güney şeklindedir. Meridyenlerin bir diğer ismi de Boylamdır. \n
+Başlangıç meridyeninin Greenwich (İngiltere’den) geçtiği kabul edilir. İki meridyen arası mesafe ekvatordan kutuplara doğru azalır ve bunun sebebi Dünya’nın geoid bir şekle sahip olmasıdır. \n
+Yine iki meridyen arası zaman farkı 4 dakikadır. Peki meridyenler arası zaman farkı kutuplardan ekvatora doğru azalır mı? Hayır. İki meridyen arası zaman farkı her yerde aynıdır ve 4 dakikadır. Peki bunun sebebi nedir derseniz çizgisel hızın Dünya üzerinde farklı olmasından kaynaklanır. \n
+İki meridyen arasındaki zaman farkını bulmak için arada kaç meridyen olduğu bulunur ve bulunan sayı 4 ile çarpılır. \n
+– Aynı meridyen üzerinde yer alan merkezlerin: \n
+* Yerel saatleri\n
+* Öğle vakitleri\n
+* Diğer boylamlarla arasındaki zaman farkı\n
+her zaman aynıdır ve aynı kalacaktır.
+    </string>
+    <string name="cogafya_tr_konum_sonuclari">
+Türkiyenin matematik konumuna bakıldığında 36 – 42 kuzey paralelleri arasında yer aldığını görmekteyiz. Konum itibariyle Türkiyenin matematik konumu Yengeç Dönencesinin kuzeyi, Kuzey Yarım Kürenin orta kuşağında yer almaktadır. Şimdi bu konuma bağlı olarak ülkemizde ne gibi sonuçlar ortaya çıkıyor onları inceleyelim.\n
+1) Türkiye Kuzey Yarım Küre’de Bulunduğu için: \n
+– Kuzeyden gelen hava kütleleri hava sıcaklığını azaltırken, güneyden gelen hava kütleleri sıcaklığı arttırmaktadır. \n
+– Deniz turizmine elverişli olan süre Türkiye’nin güneyinden kuzeyine doğru azalmaktadır. \n
+– Haziran, Temmuz ve Ağustos aylarının Yaz ayları, Aralık, Ocak ve Şubat aylarının Kış ayları olması Türkiye’nin Kuzey Yarım Küre’de olduğunun kanıtıdır. \n
+Güney Yarım Küre ile Kuzey Yarım Küre arasında Yaz – Kış aylarının farklı olmasının sebebi 23° 27′ lik eksen eğikliğine bağlıdır. \n
+– Dağların güneye bakan yamaçları kuzeye bakan yamaçlarından daha sıcaktır. Bu sebeple güneye bakan yamaçlarında kalıcı kar sınır, orman üst sınırı ve tarım üst sınırı kuzeye bakan yamaçlara göre daha yüksektir. \n
+Karadeniz’de denizellik nedeniyle özel konumdan dolayı kuzeye bakan yamaçlarında orman ve tarım üst sınırı daha yüksektir. \n
+– İki meridyen arası mesafe kuzeyden güneye doğru artmaktadır. Ayrıca kuzeyden güneye doğru gece – gündüz süre farkı azalır. \n
+Sadece Kuzey Yarım Küre için bu böyledir. Güney yarım Küre’de tersidir. Ayrıca bu dünyanın geoid bir şekle sahip olmasından kaynaklanır. \n
+– 21 Mart ve 23 Eylül tarihinde Dünya’nın her yerinde gece gündüz eşitliği yani ekinoks yaşanır. \n
+Buradan çıkarmamız gereken şu olmalıdır: 21 Marttan ve 23 Eylüle kadar Türkiye’de gündüzler geceden daha uzun, 23 Eylülden 21 Marta kadar olan tarihte ise geceler gündüzden daha uzundur. \n
+– 23° 27′ lik eksen eğikliğine bağlı olarak 21 Haziran ve 21 Aralık tarihlerinde Kuzey Yarım Küre’de belirli olaylar yaşanmaktadır. Kpss genel kültür coğrafya konusu içinde bu eksen eğikliğine önem vermektedir. Bunları inceleyelim. \n
+21 Haziran tarihinde: \n
+•	En uzun gündüz süresi yaşanır.
+•	Güneş ışınları yıl içinde en büyük açıyla Kuzey Y\n arım Küre’ye düşer. \n
+•	Gölge boylarının Kuzey Yarım Küre’de en kısa olduğu tarihtir. \n
+21 Aralık Tarihinde: \n
+•	En uzun gece süresi yaşanır. \n
+•	Güneş ışınları yıl içinde en küçük açıyla Kuzey Yarım Küre’ye düşer. \n
+•	Gölge boylarının Kuzey Yarım Küre’de en uzun olduğu tarihtir. \n
+– Türkiyenin matematik konumuna baktığımızda güneyinden kuzeyine doğru gidildikçe güneş ışınlarının geliş açısı düşmektedir. Buna bağlı olarak güneyden kuzeye doğru ; \n
+•	Sıcaklık azalır. \n
+•	Buharlaşma azaldığı için denizlerde tuzluluk oranı azalır. \n
+•	Tarım ve orman üst sınırı azalır. Kalıcı kar üst sınırı artar. \n
+– Türkiyenin matematik konumu dahilinde güneyden kuzeye doğru değişen diğer faktörler: \n
+•	Çizgisel Hız azalır. \n
+* Çizgisel Hız: Dünya dönerken birim zamanda alınan yola çizgisel hız denmektedir. \n
+•	Gurup ve Tan süreleri çizgisel hıza bağlı olarak güneyden kuzeye doğru uzar. \n
+Güneşin doğduğu vakte tan, battığı vakte ise gurup denmektedir. \n
+•	Yer çekimi artar. \n
+2) Türkiye Kuzey Yarım Küre’nin Orta Kuşağında Bulunduğu İçin: \n
+– Bir yıl için dört mevsim belirgin olarak yaşanmaktadır. \n
+– Türkiye’nin Akdeniz ikliminde yer alması Orta Kuşakta bulunmasına bağlıdır. \n
+– Batı Rüzgarları kuşağında yer alır. \n
+– Çoğunlukla cephesel yağışlar görülür ki bunun sebebi Orta Kuşakta farklı karakterdeki hava kütlelerinin sıkça karşılaşmasıdır. \n
+– Türkiyenin matematik konumuna bağlı olarak Orta Kuşakta bulunduğu için kalıcı kar sınırı genelde 2500 ile 3000 metrenin üstündedir. \n
+3) Türkiye Yengeç Dönencesinin Kuzeyinde Kaldığı İçin: \n
+– Güneş ışınlarını hiçbir zaman dik açıyla alamaz. Buna bağlı olarak cisimlerin gölge boyları hiçbir zaman sıfır olamaz. \n
+– Cisimlerin Gölge yönü bu yüzden öğle vakti kuzeyi gösterir. \n
+4) Türkiye 26 – 45 Doğu Meridyenleri Arasında Olduğu İçin: \n
+– 2. ve 3. saat diliminde yer alır. \n
+Dünya’da 24 saat 15 derecelik dilimlere ayrıldığı için 2. saat dilimi 30 ° doğu meridyenine (İzmit), 3. saat dilimi de 45° doğu meridyenine (Iğdır) denk gelmektedir. \n
+– Başlangıç meridyeninin doğusunda bulunur. \n
+– Türkiyenin matematik konumuna bağlı olarak doğusu ile batısı arasında 76 dakikalık zaman farkı vardır. \n
+45° – 26° =19°\n
+19X4= 76 dakika\n
+– Gün ışığından daha fazla yararlanmak amacıyla kış aylarında 30 doğu boylamı olan İzmit’in, yaz aylarında da 46 doğu boylamı olan Iğdır’ın yerel saati ulusal saat olarak kullanılır. \n
+Bu bilgiye bağlı olarak kış aylarında İzmit’e uzak olan yerlerde, yaz aylarında da Iğdır’a uzak olan yerlerde yerel saat ile ortak saat arasındaki fark fazla olmaktadır. \n
+Türkiye’de Ulusal yani ortak saat kullanmamızın sebebi doğusu ile batısı arasında çok fazla fark olmamasıdır. Yani meridyen sayısına bakıldığında geniş bir ülke olmadığımız için birden fazla saat kullanılmasına gerek yoktur. \n
+Türkiyenin matematik konumu Kpss Coğrafya dersinde önemli bir yer kaplamaktadır. Bu yüzden Kpss’de coğrafyanın bu konuları hakkında önceden çıkmış sorularını incelemeyi unutmayın. Türkiyenin matematik konumu ve sonuçları konusu burada sona ermiştir. Bir sonraki konu  Türkiyenin özel konumudur. \n
+    </string>
+    <string name="cografya_yeryuzu_sekli">
+Türkiye’de yeryüzü şekilleri bugünkü görünümünü milyon hatta milyarlarca yılda kazanmıştır. Volkanizma, deprem, dağ oluşumu (orojenez), kıta oluşumu (epirojenez) gibi iç kuvvetler ve akarsular, dalgalar, buzullar, rüzgarlar gibi dış kuvvetler Türkiye’de yeryüzü şekilleri oluşumunda etkili kuvvetlerdir. Tabi ki iç ve dış kuvvetlerin hepsi aynı anda olmamıştır. Günümüzde de devam eden bu iç ve dış kuvvetler etkinliklerini bazı jeolojik zamanlarda arttırmışlardır. Herhangi bir jeolojik zamanda bir kuvvet etkinliğini arttırırken, başka bir jeolojik zamanda diğer bir kuvvet etkinliğini arttırmıştır. Bu jeolojik zamanları inceleyelim.\n
+Türkiye’de Yeryüzü Şekilleri\n
+1. Jeolojik Zaman: Türkiye’de 1. zamana ait oluşumlar kömür yatakları ve masif arazikütleleri şeklinde olmuştur. Burada bahsedilen masif arazi, sertleşmiş yani oturmuş arazidir. \n
+Birinci zamanda ortaya çıkan taş kömürü yataklarını gür bitki toplulukları oluşturmuştur. \n
+Taşkömürü yataklarına örnek olarak Zonguldak taşkömürü yatağını verebiliriz. \n
+Masif Arazilere örnek olarak aşağıdaki yerleri verebiliriz. \n
+•	Yıldız Dağları (Trakya) \n
+•	Saruhan – Menteşe (Ege) \n
+•	Kırşehir (İç Anadolu) \n
+•	Bitlis (Doğu Anadolu) \n
+1. zamanda oluşan arazilere dikkat edersek deprem riskinin az olduğu yerler olduğunu görürüz. Bunun nedeni 1. zamanda oluşan kütlenin yapısının sert olmasıdır. \n
+2. Jeolojik Zaman: Genelde aşınım faaliyetlerinin fazla olduğu bu dönem, yer kabuğu hareketleri açısından Türkiye’de ve Dünya’da sakin geçmiştir. \n
+3. Jeolojik Zaman: Kpss soruları açısından önemli olan bu dönem, Türkiye’yi en çok etkileyen jeolojik dönemdir. Şimdi üçüncü jeolojik zamanda gerçekleşen önemli oluşumları inceleyelim. \n
+•	Türkiye’de Alp-Himalaya kıvrım kuşağına bağlı olarak Kuzey Anadolu ve Toros Dağları oluşmuştur.
+•	Türkiye bugünkü görünümünü hemen hemen kazanmıştı bu zamanda. \n
+•	Linyit, bor, tuz, borasit ve petrol yatakları bu dönemde oluşmuştur. \n
+•	Arabistan kısmının sıkışmasıyla beraber bazı fay hatları meydana gelmiştir. Bu sıkışmanın sonucunda da Kuzey Anadolu ve Güney Anadolu fay hatları bu dönemde oluşmuştur. \n
+•	Volkanik dağlar da yine üçüncü jeolojik zamanda oluşmuştur. \n
+4. Jeolojik Zaman: Kpss coğrafya konusunun bu dönemi de Türkiye’de yeryüzü şekilleri açısından en kısa süren ve halen devam eden jeolojik zamandır. Dördüncü jeolojik zamanda aşağıdaki gelişmeler yaşanmıştır. \n
+•	Öncelikle Türkiye’de yeryüzü şekilleri bugünkü görünümünü almıştır. \n
+•	İstanbul ve Çanakkale Boğazları oluşmuştur. \n
+•	Egeid karası çökmüş ve onun yerinde Ege Denizi meydana gelmiştir. \n
+•	Ağrı, Cilo, Kaçkar, Aladağlar gibi dağlar bu devirde buzullaşmadan etkilenmiştir. \n
+•	Önemli iklim değişiklikleri meydana gelmiştir. Ayrıca deniz seviyelerinde de değişimler meydana gelmiştir. \n
+Kpss coğrafya dersinin Türkiye’de yeryüzü şekilleri konusunu kısaca madde halinde özetlemek gerekirse; \n
+•	Ülkemizde farklı jeolojik zamanlara ait araziler bulunduğundan bunlara bağlı olarak yer şekillerimiz çeşitlilik göstermektedir. \n
+•	Alp – Himalaya kıvrım sisteminde yer alırız. \n
+•	3. ve 4. zamanındaki oluşumlarla bugünkü görünümünü kazanmıştır. Bu yüzden ülkemiz genç, dağlık ve yüksek bir ülkedir. \n
+* Türkiye’de Yükseltinin Fazla Olmasının Sonuçları: \n
+•	Yol yapım maliyetleri artmıştır. \n
+•	İklim ve bitki örtüsü çeşitliliği oluşmuştur. \n
+•	Yaylacılığın gelişimini etkilemiştir. \n
+Ülkemiz ayrıca; \n
+•	Dağlık olmasına karşın geniş düzlükler de yer almaktadır. Bunun sebebi ülkemizin toptan yükselmesidir. \n
+•	Genç ve faylı olmasından dolayı ülkemizde deprem riski fazladır.
+•	Kuzey ve Güneyde dağlar kıyıya paralel uzanmıştır. \n
+Bir sonraki genel kültür coğrafya dersinin konusu Türkiye’nin Dağları konusu olacaktır.
+    </string>
+    <string name="cografya_tr_daglar">
+Türkiye’nin dağları genelde doğu – batı yönlü uzanmaktadır. Ülkemizdeki dağların bu uzanışını belirleyen faktör ise sıkıştırılma yönüdür. Türkiye’nin dağları oluşum bakımından kıvrım dağlar, kırık dağlar ve volkanik dağ türlerini içermektedir. Kpss coğrafya dersi açısından önemli olan bu konuyu şimdi ayrıntılarıyla işleyelim.\n
+Türkiye’nin Dağları\n
+Türkiye’nin dağları konusuna Türkiye’de bulunan kıvrımlı dağlarla başlayalım. \n
+ 1) Kıvrım Dağları: Kpss soruları açısından önemli olan kıvrımlı dağlar, levhaların sıkıştırmasına bağlı olarak esnek tabakaların kıvrılarak yükselmesiyle oluşan dağ türleridir. Yüksekte kalan yerlere antiklinal, çank şeklinde alçakta kalan yerlere de senklinal adı verilir. \n
+* Türkiye’nin dağları içinde yer alan kıvrımlı dağlar: \n
+Türkiye’nin dağları içinde oluşum yönüyle en çok bulunan dağ türü kıvrımlı dağlardır. \n
+•	Kuzey Anadolu Dağları : Karadeniz kıyısına paralel uzanan kıvrımlı dağlardır. Kuzey Anadolu Dağları, Ilgaz, Canik, Küre, Bolu, Giresun, Rize, Deveci, Kaçkar, Çimen, Mescit, Kop, Köroğlu, Yalnızçam gibi dağlardan oluşmaktadır. \n
+•	Toros Dağları: Kpss sorularında sıkça karşılaştığımız diğer kıvrım dağları da Akdeniz kıyısına paralel uzanan Toros kıvrımlı dağlarıdır. Ülkemizde Toros dağları Batı Toroslar, Orta Toroslar ve Güneydoğu Toroslar olmak üzere üçe ayrılmaktadır. \n
+– Batı Toroslar: Söğüt, Bey, Barla, Sultan, Geyik, Karakuş ve Dedegöl dağlarından oluşmaktadır. \n
+– Orta Toroslar: Aladağlar, Bolkar, Engizek, Tahtalı, Maraş (Ahır) ve Binboğa dağları Orta Toroslarda yer almaktadır. \n
+– Güneydoğu Toroslar: Bingöl, Hakkari gibi dağlarla, Gündeydoğu Anadolu Bölgesi’ni kuzeyden kuşatan dağlardır. \n
+•	Doğu Anadolu Bölgesi: Buradaki kıvrım dağları Cilo, Mercan, Malatya, Karasu, Munzur, Allahuekber, İspiriz, Mengen dağlarından oluşmaktadır. \n
+•	İç Anadolu Bölgesi: Elmadağ, Akdağlar, Köse Dağları ve Tecer dağlarından oluşmaktadır. \n
+•	Marmara Bölgesi: Yıldız (Istranca), Samanlı, Koru, Işıklar ve Biga dağlarından oluşmaktadır. \n
+•	Ege Bölgesi: Demirci, Eğrigöz, Emirdağ ve Sandıklı dağları da Ege Bölgesindeki kıvrım dağlarını oluşturmaktadır. \n
+ 2) Kırık Dağlar: Basınca uğrayan ve kıvrılmayacak kadar sert olan kütlelerin kırılmasıyla oluşan dağ türleridir. Kırılma ile meydana gelen yüksek yerlere Horst, alçak çöküntü alanlarına da Grabendenilmektedir. \n
+Kpss genel kültür coğrafya sorularına karşımıza çıkan kırık dağlar en fazla Ege Bölgesinde yer almaktadır. \n
+Ege Bölgesinin Kuzeyinden Güneyine doğru Horst ve Graben oluşumunun etkileri gözükmektedir. Kuzeyden Güneye doğru bir dağ (horst) ve bir akarsu (graben) sırasını takip etmektedir. \n
+•	Kazdağı\n
+Edremit \n
+•	Madra Dağı\n
+ Bakırçay \n
+•	Yuntdağı\n
+ Gediz \n
+•	Bozdağlar\n
+ Küçük Menderes \n
+•	Aydın Dağları\n
+ Büyük Menderes \n
+•	Menteşe Dağları
+Ege Bölgesi’nde yukarıdaki gibi  bir dağ (horst) ve bir akarsu (graben) kuzeyden güneye doğru sıra izlemektedir. \n
+Akdeniz bölgesindeki Nur (Amanos) Dağları da kırık dağlara örnektir. \n
+ 3) Volkanik Dağlar: Kpss açısından bir diğer önemli dağ türü de volkanik dağlardır. Volkanik dağlar, yerin içindeki kızgın ve akışkan magma tabakasının dirençsiz zayıf bölümlerden yüzeye çıkması ve katılaşması sonucu oluşmaktadır.
+Genelde fay hatları üzerinde bulunan volkanik dağların diğer dağlardan bir farkı da arazide tek olarak bulunmalarıdır. \n
+* Türkiye’nin Dağları içinde yer volkanik dağlar: \n
+•	Doğu Anadolu Bölgesi: Ağrı, Tendürek, Süphan ve Nemrut Dağları. \n
+Türkiye’nin dağları içinde volkanik arazinin en geniş yer kapladığı bölge Doğu Anadolu Bölgesi’dir. \n
+•	İç Anadolu Bölgesi: Erciyes, Melendiz, Hasandağ, Karacadağ ve Karadağ İç Anadolu Bölgesi’ndeki volkanik dağlardır. \n
+•	Ege Bölgesi: Manisa – Kula konileri. \n
+•	Marmara Bölgesi: Uludağ. \n
+•	Akdeniz Bölgesi: Hatay – Hassa. \n
+•	Güney Doğu Anadolu: Karacadağ. \n
+Güney Doğu Anadolu bölgesindeki Karacadağ, lav tabakasının aşırı akışkanlığından dolayı Türkiye’nin en geniş konili volkan dağı olma özelliğini taşımaktadır. \n
+Türkiye’nin dağları içinde şu anda aktif bir volkanik dağ yoktur.
+Türkiye’nin Dağları ve Diğer Özellikleri\n
+•	Türkiye’nin dağları 3. jeolojik zamanda oluşmuş, Alp – Himalaya kıvrım dağ kuşağına dahil genç oluşumlu bir yapıya sahiptir. \n
+Türkiye’nin dağları içinde yer alan bazı dağlar, 4. jeolojik zamandaki buzullaşmanın etkisinde kalan dağlardır. Ağrı, Kaçkar, Bolkar, Buzul Dağları vs. \n
+•	Ülkemizin doğusuna doğru yükseltiler artmaktadır ve genelde yükseltiler 1500 metrenin üstündedir. \n
+•	Türkiye’nin dağları Karadeniz ve Akdeniz’de kıyıya paralel, Ege’de ise kıyıya dik olarak uzanır.
+Türkiye’nin dağları ulaşım, yağış, turizm, kıyı tipi, Nüfus dağılımı, İklim çeşitliliği, tarım alanları ve kıta sahanlığı üzerinde etkili olmuştur. \n
+•	Türkiye’nin dağları içinde en yüksek 5 dağı sırasıyla Büyük Ağrı (5137 m), Buzul (4166 m), Süphan (4058 m), Kaçkar (3932m) ve Erciyes (3917 m) dağlarıdır. \n
+Türkiye’de dağların kıyı çizgisine uzanış tarzı çeşitli sonuçları da beraberinde getirmiştir. \n
+Dağlar Kıyıya Paralelse\n
+•	Kıta sahanlığı dardır. \n
+•	Boyuna kıyı tipi oluşur. \n
+•	Delta oluşumu zordur. \n
+•	Kıyı kesimlerin girintisi ve çıkıntısı azdır. Dolayısıyla koy, körfez oluşumu azdır.
+•	Falezler fazladır. \n
+•	Kıyı ile iç kesimler arasında iklim farklılığı çoktur. \n
+•	Kıyı ile iç kesimler arasında ulaşım zordur, geçitlerle ulaşım sağlanır. \n
+•	Yamaç yağışları görülür. \n
+•	Nüfus ve bitki örtüsünün dağılım sınırları çizilmiş gibi olur. Yani iç kesimlere farklılıklar oluşmaktadır. \n
+Dağlar Kıyıya Dikse\n
+•	Kıta sahanlığı geniştir. \n
+•	Enine kıyı tipi oluşur. \n
+•	Delta oluşumu kolaydır. \n
+•	Kıyı kesimlerin girintisi ve çıkıntısı fazladır. Dolayısıyla koy, körfez oluşumu fazladır. \n
+•	Falezler azdır. \n
+•	Kıyı ile iç kesimler arasında iklim farklılığı azdır. Ulaşım kolaydır. \n
+•	Yamaç yağışları azdır. \n
+•	Nüfus ve bitki örtüsünün dağılımı iç kesimlerle daha dengelidir. \n
+
+
+
+Kpss genel kültür coğrafya dersinin Türkiye’nin Dağları konusu tamamlanmıştır. Bir sonraki kpss coğrafya konusu Türkiye’nin Ovaları olacaktır. \n
+    </string>
+    <string name="cografya_tr_ovalar">
+Türkiye’nin ovaları tektonik ovalar, delta ovaları, karstik ovalar, lav örtüsü ovaları, eski göl yeri ovaları ve dağ eteği ovalarından oluşmaktadır. Ova, akarsularca yarılmamış olan ve genellikle üzerinde tarımsal faaliyetlerin yapıldığı düzlüklere denilmektedir. Türkiye’nin ovaları ve çeşitlerine geçmeden önce Türkiye’nin ovalarından bulunan genel özellikleri sıralayalım.\n
+Türkiye’nin Ovaları Genel Özellikleri\n
+•	Türkiye’nin ovaları yükselti bakımından doğudan batıya doğru azalmaktadır.
+•	Türkiye’nin ovaları Türkiye fiziki haritasında, 0-200 metre arası ovalar koyu yeşil, 200-500 metre arası açık yeşil, 500-1000 metre arası sarı, 1000-1500 metre arası turuncu, 1500 metre üzerindekiler için kahverengi tonları mevcuttur. \n
+Türkiye Fiziki haritasına bakıldığında yeşilin en çok olduğu bölge Marmara bölgesi, kahverenginin en çok olduğu bölge de Doğu Anadolu bölgesidir. \n
+Kpss coğrafya soruları açısından renk ya da yüksekliğe bağlı olarak ortaya çıkan sonuçlar önemlidir. Kahverenginin hakim olduğu bölgelerde yıllık sıcaklık farkı azdır, karlı ve donlu gün sayısı fazladır, akarsuların aşındırma ve taşıma gücü fazladır, ulaşım güçtür, fiziksel parçalanma görülür, gerçek ve izdüşümsel alanlar arasındaki fark fazladır. \n
+•	Türkiye’nin ovaları genelde çevrelerine göre alçakta bulunmaları, etraflarının örtülü olmaları ve topraklarının verimli olmaları nedeniyle tarım alanları olarak kullanılmaktadır. \n
+•	Türkiye’nin ovaları yerleşim yeri ya da ulaşım yolu olarak kullanılmaya başlanmıştır. Bu durum da Türkiye’deki doğal dokunun bozulmasına yol açmaktadır. \n
+•	Türkiye’nin ovaları içinde drenaj yani su boşaltım ağı yetersiz olduğu için ovalar çevreden gelen sularla beraber bataklık alanlarına dönüşmektedir. \n
+Özellikle Doğu Anadolu bölgesinde bu durum belirgin olarak gözükmektedir. Erzurum ovası buna örnek olarak verilebilir. \n
+Oluşumlarına Göre Türkiye’nin Ovaları\n
+1) Tektonik Ovalar: Fay hattına bağlı olarak ortaya çıkan çöküntü alanlarının akarsu alüvyonlarıyla dolması sonucu tektonik ovalar oluşmaktadır. \n
+Türkiye’nin ovaları içinde en yaygın olarak bulunan ova tektonik ovalardır. \n
+Tektonik ovaların dağılışına dikkat edersek fay hatları üzerinde oluştuğunu anlayabiliriz. Dolayısıyla fay hatları ile tektonik ovaların sıralanışı arasında doğrudan bir ilişki vardır. Kpss coğrafya soruları için bu şekilde aklımızda tutmamız gerekmektedir. \n
+* Türkiye’nin ovaları içinde yer tektonik ovalar ve bölgeleri: \n
+•	Marmara Bölgesi: Adapazarı Ovası, Balıkesir Ovası, Bursa Ovası, Mustafa Kemalpaşa Ovası, Ergene Ovası, İnegöl Ovası Marmara bölgesinden bulunan tektonik ovalardır. \n
+•	Ege Bölgesi: Soma ovası, Bergama ovası, Turgutlu ovası, Salihli ovası, Akhisar ovası, tire ovası, Torbalı ovası, Alaşehir ovası, Söke ovası, Ödemiş ovası, Yeni Pazar ovası ve Koçarlı ovası Ege bölgesinde bulunan tektonik ovalardır. \n
+•	Akdeniz Bölgesi: Amik ovası ve Kahramanmaraş ovası Akdeniz bölgesinde yer alan tektonik ovalardır. \n
+•	Karadeniz Bölgesi: Bolu ovası, Düzce ovası, Tosya ovası, Sulu ova, Taş ova, Merzifon ovası, Erbaa ovası, Niksar ovası, Turhal ovası, Zile ovası ve Artova ovası Karadeniz bölgesi tektonik ovaları içinde yer almaktadır. \n
+•	Doğu Anadolu Bölgesi: Malatya ovası, Elazığ ovası, Varto ovası, Hınıs ovası, Karlıova, Iğdır ovası, Elbistan ovası, Erzurum ovası, Erzincan ovası, Yüksekova, Tercan ovası, Pasinler ovası Doğu Anadolu bölgesinde yer alan tektonik ovalardır. \n
+•	İç Anadolu Bölgesi: Konya ovası, Kayseri ovası, Develi ovası, Aksaray ovası, Eskişehir ovası, Çubuk ovası İç Anadolu bölgesinde yer alan tektonik ovalardır. \n
+•	Güneydoğu Anadolu Bölgesi: Ceylanpınar ovası, Suruç ovası, Birecik ovası, Harran ovası Güneydoğu Anadolu bölgesinde yer alan tektonik ovalardır. \n
+2) Delta Ovaları: Türkiye’nin ovaları içinde bolca bulunan delta ovası, akarsuyun aşındırarak taşıdığı alüvyal malzemelerin deniz kıyısına biriktirmesi sonucu oluşan bir ova çeşididir. Kpss genel kültür coğrafya sorularında ve deneme sınavlarında delta ovaları ile ilgili sıkça soru sorulmaktadır. \n
+Delta ovalarının oluşabilmesi bazı şartlar mevcuttur. Peki nedir bu şartlar? \n
+•	Akarsu yoksa delta ovası da yoktur. \n
+•	Gelgit yani medcezir olayının olmaması gerekir. \n
+Gelgit kıyısında okyanus bulunan ülkelerde gerçekleşmektedir. Okyanuslarda gelgit etkilidir ancak Türkiye’deki denizlerde gelgit çok az etkili olduğu için Türkiye’nin ovaları içinde delta ovaları bulunmaktadır. \n
+•	Deniz kıyısında derinliğin fazla olmaması gereklidir. \n
+•	Akarsuyun bolca alüvyal malzeme taşıması gerekmektedir. \n
+•	Deltanın oluşacağı kıyıda güçlü akıntıların olmaması gerekir. \n
+•	Akarsu havzasındaki arazinin jeolojik yapısının kolay aşınabilen tabakalardan oluşması gerekir. \n
+* Türkiye’nin ovaları içinde yer alan delta ovaları ve bölgeleri: \n
+•	Ege Bölgesi: Balat ovası (Büyük Menderes ile), Selçuk – Efes ovası (Küçük Menderes ile), Menemen ovası (Gediz ile), Dikili ovası (Bakırçay ile) Ege bölgesinde bulunan delta ovaları içindedir. \n
+•	Akdeniz Bölgesi: Çukurova (Seyhan ve Ceyhan ile) ve Silifke ovası Akdeniz bölgesinde bulunan delta ovalarıdır. \n
+Çukurova Türkiye’nin ovaları içinde yer alan en büyük delta ovasıdır. Bunun en büyük sebebi Ceyhan Nehri’nden alınan bolca alüvyondur. \n
+•	Karadeniz Bölgesi: Bafra ovası (Kızılırmak ile) ve Çarşamba ovası (Yeşilırmak ile) Karadeniz bölgesinde yer alan delta ovalarıdır. \n
+Dikkat edilecek olursa en fazla delta ovası Ege bölgesindedir. Bunun sebebi dağların kıyıya dik uzanması sonucu kıyı derinliğinin az olmasıdır. Karadeniz’de Canik Dağları’ın kıyıdan uzaklaşması ile Bafra ve Çarşamba ovaları oluşmuştur. Marmara bölgesinde delta ovasının oluşmamasının sebebi ise buradaki akarsu boylarının kısa olması ve akarsuların yükseltinin az olması sebebiyle aşındırma ve taşıma güçlerinin az olmasıdır. \n
+3) Karstik Ovalar: Türkiye’nin ovaları içinde bulunan karstik ovalar, diğer adıyla polye, kalker arazinin yaygın olduğu bölgelerde çözülmeye bağlı olarak bulunan ova çeşididir. Genellikle verimsiz olan karstik ovaların en fazla bulunduğu bölge Akdeniz bölgesidir. Karstik ovalara gölova da denilmektedir. \n
+Karstik arazi, eriyebilen kayaçlardan oluşan arazi demektir. Kireçtaşı (Kalker), Alçıtaşı (Jips), Dolomit ve Kayatuzu gibi kayaçlar karstik arazinin yapısını oluşturan kayaçlardır. \n
+Tefenni ovası, Acıpayam ovası, Kokuteli ovası, Muğla ovası, Kestel ovası ve Elmalı ovası Türkiye’de bulunan karstik ovalara örnek teşkil etmektedir. \n
+4) Eski Göl Yeri Ovaları: İç Anadolu bölgesinde yaygın olarak bulunan bu ova çeşidi, göl olan yerlerin sularının zamanla çekilmesiyle oluşan çanakların, sel ve akarsuların taşıdığı alüvyal malzeme ile dolması sonucu oluşmuştur. \n
+5) Lav Örtüsü Ovaları: Volkanizmanın hareketleri sonucu ortaya çıkan ovalardır. En yaygın Doğu Anadolu bölgesinde bulunur. \n
+Muradiye ovası, Malazgirt ovası ve Çaldıran ovası lav örtüsü ovalarına örnektir. \n
+6) Dağ Eteği Ovaları: Türkiye’nin ovaları içinde inceleyeceğimiz son ova çeşidi olan dağ eteği ovaları, dağlık bölgede taşınan malzemelerin dağın eğiminin az olduğu yerlerde birikmesi sonucu ortaya çıkan ovalardır. \n
+Bursa ovası, Akşehir ovası ve İnegöl ovası dağ eteği ovalarına örnek teşkil etmektedir. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’nin Ovaları konusu tamamlanmıştır. Bir sonraki kpss coğrafya konusu Türkiye’nin Platoları olacaktır. \n
+    </string>
+    <string name="cografya_platoalr">
+Türkiye’nin platoları kpss coğrafya Türkiye’nin yeryüzü şekilleri konuları içinde işlenmektedir. Ülkemizde yer alan platoların özelliklerini iyi kavrayabilirsek, hangi platonun hangi bölgede yer aldığını daha rahat kavrayabiliriz.\n
+Türkiye’nin Platoları\n
+Plato, akarsular tarafından derin vadilerle yarılmış düzlüklere denilmektedir. Kpsscoğrafya dersinde Türkiye’nin platoları incelenirken, hangi platonun hangi özelliğine sahip olduğunu ve nasıl oluştuğunu analiz edebilmeliyiz. Bu yüzden ülkemizde yer alan platoların özelliklerini sıralayalım. \n
+•	Türkiye’de platolar geniş yer kaplamaktadır. Engebeli ve dağlık bir ülke olmamıza rağmen bu kadar çok plato olmasının sebebi, 3. ve 4. jeolojik zamanlarda ülkemizde gerçekleşen toplu yükselmedir. \n
+Platolar 3. ve 4. zamanda gerçekleşen toplu yükselmenin bir kanıtıdır. \n
+•	Platoları yaran akarsulardan tarım sulamasında yararlanmak zordur. \n
+Bunun sebebi akarsuların oluşturduğu derin vadi şeklidir. Vadi çok derin olduğu için tarım alanında sulamadan yararlanamayız. \n
+•	Yüksek platolarda büyükbaş mera hayvancılığı, alçak platolarda ise tarım ve küçükbaş hayvancılığı gelişmiştir. \n
+Oluşumlarına Göre Türkiye’nin Platoları\n
+Kpss coğrafya dersinde yer alan Türkiye’nin platoları oluşumlarına göre dörde ayrılmaktadır. \n
+1) Volkanik Platolar: Lav tabakalarının akarsular tarafından yarılmasıyla oluşan plato çeşididir. \n
+•	Ülkemizdeki en yüksek platolar volkanik platolardır. \n
+•	Toprakları verimlidir. Ancak yükseklik ve iklim şartları elverişsiz olduğu için tarım pek yapılamaz. \n
+•	Çayır ve iğne yapraklı ormanlar bu platolarda yer alır. \n
+•	Yağış rejimi ve yükseltisi nedeniyle yazları sıcak ve kurak geçmez. \n
+Erzurum – Kars Platosu ve Ardahan Platosu ülkemizdeki volkanik platolara örnek teşkil eder. Kpss genel kültür coğrafya sorularında platolardan en çok Erzurum-Kars Platosu ile ilgili soru çıkmaktadır. \n
+Erzurum – Kars platosunda yıl içinde yağış en çok yaz aylarında düşer. Buna bağlı olarak da gür otlaklar oluşur. Dolayısıyla büyükbaş mera hayvancılığı bu bölgede gelişmiştir. \n
+2) Karstik Platolar: Kalker ve Jips gibi eriyebilen ya da çözülebilen kayaçların bulunduğu arazilerin akarsular tarafından aşındırılması sonucu oluşan platolardır. \n
+Akdeniz Bölgesindeki Taşeli Platosu ve Antalya’nın batısındaki Teke Platosu karstik platolara örnek teşkil eder. Bu platoların geçirimli arazi yapısı ve taban suyunun düşük olması toprağın verimsizliğine, dolaylı olarak da nüfusun seyrek olmasına sebebiyet vermiştir. \n
+3) Tabaka Düzlüğü Platoları: Tabaka uzanışı yatay duruşlu olan tortulların akarsular tarafından derin bir şekilde yarılması ile oluşan platolardır. Genellikle İç Anadolu Bölgesinde yaygın olan bu platolarda tahıl tarımı ve küçükbaş hayvancılık yaygındır. \n
+İç Anadolu Bölgesinde yer alan Haymana Platosu, Cihanbeyli Platosu, Obruk Platosu, Bozok Platosu, Uzunyayla Platosu ; Ege Bölgesinde yer alan Yazılıkaya Platosu ; Güneydoğu Anadolu Bölgesinde yer alan Gaziantep Platosu ve Şanlıurfa Platosu tabaka düzlüğü platolarına örnektir. \n
+4) Aşınım Platoları: Aşınma sonucu düzleşen yerlerin herhangi bir yükselme olmaksızın sonraları akarsular tarafından yarılması sonucu oluşan platolardır. \n
+Marmara Bölgesinde yer alan Çatalca – Kocaeli Platosu ve Karadeniz Bölgesinde yer alan Perşembe Platosu aşınım platolarıdır. \n
+Türkiye’nin platoları içinde en alçak plato Çatalca Kocaeli platosudur. Çatalca-Kocaeli platosu nüfusun en yoğun olduğu, sanayileşmenin en fazla olduğu ve doğal yapının en çok bozulduğu plato özelliğini taşımaktadır. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’nin Platoları konusu tamamlanmıştır. Bir sonraki kpss coğrafya konusu Türkiye’de Doğal Afetler olacaktır. \n
+    </string>
+    <string name="cografya_dogal_afetler">
+Türkiye’de doğal afetler deprem, heyelan, erozyon, sel-taşkın, ve çığ olmak üzere 5 bölümde incelenmektedir. Kpss coğrafya dersinde Türkiye’de doğal afetler konu başlığı altında karşımıza hem kpss sorularında hem de deneme sınavları ve testlerde sorular çıkmaktadır. Bu konu, coğrafyanın diğer konuları ile de ilgilidir. Örneğin deprem, erozyon gibi afetler o bölgenin jeolojik yapısıyla ya da eğimiyle ilgilidir. Bu yüzden Türkiye’de doğal afetler konusunu bir mantık çerçevesinde kafamızda şekillendirmemiz, konuyu daha rahat kavramamızı sağlayacaktır.\n
+Türkiye’de Doğal Afetler\n
+Kpss coğrafya dersinde Türkiye’de doğal afetler konusunu yukarıda da belirtildiği gibi 5 bölümle inceleyeceğiz. Bunlardan ilki deprem. \n
+1) Türkiye’de Deprem: Fay hatlarına bağlı olarak meydana gelen sallanma hareketlerine deprem denilir. Ülkemiz genç oluşumlu bir yapıya sahip olduğu için fay hatları daha canlıdır ve ülkemizde deprem riski yüksektir. \n
+•	Kuzey Anadolu Fay Hattı: Marmara bölgesi Saros Körfezi’nden başlayıp İzmit, Adapazarı üzerinden Orta Karadeniz’e de uğrayarak Van Gölü ve Muş Varto’ya kadar uzanan fay hattıdır.
+•	Doğu Anadolu Fay Hattı: Ülkemizde Hatay’dan giriş yaparak Kahramanmaraş, Malatya, Elazığ üzerinden Van Gölü ve Muş Varto’ya kadar uzanan fay hattıdır. \n
+Fay hatlarının birleştiği yerlerde depremler çok daha kuvvetli olur. Bunun örneği ülkemizde Doğu Anadolu Bölgesi’dir. \n
+•	Batı Anadolu Fay Hattı: Ege bölgesinde horst ve grabenleri takip ederek bölgenin iç kesimlerine kadar uzanan birçok kırıklı fay hattı bölgesidir. \n
+Türkiye’de deprem riskinin en az olduğu bölgeler, Ergene havzası, Tuz Gölü, Konya Ovası, Anamur, Doğu Karadeniz kıyısı, Şanlıurfa ve Mardin Şırnak arasıdır. \n
+Dikkat edecek olursak Türkiye’de oluşan fay hatları ile kaplıca, ılıca ya da volkanik sahaların dağılışı paralellik göstermektedir. Kpss sorularında bu gibi ayrıntılar ezber kısmını azaltabilmektedir. \n
+* Oluşumlarına Göre Deprem Türleri: \n
+•	Tektonik Depremler: Fay hatlarına bağlı olarak meydana gelen, Türkiye’de en çok görülen, şiddeti ve hasarı en çok olan deprem türüdür. \n
+Kuzey Anadolu Fay Hattı, Doğu Anadolu Fay Hattı, Batı Anadolu Fay Hattın üzerinde oluşan depremler tektonik depremlerdir. \n
+•	Çöküntü Depremleri: Yeraltı boşluklarının çökmesine bağlı olarak oluşan bu depremlerin etki alanı sınırlıdır ve Akdeniz Bölgesi’nde görülür. \n
+Zonguldak’ta meydana gelen maden çökmeleri ya da Konya’da tarım olarak yeraltı suyunun kullanılması sonucu oluşan boşluklara çökme beşeri faktörlerle beraber gerçekleşen çöküntü depremleridir. \n
+•	Volkanik Depremler: Volkanik patlamalarla oluşan depremlerdir. Etki alanı sınırlıdır. \n
+Türkiye’de aktif yanardağ bulunmadığı için volkanik depremlerin ülkemizde oluşması söz konusu değildir. \n
+2) Türkiye’de Heyelan: Tabakaların kütlesel olarak hareket etmesine heyelan denir. Heyelan en fazla Karadeniz Bölgesi’nde yaygındır. Özellikle Doğu Karadeniz kıyısında fazla görülmektedir. İç Anadolu ve Güneydoğu Anadolu Bölgesi’nde heyelan riski düşüktür. \n
+Karadeniz bölgesinde yer alan Tortum, Sera, Yedigöller ve Zinav Gölü, heyelan sonucunda oluşan heyelan set göllerine örnek teşkil etmektedir. \n
+Heyelan oluşumu için aşağıdaki etkenlerden birinin olması gerekir. \n
+•	Eğim: En temel etkendir ve tabakaların aşağıya hareket etmesini kolaylaştırır.
+•	Yağış: Tabakaların kayganlaşmasını ve kütlelerin daha rahat hareket etmesini sağlar ve heyelan için etkili sebeptir. \n
+•	Tabakaların Yapısı ve Uzanışı: Suyu çeken kayaçlar ve tabakaların eğime paralel uzanması heyelanı tetikler. \n
+•	Deprem: Yamacın dengesini bozan depremler heyelanı etkilemektedir. \n
+•	Tüm bunların dışında yol, tünel ya da kazı çalışmaları gibi beşeri faktörler de heyelanı tetikler. \n
+* Heyelandan Korunma Çalışmaları: \n
+•	Drenaj kanalları açarak tabakalarda fazla suyun birikmesi engellenmelidir. \n
+•	İstinat duvarları yapılarak yamacın dengesi sağlanmalıdır. \n
+•	Heyelan bölgesinde yerleşim yeri kurulmamalıdır. \n
+•	Yamaçların doğal dengesi sağlanmalıdır. \n
+•	Beşeri yapılanmalar heyelan bölgelerinden uzakta olmalıdır. \n
+3) Türkiye’de Erozyon: Toprak tabakasının süreç içinde aşınmasına erozyon denir.
+Türkiye’de doğal afetler konusu içinde yer alan erozyon, İç Anadolu (özellikle Konya ve Tuz Gölü civarı) ve Güneydoğu Anadolu Bölgesi’nde rüzgar erozyonu, Doğu Anadolu Bölgesi’nde de akarsu erozyonu olarak karşımıza çıkar. Türkiye’de en az erozyon Karadeniz Bölgesi’nde görülür. \n
+Türkiye’de matematik konumu nedeniyle buzul erozyon etkili değildir. \n
+Erozyon yavaş ilerleyen bir olaydır. Heyelan gibi birden olmaz. \n
+* Erozyonu Oluşturan Nedenler: \n
+•	Eğim, en temel sebeptir. \n
+•	Ormanların tahrip edilmesi. \n
+•	Bitki örtüsünün cılız olması. \n
+•	Meraların aşırı otlatılması. \n
+•	Nadas uygulaması. \n
+•	Sağanak yağışlar. \n
+•	Toprağın kuru ve taneli olması. \n
+•	Anız örtüsünün yakılması. (Mahsulden sonra kalan artıkların yakılması) \n
+•	Düzensiz yağış rejimi. \n
+•	Yanlış arazi kullanımı\n
+Tarımda eğime paralel sürülme yapılması buna örnektir. \n
+Erozyon ile beraber,tarımsal verim ve üretim azalır. Toprak tabakası inceldiği için çölleşme başlar. Toprağın su tutma kapasitesi ve barajların ömrü kısalır. Erozyon olduğu zaman delta ovaları genişler, çünkü delta ovalarını akarsu erozyonları beslemektedir. Ayrıca tarımla uğraşanların sayısı azalacağı için köyden kente göç artar. Bitki ve hayvan türlerinde de azalma meydana gelir. \n
+* Erozyondan Korunma Çalışmaları: \n
+•	Mera hayvancılığı yerine ahır hayvancılığı yapmak. \n
+•	Ağaçlandırma yapmak. \n
+•	Tarlaları eğim yönüne dik sürmek. \n
+•	Eğimli yamaçlarda basamak (taraça) yapmak. \n
+•	Nadasa alternatif olarak nöbetleşe tarım yapmak. Bir yıl başka diğer yıl başka ürün ekilmesi durumudur. \n
+•	İnsanlar bilinçlendirilmeli ve erozyona karşı bunun eğitimi verilmelidir. \n
+•	Barajların yanında ağaçlandırma yapılmalıdır. \n
+4) Sel ve Taşkın: Türkiye’de doğal afetler içinde en büyük ekonomik kayıplara neden olan afetler sel ve taşkınlardır. \n
+* Sel ve Taşkınların Sebepleri: \n
+•	Eğim\n
+•	Drenaj özelliği\n
+•	Bitki örtüsü\n
+•	Ani sağanak yağışlar\n
+•	Yanlış arazi kullanımı\n
+Özellikle Bartın, Filyos Çayları, Fırtına Deresi, İyidere gibi Karadeniz’e dökülen akarsularda taşkınlar fazladır. Can ve mal kaybına yol açan sel ve taşkınlar, ormanların tahrip edilmesi sonucu toprağın suyu tutma kapasitesinin düşmesiyle de meydana gelir. \n
+5) Çığ: Türkiye’de doğal afetler içinde en son işleyeceğimiz konu olan çığ, yoğun kar kütlesinin aşağıya doğru toplanarak hareket halinde çoğalması sonucu oluşur. Doğu Karadeniz, Hakkari, Yukarı Murat – Van bölümleri dağlık ve engebeli olduğu için çığ olayının en yaygın olduğu alanlardır. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’de doğal afetler konusu tamamlanmıştır. Bir sonraki kpss coğrafya konusu Türkiye’de Akarsular olacaktır. \n
+    </string>
+    <string name="cografya_akarsular">
+Türkiye’de akarsular konusu kpss coğrafya konuları içinde yer almaktadır. Türkiye’de akarsular konusu incelenirken ele alacağımız havza, rejim, debi gibi terimler karşımıza çıkmaktadır. Bu bölümde havza terimini , Türkiye’de akarsular ve özelliklerini işleyeceğiz.\n
+Türkiye’de Akarsular\n
+Kpss coğrafya dersinin bu bölümünde önce ülkemizdeki akarsuları coğrafi bölgelere göre listeleyelim. \n
+Karadeniz Akarsuları\n
+Yatak eğimleri, hidroelektrik enerji,aşındırma güçleri fazladır. Dar ve derin vadi içinde akmaktadır. \n
+•	Kızılırmak\n
+•	Yeşilırmak\n
+•	Bartın Çayı\n
+•	Kelkit çayı\n
+•	Filyos\n
+•	Doğankent çayı\n
+•	Çoruh\n
+•	İyidere\n
+•	Fırtına deresi\n
+Akdeniz Akarsuları\n
+En fazla akım kış aylarındadır. Ancak Manavgat, Eşen gibi akarsular karstik kaynakla beslendiği için yaz aylarında da akımları gürdür. \n
+•	Dalaman çayı\n
+•	Eşen çayı\n
+•	Manavgat\n
+•	Aksu\n
+•	Köprü\n
+•	Seyhan\n
+•	Ceyhan\n
+•	Asi\n
+Ege Akarsuları\n
+Eğimi, enerji potansiyeli ve aşındırması az olan akarsulardır.Menderes çizerler ve vadi tabanları geniştir. \n
+•	Bakırçay\n
+•	Gediz\n
+•	Büyük Menderes\n
+•	Küçük Menderes\n
+Marmara Akarsuları\n
+Eğimleri azdır. Dolayısıyla hidroelektrik potansiyelleri azdır. \n
+•	Meriç (Ergene) \n
+•	Sakarya\n
+•	Susurluk\n
+•	Orhaneli çayı\n
+•	Nilüfer çayı\n
+•	Gönen çayı\n
+İç Anadolu Akarsuları\n
+Sel rejimi özelliği olan akarsulardır. İlkbahar en fazla akıma ulaştıkları dönemdir. \n
+•	Çarşamba suyu\n
+•	Porsuk\n
+•	Sakarya\n
+•	Kızılırmak\n
+•	Samantı çayı\n
+Doğu Anadolu Akarsuları\n
+Kış aylarında yağışın kar şeklinde olması sonucu akımın en az olduğu dönem de kış aylarıdır. \n
+•	Fırat\n
+•	Aras\n
+•	Kura\n
+•	Karasu\n
+•	Murat\n
+•	Dicle\n
+•	Arpaçay\n
+•	Zap suyu\n
+Güneydoğu Anadolu Akarsuları\n
+Bu bölgede akarsular derin vadi içinde akar. Bu yüzden bölgede sulamadan direk olarak yararlanılmaz. Bu yüzden genelde baraj üzerinden sulama olur. \n
+•	Fırat\n
+•	Dicle\n
+Coğrafi bölgelere göre akarsularımızın dağılışı bu şekildeydi. Şimdi Türkiye’de akarsu özelliklerine göz atalım\n
+Türkiye’de Akarsular ve Özellikleri\n
+•	Türkiye’de akarsular denge profilinden (yatak eğimi deniz seviyesine kadar yaklaşmış olan akarsular) uzaktır. Yüksek ve dağlık ülke olmamız bunun nedenidir. Ayrıca bu sebepten akarsularımızın yatak eğimleri, akış hızları, hidroelektrik enerji potansiyeli aşındırması fazladır. \n
+Tüm bunlara dayanarak da akarsularımızda ulaşım elverişli değildir. Sadece Bartın çayı ulaşıma elverişlidir. \n
+Ülkemizde denge profiline en yakın akarsular Kıyı Ege ve Marmara Bölgesi’nde bulunur. \n
+•	Dağların kıyı çizgisine ulaşımı ve Türkiye’nin yarımada şeklinde oluşu akarsu boylarını kısa yapmaktadır. \n
+•	Akarsularımızdan sulama, içme, balıkçılık, enerji üretimi ve su sporları alanlarında faydalanırız.
+•	Ülkemizde akımlar genelde ilkbaharda en fazla seviyeye ulaşır. Sebebi kışın yağan karların erimesidir. \n
+•	Çoruh, Dicle, Fırat, Aras ve Kura gibi akarsular ülkemiz sınırları içinde doğup, sınır dışındaki ülkelere dökülür. \n
+•	Asi ve Meriç nehri sınırlarımız dışında doğup ülkemizden geçerek denize dökülür. \n
+•	Yağış rejiminin düzensiz olması ve yağış biçimleri, ülkemizde akarsu rejimlerinin düzensiz olmasını sağlamıştır. \n
+•	Akarsu havzalarımızda ne kadar endüstriyel kuruluş varsa o bölgenin akarsuları daha kirlidir. \n
+•	Genelde doğu batı yönlü akışlar vardır. \n
+•	Ege bölgesinde yatak eğimleri az olduğu için menderesler oluşur. Mendereslerin akış hızı, aşındırması, enerji potansiyelleri azdır. Yana doğru aşındırma ve biriktirme ise fazladır. \n
+•	Sınırlarımız içinde en büyük akarsu Kızılırmak, sınır dışını da katarsak en büyük akarsu Fırat’tır. \n
+•	Meriç Nehri Yunanistan ile, Aras Nehri de Ermenistan ile sınır olma özelliği taşıyan akarsularımızdır. \n
+•	Doğu Anadolu ve Karadeniz Bölgesi’nde yatak eğimleri fazladır. Bu yüzden akarsular derin vadiler şeklinde akar. Bu şekilde derin vadide akan akarsularımızda taşkınlar olmaz. Ancak Meriç Nehri bu özelliklerde olmadığı için hemen hemen her sene taşıyor. \n
+Havza\n
+Kpss coğrafya Türkiye’de Akarsular konusunda yer alan havza kavramı, bir akarsuyun kolları ile birlikte kapladığı alanı belirtir. Eğer akarsu denize ulaşabiliyorsa buna açık havza denir. Eğer akarsu denize ulaşamayıp başka bir yerde son buluyorsa buna da kapalı havza denir. \n
+Türkiye’de Açık Havzalar\n
+•	Kızılırmak\n
+•	Yeşilırmak\n
+•	Seyhan\n
+•	Ceyhan\n
+•	Asi\n
+•	Bakırçay\n
+•	Gediz\n
+Türkiye’de Kapalı Havzalar\n
+•	Tuz Gölü (Yağış olmadığından) \n
+•	Konya Kapalı Havzası (İklim ve yer şekillerinden) \n
+•	Van Gölü (Yer şekillerinden) \n
+•	Aras ve Kura (Hazar Gölü’ne döküldüklerinden) \n
+•	Göller yöresindeki Burdur, Acıgöl, Salda Gölü ve Yarışlı Gölü kapalı havzaları (Karstik arazi yapısı \n ve yer şekillerinden dolayı) \n
+En geniş kapalı havzalar İç Anadolu ve Doğu Anadolu Bölgesi’ndedir. \n
+Ülkemizde yer alan akarsu havzalarının alanları genelde dardır. Bunun başlıca sebebi ülkemizin yer şekilleri ve yarımada şeklinde olmasıdır. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’de Akarsular konusu henüz bitmemiştir. Bir sonraki kpss coğrafya konusu Akarsu Rejimleri ve Debi olacaktır. \n
+    </string>
+    <string name="cografya_akarsular2">
+Akarsu rejimleri ve debi konusu, kpss coğrafya Türkiye’de Akarsular konusunun devamı niteliğindedir. Bu bölümde rejim, akarsu rejimleri ve çeşitlerini , Türkiye’de akarsu rejim özelliklerini ve debi konusunu işleyeceğiz.\n
+Akarsu Rejimleri\n
+Akarsu rejimleri konusuna geçmeden önce rejimin tanımını yapalım. Bir akarsuyun yılın aylarına göre akıttığı su miktarının değişimlerine rejim denilmektedir. Akarsuların akım özelliklerine göre de farklı rejim tipleri ortaya çıkmaktadır. \n
+1) Düzenli Rejim: Kpss coğrafya akarsu rejimleri içinde yer alan düzenli rejim, akarsuyun akımında yıl içinde bariz değişikliklerin olmadığı rejim türüdür. \n
+Bu tür akarsularda taşkın riski çok azdır. \n
+Ülkemizde Karadeniz Bölgesi’nde her mevsim yağışlı olduğu için düzenli rejime en çok bu bölgede rastlanmaktadır. \n
+2) Düzensiz Rejim: Akarsuyun akımında yıl içinde önemli değişimlerin olduğu akarsu rejim türüdür. \n
+Bu tür akarsularda taşkın riski çok fazladır. \n
+Ülkemiz akarsuları genelde düzensiz rejime sahiptir. Kar erimeleri nedeniyle de en fazla akıma ilkbahar aylarında ulaşılmaktadır. \n
+* Türkiye’de Düzensiz Rejim Görülmesinin Sebepleri: \n
+•	Yağış Rejimi: Düzensiz yağış rejimi ülkemizde düzensiz akarsu rejimini de beraberinde getirmektedir. \n
+•	Yağış Biçimi: Kışın yağan karlar ilkbahar aylarında eriyerek akımın çoğalmasına sebebiyet verir.
+•	Barajlar: Akarsu üzerinde baraj yoksa fazla suların baraj olmadığı için bırakılamayacağından yıl içinde düzensiz rejim görülür. \n
+•	Beslenme Türü: Akarsularımızın beslenme türlerinin çeşitli olması da akarsu rejimlerinin düzensiz olmasına yol açar. \n
+•	Yağmur Sularıyla Beslenen Akarsular: En fazla Akdeniz’de görülür. Akdeniz’de kış ayları yağmur şeklinde yağışlarla geçtiği için akım artar. Yaz aylarında da kuraklık olduğu için akım düşer. \n Dolayısıyla düzensiz rejime sebebiyet verir. \n
+•	Kar ve Buz Sularıyla Beslenen Akarsular: Kızılırmak, Yeşilırmak, Aras, Kura, Dicle, Fırat gibi akarsular dış aylarındaki kar yağışlarının ilkbahar aylarında erimesi sonucu akımları artar. Dolayısıyla düzensiz rejim mevcuttur. \n
+•	Kaynak Sularıyla Beslenen Akarsular: Özellikle Manavgat ve Köprüçayı gibi karstik arazi üzerinde kaynak sularla beslenen akarsularda, yaz aylarında diğer akarsulara göre fazla akım değişikliği görünmez. \n
+•	Göl Kaynaklı Akarsular: M.Kmeal Paşa çayı, Orhaneli çayı, Karasu ırmağı, Arpaçay, Çarşamba, Kovada gibi göl çanağındaki fazla sularla beslenen dışa akışı olan göllerden çıkan akarsulardır. Rejimleri yıl boyunca fazla değişmez. \n
+Akarsu rejimleri konusu tamamlanmıştır. Şimdi de debi konusu irdeleyelim. \n
+Debi\n
+Kpss coğrafya dersinde bu bölümde en son işleyeceğimiz konu olan debi, akarsuyun herhangi bir kesitinden geçen suyun metreküp/saniye olarak ifade edilmesidir. Debiyi etkileyen faktörler aşağıda sıralanmıştır.
+•	Yağış Miktarı: Yağışın fazla olduğu yerlerde debi yüksek olur. \n
+•	Yağış Biçimi: Kar yağışı olan bölgelerde kış aylarında debi düşük, ilkbahar aylarında da erimeye bağlı olarak debi yüksek olur. \n
+•	Eğim: Eğimli bölgelerde akarsuyun hızı fazla olduğundan, saniyede geçen su miktarı metreküp olarak fazladır. Yani debi bu bölgelerde yüksektir.
+•	Sıcaklık: Buharlaşmanın fazla olduğu yerlerde su kaybı fazladır. \n
+•	Arazi Yapısı: Arazinin geçirimli olduğu yerlerde debi düşüktür. \n
+•	Beşeri Faktörler: Akarsularda baraj ya da sulama gibi amaçlarla yararlanılması debiyi de dolaylı olarak etkilemektedir.
+Kpss genel kültür coğrafya dersine ait Akarsu Rejimleri ve Debi konusu tamamlanmıştır. Bir sonraki kpss coğrafya konusu Türkiye’de Akarsular bölümüne ait Akarsu Birikim Şekilleri ile Akarsu Aşınım Şekilleri olacaktır. \n
+    </string>
+    <string name="cografya_akarsular3">
+
+Akarsu aşındırma şekilleri ve akarsu biriktirme şekilleri kpss coğrafya dersinde Türkiye’de Akarsular konusunun son bölümünü oluşturmaktadır. Önceki konularda coğrafya dersine Türkiye’deki akarsular ve özelliklerini, havza, debi ve akarsu rejimlerini işlemiştik. Akarsulara ait bu son bölümde de sırası ile akarsu aşındırma şekilleri ve akarsu biriktirme şekillerini işleyeceğiz.\n
+Akarsu Aşındırma Şekilleri\n
+Kpss coğrafya dersinde yer alan akarsu aşındırma şekilleri 7 tanedir.
+1) Vadi: Akarsuyun aktığı yatağa vadi denilir. Oluşumlarına göre vadiler 4’e ayrılır:
+•	Çentik Vadi: V şeklinde oluşan dar ve derin akarsu yataklarıdır.Karadeniz ve Doğu Anadolu Bölgelerinde yaygındır. Ülkemiz genç oluşumludur ve bu yüzden bu tür vadiler çok vardır.
+•	Boğaz Vadi (Yarma): Deniz ve kara seviyesindeki değişimlere bağlı oalrak akarsuların açtığı derin boğaz görünümlü vadilerdir. \n
+Sakarya Nehri’nin oluşturduğu Geyve Boğazı buna örnektir. \n
+•	Kanyon Vadi: Boğaz vadiyle aynı özellikleri taşısa da, yamaçlarının basamak şeklinde olması ve genelde karstik araziler üzerinde olması yönüyle boğaz vadiden ayrılır. En çok Akdeniz Bölgesi’nde yer alır. \n
+•	Alüvyal Tabanlı Vadi: Eğimin azaldığı yerlerde yanal aşındırmayla oluşan vadilerdir. \n
+Ege Bölgesi’nde yer alan menderesler buna örnektir. \n
+2) Peribacaları: Volkanik yani tüflü arazilerde cılız bitki örtüsüyle beraber, rüzgarın da dolaylı etkisiyle akarsu ve sel sularının oluşturduğu şekillerdir. İç Anadolu Bölgesi’nde Orta Kızılırmak Bölümü’nde yer alır. \n
+Peribacaları oluşumunda hem iç kuvvetler hem de dış kuvvetler etkilidir. \n
+3) Dev Kazanı: Akarsuların şelaleler oluşturduğu yerlerde görülür. \n
+Erzurum Tortum, Antalya Manavgat bunlara örnektir. \n
+4) Menderes: Akarsuların eğimin azaldığı yerlerde büklümler yapması ile oluşan şekillerdir. Ege Bölgesi’nde yaygındır. \n
+5) Kırgıbayır (Badlans): Bitki örtüsünün cılız ve genelde kurak arazilerde sel sularının etkisiyle oluşan bozuk arazi yapısıdır. \n
+6) Plato: Akarsuların derin vadilerle yardığı düzlüklerdir. Türkiye’de Platolar konusunda detaylı anlatılmıştır. \n
+7) Peneplen (Yontukdüz): Kpss coğrafya dersinde akarsu aşındırma şekilleri içindeki en son şekil olan peneplen, deniz seviyesine yakın aşındırılmış hafif dalgalı düzlüklerdir. \n
+Ülkemiz genç oluşumlu olduğundan peneplen görülmez. Ancak bu şekle en yakın bölge Marmara Bölgesi’dir. \n
+Akarsu aşındırma şekilleri tamamlanmıştır. Şimdi de akarsu biriktirme şekilleri konusuna göz atalım. \n
+Akarsu Biriktirme Şekilleri\n
+1) Delta: Akarsuların deniz kıyısında topladıklarını biriktirmesi sonucu oluşan şekillerdir. \n
+2) Birikinti Yelpazesi: Eğimin azaldığı yerlerde yelpaze şeklinde oluşan akarsu biriktirme şeklidir. \n
+3) Seki (Taraça): Deniz ve karadaki yükselmelere bağlı olarak, akarsuyun yatağını derine aşındırması sonucu eski yatağın basamak şeklinde ortaya çıkmasıyla oluşan akarsu biriktirme şeklidir. \n
+4) Birikinti Konisi: Birikinti yelpazelerinin birleşmesiyle oluşan akarsu biriktirme şeklidir. \n
+5) Dağ Eteği Ovası: Birikinti konilerinin birleşmesi sonucu meydana gelen şekillerdir. \n
+6) Irmak Adası (Kum Adası): Akarsuların taşıdığı malzemelerin eğimin azaldığı yerlerde bırakması sonucu, adalar şeklinde oluşan biriktirme şeklidir. \n
+Kpss genel kültür coğrafya dersine ait Akarsu Aşındırma Şekilleri ve Akarsu Biriktirme Şekilleri konuları tamamlanmıştır. Bir sonraki kpss coğrafya konusu Türkiye’de Göller olacaktır. \n
+    </string>
+    <string name="cografya_yeralti_sulari">
+Önceki konularımızda kpss coğrafya dersi akarsular ana başlığı altında bulanan; Türkiye’de bulunan akarsular, akarsu rejimleri ve debi, son olarak akarsu aşındırma ve biriktirme şekillerini inceledik. Sıradaki konumuzda ise Türkiye’de Yer Altı Suları, Türkiye’de Kaplıcalar ve Maden Sularını işleyeceğiz.\n
+TÜRKİYE’DE YERALTI SULARI\n
+Yağış olarak toprağa düşen suların 1/3’ü yer altına sızarak çeşitli derinliklerde birikir. Biriken bu suya yeraltı suyu, yüzeye çıktığı yere ise kaynak denir. \n
+Yer altı sularını besleyen en önemli kaynak yağış miktarı daha sonra ise yüzeyin eğimi, bitki örtüsü ve zeminin geçirimliliğidir. Yer altı suları akımından en zengin araziler karstik arazi ve alüvyal ovalardır. \n
+Ülkemizde yer altı suyu rezervi oldukça fazladır. Bazı yörelerde tarımda sulama için yer altı suyundan faydalanılır. \n
+Karapınar (Konya), Ceylanpınar ( Şanlıurfa), Polatlı (Ankara) gibi. \n
+TÜRKİYE’DE KAPLICALAR VE MADEN SULARI\n
+Kpss coğrafya dersinde Türkiye’de yeraltı suları başlığından sonra işleyeceğimiz ikinci başlık da Türkiye’de kaplıca ve maden sularıdır. Ülkemizde suyu sıcak olan kaynaklara genellikle kaplıca, bazen de ılıca denmektedir. Suları fazla sıcak olmayan, içerisinde çözülmüş olarak bol miktarda mineralin bulunduğu ve içilebilen kaynaklara ise içme denir. \n
+Kaplıca ve içme suları eskilerden beri ülkemizde romatizma, cilt ve iç hastalıkları tedavisinde kullanılmaktadır. Bu sebeple bu kaynaklara şifalı sular da denmektedir. \n
+Bu tür sular ülkemizde oldukça yaygın olarak görülmektedir. Bunun sebebi ülkemizin topraklarının yakın bir jeolojik devirde oluşması ve fay hatlarının çokluğudur. İncelendiğinde kaplıca ve ılıcaların dağılımının fay hatları ile paralellik gösterdiği tespit edilir. \n
+Kaplıca ve içmeler kaplıca turizmi oluşturup yöre halkı için önemli bir gelir kaynağı haline gelmiştir. \n
+Güney Marmara Kaplıcaları: Bursa, Yalova, İnegöl, Susurluk ve Gönen bölgelerinde\n
+Batı ve Güneybatı Anadolu Kaplıcaları: Çanakkale, Balıkesir, Edremit, Havran, Burhaniye, İzmir’de Balçova, Dikili, Bergama, Manisa kurşunlu, Pamukkale bölgelerinde\n
+İç Batı Anadolu Kaplıca ve Maden Suları: Afyonkarahisar ve sandıklı en tanınmış olanlarıdır. Kütahya da çok sayıda kaplıca bulunmaktadır. \n
+Güney Anadolu Kaplıca ve Maden Suları: Erzin, Reyhanlı, Mersin, Tarsus ve Mut bölgelerinde\n
+İç Anadolu Kaplıcaları: Ayaş, Kızılcahamam, Haymana ve Bolu bölgelerinde\n
+Doğu Anadolu Kaplıcaları: Malatya, Erzurum, Siirt, Bingöl illeri sınırlarında da kaplıcalar yer almaktadır. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’de yeraltı suları, Türkiye’de kaplıcalar ve maden suları konularını işledik. Bir sonraki kpss coğrafya konumuz Türkiye’ de Karstik şekiller olacaktır. \n
+    </string>
+    <string name="cografya_yer_sekilleri">
+Önceki konumuzda kpss coğrafya dersi konusu olan Türkiye’de karstik Şekillerini inceledik. Sıradaki konumuzda ise Türkiye’nin yer şekilleri başlığı altında inceleyeceğimiz Türkiye’de Rüzgârların, Buzulların, Dalga ve Akıntıların Oluşturduğu Yer şekillerini inceleyeceğiz.\n
+Türkiye’de Rüzgarların Oluşturduğu Yer Şekilleri\n
+Türkiye’nin yer şekilleri konusunda ilk olarak rüzgarların oluşturduğu yer şekillerine Kurak ve yarı kurak bölgelerde yeryüzü şekillerinden en önemli dış etken rüzgardır. Rüzgarlar kopardıkları parçaları havada çarptırarak aşındırma ve bunları biriktirme yoluyla etkili olurlar. Bu etki iklim, bitki örtüsü, arazinin yapısı ve rüzgar hızıyla ilgili faktörlere bağlıdır. \n
+Ülkemizde rüzgarlar iç bölgelerde daha etkilidir.  Çünkü bu bölgelerde arazi çıplak ve bitki örtüsü tahrip edilmiş haldedir. Bu nedenle ülkemizde iç bölgelerde rüzgar erozyonu artmıştır. \n
+Nevşehir- Ürgüp- Göreme çevresinde oluşan mantar kayalar rüzgar aşındırması sonucunda oluşmuştur. \n
+Türkiye’de Buzulların Oluşturduğu Yer Şekilleri\n
+Türkiye’nin yer şekilleri konusunda buzulların oluşturduğu şekiller iklim bölgelerine, yer şekillerine ve yükseltiye göre çeşitli tiplere ayrılır. \n
+1.	Takke Buzulu: Dağların tepelerini örten buzuldur. \n
+Örneğin Büyük Ağrı dağının tepesindeki buzul. \n
+2.	Sirk Buzulu: Dağların tepelerindeki çukurlara gizlenmiş buzullardır. \n
+Cilo, Kaçkar dağlarında görülür. \n
+3.	Vadi Buzulu: Sirklerden oluşan buzulların vadiyi kaplamasıyla oluşur. \n
+En güzel örneği Cilo (Buzul) dağı üzerindedir. \n
+4.	Sirk Gölü: Türkiye’de en yaygın buzul şekilleri, sirkler ve buzul vadilerdir. Sirk buzulların olduğu yerde oluşan küçük çukurlardır. İçlerinde eriyen kar ve buz suları birikir. \n
+5.	Buzul Vadi: Buzul vadileri akarsu vadilerinden farklıdır. Enine profilleri U biçimindedir. \n
+6.	Hörgüç Kaya: Vadi boyunca aşağıya inen buzulların tamamen aşındırdığı sert kayalar çizilme ile zımparalanmış görünüme kavuşur. Deve hörgücüne benzeyen bu şekillere hörgüç kaya denir. \n
+7.	Moren: Vadilerdeki buzullar yatakları boyunca ilerlerken kazdıkları alanlardan kopardıkları taş ve çakılları biriktirerek moren setlerini oluşturur. \n
+Türkiye’de Dalga ve Akıntıların Oluşturduğu Yer Şekilleri\n
+Kpss genel kültür coğrafya dersinde Türkiye’nin yer şekilleri konusunda şimdiki işleyeceğimiz konu Türkiye’de dalga ve akıntıların oluşturduğu yer şekilleridir. Dalgalar  kıyılarda aşındırma, taşıma ve biriktirme faaliyetleri yaparak çeşitli şekiller oluşturur. Kıyılarımızda dalga biriktirmesi ve aşındırmasından kaynaklı şekiller oluşur. \n
+1.	Falezler (Yalıyarlar): Yüksek kıyılarda dalgaların etkisi ile kıyıların alt kısımları aşınır ve bazı oyuklar oluşur. Bu oyuklar büyüyerek tavanları çöker ve denize dik kıyılar meydana gelir. \n
+Ülkemizde falezler yaygın olarak Karadeniz kıyılarında oluşmuştur. \n
+2.	Lagün : Koyların önünde oluşan kıyı kordonları zamanla birleşip koyun önünü tamamen kapatır ve denizle olan bağlantısını keser. Bu şekilde oluşan göllere Lagün denir. \n
+Büyük ve Küçükçekmece gölleri, Durusu, Akyatan gölü en güzel örnekleridir. \n
+3.	Kıyı Kordonu (Kıyı seti) Gölü: dalgalar ve kıyı akıntıları taşıdıkları malzemeyi koyların kenarında biriktirip çıkıntılar oluştururlar. Bunlara kıyı oku denir. \n
+4.	Tombolo (Saplı ada): Açıktaki bir adanın denize doğru gelişen kıyı oklarıyla ana karaya bağlanması ile oluşur. \n
+Kapıdağ yarımadası ve Sinop tombolosu en güzel örnekleridir. \n
+5.	Plajlar (Kumsallar): Dalga hareketiyle kopan parçalar ileri geri hareketleri sonucunda ufalanarak kum haline dönüşür. Bu kumlar kıyılarda birikerek alçak kıyılarda kumsalları oluşturur. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’nin Yer şekilleri konusuna ait Türkiye’de Rüzgarların, Buzulların, Dalga ve Akıntıların Oluşturduğu Yer şekilleri konusunu işledik. Bir sonraki kpss coğrafya konumuz Ülkemizdeki Kıyı Tipleri olacaktır. \n
+    </string>
+    <string name="cografya_kiyi_tipleri">
+Önceki konumuzda kpss coğrafya dersi konusu olan Türkiye’ de Rüzgarların, Buzulların, Dalga ve Akıntıların Oluşturduğu Yer şekillerini inceledik. Sıradaki kpss coğrafya dersi konumuzda ise Türkiye’de Kıyı Tipleri konusunu inceleyeceğiz. Boyuna kıyılar, enine kıyılar, dalmaçya tipi kıyılar ve ria tipi kıyılar Türkiye’de kıyı tipleri konusu altında işleyeceğimiz alt başlıkları oluşturmaktadır.\n
+Türkiye’de Kıyı Tipleri\n
+Yurdumuzda çeşitli kıyı tiplerine rastlanır. Bu kıyı tiplerinin oluşmasında kıyı çizgisinin gerisinde yer alan yerşekilleri de önemli bir etkiye sahiptir. Ülkemizde görülen kıyı tipleri şunlardır: \n
+1.	Boyuna Kıyılar\n
+•	Dağların denize paralel olarak uzandığı yerlerde görülen kıyı tipleridir. \n
+•	Bu kıyılarda girinti çıkıntı çok azdır. \n
+•	Kıyı ile iç kısımların ulaşımı zordur. Ulaşım geçitlerle sağlanır. \n
+•	Denizel iklimin görülme alanı dardır. Akdeniz ve Karadeniz bölgelerimizde görülür. \n
+•	Doğal liman sayısı az, kıta sahanlığı dar ve falezler yaygındır. \n
+2.	Enine Kıyılar\n
+•	Bu kıyılarda girinti çıkıntı çok, koy, körfez ve limanların sayısı fazladır. \n
+•	Kıta sahanlığı geniş ve denizin derinliği azdır. \n
+•	Kıyı ile iç kesimler arasında ulaşım kolaydır ve kıyıdaki limanların hinterlandı geniştir. \n
+•	Denizel iklim etkileri iç kısımlarda da görülebilmektedir. \n
+•	Ege kıyılarımız enine kıyıların görüldüğü yerlerdendir. \n
+Hinterland:  Bir limanın ard kısmında kalan bölgedir. Bir limana işlek yollar açılıyorsa ve bu işlek yolların geçtiği yerlerde sanayi, tarım, ticaret gibi ekonomik etkinlikler yoğunsa hinterlandı geniştir (İstan¬bul, izmir… gibi) ve o liman gelişir. Eğer tersi oluyorsa hinterlandı dardır ve gelişmez. (Sinop , Ordu, Giresun limanları gibi) \n
+3.	Dalmaçya Tipi Kıyılar \n
+•	Denize paralel uzanan dağların arasındaki vadilere deniz suyunun girmesi ile oluşan kıyı tipidir. \n
+•	Bu kıyılar yaygın olarak Adriyatik denizinde görülür. \n
+•	Ülkemizde ise Akdeniz’de Teke Yarımadasının Antalya Kaş kıyılarında rastlanır.[/box] \n
+4.	Ria Tipi Kıyılar \n
+•	Platolar arasındaki derin vadilerin deniz veya okyanusların yükselmesi ile sular altında kalması ile oluşmuş kıyı tipidir. \n
+•	Ülkemizde güneybatı Ege kıyıları, Çanakkale boğazı, İstanbul boğazı ve Haliç bu kıyılara örnektir. \n
+Kpss genel kültür coğrafya dersine Türkiye’de Kıyı Tipleri konusunu işledik. Bir sonrakikpss coğrafya dersi Türkiye’ Göller ve Oluşumları konumuz olacaktır. \n
+    </string>
+    <string name="cografya_goller">
+
+Türkiye’de göller ve oluşumu konusu ülkemizdeki göllerin çeşitlerini, oluşumlarını ve dağılımını kapsayan önemli konulardan bir tanesidir. Önceki konumuzda kpss coğrafya dersi konusu olan Ülkemizdeki Kıyı Tiplerini inceledik. Sıradaki kpss coğrafya dersi konumuzda ise Türkiye’de Göller ve Oluşumu konusunu inceleyeceğiz.\n
+Türkiye’de Göller ve Oluşumu\n
+Karalar üzerinde çeşitli sebeplerle çanaklaşmış alanlarda biriken su kütlelerine göl denir. Türkiye göl bakımından zengin bir ülke olarak sayılamaz. Ülkedeki toplam göl ve bataklık alan 10000 km2 kadardır. \n
+Ülkemizdeki doğal oluşumlu göller, genellikle belli alanlarda toplanmış halde bulunur. \n
+1.	Güney Marmara\n
+2.	Göller Yöresi\n
+3.	Tuz gölü ve Çevresi\n
+4.	Van Gölü\n
+Göller kaynak suları, akarsular ve yağışlar ile beslenir. Göllerin suları iklim koşulları, beslenme kaynakları, gölün bulunduğu arazinin yapısı ve gideğeni olup olmamasına göre acı, tatlı, sodalı ve tuzlu olabilmektedir. \n
+Eğer bir göle kaynağından olması gerekenden fazla su gelirse gölün su miktarı zaman ile artar. Fazla olan bu sular akarsu halinde olan gideğen(göl ayağı) ile dışarıya akar. \n
+İznik, Çıldır, Eğirdir ve Beyşehir gibi göllerin gideğenleri vardır ve suları bu yüzden tatlıdır. \n
+Van, Tuz, Burdur ve Acı göl gibi göllerimiz gideğeninin olmaması sebebiyle acı, tuzlu veya sodalıdır. \n
+Tuz gölünden tuz, Van gölünden soda elde edilir. \n
+Türkiye’deki göllerden tarımda sulama, içme v kullanma suyu elde etme, enerji üretimi, ulaşım, tuz ve soda üretimi, su ürünler ve turizm gibi birçok alanda yararlanılmaktadır. \n
+A. Doğal Göller\n
+Volkanik, karstik ve tektonik olaylar ile buzullar, akarsular, dalga ve akıntı etkileriyle oluşurlar. Ülkemizde en yaygın olarak görülen göl tektonik göllerdir. \n
+1.	Tektonik Göller\n
+Yerkabuğundaki kıvrılma ve kırılmalar sonucunda oluşan çukurlara dolan su kütlelerinden oluşur. \n
+Marmara’da, Manyas, Ulubat, Sapanca, İznik gölleri\n
+Akdenizde, Kovada, Eğiridir, Burdur, Acıgöl, Beyşehir gölleri\n
+İç Anadolu’da, Tuz gölü, Tuzla, Akşehir, Ilgın gölleri\n
+Doğu Anadolu’da, Hazar ve Aktaş gölleri tektonik göllerdir. \n
+2.	Volkanik Göller\n
+Volkan konisinin tepesinde bulunan krater çukurlarının yada volkanik patlama ile oluşan maarların su ile dolması sonucunda oluşan göllerdir. \n
+İç Anadolu’da Meke Tuzlası, Doğu Anadolu2da nemrut gölü, Isparta yakınlarındaki gölcük gölü birer volkanik göldür. \n
+3.	Karstik Göller\n
+Kalkerli arazilerdeki erime çukurlarının su ile dolması sonucu oluşur. Akdeniz ve iç Anadolu’da rastlanır. \n
+Kestel, Elmalı, Suğla, Söğüt, Obruk ve Avlan gölleri en güzel örneklerindendir. \n
+4.	Buzul (Sirk) Gölleri\n
+Buzul aşındırması sonucu oluşan çanaklarda oluşan su birikintileri sonucunda oluşan göllerdir. \n
+Ağrı, Erciyes, Kaçkar, Uludağ, Bolkar dağlarında görülür. \n
+5.	Set Gölleri\n
+Çukur veya vadilerinin önünün herhangi bir kütle ile kapanması sonucu oluşur. Set oluşturan kütle hangi yolla meydana geldiyse o adla isimlendirilir. \n
+•	Volkanik set gölleri: Volkandan çıkan lavların bir çukurluğun önünü kapatması ile oluşur.
+Van, Balık, Nazik, Çıldır gölleri bu şekilde oluşmuştur. \n
+•	Alüvyal set gölleri: Akarsu vadilerinin alüvyal birikimlerle kapanması sonucu oluşur. \n
+Köyceğiz gölü, Eymir ve Mogan gölleri, Marmara gölü en güzel örnekleridir. \n
+•	Kıyı set gölleri (Lagün, Deniz Kulağı): Kıyılardaki koyların ağız kısımlarının zamanla kıyı okları tarafından kapanması ile oluşur. \n
+Terkos, Büyükçekmece ve Küçükçekmece gölleri gibi. \n
+•	Heyelan set gölleri: Heyelan sonucu kayan kütlenin akarsu vadilerini kapatması sonucu oluşur. \n
+Sera, Uzungöl, Tortum, Abant, Yedigöller birer heyelan set gölüdür. \n
+B. Baraj Göllleri\n
+Türkiye’de göller ve oluşumu konusunda ikinci ana başlık Baraj Gölleridir. Akarsu vadilerine yapılan barajların etkisiyle biriken suların oluşturduğu yapay göllerdir. Elektrik enerjisi üretimi, kullanma, içme suyu, tarımda sulama suyu elde etmek için yapılır. \n
+Kpss genel kültür coğrafya dersine Türkiye’ Göller ve Oluşumları konusunu işledik. Bir sonraki kpss coğrafya dersi konumuz Türkiye’nin Çevre sorunları olacaktır. \n
+    </string>
+    <string name="cografya_cevre">
+Türkiye’nin çevre sorunları bir coğrafya konusu olmakla beraber her ülke vatandaşının bilmesi ve önlem alması gereken konuların başında gelmektedir. Önceki konumuzda kpss coğrafya dersi konusu olan Türkiye’de Göller ve Oluşumlarını inceledik. Şimdiki kpss coğrafya dersi konumuzda ise Türkiye’nin Çevre Sorunları konusunu inceleyeceğiz.\n
+Türkiye’nin Çevre Sorunları\n
+Türkiye’nin çevre sorunları Türkiye’deki doğal ortamın bozulmasından kaynaklanan problemlerden oluşmaktadır.Türkiye’de doğal ortamı bozan belli başlı çevre sorunları ise şunlardır: \n
+A. Hava Kirliliği\n
+Sanayi tesisleri, taşıtlar, iklim özellikleri yerleşme alanının yüzey şekli hava kirliliğini artıran başlıca etkenlerdir. İstanbul ve İzmit gibi sanayi ve yaşayan nüfusun yoğun olduğu yerlerde hava kirliliği oldukça yüksektir. \n
+Sanayi tesislerinin bulunduğu alanlarda hava kirliliği, yanlış yer seçimi, çıkan gazların yeteri kadar filtrelenmemesi gibi nedenlerden kaynaklanmaktadır. \n
+Petrol ve kömür gibi yakıtların kullanımı sonucunda ortaya çıkan gazların ve dumanların sisle karışması ile oluşan hava kirliliğine Londra tipi kirlilik denir. Ülkemizde sanayi tesislerinin yoğun olarak bulunduğu İstanbul, İzmir ve Ankara da bu kirlilik tipi görünür. \n
+Motorlu taşıtların çıkardığı gazların etkisi ile oluşan kirliliğe ise Los Angeles tipi kirlilik denir. Astım, bronşit gibi hastalıklara neden olur. Ülkemizde İstanbul’da zaman zaman yaşanır. \n
+B. Su Kirliliği\n
+Sanayi tesislerinin yoğun olduğu bölgelerdeki su kirliliği ülkemizde önemli boyutlara ulaşmıştır. Özellikle İzmit ve İzmir körfezindeki canlı hayatı bu durumdan çok fazla etkilenmektedir. Su kirliliğinin önemli boyutlara ulaşmasında ev atık sularının, sanayi atık sularının göl ve denizlere bırakılmasının etkisi büyüktür. \n
+Denizlerimizin kirlenmesinde kanalizasyon suları, fabrika atıkları, tankerlerden kaynaklanan sızıntılar etkilidir. \n
+C. Katı Atıklar\n
+Tarımsal ve evsel kullanım sonucu katı atık yani çöp sorunu ortaya çıkmaktadır. Son yıllarda artan şehirleşme ile çöp toplanması, uygun yerlerde biriktirilmesi ve geri dönüştürülmesi önemli bir sorun haline gelmiştir. \n
+Plastik torba ve şişe, pil, elektronik eşya gibi maddelerin ayrışması zor olduğundan uzun yıllar etrafta kalarak çevre kirliliğine neden olmaktadır. \n
+Çevre Koruma Uygulamaları\n
+Dünya’da ve Türkiye’de çok sayıda resmi kurum ve sivil toplum kuruluşları tarafından çevre koruma projeleri üretilip uygulanmaktadır. \n
+Örneğin; \n
+Ulubat Gölü Projesi: Birçok canlıyı barındıran bu tatlı su gölünün kirlilik ve toprak dolma tehlikesine karşı kirliliği önlemek, yaban hayatını zenginleştirmek ve doğal kaynakların verimli kullanılmasını sağlama gibi önlemler alınarak çalışmalar yapılmıştır. \n
+Yapılan bu çalışmalar FAO (Birleşmiş Milletler Tarım ve Gıda Örgütü) tarafından en başarılı örnekler arasında gösterilmiştir. \n
+Konya Kapalı Havza Projesi: Yanlış uygulamalar nedeniyle havzada ciddi su sıkıntıları yaşanmıştır. Suyun doğal akış yönünün değiştirilmesi, yanlış sulama yöntemleri, yer altı suyunun kontrolsüz kullanımı sulak alanların kurumasına yol açmıştır. Kısıtlı olan havza su kaynaklarını verimli kullanma çalışmaları yapılmıştır. \n
+Meşe Projesi: Erozyonu önlemek için yapılmıştır. 1998-2004 yılları arasında 640 milyon tohum ekilerek dünyanın en büyük projelerinden biri olmuştur. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’nin Çevre Sorunları konusunu işledik. Bir sonraki kpss coğrafya dersi konumuz Türkiye’de Nüfus Sayımları ve Nüfus Artışı olacaktır. \n
+    </string>
+    <string name="cografya_iklim">
+Türkiye’nin İklimi konusu kpss coğrafya dersinin önemli bir konusudur. İklim bir bölgeye ait uzun yıllardır süren atmosfer olaylarının ortalamasıdır. İklimin birçok yeryüzü şekli ve canlı yaşamı üzerinde etkisi vardır. Geçtiğimiz konuda Türkiye’nin çevre Sorunlarını ele almıştık. Sıradaki konumuzda ise Türkiye’nin İklimi konusunu inceleyeceğiz.\n
+Türkiye’nin İklimi\n
+Türkiye’nin İklimini Etkileyen Faktörler\n
+Türkiye’nin iklim özellikleri tarım, akarsu rejimi, bitki örtüsü çeşidi, deniz turizmi gibi sonuçlar üzerinde etkilidir. Bir yerin ikliminde enlem, yükselti, dağların kıyıya uzanış yönü, eğim, bakı, denize göre konum, karasallık ve basınç merkezleri belirleyicidir. \n
+a. Matematik Konumun Etkisi\n
+•	Güneş ışınları hiçbir zaman dik açı ile gelmez. \n
+•	Ilıman kuşakta yer alır. \n
+•	Dört mevsim yaşanır. \n
+•	Batı rüzgarlarının etkisi altındadır. \n
+•	Kuzey yönlü hava akımı sıcaklığı düşürürken güney yönlüler arttırır. \n
+•	Dağların güney yamaçları kuzeye göre daha fazla güneş görür. \n
+•	Cephesl yağışlar sıklıkla görülür. \n
+b.Özel Konumun Etkisi\n
+Türkiye iklimini etkileyen en önemli faktördür. Bu etkilerini şu şekilde başlıklara ayırabiliriz. \n
+1.Etrafındaki Denizlerin Etkisi\n
+Yarımada konumunda olan ülkemizin çevresinde bulunan denizlerin iklim koşulları üzerinde büyük etkileri vardır. Kara ve denizdeki ısınma farklılıkları denizel ve karasal iklimin oluşmasına neden olmuştur. Denize kıyısı olan yerlerde nemin de etkisi ile sıcaklık farkları fazla olmaz. Fakat karasal ortamda nemlilik azdır. Artan yükseklikle sıcaklık farklılıkları da artar. \n
+Örneğin; \n
+Rize- Erzurum sıcaklık değerlerine bakıldığında Erzurum Rize’den daha soğuk olduğu görülmektedir. Bu sonuç enleme ters düşmektedir. Çünkü ekvatora daha yakın olan Erzurum daha düşük sıcaklık değerlerine sahiptir. Denize göre konum bu durumun başlıca nedenidir. Ayrıca Erzurum’daki yükseltinin fazlalığı da sıcaklığı etkiler. \n
+Kıyılarda sıcaklık farkı düşük ve yağışın miktarı fazladır. \n
+Kışlar kıyılarda iç kesimlere göre daha ılıktır. \n
+İç kesimlerdeki sıcaklık ortalamaları kıyılardan düşüktür. \n
+2.Yeryüzü Şekillerinin Etkisi\n
+Kısa mesafede yaşanan iklim değişikliklerinin en önemli sebeplerindendir. \n
+a. Yükselti\n
+Yükseklik arttıkça sıcaklıkta azalır. Doğu Anadolu Bölgesi en güzel örneğidir. \n
+b. Dağların uzanışı\n
+Ülkemizde dağlar genel olarak doğu- batı yönünde uzanır. Dağların denize paralel olması denizel iklimin alanını sınırlandırmış, denize dik olarak uzanması ise denizel iklimin iç kesimlere ulaşmasını sağlamıştır. Kuzey Anadolu Dağları ve Toroslar denize paralel uzanırken kıyı ile iç kesimlerin arasında sıcaklık ve yağış farkının oluşmasına neden olmuştur. \n
+c. Bakı\n
+Ülkemizde bakı yönü matematik konumdan dolayı güneydir. Güneşe dönük olma durumu için bu kavram kullanılır. Bakı etkisinin görüldüğü yamaçlarda sıcaklık ortalaması yüksek, güneşlenme süresi uzun, orman ve tarım üst sınırı yüksektir. \n
+3.Etrafındaki Kara Kütlelerinin Etkisi\n
+Ülkemiz Kuzey ve doğuda Asya kıtası, Kuzeybatıda Avrupa kıtası, Güneydoğuda Arabistan yarımadası kara kütleleri tarafından çevrelenmiştir. Ülkemizi çevreleyen bu karalar üzerinde oluşan hava kütleleri ülkemizin iklimi üzerinde etkilidirler. \n
+Örneğin; Balkanlardan gelen soğuk hava kütleleri kış aylarında sıcaklıkların düşmesine neden olur. \n
+4. Etrafındaki Basınç Merkezlerinin Etkisi\n
+Ülkemiz etki alanı ve yönü değişen farklı basınç merkezlerinin etkisi altındadır. Kış mevsiminde İzlanda alçak ve Sibirya yüksek basıncı, yaz mevsiminde ise Basra alçak ve Asor yüksek basıncı etkisi altındadır. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’nin İklimi konusunu işledik. Bir sonraki kpss coğrafya dersi konumuz Türkiye’de Sıcaklık olacaktır. \n
+    </string>
+    <string name="cografya_sicaklik">
+Türkiye’de Sıcaklık konusu kpss coğrafya dersi iklim elemanlarının bir konusudur. İklim elemanları bir bölgenin iklimini belirleyen temel etkenlerdir. Geçtiğimiz konumuzda Türkiye’nin İklimi ve iklimi etkileyen matematik ve özel konumun etkisi irdelemiştik. Sıradaki konumuzda ise Türkiye’de Sıcaklık bölümünü inceleyeceğiz.\n
+Türkiye’de Sıcaklık\n
+Ülkemizde sıcaklığın dağılışında birçok faktör etkilidir. Bu faktörlerden bazıları şunlardır: \n
+a. Enlem: Ekvatora olan uzaklığı ifade eder. Ülkemiz bulunduğu konum nedeniyle güneyden kuzeye doğru gidildikçe sıcaklığın değeri azalır. \n
+Özel konum şartları bazen enlemin etkisine ters düşen durumlar ortaya çıkarır. \n
+Örneğin;Kış aylarında Samsun’da sıcaklığın Ankara’dan yüksek olması\n
+ b. Yükselti: Sıcaklı yükselti arttıkça azalır, yükselti azaldıkça artar. Her 200 metre yükseklikte ortalama 1 derece sıcaklık azalır. \n
+c. Denizellik (Nemlilik): Nem oranın fazla olduğu yerlerde aşırı ısınma ve soğuma görülmez. Sıcaklık farkı az olur. \n
+d. Karasallık: Karasallığın olduğu bölgelerde ısınma ve soğumalar hızlı ve fazla olur. Bu yüzden sıcaklık farkı ve mekanik çözünme oldukça fazladır. \n
+Türkiye’de Sıcaklık bir yerin bulunduğu yükseltiye göre 2 biçimde ele alınır. \n
+Gerçek sıcaklık: Merkezin bulunduğu yükseltideki sıcaklığı\n
+İndirgenmiş sıcaklık: Merkezin deniz seviyesindeki (0 metre) sıcaklığıdır. \n
+Türkiye’de Don Olayı\n
+Sıcaklığın 0°C’ nin altına düşmesi sonucunda don meydana gelir. Ülkemizde en az donlu gün sayısı Akdeniz bölgesinde en fazla ise doğu bölgelerimizdedir. Donlu gün sayısı batıdan doğuya doğru bir artış göstermektedir. Bunun en önemli sebebi ise yükseltinin doğu gittikçe artmasıdır. \n
+Türkiye’de Yıllık Güneşlenme Süreleri\n
+Bir bölgenin güneşlenme süresinin belirleyicisi bulutluluk oranıdır. Güneşlenme süresi ile güneş enerjisi arasında doğrudan bir ilişki bulunur. \n
+Bulutlu gün sayısının en fazla olduğu Karadeniz Bölgesinin güneşlenme süresi en az iken, bulutlu gün sayısının en az yaşandığı Güneydoğu Anadolu bölgemiz ise güneşlenme süresi en fazla olan bölgedir. \n
+Türkiye’de Sıcaklığın Dağılışı\n
+Ülkemiz sıcaklık dağılışını izoterm haritalarına bakarak görebiliriz. Ülkemizde en yüksek sıcaklıklar karasallık,enlem değeri ve sıcak hava akımının etkileriyle Güneydoğu Anadolu bölgesinde görülür. Sıcaklıklar enlemin ve matematiksel konumun etkisi ile güneyden kuzeye doğru azalır. \n
+Ülkemizde en düşük sıcaklılar ise Kuzeydoğu Anadolu bölgemizde görülmektedir. Sıcaklıklar karasallığın etkisi ile kış aylarında batıdan doğuya doğru azalır. Karasallık nedeniyle iç kesimlerdeki sıcaklık kıyı bölgelerinden düşüktür. Doğu ve Güneydoğu Anadolu bölgelerinde yıllık sıcaklık farkı oldukça yüksektir, en az olduğu bölge ise Karadeniz bölgesidir. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’de Sıcaklık  konusunu işledik. Bir sonraki kpss coğrafya dersi konumuz Türkiye’de Basınç ve Rüzgarlar olacaktır. \n
+    </string>
+    <string name="cografya_basinc">
+Türkiye’de Basınç ve Rüzgarlar konusukpss coğrafya dersi iklim elemanlarının alt konularından biridir. İklim elemanlarının bir bölümü olan Türkiye’de Sıcaklık konusunu bir önceki konumuzda incelemiştik.  Sıradaki konumuzda ise Türkiye’de Basınç ve Rüzgarlar bölümünde yer alan Türkiye’de etkili olan basınç merkezleri ile Türkiye’de etkili olan rüzgarlar başlıklarını inceleyeceğiz.\n
+Türkiye’de Basınç ve Rüzgarlar\n
+Atmosferi meydana getiren çeşitli gazların yeryüzüne yaptığı etkiye, kuvvete hava basıncı denir. Bu basıncı etkileyen faktörler şunlardır: \n
+Sıcaklık: Basınçla ters orantılıdır. \n
+Yükselti: Basınçla ters orantılıdır. \n
+Yerçekimi: Basınçla doğru orantılıdır. \n
+Yoğunluk: Basınçla doğru orantılıdır. \n
+Isınma ve soğumaya bağlı olarak ortaya çıkan basınçlara termik basınç, dünyanın hareketi ile oluşan basınçalara ise dinamik basınç denir. \n
+Türkiye’de Basınç ve Rüzgarlar konusunu dikkat edilmesi gereken önemli konularımızdandır. \n
+Ülkemiz farklı basınç merkezlerinin etkisi altına girer. Bunlar; \n
+a. Sibirya Yüksek Basıncı: Ülkemize kuzeydoğudan gelen bu basınç kış aylarında etkili olur. Sıcaklığı düşürür, kışların sert ve ayazlı geçmesi bu basınca bağlıdır. Termik kökenli bir basınçtır. Bu basınç etkili olduğunda ülkemizde kış çok soğuk ve kar yağışlı geçer. \n
+b. Asor Yüksek Basıncı: Ülkemize genellikle güneybatıdan gelen dinamik kökenli basınçtır. Özellikle etkisi Güneydoğu Anadolu bölgesinde yaz aylarında yüksek sıcaklıkların yaşanması ile görülür. Yazların kurak geçmesine yol açar. \n
+c. Basra Alçak Basıncı: Güneydoğu yönünde etkili olan bu basınç sıcaklıkları arttıran termik kökenli bir basınçtır. Genellikle sıcaklığı arttırır ve nem açığı oluşturur. \n
+d. İzlanda Alçak Basıncı: Sürekli etkili olan bir basınçtır fakat etkisi kış aylarında daha fazla görülür.Ülkemize Kuzeybatıdan gelir ve kışların yağışlı, ılık geçmesine neden olur. \n
+
+Yeryüzünde basınç fakının olduğu yerlerde oluşan yatay hava akımına ise rüzgar denir. Ülkemizi etkileyen rüzgarlar; \n
+Poyraz: Kuzeydoğudan esen rüzgardır. Karadeniz ve Marmara’da etkilidir.
+Yıldız: Kuzeyden esen rüzgardır ve genellikle fırtınaya yol açar. Karadeniz ve Marmara’da etkilidir. \n
+Karayel: Kuzeybatıdan esen rüzgardır. \n
+Lodos: Güneybatıdan esen rüzgardır, Akdeniz, Ege ve Marmara’da etkilidir. Sıcak ve ılık olması sebebiyle kışın kar erimelerine neden olur. \n
+Kıble: Güneyden eser ve Akdeniz kıyılarında yağışa neden olur. \n
+Keşişleme (Samyeli) : Güneydoğudan esen sıcak ve kurak rüzgardır. Kurutucu etkisiyle nem açığını arttırır. \n
+
+Günbatısı ve gündoğusu rüzgarları da ülkemiz üzerinde etkilidir fakat bu rüzgarların enlem etkisine bağlı sıcaklık üzerinde etkisi yoktur. \n
+Türkiye’de Basınç ve Rüzgarlar konumuza ek olarak ülkemizde görülen diğer rüzgar çeşitlerini de inceleyelim. Enlem etkisi ile oluşan rüzgarlardan başka ülkemizde deniz – kara ve vadi – dağ arasında oluşan meltem rüzgarları, imbat adı verilen deniz meltemleri görülür. \n
+Yer şekli engeline bağlı olarak ortaya çıkan rüzgarlara ise föhn rüzgarları denir. Bu rüzgar kurutucu etki yapar, nem açığı etkisi oluşturur, karların erimesine yol açar. Föhn ülkemizde Rize ve çevresinde etkili olmaktadır. Bu rüzgar sayesinde Karadeniz’de turunçgil tarımı yapılabilmektedir. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’de Basınç ve Rüzgarlar konusunu işledik. Bir sonraki kpss coğrafya dersi konumuz Türkiye’de Nemlilik ve Yağış olacaktır. \n
+    </string>
+    <string name="cografya_yagis">
+Türkiye’de Yağış ve Nemlilik konusukpss coğrafya dersi iklim elemanlarının alt konusudur. Bu konu da nem çeşitlerini, oluşumlarına göre yağışları ve Türkiye’de yağışın dağılışı konularını inceleyeceğiz. Önceki konumuzda Türkiye’de Basınç ve Rüzgarlar konusunu işlemiştik. Sıradaki konumuzda ise Türkiye’de Yağış ve Nemlilik olacaktır.\n
+Türkiye’de Yağış ve Nemlilik\n
+Öncelikle inceleyeceğimiz başlık nem çeşitleri olacaktır. Sonra da yağış çeşitleri başlığına değineceğiz. \n
+Atmosferde bulunan su buharına nem denir. Nem sayesinde aşırı ısınma ve soğuma önlenir ve sıcaklık farkının azalmasını sağlar. Atmosferdeki nem üç şekildedir. \n
+a. Mutlak (Gerçek) Nem: Bir metreküp havanın içerisinde bulunan neme mutlak nem denir. Sıcaklık ve su kaynakları ile doğru orantılıdır. \n
+b. Maksimum (Doyuran) Nem: Bir metreküp havanın alabileceği nemdir. Yani havanın nem taşıma kapasitesidir. Sıcaklık ile doğru orantılıdır. \n
+c. Bağıl (Nisbi) Nem: Yağışın başlaması için gerekli olan nemdir. Sıcaklık ile ters, yükselti ile doğru orantılıdır. \n
+Peki Yağış Nasıl Oluşur? \n
+Havada bulunan nemin soğumanın etkisiyle göz ile görülebilir hale gelmesine yoğunlaşma denir. Sis ve bulutlar bu sayede oluşurlar. Yoğunlaşma etkisi ile oluşan bulutlar, içlerinde biriktirdikleri nemi soğumanın etkisi ile yağış olarak bırakır ve bu şekilde yağış oluşur. \n
+Ülkemizde oluşum biçimlerine göre yağışları üç ana başlık altında inceleyebiliriz. \n
+Orografik (Yamaç) Yağışlar\n
+Doğu Karadeniz, Akdeniz’de Torosların denize bakan yamaçları ve Yıldız dağlarında görülen bir yağış türüdür. Nemli hava kütlelerinin dağ yamacı boyunca yükselerek soğuması ile oluşan yağış tipidir. \n
+Konveksiyonel (Yükselim) Yağışları\n
+İç Anadolu’da en çok ilkbaharda, Erzurum-Kars bölümünde yaz aylarında sıkça görülen yağış türüdür. Isınan hava yükselir ve soğudukça yağış olarak düşer. Kırkikindi yağışları adı da verilir. İç Anadolu’da tahıl tarımı için önemlidir. \n
+Cephe Yağışları\n
+Yaygın olarak Akdeniz’de görülür. Sıcaklık ve nem açısından farklı hava kütlelerinin karşılaşması ile oluşur. Ülkemizde en yaygın görülen yağış biçimidir. Kış aylarında daha fazla görülür. Ve en geniş alanda meydana gelen yağış oluşum şeklidir. \n
+Havada bulunan nemin soğumanın etkisiyle yoğunlaşarak gözle görülebilir halde yeryüzüne düşmesine yağış adı verilir. Dağların uzanışı, yükselti, denize yakınlık – uzaklık ve hava kütlelerinin özellikleri yağış dağılışını etkileyen faktörlerdir. \n
+Kpss genel kültür coğrafya dersine ait Türkiye’de Yağış ve Nemlilik konusunu işledik. Bir sonraki kpss coğrafya dersi konumuz Türkiye’de İklim Tipleri ve Bitki Örtüsü olacaktır. \n
+    </string>
+    <string name="cografya_iklim_tipleri">
+Türkiye’de İklim Tipleri ve Bitki Örtüsü konumuzda ülkemizde görülen iklim tiplerini, özelliklerini ve bitki örtü çeşitlerini inceleyeceğiz. Bu konu kpss açısından önemli ve her yıl soru gelebilen bir konudur. Önceki konumuzda Türkiye’de Yağış ve Nemlilik konusunu işlemiştik. Sıradaki konumuz ise Türkiye’de İklim Tipleri ve Bitki Örtüsü olacaktır.\n
+Türkiye’de İklim Tipleri ve Bitki Örtüsü\n
+Ülkemiz kuzey yarım küre orta uşağında bulunduğu için Akdeniz iklimi etkisi altındadır. Ancak bazı etmenler farklı iklimlerin oluşmasına neden olmuştur. Ülkemizde temel olarak 3 farklı iklim tipi vardır. Bunlar Akdeniz, Karadeniz ve Karasal iklim tipleridir. \n
+1. Akdeniz İklimi\n
+Akdeniz bölgesi kıyı şeridi, Kıyı Ege Bölümü, Güney Marmara, Gaziantep çevresinde görülür. Yağış rejimi düzensiz olan bu iklimde yıllık ortalama yağış miktarı 1000mm’nin üstündedir. En fazla yağış kış aylarında, en az yağış ise yaz aylarında görülür. Yağışlar genellikle cephe yağışlarıdır. Kış sıcaklıkları eksi derecelere düşmediği için yağışlar yağmur şeklindedir. \n
+En düşük sıcaklık kışın, en yüksek sıcaklık yazın görülür. Yılda don görülme olayı çok azdır. Bazı yıllarda hiç rastlanmayabilir. Enlemin etkisi ile sıcaklık ortalamaları Akdeniz kıyısından Güney Marmara bölgesine doğru azalır. Kuzeybatıdan etkili olan hava akımı sıcaklığın düşmesine neden olur. \n
+Akdeniz ikliminin bitki örtüsü makidir. Maki her mevsim yeşil kalan, yapraklı, bodur ağaçlardır. Makiler kızılçam ormanlarının tahrip edilmesi ile ortaya çıkmışlardır. Defne, keçiboynuzu, lavanta, zakkum, mersin, kocayemiş, yabani zeytin, tesbih önemli maki türleridir. Maki üst sınırı enlemin ve sıcaklığında etkisi ile Akdeniz’den Güney Marmara bölümüne doğru azalır. \n
+2. Karadeniz İklimi\n
+Karadeniz kuşağı boyunca etkilidir. Doğu Karadenizde 2000-2500mm, Orta Karadenizde 700-1000 mm, Batı Karadenizde ise 1000-1500 mm ortalama yağış miktarıdır. En fazla yağış sonbaharda, en az yağış ise ilkbaharda oluşur. Yağışlar genellikle yamaç yağışı biçimindedir. Her mevsim yağışlıdır ve bu sebeple kimyasal çözünme fazladır. Bağıl nem ve bulutluluk oranın en fazla olduğu iklimdir. Yazları serin ve yağışlı, kışlar ılık ve yağışlı geçer. Nemlilik, föhn rüzgarları, Kafkas dağlarının kuzeydoğudan gelen rüzgarları engellemesi nedenleri ile yıllık sıcaklık farkı en az olan bölgemizdir. \n
+Karadeniz iklimi bitki örtüsü ormandır. Yağışın çok olması nedeni ile orman deniz seviyesinden başlar. Ladin, şimşir, kestane yaygın ağaç çeşitlerindendir. \n
+Kpss genel kültür coğrafya dersi Türkiye’de İklim Tipleri ve Bitki Örtüsü konusunu tamamladık. Sıradaki coğrafya dersi konumuz Türkiye’de Karasal İklim olacaktır. \n
+    </string>
+    <string name="cgrafya_karasal_iklim">
+Türkiye’de Karasal İklim konusunda ülkemizde görülen iklim tiplerinin devamı olan karasal iklim çeşitlerini ve özelliklerini inceleyeceğiz. Karasal iklim ülkemizin bir çok bölümünde yaygın olarak görülen bir iklimdir. Önceki konumuz da Türkiye’de İklim Tipleri ve Bitki Örtüsünü işlemiştik. Sıradaki kpss konumuz ise Türkiye’de Karasal İklim olacaktır.\n
+Türkiye’de Karasal İklim\n
+İç Anadolu Tipi Karasal İklim\n
+İç Anadolu ve Doğu Anadolu bölgesinin bir bölümünde görülen iklim tipidir. Bu iklim tipinde en fazla yağış ilkbaharda, en az yağış ise yazın görülür. Yıllık yağış miktarı 500 mm’nin altındadır. İlkbaharda düşen yağışlar ısınmanın da etkisi ile oluşan konveksiyonel yağışlardır. Türkiyenin en az yağış alan yerlerinden olan Tuz Gölü, Iğdır, Malatya, Elazığ çevreleri de bu iklim tipinin yayılış alanında bulunur. Yağış rejimi düzensiz ve yağış azdır. Kış sıcaklık değerleri düşük, ayaz ve kar yağışlıdır. Nemliliğin az olması nedeniyle yıllık sıcaklık farkı fazladır. Yazlar sıcak ve kurak geçer. Mekanik parçalanma oldukça yaygındır. \n
+Bitki örtüsü bozkırdır. Stepler ilkbahar yağışları ile yeşeren kurak dönemlerde sararan otlardır. Bu iklim tipinde bitki örtüsü yağışın az olması nedeni ile cılızdır. \n
+Erzurum – Kars Tipi Sert Karasal İklim\n
+Yıllık yağış miktarı İç Anadolu Karasal ikliminden fazladır. Bu durumun en önemli belirleyicisi yükseltidir. En fazla yağış yaz döneminde görülür. Kış yağışları genellikle kar, yaz yağışları ise konveksiyoneldir. Yağış rejimi düzensizdir fakat yazlar kurak geçmez. Yaz yağışlarının etkisi ile gür çayırlar oluşur ve bu nedenle yaygın olarak büyükbaş mera hayvancılığı yapılır. \n
+Kış mevsiminde sıcaklık oldukça düşüktür. Yükselti, şiddetli karasallık, Sibirya yüksek basıncı sıcaklığın düşmesinde etkilidir. Sıcaklık farkı oldukça yüksektir ve mekanik parçalanma şiddetlidir. Karla örtülü ve donlu gün sayısı en yüksek olan iklimdir. Bitki örtüsü çayır ve iğne yapraklı ormandır. Düşük sıcaklık nedeni ile tarım ürünü çeşidi azdır. tarım ürünü olgunlaşma süreci daha uzundur. \n
+Güneydoğu Anadolu Tipi Karasal İklim\n
+En fazla yağış kış mevsiminde en az yağış ise yaz mevsiminde görülür. Yağış rejimi düzensizdir ve Akdeniz yağış rejimine benzer.  Aşırı buharlaşma nedeni ile yaz ayları kurak geçer. Yıllık sıcaklık farkı yaz aylarındaki ısınma nedeni ile azdır. Bitki örtüsü bozkırdır. \n
+Kpss genel kültür coğrafya dersi Türkiye’de Karasal İklim konusunu tamamladık. Bir sonraki coğrafya dersi konumuz Türkiye’de Nüfus olacaktır. \n
+    </string>
+    <string name="cografya_nufus">
+
+Türkiye’de Nüfus konusunda ülkemizdeki nüfus ve nüfus artış hızını etkileyen faktörleri inceleyeceğiz. Önceki kpss coğrafya dersi konumuzda Türkiye’de Karasal İklim konusunu incelemiştik. Sıradaki konumuz ise Türkiye’de Nüfus olacaktır.\n
+Türkiye’de Nüfus\n
+Sınırları belirli bir alan içinde yaşayan insanların sayısına nüfus denir. İnsan sayısının belirlenmesi ve buna bağlı bir çok nedenlerle nüfus sayımları yapılmaktadır. \n Osmanlı’da ilk nüfus sayımı II. Mahmut döneminde sadece erkeklere yapılmış ve askere alınacak nüfus belirlenmiştir. Cumhuriyet döneminde ilk kapsamlı nüfus sayımı 1927 yılında gerçekleşmiştir. Daha sonra 1935 yılında nüfus sayımı yapılmış ve 5 yılda bir yapılmasına karar verilmiştir. 1990 yılında alınan kara ile bu süre 10 yıla çıkarılmıştır. \n
+Nüfus sayımları ile; \n
+Ülkenin toplam nüfusu\n
+Yaş gruplarına göre nüfusu\n
+Cinsiyete göre nüfusu\n
+Bir önceki sayıma göre artış hızı\n
+İdari birimlerdeki nüfusu\n
+Kentsel ve kırsal nüfusu\n
+Nüfusun eğitim düzeyi gibi bilgilere ulaşılır. \n
+Doğumlar, ölümler, göçler, savaşlar, evlenmeler gibi olaylar nüfus üzerinde etkili olmaktadır. Bu sebeple nüfus oldukça değişken bir kavramdır. \n
+Türkiye’de Nüfus Artış Hızını Etkileyen Faktörler
+Doğumlar\n
+Doğum oranları ülkenin gelişmişlik düzeyi ile yakından ilgilidir. Kentleşme, sanayileşme ve ekonomik gelişme düzeyi yüksek ülkelerde doğum oranları düşüktür. Gelişim düzeyi düşük ülkelerde ise doğum oranları yüksektir. Ülkemizin gelişen bir ülke olması sebebi ile doğum oranları giderek azalmaktadır. Eğitim seviyesindeki artış, aile planlaması çalışmaları, kadını iş hayatına atılması gibi nedenlerde doğum oranın düşmesine neden olmuştur. Ülkemizde Güneydoğu Anadolu doğum oranı en yüksek, Karadeniz ise doğum oranı en düşük bölgelerimizdir. \n
+Ölümler\n
+Ölümlerde doğumlar gibi ülkenin gelişmişlik düzeyine göre değişmektedir. Yaşam koşulları iyi olan ve tıbbi imkanları gelişmiş olan ülkelerde ölüm oranları daha düşüktür. Ülkemizde de ölüm oranlarında azalma görülmektedir. Beslenme olanakları, tıptaki gelişmeleri barınak imkanları, çocuk ölümlerine karşı aşıların yaygınlaşması gibi etkenler ölüm oranları üzerinde etkili olmaktadır. \n
+Göçler\n
+Ülkemizde göçler iç göçler ve dış göçler olmak üzere ikiye ayrılır. İç göçler ekonomik sıkıntı ve işsizlik kaynaklı köyden kente olan göçler, mevsimlik göçler gibi şekillerde olabilmektedir. Dış göçler ise işçi göçleri, beyin göçleri şeklinde olabilen göçlerdir. \n
+Kpss genel kültür coğrafya dersi Türkiye’de Nüfus konusunu işledik. Bir sonrakicoğrafya konumuz ise Nüfus Yoğunluğu olacaktır. \n
+    </string>
 </resources>
