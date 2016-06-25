@@ -1213,22 +1213,22 @@ Pozitif tam bölenlerinin sayısını bulmak için verilen sayının kaç tane t
 A=ax.by.czA=ax.by.cz ise\n
 P.B.S=(x+1)(y+1)(z+1) dir. \n
 Bir sayının kaç tane pozitif tam bölen sayısı varsa o kadar negatif bölen sayısı vardır. Örneğimizdeki gibi 12 sayısının 6 tane pozitif tam sayı böleni varsa 6 tane de negatif tam böleni vardır. \n
-Pozitif tam böleni demek doğal tam sayı böleni doğal sayı böleni demektir. \n
+Pozitif tam böleni demek doğal tam sayı böleni doğal sayı böleni demektir. \n\n
 2. Bir Sayının Tam Bölenlerinin Sayısı (T.B.S) \n
 Bir sayının pozitif ve negatif bölenleri sayısı aynı olduğu için pozitif bölen sayısını 2 ile çarparsak tam bölen sayısını bulmuş oluruz. \n
 T.B.S=2.(P.B.S) \n
 Örnek: 120 sayısının tam bölen sayısı kaçtır? \n
 120=23.31.51120=23.31.51\n
 P.B.S=(3+1)(1+1)(1+1)= 4.2.2 = 16\n
-T.B.S=2(P.B.S)= 2.16= 32 tanedir. \n
+T.B.S=2(P.B.S)= 2.16= 32 tanedir. \n\n
 3. Bir Sayının Asal Bölen Sayısı\n
 Asal bölen sayısını bulmak için sayıyı asal çarpanlarına ayırıp tabanları işaretlememiz yeterlidir. \n
 Örnek: 120 sayısının kaç tane asal böleni vardır? \n
 120=23.31.51120=23.31.51\n
-60′ ın asal çarpanları 2,3 ve 5′ tir. (3 tane) \n
+60′ ın asal çarpanları 2,3 ve 5′ tir. (3 tane) \n\n
 4. Bir Sayının Tam Bölenleri Toplamı\n
 Bir sayının tam bölenlerinin toplamı daima sıfırdır. \n
-Örnek: 10 sayısını tam bölenlerinin toplamı kaçtır? \n
+Örnek: 10 sayısını tam bölenlerinin toplamı kaçtır? \n\n
 1+2+5+10+(-1)+(-2)+(-5)+(-10)=0\n
 Kpss genel yetenek matematik dersine ait Asal Çarpanlara Ayırma konusu tamamlanmıştır. Bir sonraki kpss genel yetenek matematik konumuz OBEB-OKEK olacaktır. \n
     </string>
@@ -1552,5 +1552,1410 @@ Kpss genel yetenek matematik dersi Üslü Sayılar konusunu tamamladık. Bir son
     </string>
 
    <!-- TARİH İÇERİK -->
+   <string name="tarih_islamiyet_oncesi_title">İslamiyet Öncesi Türk Tarihi</string>
+   <string name="tarih_ilkturk_devletleri_title">İlk Türk Devletleri</string>
+   <string name="tarih_turkdevletleri_kultur_title">İslamiyet Öncesi Türk Devletleri Kültür ve Medeniyeti</string>
+   <string name="tarih_islam_devletleri_title">ilk Türk İslam Devletleri</string>
+   <string name="tarih_selcuklu_title">Selçuklu Devleti Kültür ve Medeniyeti</string>
+   <string name="tarih_orta_asya_title">Orta Asya Türk Devletleri</string>
+   <string name="tarih_turk_beylikleri_title">Türk Beylikleri</string>
+   <string name="tarih_anadolu_selcuklu_title">Anadolu Selçuklu Devleti</string>
+   <string name="tarih_anadolu_beylikleti_title">Anadolu Türk Beylikleri</string>
+   <string name="tarih_anadolu_selculu_kultur_title">Anadolu Selçuklu Devleti Kültür ve Medeniyeti</string>
+   <string name="tarih_osmanlı_kultur1_title">Osmanlı İmparatorluğu Kültür ve Medeniyeti – 1</string>
+   <string name="tarih_osmanlı_kultur2_title">Osmanlı İmparatorluğu Kültür ve Medeniyeti – 2</string>
+   <string name="tarih_osmanlı_kultur3_title">Osmanlı İmparatorluğu Kültür ve Medeniyeti – 3</string>
+   <string name="tarih_osmanlı_kultur4_title">Osmanlı İmparatorluğu Kültür ve Medeniyeti – 4</string>
+   <string name="tarih_osmanlı_kultur5_title">Osmanlı İmparatorluğu Kültür ve Medeniyeti – 5</string>
+   <string name="tarih_osmanlı_kultur6_title">Osmanlı İmparatorluğu Kültür ve Medeniyeti – 6</string>
+   <string name="tarih_beylikten_osmanlı_title">Beylikten Devlete Osmanlı (1300-1453)</string>
+   <string name="tarih_istanbul_fatih_title">İstanbul’un Fethi 1453</string>
+   <string name="tarih_osmanlı_yukselis_title">Osmanlı Yükselme Dönemi (1453-1600)</string>
+   <string name="tarih_osmanli_duraklama_title">Osmanlı Duraklama Dönemi</string>
+   <string name="tarih_osmanli_duraklama2_title">Duraklama Dönemi Dış Nedenleri</string>
+   <string name="tarih_isyanlar_title">Duraklama Dönemi Dış Nedenleri</string>
+   <string name="tarih_islihatlar_title">17. Yüzyıl İsyanları</string>
+   <string name="tarih_islihatlar2_tile">18. Yüzyıl Islahatları</string>
+   <string name="tarih_siyasi_olaylar_title">19. Yüzyıl Siyasi Olayları</string>
+   <string name="tarih_osmanli_rus_tile">Osmanlı Rus Savaşı (1877-1878)</string>
+   <string name="tarih_mesrutiyet_title">I. Meşrutiyet</string>
+   <string name="tarih_siyasi_gelismeler_title">19. Yüzyıl Osmanlı Siyasi Gelişmeleri</string>
+   <string name="tarih_mesrutiyet2_title">II. Meşrutiyet</string>
+   <string name="tarih_31Mart_title">31 Mart Olayı</string>
+   <string name="tarih_fikir_akimlari_title">Osmanlı Fikir Akımları</string>
+    <string name="tarih_islamiyet_oncesi">
+İslamiyet Öcesi Türk Tarihi konuları anlatılırken genelde kullanılan bir cümle vardır. ”Türklerin tarih sahnesine çıkması.” Eminim bu cümleyi birçok tarih kaynaklarında duymuşsunuzdur ve çıktığımız yer Orta Asya’dır.  Genel olarak Hazar Denizi’nin doğusu, Tanrı Dağları’nın kuzeyi, Altay Dağlarının kuzeybatısı ve Aral Gölü’nün çevresini yurt edinmiş olan  biz Türkler MÖ XVI. yüzyılda kendi yurtlarımızdan göç etmeye başladık.
+Peki Türklerin göç nedenleri nelerdir? Bunları birkaç başlık altında toplayabiliriz:\n
+– İklim  ve coğrafi koşullar\n
+– Yeni yerler bulma isteği\n
+– Dış güçlerin Türkler üzerinde baskı yaratması\n
+– Meraların azalması , hayvanların güçsüzleşmesi ve hastalanması\n
+– Boylar arasındaki anlaşmazlıklar\n
+– Nüfus sayısının artmasıyla yaşadıkları yerlerin kendilerine yetmemesidir. \n
+Türkler gittikleri yere kendi kültürlerini aşıladıkları gibi bulunduğu yerdeki kültürden de etkilenmiş ve yeni sentez kültürlerin ortaya çıkmasına sebep olmuşlardır. Bunun yanı sıra devamlı farklı yerlerde yaşam izlerine rastlanılan Türkler tam olarak belirli bir bütünlük içerisinde izlenememektedir ve araştırılamamaktadır. \n
+Orta Asya’dan devamlı göç etmeye başlayan Türklerin en önemli büyük göçü ise Kavimler Göçü olarak bilinen 375 yılındaki Kuzey Hunları’nın batıya doğru yaptıkları göçtür. \n
+Türklerin de anavatanı olan Orta Asya’da oluşmuş olan bazı kültürlerin önemli noktalarına değinelim: \n
+* Anav Kültürü: Aşkabat yakınlarında tarım ve hayvancılıkla uğraşıp, madeni süs eşyaları ve tuğladan evleri bulunan ve yerleşik hayatın yaygın olduğu kültürdür. \n
+* Andronova Kültürü: Türklerin ilk ataları olarak kabul edilmektedir. Bu Kültürdeki insanlar atı kullanabilmektedirler. Ayrıca savaşçı bir kültür olduğu bilinmektedir. \n
+* Karasuk Kültürü: Demiri bularak işleyen bu kültür insanlarının yapılan araştırmalarda tekerlekli araba kullandığı da bilinmektedir. \n
+* Tagar Kültürü: Silah üzerine hayvan figürleri işleyen bu  kültür insanları daha çok süs eşyalarına yönelmişlerdir. \n
+Aslında yukarıda bulunan bu kültürler Kpss sınavı açısından İslamiyet öncesi Türk Tarihi bilgileri arasında bizi çok ilgilendirmemektedir. Ancak aklımızda bulunması iyi olacaktır. \n
+Burada verilen temel bilgilere ek olarak şunu söyleyebiliriz ki tarih konularını temelden ne kadar iyi alırsak, ileriki konuları üstüne daha rahat ekleyebiliriz ve bilgileri organize edebiliriz, bu yüzden temelimizi sağlam tutmaya çalışalım. Böylece ezber değil de mantık çerçevesinde konuları birbirine rahatça bağlayabileceğiz. İslamiyet Önce Türk Tarihi konusuna ”İlk Türk Devletleri” konusuyla devam edilecektir. \n
+    </string>
+    <string name="tarih_ilkturk_devletleri">
+ilk Türk Devletleri denilince akla ilk gelen devletler normalde Asya ve Avrupa’da kurulan devletlerdir. Ancak ilk Türk Devletleri içerisinde ilk Türk topluluğu olan İskitler (Saka) topluluğundan biraz bahsedelim. Kpss Tarih konuların ilk bölümlerinin içerisinde sık sık göze çarpmaktadır Sakalar.\n
+Orta Asya’da yaşamış olan İskitler, Karadeniz’in kuzeyinden Tuna Nehri’ne kadar uzanan bölgede yaşamışlar ve Pers, Asurlular, Urartular gibi devletlerle uzun süre savaşmışlardır. Anadolu, Suriye ve Filistin üzerinden Mısır’a sefer yapmış olan İskitler MÖ VII. yüzyıldan MÖ II. yüzyıla kadar siyasi etkinliklerini sürdürmüşlerdir. Perslerle önemli bir mücadele içerisinde olan İskitler, Alper Tunga ile Pers hükümdarı arasındaki önemli mücadelesinden ötürü ilerde İranlı şair Firdevsi’nin Şehname adlı eserinde konu olarak yerini almıştır. \n
+Şimdi Kpss genel kültür tarih konusu içerisinde yer alan ilk Türk Devletlerini teker teker inceleyelim. \n
+1) Asya Hun İmparatorluğu (MÖ 220 – MÖ 216): Teoman tarafından kurulan , Mete Han zamanında en parlak dönemine ve en geniş sınırlarına ulaşmıştır. \n
+– Orta Asya’da kurulan ilk Türk devletidir. \n
+– İlk teşkilatlı Tür devletidir ve Orta Asya’da Türk boylarını tek bayrak altına ilk kez bu devlet toplamıştır. \n
+– Hun akınlarına karşı Çinliler Çin Seddi’ni yapmışlardır. \n
+– Mete Han orduda onluk sistem oluşturarak tüm dünyaya örnek olmuştur. \n
+– MS 48’de Güney ve Batı Hunları olarak ikiye, Güney Hunları da , Güney ve Kuzey Hunları olarak tekrar ikiye ayrılmıştır. \n
+* Kavimler Göçü (375): Kuzey Hunları Hazar Denizi ile Aral Gölü arasındaki Alanların yerlerini işgal ederek onları batıya doğru sürüklemiş, sonrasında Balkanlara ilerleyerek Vandallar, Vizigotlar, Ostrogotlar gibi kavimleri göç ettirmişlerdir. Dünya tarihinin en büyük kitlesel göçü olarak kabul edilen Kavimler Göçü Avrupa’nın birçok yapısında değişiklikler meydana getirmiştir: \n
+– Büyük Roma İmparatorluğu 395 yılında barbar kavimlerin işgalleriyle Doğu ve Batı olarak ikiye ayrılmıştır ve Batı Roma 476 yılında yıkılmıştır. \n
+– İlk Çağ kapanmış ve Orta Çağ başlamıştır. \n
+– Derebeylikler (feodalite) ortaya çıkmıştır. Bunun sebebi siyasi boşlukların oluşmasıdır. \n
+– Bilim ve sanat etkinlikleri durmuş ve skolastik düşünce meydana gelerek kilise ve din adamları güç kazanmıştır. \n
+– Germen kavimlerinin Avrupa’ya göç etmesiyle yeni Avrupa devletleri oluşmuştur. \n
+Kpss lisans tarih konularında yer alan Kavimler göçü Kpss’nin çok önem verdiği bir konudur bu yüzden çok iyi anlaşılmalıdır. \n
+2) Avrupa Hun Devleti: Doğu ve Orta Avrupa’da Kavimler göçü sonucu Balamir Kağan tarafından kurulmuş ilk türk devletleri içerisinde yer alır. \n
+– Avrupa’da kurulan ilk Türk devletidir. \n
+– En parlak dönemini Atilla zamanında yaşamış ve Bizans’ı vergiye bağlamıştır. Ayrıca Volga ile Tuna Nehri arasındaki topraklara sahip olmuştur. \n
+– Doğu Roma ve Batı Roma İmparatorlukları üzerine seferler düzenlemiştir. \n
+– Atilla’nın ölümünden sonra zayıflamış ve 486 yılında Germenlerin saldırıları ile yıkılmıştır. \n
+3) I. Göktürk Devleti (552 – 630): Bumin Kağan tarafından kurulan Göktürk Devleti’nin başkenti Ötüken’dir ve Ora Asya’da kurulmuştur. Ülke Doğu ve Batı olarak ikiye ayrılıp Batı’yı Bumin Kağan’ın kardeşi İstemi Yagbu yönetmiştir. \n
+* İkili Yönetim: İslamiyet Öncesi ilk Türk Devletleri’nde ülke doğu ve batı olmak üzere yönetilirdi. Doğu batıdan üstün sayılır ve Kağan Doğu bölgesinde ülkeyi yönetirdi. İkili yönetim dediğimiz bu sistem ilk Türk Devletleri’nin federal bir yönetim anlayışı olduğunu göstermektedir. \n
+– İlk kez Türk adıyla kurulan devlettir. \n
+– Asya Hun İmparatorluğundan sonra Türkleri ikinci kez tek bayrak altına toplamışlardır. \n
+– İpek Yolu hakimiyeti için Çinliler ve Sasanilerle mücadele içinde olmuşlardır. \n
+– Bumin Kağan’ın ölümünden sonra Çin Baskısı sonucu zayıflamış ve doğu -batı olmak üzere ikiye ayrılmıştır. Doğu Göktürkler 630, Batı Göktürkler 659 yılında Çinliler tarafından yıkılmıştır. \n
+* Kürşat Ayaklanması: Amacı Çin İmparatorunu esir etmek ve Çin sarayındaki asilzadeleri serbest bıraktırmak olan Kürşat, 639 yılında Çin sarayını basarak başlattığı ayaklanma ile Göktürk Devleti’nin tekrar kurulmasını hedeflemiştir. Fakat 39 Arkadaşı ile birlikte katledilmiştir. \n
+4) II. Göktürk Devleti ( Kutluk Devleti) (682 – 745): ilk Türk devletleri içerisinde yer alan I. Göktürk Devleti yıkıldıktan sonra 50 yıl Çin egemenliğinde kalan Göktürkler, sonradan tekrar ayaklanarak II. Göktürk Devletini Kutluk (İlteriş) Kağan tarafından kurmuştur. \n
+– Bilge Kağan Döneminde en parlak dönemini yaşamıştır. \n
+– Bilge Kağan Kardeşi Kültigin ve Vezir Tonyukuk ile birlikte ülkeyi yönetmiştir. \n
+– Yazıyı kullanan ilk Türk devletidir. \n
+– Göktürk alfabesi ile kendilerine ait ilk alfabeyi kullanmışlardır. \n
+ilk Türk Devletleri içerisinde yer alan Kutluk Devleti, ilk Türkçe yazılı belgeleri olan Orhun Kitabelerini miras bırakmışladır. Sosyal devlet anlayışının benimsendiğini gösteren Orhun Kitabeleri Türklerin bıraktığı ilk yazılı belgedir. Yazılı Türk Edebiyatının ilk eseri olan Orhun Kitabelerinde Kağan millete hesap verir ve Çin’e karşı verilen bağımsızlık mücadelesi anlatılır. Devletin ve halkın karşılıklı görevlerinin anlatıldığı Orhun Kitabeleri Bilge Kağan, Kültigin ve Vezir Tonyukuk adına dikilmiştir. Bu kitabelerin bağımsızlık mücadelelerini anlatması, Göktürklerin kendilerine ait bir alfabe olması ve adlarında Türk kelimesinin geçmesi sebebiyle Göktürklerin Milli yani Ulusçu bir devlet niteliği taşıdığını söyleyebiliriz. \n
+5) Uygurlar (745 -840): Kutluk Bilge Kül Kağan tarafından Ötüken bölgesinde kurulmuş olan Uygurlar sonraları Karabalgasun’u başkent yapmışlardır. \n
+– ilk Türk devletleri arasında Yerleşik hayata geçen ilk devlettir. \n
+– Modern tarımla uğraşmışlardır. Bunun için kanallar açılmıştır. \n
+– Kağıt ve matbaayı kullanan ve aynı zamanda ilk kez bu matbaayla kitap basan ilk Türk devletidir. \n
+– Minyatür, tezhip eserleri ve mimari eserler bırak ilk Türk devletidir. Katabalgasun Yazıtları da Uygurlar tarafından bırakılmıştır. \n
+– Göktanrı inancından kopan ve Mani Dini’ni seçen ilk Türk devletidir. Zaten yerleşik hayata geçmesi de Mani Dini’nin etkisiyle olmuştur. Ayrıca Moğolların Türkleşmesine katkıda bulunmuşlardır. \n
+– Orta Asya’da uygarlık olarak çok gelişmiş olan Uygurlar ilk kez kütüphane kuran ilk Türk devletidir. \n
+– Hukuk kurallarını yazılı hale getirmeleri, borç, kira gibi konularla ilgili sözleşme yapılmaları Uygurların hukuk alanında geliştiğini göstermektedir. \n
+– Kendilerine ait olan Uygur alfabesini oluşturmuşlardır. \n
+– Kırgızların saldırıları sonucu yıkılan Uygurlar, Kansu ve Turfan Uygurları olarak ikiye ayrılmışlardır. Kansu bir diğer adı Sarı Uygurlar Çin’de kurulmuş ve Moğollar tarafından yıkılmıştır. Doğu Türkistan’da kurulan Turfan Uygurları sonradan Moğolların egemenliği altına girmiş ve onların Türkleşmesini sağlamışlardır. Turfan Uygurları günümüzde Çin’deSincan Uygur Özerk Bölgesinde yaşamaktadırlar. \n
+6) Avarlar ( Juan Juanlar) ( 560 – 805): Günümüzdeki Macaristan ve Romanya’yı içine alan güçlü bir devlet yapısına sahip olan Avarlar, ilk kez İstanbul’u kuşatan Türk boyudur. Ancak bu kuşatmalardan sonuç alamamışlardır. Bunların dışında Avrupa’daki Slav topluluklarını askerlik alanında etkilemişlerdir. \n
+7) Kırgızlar (840 – 1207): Orta Asya’da egemenlik kuran son Türk boyu olan Kırgızlar, aynı zamanda Moğol hakimiyetine giren ilk Türk boyudur. Dünyanın en uzun destanı olan Manas Destanı Kırgızlardan miras kalmıştır ve Kırgızlar günümüze kadar varlıklarını sürdürmüşlerdir. \n
+8) Hazarlar (630 – 968): Hz Osman zamanında İslam ordularının kuzeye ilerleyişini engelleyerek İslam orduları ile ilk kez çarpışan devlet olmuştur. Bu hamleyle İslamiyet’in Kafkaslara ulaşmasını engellemişlerdir. Yahudiler dışında Museviliği benimseyen tek topluluktur. Çeşitli dinlere mensup tüccarların serbestçe ticaret yapabilmeleri,  ülkedeki davaların iki Müslüman, iki Hristiyan, iki Musevi ve bir Şamanist olmak üzere toplamda 7 üye tarafından görülmesi ve ibadethanelerin yan yana kurulabilmesi Hazarların değişik dinlere hoşgörüsü olduğunu göstermektedir. \n
+9) Bulgarlar (583 – 665): ilk Türk devletleri içerisinde yer alan Bulgarlar, Oğuzlardan ayrılarak Balkanlara yerleşmişlerdir. Hazarların işgalleri sonucu Tuna (Hristiyan olmuşlardır.) ve İtil Bulgarları (Müslüman olmuşlardır.) olmak üzere ikiye ayrılmışlardır. \n
+10) Karluklar: İslamiyet’i kabul eden ilk Türk boyudur. ilk Türk devletleri içerisinde yer alan Karluklar, sırasıyla Göktürk ve Çin egemenliği altında yaşamış ve daha sonra bağımsız olmuşlardır. II. Göktürkler tarafından yıkılmış, sonra Uygurların egemenliği altında yaşamışlardır. Daha sonraları tekrar bir kurulma yaşasalar da en son Moğollar tarafından yıkılmıştır. \n
+Talas Savaşında Arapları destekleyerek kazanmalarını sağlayan Karluklar, ilk Müslüman Türk Devleti olan Karahanlıların kuruluşunda önemli rol oynamışlardır. \n
+11) Türgişler (659 – 766): İlk kez para bastıran Türk devleti olan Türgişler, Müslümanlara karşı çok direnmiş ve İslamiyet’in Orta Asya’ya yayılmasını ciddi şekilde engellemişlerdir. Türgişer ayrıca Uygurlardan sonra yerleşik hayata geçen ikinci Türk devletidir. \n
+12) Macarlar: ilk Türk devletleri içerisinde yer alan Macarlar, Volga Nehri civarında yaşamışlar ancak Peçeneklerin baskısı sonucu bugünkü Macaristan topraklarına yerleşmişlerdir. Zaman içerisinde Slav topluluklarıyla asimile olmuşlardır. \n
+13) Peçenekler: Orta Asya’dan batıya göç eden bu Türk topluluğu devlet kurmayı başaramamıştır. \n
+14) Oğuzlar: En kalabalık Türk boyu olup 24 boydan meydana gelmiştir. Selçuklular ve Osmanlılar gibi önemli devletlerin kuruluşunu sağlamış olan Oğuzlar, Kumanlar (Kıpçaklar) ile yapmış oldukları mücadele ile Dede Korkut Hikayelerine konu olmuşlardır. Devlet kurma yeteneği en gelişmiş Tür boyu olan Oğuzlar hem Orta Asya hem de Avrupa’da egemenlik kurmuşlardır. \n
+15) Kumanlar (Kıpçaklar): Ruslarla mücadele etmişlerdir. Karahitayların baskısı sonucu batıya göç etmişlerdir. \n
+16) Sibirler (Sabirler): Bugünkü Sibirya adı Sabirlerden gelmektedir. Bizans ve Sasanilerle mücadele etmiş olan Sibirler Avarların baskısı sonucu Doğu Avrupa’ya yerleşmişlerdir. \n
+17) Akhunlar: ilk Türk devletleri içerisinde yer alan Akhunlar, Büyük Hun devletinin yıkılışı sonrası Çin baskısıyla beraber Afganistan’ın kuzeyine yerleşmişlerdir. Göktürkler ve Sasanilerin baskısı sonucu yıkılmışlardır. \n
+    </string>
+    <string name="tarih_turkdevletleri_kultur">
+İslamiyet öncesi Türk devletleri konusuyla beraber kültür ve medeniyet başlıklı tarih konularına önem veren kpss, genelde soruları bu kültür ve medeniyet başlıklı alanlardan sormaktadır. Bundan önceki konularda İslamiyet öncesi Türk Tarihi ve ilk Türk devletleri konularına değinmiştik. Şimdi de İslamiyet öncesi Türk devletlerinde kültür ve medeniyet konusunu irdeleyeceğiz.\n
+İslamiyet Öncesi Türk Devletlerinde Kültür ve Medeniyet\n
+1) Devlet Yönetimi: İslamiyet öncesi Türk devletleri, boyların bir araya gelmesi ile devlet (İl,El) oluşturmaktaydılar. Kağan, Han, Hakan, İdikut, İlteber, Şanyü gibi unvanları kullanan hükümdarlar, yerleşik hayata geçmeden önce Otağ denilen büyük çadırlarda, yerleşik hayata geçtikten sonra da sarayda oturmaktaydılar.
+Hükümdarlık yetkilerinin Tanrı tarafından verildiğine inanılırdı. Bu yetkiye de Kutdenilmektedir. Egemenlik hakkı hükümdar ve ailesine aittir. İslamiyet öncesi Türk devletleri hükümdarları, önceki hükümdarların erkek soyundan olmak zorundaydı. \n
+Bu veraset anlayışı, sağlam bir temel oluşturmadığı için, hükümdarlıkta eşit hakka sahip olan erkek akrabalar arasında taht kavgalarına yol açmış ve devletlerin ömürleri bu yüzden kısa sürmüştür. \n
+Hükümdarlar yazısız hukuk kurallarına (Töre) uyarak ülkeyi yönetirlerdi. Bu bağlamda hükümdarın töreye uygun olmayan kararları sorgulanabilmekteydi. Ayrıca hükümdarlar adaleti, milletin huzurunu , güvenliğini ve mutluluğunu sağlamak zorundaydı.
+İslamiyet öncesi Türk devletleri ikili yönetim anlayışı ile yönetilmekteydiler. Kutsal olan Doğu Kağan tarafından, Batı da Yagbu unvanlı yönetici tarafından yönetilirdi.
+Yagbu içişlerinde serbest dışişlerinde ise Doğu’ya bağlı idi. Batı özerk bir yapıya sahip olduğu için İslamiyet öncesi Türk devletleri federal bir yönetim anlayışını benimsemiştir. Kpss tarih dersinde bu tür ayrıntılara önem vermektedir. \n
+İslamiyet öncesi Türk devletleri ülke yönetiminde Kağan başkanlığında toplananKurultayda (Toy-Keneş), Vezir (Hükümdarın en büyük yardımcısı), boy beyleri, Hatun(Katun) yani kağanın eşi ve Buyruklar (bakanlar) bulunurdu. Kurultayda Kağan’ın belirlenmesi, savaş ve barış kararları, vergi kararları gibi önemli konular karara bağlanırdı. \n
+Hükümdar eşi Hatun, diğer unvanıyla Katun’un kurultayda bulunması, elçi kabul etmesi ve hükümdara vekalet etmesi İslamiyet öncesi Türk Devletleri yönetiminde kadınların söz sahibi olduğunu göstermektedir. \n
+2) Ordu: İslamiyet öncesi Türk Devletleri orduyu devletin bağımsızlığı ve gücünün simgesi olarak görürlerdi. Sürekli olarak dış tehditlerin var olması orduya önemi arttırmıştır. Bu yüzden ordu teşkilatına da önem verilmiştir. \n
+İlk kez Mete Han tarafından onluk sisteme geçilmiştir. Bu onluk sistemde en küçük birlik on kişiden oluşmaktaydı ve başında onbaşı bulunurdu. Görevleri arasında ülkenin bağımsızlığını korumak ve yeni yerler fethetmek bulunan hükümdar, aynı zamanda ordunun başındaki en büyük komutan konumundaydı. \n
+Ok, yay, mızrak, süngü, kılıç ve kalkan başlıca kullanılan silahlardı. Savaşlarda kurt kapanı taktiği bir diğer adıyla turan taktiği kullanılmaktaydı. Bu taktikle İslamiyet öncesi Türk devletleri birçok başarı elde etmişlerdir. \n
+3) Toplum Yapısı ve Ekonomik Hayat: Kpss tarih dersinin bu konusunda da İslamiyet öncesi Türk devletleri toplum yapısı ve ekonomik hayatı inceleyeceğiz. Boylar halinde yaşayan Türkler bağımsızlıklarına düşkün olduğu için devlet otoritesi altına girmek istemezlerdi ve bu yüzden devletler çabuk yıkılmışlardır. Orta Asya’da tarıma elverişli alan sınırlı olduğu için eski Türkler göçebe olarak yaşamışlardır. Eski Türkler Oguş (Aile),Urug (Soy ya da sülale), Bod (Boy), Budun (Boylar birliği) gibi toplumsal bölümlerden oluşmaktaydı. \n
+İslamiyet öncesi Türk devletlerinde toplumsal sınıflar oluşmamıştır. Bunun nedeni eski Türklerin göçebe yaşamaları, ortak mülkiyete sahip olmaları ve toprakların devletlerin malı sayılmasıdır. Büyük araziye sahip bir soylular grubu oluşmadığı için de sınıf farklılığı oluşmamıştır. \n
+İslamiyet öncesi Türk devletlerinde ekonomik hayatın temelini hayvancılık oluşturmaktaydı. Avcılık, toplayıcılık, balıkçılık, yağmacılık (talan etme), yerleşik hayattan sonra tarım, ticaret, bunların yanında dokumacılık, demircilik ve altın işlemeciliği gibi ekonomik faaliyetlerle ilgilenmişlerdir. \n
+Kpss Tarih dersinde İpek Yoluna hakimiyet konusuna bugüne kadar sıkça değinmiş ve sorular sormuştur. Türklerde de İpek Yoluna hakimiyet çok önemliydi. İpek Yoluna egemen olmak için Çinlilerle sürekli mücadele halinde bulunan Türkler, Çin’e sürekli akınlar düzenlemiş ve bu akınlar bir süre sonra ekonomik faaliyet haline gelmiştir. \n
+4) Din ve İnanış: Çok Tanrılı bir inanç sistemi olan eski Türkler zamanla tek Tanrılı inançları da benimsemişlerdir. Şimdi bu dinleri inceleyelim. \n
+* Gök Tanrı Dini: Eski Türklerde en yaygın dini inanç sitemi olan bu dinde ahiret inancı mevcuttur. İyi insanların uçmağ (cennete), kötü insanların tamu (cehenneme) gideceği düşünülür. \n
+* Şamanizm: İyi ve kötü ruhların mücadelesi vardır. Ruhlarla iletişim kuran ve ayini yöneten dini görevliye Şaman, Kam ya da Baksı adı verilmektedir. \n
+* Totemizm: En eski inanç sistemlerinden biri olan Totemizmde tabiat kuvvetleri (Naturizm) kutsal sayılmaktaydı. Bu dinde kutsal sayılan varlıklara ongun adı verilirdi. \n
+* Atalar Kültü: Ataların kendilerine yardım ettiğine dair inanç vardır. Animizm denilen bu inanç türünde ahiret inancı da mevcuttur. \n
+* Maniheizm: Uygurlar tarafından benimsenen bu inanç, et yemeyi ve savaşmayı yasaklamıştır. \n
+Maniheizm et yemeyi ve savaşı yasakladığı için bu din Türklere uygun değildir. Zaten bu dine girenler de ya Türklük özelliklerini zamanla kaybetmişler ya da kısa sürede yıkılmışlardır. \n
+* Budizm: Buddha’nın öğretilerine dayanan bu din de Brahmanizm’e karşı tepki olarak Hindistan’da ortaya çıkmıştır. Uygurlar arasında yayılmıştır. \n
+* Hristiyanlık: Macarlar, Bulgarlar ve Avarlar gibi Avrupa’ya göç eden devletler bu dini benimsemişler ve zamanla Milli benliklerini kaybetmişlerdir. \n
+* Musevilik: Hazarlar tarafından benimsenmiştir. \n
+İslamiyet öncesi Türk devletleri farklı din ve inanışları bir arada benimseyen Türk topluluklarından oluştuğu için, dini açıdan Türklerin büyük bir hoşgörüye sahip olduğunu çıkarabiliriz. \n
 
+Pazırık Halısı
+Kpss genel kültür tarih dersinde bizim için yakın zamanda gerçekleşen tarihi bulgular da önemlidir. Yakın zamanda Kazakistan’da bulunan Hunlara ait Esik Kurganıoldukça önemlidir. Çok sayıda eşya, seramik kaplar, tahta kaşıklar, gümüş çanaklar ve Altın Adam zırhı bulunmuştur. Ayrıca Altay Dağları’nda , dokuma sanatının şaheseri olarak kabul edilen, bilinen en eski halı olan Pazırık Halısı da burada bulunan Pazırık Kurganı‘nın içinden çıkmıştır. \n
+5) Hukuk, Yazı, Dil ve Edebiyat: Eski Türklerde devlet Töre adı verilen yazısız hukuk kurallarına göre yönetilmiştir. Hukuk işlerine Yarguci bakmaktaydı. İlk kez Uygurlar zamanında hukuk kuralları yazılı hale getirilmiştir. \n
+Ural – Altay dil grubuna mensup olan Türkçe önceleri sözlü sonra da yazılı olarak gelişmiştir. Yazı ilk olarak Göktürklerle başlamıştır. Ayrıca Türkler kendilerine ait alfabeler oluşturmuşlardır. Bunlardan en önemlisi olan Göktürk (Orhun) AlfabesiGöktürkler tarafından 38 harfle meydana getirilmiştir. Bir diğer kullanıla alfabe olanUygur Alfabesi de Uygurlar tarafından 18 harfle meydana getirilmiştir. \n
+Türkler yazıya geç geçtiği için Türk tarihine ilişkin ilk bilgilere Çin, İran, Bizans, Rus ve Arap kaynaklarında rastlanmaktadır. \n
+İslamiyet öncesi Türk devletleri yazıdan önce sözlü edebiyatta önemli ürünler bırakmışlardır. Sagu ve Savlar (Atasözleri ve özdeyişler), Koşuklar ( Çeşitli etkinliklerde söylenen şiirler) ve Destanlar sözlü edebi eserlerdir. Hunlara ait olan Oğuz Kağan Destanı, İskitlere (Sakalar) ait olan Alper Tunga ve Şu Destanı, Göktürklere ait olanErgenekon ve Bozkurt Destanı, Uygurlara ait olan Türeyiş ve Göç Destanı, Kırgızlara ait olan ve en uzun destan olarak bilinen Manas Destanı en önemli destanlar arsında yer almaktadır. \n
+6) Bilim ve Sanat: İslamiyet öncesi Türk devletleri bilim, kültür, sanat, ticaret, sözlü ve yazılı edebiyatta önemli gelişmeler kaydetmişlerdir.
+On İki Hayvanlı Türk Takvimi astronomi alanında gelişildiğini göstermektedir. Uygurların hareketli harf sistemi ile birlikte bugünkü modern matbaanın temelleri atılmıştır. \n
+Sanat dallarında göçebe yaşamda deri, ahşap, metal ve taş işçiliğine dayalı eserler bırakılırken, Uygurlar ile beraber geçilen yerleşik sistemde minyatür, resim, heykel vetezhip sanatı gelişmiştir. Müzik ve şiirin de geliştiği Türklerde en önemli müzik aletiKopuzdur. \n
+Tezhip, resim, müzik, mimari, heykel, minyatür, fresk, vitray, ciltçilik, maden ve dokuma sanatı İslamiyet öncesi Türk devletlerinde gözüken sanat dallarıdır. Bu sanat dallarından bazılarını açıklayalım. \n
+* Tezhip: Kitap süsleme sanatıdır. \n
+* Minyatür: Pespektiften uzak , kitapların boşluklarına çizilen küçük resimlerdir.
+* Fresk (Fresko): Duvar resmidir. Duvara sürülen yaş alçı üzerine yapılan süslemelerdir.
+* Vitray: Renkli cam parçalarının birleştirilmesi ile oluşan süsleme sanatıdır. \n
+Tarım, mimari, sulama kanalları, fresk ve vitray Türklerin yerleşik yaşama geçtiğinin kanıtlarıdır. \n
+Yazılı hukuk, kağıt ve matbaaya Uygurlarla beraber geçilmiştir. \n
+İslamiyet Öncesi Türk Devletleri Kültür ve Medeniyeti Terimler Sözlüğü\n
+Oguş: Aile. \n
+İl, El: Devlet. \n
+Urug: Soy, sülale. \n
+Bod: Boy. \n
+Bodun: Boylar birliği, millet. \n
+Otağ: Hükümdar çadırı. \n
+Örgin: Taht. \n
+Tuğ: Sancak. \n
+Toy, Kengeş: Meclis, Kurultay. \n
+Buyruk: Bakan. \n
+Agılıg: Hazine Görevlisi. \n
+İç Buyruk: Saray işleriyle ilgili bakan. \n
+Tangaç: Damgacı. \n
+Tudun: Vali. \n
+Subaşı: Ordu komutanı. \n
+Şanyu, kağan, han, hakan, idikut:Hükümdar unvanları. \n
+Şad: Hükümdarın büyük oğlu. \n
+Hatun, Katun:Hükümdar eşi. \n
+Toygun: Toy ve kurultaya katılma hakkı olanlar. \n
+Tarkan, Apa: Saray görevlileri. \n
+Tekin: Hükümdarın erkek çocukları. \n
+Bitigci: Katip\n
+Yarguci: Yargı., tercüman, elçi. \n
+Gök Tanrı: Eski Türklerde tek yaratıcı. \n
+Balbal: Ölen kişinin mezarına öldürdüğü insan sayısınca dikilen heykeller. \n
+Uçmağ: Cennet. \n
+Tamu: Cehennem. \n
+Tengri: Tanrı\n
+Yuğ: Cenaze törenleri. \n
+Kurgan: Mezar\n
+Şaman, Kam, Baksı: Şamanizm din adamları. \n
+Ongun: Totemlere verile isimlerdir. \n
+İslamiyet öncesi Türk devletleri kültür ve medeniyet konusu sona ermiştir. Bir sonraki kpss tarih dersinin konusu İlk Türk İslam Devletleri olacaktır. \n
+    </string>
+    <string name="tarih_islam_devletleri">
+ilk Türk islam devletleri, Kpss sorularına her yıl konu olan bir başlıktır. ilk Türk islam devletleri ile kültür ve medeniyetleri konularından her yıl 1 ya da 2 soru çıkmaktadır. Türklerin İslamiyet’e girmelerinde en büyük etken Talas Savaşı olmuştur. 751 yılındaki bu savaş Çinliler ile Abbasiler arasında Orta Asya hakimiyeti için olmaktaydı. Karluklar bu savaşta Abbasi İslam ordularını destekleyerek savaşı kazanmalarını sağlamıştır.\n
+* Talas Savaşının Sonuçları: \n
+•	Türkler kitleler halinde Müslüman olmuşlardır. \n
+•	Türklerle Araplar arasındaki ilişkiler yakınlaşmadan dolayı artmıştır. \n
+•	ilk Türk islam Devletleri ortaya çıkmaya başlamıştır. \n
+•	Araplara Çinlilerden geçen kağıt, matbaa, pusula ve barut Türklere de geçmeye başlamıştır. \n
+ilk Türk islam Devletleri\n
+Türkler İslamiyet’i kabul ettikten sonra birçok Türk İslam Devleti kurulmuştur. Ancak ilk Türk islam devletleri eski geleneklerini, göreneklerini terk etmeden kültürlerini devam ettirmişlerdir. \n
+1) Karahanlılar (840 – 1212): Batı Türkistan’da Karluk, Yağma ve Çiğil Türkleri tarafından kurulmuştur.İlk Türk İslam devleti olan Karahanlılar devletinin kurucusu Bilge Kül Kadir Han‘dır. \n
+•	İslam dinini kabul eden İlk Türk İslam devleti Karahanlılar’dır. \n
+•	Devlet yönetiminde ve teşkilatlanmada Selçuklulara öncülük etmişlerdir. \n
+•	İlim ve kültür merkezi haline getirilmiş Semerkant, Talas, Fergana, Kaşgar, Buhara gibi şehirlere sahip olmuşlardır. \n
+•	Eski Türk geleneklerine İslamiyet’i kabul etmelerine rağmen en çok bağlı kalan devlet olmuşlardır. \n
+Eski Türk geleneklerine bağlı olmalarını kanıtlayan birçok delil bulunmaktadır. İkili devlet yönetimi anlayışı, Uygur alfabesini kullanmaları, Türkçeyi resmi dil olarak kullanmaları eski Türk geleneklerine bağlı olduklarının kanıtlarındandır. \n
+•	Devletin başında Han ya da Hakan unvanlı hükümdarlar bulunurdu. Buğra, kadir, ilig, kara, arslan gibi sıfatlara sahip olurlardı. \n
+Dünya tarihinde ilk kez burslu öğrenci sistemini Karahanlılar ortaya çıkarmış ve uygulamıştır. Ayrıca bursa masraflarını hazineden değil vakıf gelirlerinden karşılamışlardır. \n
+ilk Türk islam Devletleri Kpss soruları açısından önemli nokta olan Türk – İslam eserleri, ilk olarak Karahanlılardan çıkmıştır. Türk – İslam edebi eserlerin ilk olarak Karahnlılardan çıkmasının nedeni tahmin edileceği üzere İslamiyet’i kabul eden ilk Türk devleti olmalarıdır. Şimdi bu eseleri inceleyelim. \n
+•	Kutdagu Bilig: Yusuf Has Hacib tarafından yazılmıştır. Anlamı mutluluk veren bilgidir. Bir siyasetname özelliği taşıyan Kutadgu Bilig, ülke yönetimi ile ilgili bilgiler vermektedir. \n
+•	Divan-ı Lügat-it Türk: Kaşgarlı Mahmut tarafından yazılmıştır. Araplara Türkçe öğretmek amacıyla yazılan Divan-i Lügat-it Türk, ansiklopedik bir Türk dili sözlüğüdür. \n
+ilk Türk islam devletleri açısından önemli bir eser olan Divan-ı Lügat-it Türk, Karahanlıların Türk diline bağlılığını ispatlamaktadır. \n
+•	Atabetül Hakayık: Edip Ahmet Yükneki tarafından yazılmıştır. Anlamı hakikatlerin eşiğidir. Atabetül Hakayık, dini öğütler vermketedir ve bu öğütler genelde kıssadan hisse tarzındadır. \n
+•	Divan-ı Hikmet: Ahmet Yesevi tarafından yazılmıştır. Divan-ı Hikmet Türk tasavvuf edebiyatının ilk örneğini teşkil etmektedir. \n
+Tüm bu eselerin dışında Kpss soruları için bilmemiz gereken, Ali Şir Nevai tarafından Timur devleti zamanında yazılmış olan Muhakemetül Lugateyn eseri de Türk edebi eserleri içinde önemli bir yer kaplamaktadır. Bu eser de Türkçe ile Farsça karşılaştırılarak Türkçenin zengin bir dil olduğundan ve Farsçadan üstün olduğundan bahsedilmiştir. \n
+Karahnlılar 1040 yıllarında Doğu ve Batı olmak üzere ikiye ayrılmıştır. Karahitaylar Doğu tarafını, Harzemşahlar da Batı tarafını ortadan kaldırmıştır. \n
+2) Gazneliler (963 – 1187): ilk Türk islam Devletleri içinde yer alan Gazneliler, Alp Tigintarafından Afganistan’ın Gazne şehrinde kurulmuştur. \n
+•	İslamiyet’i ve Türk Kültürünü Hindistan’a yayan ilk devlettir. \n
+•	Sultan unvanını ilk kez kullanan devlettir. \n
+•	İran şair Firdevsi’nin Şehname adlı eseri Gazneli Mahmut’a sunulmuştur. \n
+•	Dandanakan Savaşını Selçuklulara karşı kaybettikten sonra toparlanamayan Gazneliler, 1187 yılında Gurlular tarafından yıkılmıştır. \n
+3) Tolunoğulları (868 – 905): Abbasilerin Mısır valisi olan Tolunoğlu Ahmet tarafından mısırda kurulmuştur. \n
+•	Mısır’da kurulan ilk Türk devleti Tolunoğulları’dır. \n
+•	Halkın çoğunluğu Araplardan, devleti yönetenler ise Türklerden oluşmaktaydı. \n
+•	Abbasiler tarafından yıkılmıştır. \n
+4) İhşidler (Akşitler) (935 – 969): Yine Abbasilerin bir başka Mısır valisi Muhammed Bin Togaç Tarafından Mısır’da kurulmuştur. \n
+•	Mısır’da kurulan ikinci Türk devletidir. \n
+•	Kutsal mekan olan Hicaz’ı egemenlik altına alan ilk Türk devletidir. \n
+•	Tolunoğulları gibi halkın çoğunluğu Araplardan, devleti yönetenler ise Türklerden oluşmaktaydı. \n
+5) Büyük Selçuklu Devleti (1040 – 1157): Selçuk Bey tarafından bir aşiret devleti olarak kurulmuştur. \n
+•	Oğuzların Üçoklar kolunun Kınık boyundandırlar. \n
+•	Devletin gerçek kurucusu Selçuk Bey’in torunlarından Tuğrul Bey‘dir. \n
+•	Bu devletin kuruluşunda Çağrı Bey’in büyük yardımı olmuştur. \n
+•	Tuğrul Bey dönemi, Alparslan dönemi ve Melikşah dönemi olarak 3 dönemde incelenmektedir. \n
+a) Tuğrul Bey Dönemi (1040 – 1063): \n
+•	Gaznelilere karşı kazanılan Dandanakan (1040) savaşı ile Gazneliler yıkılma sürecine girmiş, Selçuklular ise bağımsız bir devlet haline gelmiştir. Tuğrul Bey ve Çağrı Bey bu savaşta zaferin baş mimarları olmuşlardır. \n
+•	Dandanakan Savaşının nedeni Selçukluların Gaznelilere ait Horasan bölgelerine yerleşmek istemeleriydi. \n
+•	Kpss genel kültür ilk Türk islam devletleri konusu içinde yer alan bir başka önemli olay ise Pasinler Savaşıdır. Pasinler Savaşı (1048) Bizans’a ve Gürcülere karşı kazanılan ilk büyük savaş olma özelliğini taşımaktadır. \n
+•	Tuğrul Bey Bağdat’ta bulunan Abbasi halifeliğini Şii Büvehyhoğullar’ından kurtararak İlk defa Türk himayesine almıştır. Halife kendisini kurtardığı için Tuğrul Bey’e ” Doğunun ve Batının Sultanı” unvanını vermiştir. Bu durum Selçukluların İslam dünyasındaki siyasi etkinliğini arttırmıştır. \n
+İlk kez din ve devlet işlerinin birbirinden ayrılması halifenin siyasi yetkisini Tuğrul Bey’e vermesiyle gerçekleşmiştir. \n
+b) Alparslan Dönemi (1064 – 1072): \n
+•	Bu dönem içinde Kars ve Ani Kaleleri alınmış, Kafkas ve Gürcistan yörelerine seferler düzenlenmiştir. \n
+•	Malazgirt Savaşı (1071), Türkleri Anadolu’dan çıkarmak isteyen Bizans ile yapılmıştır. Bizans orduları bozguna uğratılmış ve imparatoru olan Romen Diyojen esir alınmıştır. \n
+Malazgirt Savaşı, artık klasikleşen Anadolu’nun kapılarının Türklere açılması cümlesini tarih kaynaklarında sıkça görmemizi sağlamıştır. Malazgirt Savaşının bu sebeple en önemli sonucu da Türkiye Tarihinin başlangıcı sayılmasıdır. \n
+c) Melikşah Dönemi (1072 – 1092): \n
+•	Selçuklu Devletinin en parlak dönemidir. \n
+•	Ülke sınırları Doğuda Aral Gölü, Batıda Akdeniz ile Marmara kıyıları, Kuzeyde Kafkasya, Güneyde Mısır ve Basra Körfezine kadar genişlemiştir. \n
+•	Melikşah’tan sonra oğulları Sencer, Mehmet Tapar ve Berkyaruk arasında taht kavgaları başlamıştır. \n
+Katvan Savaşında Moğollara yenilerek yıkılma sürecine girmiş ve 1157 yılında Sultan Sencer’in ölümüyle Büyük Selçuklu Devleti yıkılmıştır. \n
+Büyük Selçuklu Devletinin Yıkılmasıyla Ortaya Çıkan Devletler ve Atabeylikler\n
+Devletler: \n
+•	Irak – Horasan Selçukluları\n
+•	Suriye Selçukluları\n
+•	Kirman Selçukluları\n
+•	Anadolu Selçukluları\n
+Atabeyliker: \n
+•	Şam’da Böriler\n
+•	Fars’da Salgurlular\n
+•	Azerbaycan’da İl Denizliler\n
+•	Musul’da Zengiler\n
+•	Erbil’de Teginoğulları\n
+Kpss genel yetenek tarih dersine ait ilk Türk islam Devletleri konusu tamamlanmıştır. Bir sonraki kpss tarih konusu Büyük Selçuklularda Kültür ve Medeniyet olacaktır. \n
+    </string>
+    <string name="tarih_selcuklu">
+Selçuklu Devleti Kpss Tarih konuları içinde önemli bir yere sahiptir. Genelde şimdi işleyeceğimiz Büyük Selçuklu Devleti, Anadolu Selçuklu Devleti ile karıştırılmaktadır. Ancak unutulmamalıdır ki Anadolu Selçuklu Devleti, Büyük Selçuklu Devleti yıkıldıktan sonra ortaya çıkan Selçuklu Devletleri içinde yer alır.\n
+Büyük Selçuklulardan bir önceki konuda bahsetmiştik. Kpss tarih dersinin bu bölümünde de Büyük Selçukluların Kültür ve Medeniyet konusunu irdeleyeceğiz. \n
+Büyük Selçuklu Kültür ve Medeniyeti\n
+1) Devlet Yönetimi: Oğuz geleneklerine göre yönetilen Selçuklularda, ülke hükümdar ve ailesinin ortak malı sayılırdı. Ülkeyi yönetme yetkisinin Tanrı tarafından verildiğine inanılır ve buna Kut Anlayışı denilirdi. \n
+Selçuklu devletinden ülkenin hükümdarın ve ailesinin ortak malı sayılması sık sık taht kavgalarına yol açardı. Bu bilgi kpss sorularında ve kpss deneme sınavlarında bolca karşımıza çıkmaktadır\n
+Halife tarafından onaylanan Hükümdarlar adına hutbe okunurdu. Hükümdarlar sınırsız yetkiye sahip değillerdi. Törelere ve İslamiyet’e uygun hareket etmek zorunda olan hükümdarların çocukları da vilayetlere yönetici olarak gönderilmekteydi. \n
+Buradaki amaç hükümdar çocuklarının yönetim tecrübesi kazanmasıdır. \n
+Selçuklu Devletinde devlet işleri Divan-ı Saltanatta (Büyük Divan) görüşülürdü. Eğer divanda herhangi bir karar alınacaksa bu kararlar sadece Sultan onaylarsa geçerli olurdu. Sultan olmadığı zaman Büyük Divana vezir başkanlık etmekteydi. \n
+Divan-ı Saltanat bu yönüyle danışma kuruluna ya da bakanlar kuruluna benzetilebilir. \n
+Selçuklu devletinde Sultan ve vezirin dışında Müşrif, Müstevfi ve Ariz denilen görevliler de bulunurdu. Bu görevlilerin ayrıca kendi divanları bulunur ve toplantılarını gerçekleştirmekteydiler. Bunlara bir göz atalım. \n
+•	Divan-ı İstifa: Maliye ve ekonomi işleri ile ilgilenen birimdir. Müstevfibaşkanlığında toplanır. \n
+•	Divan-ı İşraf: Askeri ve hukuk işleri dışında kalan diğer işleri denetlemekle görevi olan birimdir. Müşrif başkanlığında toplanır. \n
+•	Divan-ı Arz: Ülkenin asker ve ordu işlerini yürütmekle görevli olan birimdir. Arizbaşkanlığında toplanır. \n
+•	Divan-ı Tuğra: Devletin iç ve dış yazı işlerini yürütmekle görevli olan birimdir. \n
+Kpss genel kültür tarih dersine ait Büyük Selçuklu Devletinde ülke, eyaletlere ayrılarak yönetilmiştir. Bu bilgilerle beraber Selçuklu Devleti ile ilgili aşağıdaki terim ve unvanları unutmayalım. \n
+Menşur: Hükümdar adına hutbe okunması. \n
+Alem: Bayrak\n
+Hilat: Hükümdar giysisi. \n
+Çetr: Saltanat şemsiyesi. \n
+Nevbet: Büyük davul. \n
+Sikke: Para. \n
+Melik: Eyalet başlarına atanan aile mensupları. \n
+Atabey: Meliklerle beraber tayin edilen ve onları eğiten bilgili ve tecrübeli devlet adamları. \n
+Şıhne: Askeri vali. \n
+Amid: Sivil vali. \n
+Amil: Bulunduğu şehrin maliyecisi. \n
+Muhtesip: Belediye işlerinden sorumlu. \n
+Subaşı: Şehrin güvenlik ve asayişinden sorumlu. \n
+
+Atabeyin Osmanlılarda karşılığı Lala’dır. \n
+Büyük Selçuklu Devletinde hükümdarlık alametleri hutbe okutmak, para bastırmak, taht, bayrak, çetr, asa, hilat, nevbet, tuğ ve tuğradır. \n
+2) Ordu Yönetimi: Selçuklu Devletinde ordu onluk sisteme dayanmaktadır. Ayrıca ordu 3 ana bölümden oluşmaktaydı. \n
+a) Guleman-ı Saray (Guleman-ı Hassa) Ordusu: Çeşitli milletlerden küçük yaşlarda esir edilerek ya da satın alınan çocukların eğitilmeleri ile meydana gelen ordudur. Guleman-ı Hassa ordusu Sultana bağlıdır ve Sultanın güvenliğinden sorumlu ordudur. Kelime anlamı köle olan Gulam kökünden, Guleman-ı Saray askerleri aklımıza gelmelidir. Bu askerlerinin 3 ayda bir aldığı maaşa Bistegani adı verilirdi. \n
+Guleman-ı Saray askerleri Osmanlıdaki Kapıkulu Askerlerine örnek teşkil edecektir. \n
+b) İkta Ordusu (Eyalet ordusu – Sipahi ): Toprak sistemine dayalı olan bu ordu, ikta sahipleri tarafından yetiştirilen en kalabalık orduyu oluşturmaktadır. \n
+İkta ordusu Osmanlıdaki Tımarlı Sipahi ordusunun oluşmasına temel hazırlamıştır. \n
+İkta sistemi ilk olarak Hz Ömer zamanında uygulanan bir sistemdir. \n
+c) Yardımcı Kuvvetler: Bağlı devlet beyliklerinin askerleri, bazı devlet adamlarına bağlı askerler ve gönüllülerden oluşan yardımcı kuvvetler savaş zamanı orduya katılan kuvvetlerdir. \n
+3) Toprak Yönetimi: Büyük Selçuklu Devletinde toprak devletin mülkiyeti ve kontrolü altındaydı. Bu topraklar dörde ayrılmaktadır. \n
+•	Has Arazi: Bu toprakların geliri Sultan, Sultanın ailesi ve yakınlarına aittir. \n
+•	İkta Arazi: Maaş karşılığı asker beslemek şartıyla geliri devlet adamları ve memurlara verilen arazilerden oluşmaktadır. Bu sistemde ikta sahipleri, elde ettikleri gelirle hem kendi geçimlerini sağlamakta hem de elde bulunan askerlerin masraflarını karşılamaktaydılar. \n
+İkta sistemi Osmanlıdaki Tımar sistemi yani dirlik sistemine öncülük edecektir. \n
+•	Mülk Arazi: Devlete uzun süre hizmet etmiş ya da üstün hizmetlerinden ötürü şahıslara verilen özel mülk arazilerinden oluşmaktadır. \n
+•	Vakıf Arazi: Sosyal tesisler ve hayır işlerine geliri aktarılan topraklardır. \n
+Vakıf arazi olarak belirlenen toprak başka türlü hiçbir şekilde artık kullanılamazdı. \n
+4) Hukuk Sistemi: Kpss genel kültür tarih konusunda İlk Türk İslam Devletleri içinde yer alan Selçuklularda hukuk sistemi örfi ve şer’i olarak ikiye ayrılmaktaydı. Şer’i Hukuk işlerine yani dine dayalı olan hukuk işlerine Kadı’l Kudad başkanlığındaki kadılar bakmaktaydı. Örfi hukuk yani geleneklere dayalı hukuk işlerine de Emir-i Dadbaşkanlığındaki mahkemeler bakmaktaydı. Ordu içinde çıkabilecek her türlü anlaşmazlıklara ise Kazasker yani Kadıasker bakardı. \n
+Büyük Selçuklu Devletinde halkın dilek ve şikayetlerinin dinlendiği ve hukuk işlerine bakıldığı  sultan başkanlığında toplanan divana Divan-ı Mezalim adı verilmekteydi. \n
+5) Yazı, Dil ve Edebiyat: İlk Türk İslam devletleri içinde yer alan Selçuklu Devleti İslamiye’ti kabul ettiğinden dolayı diğer ilk Türk İslam devletleri gibi İslamiyet’ten etkilenmiş ve yazı dili olarak Arap alfabesi kullanılmıştır. Halkın yüksek çoğunluğu Araplar ve Farslardan oluştuğu için edebiyatta da doğal olarak Arap ve Fars etkisi görülmeye başlamıştır. \n
+Selçuklu Devletinde bilim dili Arapça, resmi yazışmalar Farsça, günlük konuşma dili ise Türkçe olmuştur. \n
+Dildeki bu çeşitlilik, Türk dilindeki gelişmelerin yavaşlamasına sebep olmuştur. \n
+6) Bilim ve Sanat: Kpss tarih konuları içinde Büyük Selçukluda yer alan en önemli bilim kurumlarını medreseler oluşturmaktaydı. İlk olarak Tuğrul Bey zamanın açılan medreselerin en önemlisi Vezir Nizamülmülk tarafından Bağdat’ta açılan Nizamiye Medresesidir. \n
+Nizamiye Medresesi Dünyanın ilk Üniversitesi sayılmaktadır ve sonraki devletlere örnek teşkil etmiştir. \n
+Ayrıca Vezir Nizamülmülk tarafından oluşturulan Siyasetname adlı eser de hükümdarlara devlet yönetimi ve düzeni hakkında bilgi veren bir eser niteliği taşımaktadır. \n
+Selçuklu Devletinde bilim alanında Astronomi dalında da önemli çalışmalar mevcuttur.Ömer Hayyam tarafından oluşturulan bir kurul, Takvim-i Celali ve Takvim-i Melikşahadında bir takvim meydana getirmiştir. \n
+Türkler tarih boyunca 12 Hayvanlı Türk Takvimi, Takvim-i Celali, Hicri Takvim, Rumi Takvim ve Miladi Takvim kullanmışlardır. \n
+Bunların dışında ilk Türk İslam devletleri ve Selçuklu Devletinde en fazla gelişme göseren sanat dalı mimari olmuştur. \n
+İlk Türk İslam mimarilerine türbe, cami ve kervansaray şeklinde Karahanlılarda rastlanmaktadır. \n
+Süsleme sanatı, halıcılık, çinicilik, minyatür, hat sanatı ve seramik yapımı da bu dönemlerde yaygınlaşmıştır. \n
+Resim ve heykel sanatları İslamiyet’e geçişle birlikte bu dallardaki gelişme durmuş, bu dallara verilen önem minyatür ve hat sanatları alanına yoğunlaşmıştır. Minyatür İslamiyet öncesinden beri süre gelirken, Hat sanatı yani İslami yazı yazma sanatı bu dönemden itibaren yoğunlaşmış ve bu alanlarda önemli eserler meydana gelmiştir. \n
+* İlk Türk İslam Devletleri ve Selçuklu Devletinde yer alan mimar eserler: \n
+•	Tolunoğulları: Tolunoğlu Camii. \n
+•	Karahanlılar: Kara Ayşe Bibi Türbesi\n
+•	Gazneliler: Mahmut Bendi ve Zafer Kuleleri. \n
+•	Büyük Selçuklu Devleti: Zavere Camii, Mescid-i Cuma, Diyarbakır Ulu Camii, Kazinde yer alan Mescid-i Camii, Gülpayegan Camii, Nizamiye Medresesi, Cihil Dühteran, Herrekan Kümbetleri, Kümbet-i Ali, Kümbet-i Surh, Sultan Sencer Türbesi, Tuğrul Bey Türbesi, Hoca Ahmet Yesevi Türbesi ve İmam-ı Gazali Türbesi Büyük Selçuklu Devletinde yer alan önemli mimari eserler olarak göze çarpmaktadır. \n
+* İlk Türk İslam Devletleri ve Selçuklu Devletinde yer alan bilim adamları: \n
+•	Farabi: 870-950 yılları arasında yaşamış olan Farabi Pozitif bilimlerin başlangıcını oluşturmuştur. Matematik, fizik, astronomi, mantık, psikoloji ve siyaset alanlarında eserler vererek bilimleri ilk kez sınıflandırmıştır. \n
+Farabi Batıda Alfarabius adı ile ünlenmiş ve eserleri Latin diline çevrilmiştir. Ayrıca Aristo mantığını en iyi yorumlayan bir bilim adamı olduğundan Muallim-i Sani yani İkinci Öğretmen adını almıştır. \n
+•	İbni Sina: Özellikle Tıp ve felsefe alnında eserler vermiş ve 982-1037 yılları arasında yaşamış olan İbni Sina, Batıda Avicenna adı ile tanınmıştır. El Kanun-u Fit-Tıp adlı kitabı Batı dillerine tercüme edilerek ünivesitelerinde okutulmuştur. \n
+Tıbbın Hükümdarı diye anılan İbni Sina, Hipokrat’tan sonra tıbbın ikinci babası olarak kabul edilmiştir. \n
+•	Biruni: Kpss tarih dersinde yer alan bir diğer önemli bilim adamı olan Biruni, Gazneliler döneminde 973-1051 yılları arasında yaşamış, astronomi, matematik, coğrafya ve felsefe alanlarında eserler vermiştir. Özellikle Coğrafyanın Türk İslam Dünyasından bir bilim dalı haline gelmesinde önemli bir payı vardır. \n
+•	Harezmi: 788-850 yılları arasında yaşamış olan Harezmi, matematik, astronomi ve coğrafya alanlarındaki çalışmalarıyla meşhurdur. \n
+Harezmi, matematikte sıfır rakamını kullanan ilk bilim adamıdır. \n
+•	İbni Rüşt: 1126 – 1198 yılları arasında yaşamış olan İbni Rüşt, Felsefe , tıp ve astronomi üzerinde çalışmalar yapmıştır. Skolastik düşünceye darbe vuran bu bilim adamı Rönesans’ın doğmasında etkili olmuştur. \n
+•	Er Razi: 1149 – 1210 yılları arasında yaşamış olan Er Razi özellikle Kimya alanında uzmandır ve bir kimyagerdir. Sülfürik asidi bulan bilim adamıdır kendisi. \n
+7) Sosyal ve Ekonomik Hayat: Selçuklu Devleti ve ilk Türk İslam devletlerinde halk yönetenler ve yönetilenler olmak üzere ikiye ayrılmaktaydı. Yönetenler askeri ve yüksek derecedeki memurlardan oluşmaktayken, yönetilenler göçebeler, köylüler, şehirliler ya da kasabalılardan oluşmaktaydı. \n
+Sınıfsal farklılıklar yoktur. Dikkat edelim bu noktaya. \n
+Eşitlik, anlayış ve hoşgörünün mevcut olduğu sosyal hayatta memurluklar babadan oğula geçmekteydi. \n
+Her ne kadar sınıf ayrılığı olmasa da memurluğun babadan oğula geçmesi bürokraside egemen bir sınıfın ortaya çıkmasına zemin hazırlamıştır. \n
+Ticarete çok önem veren Selçuklu Devleti bir çok kervansaray yaptırmıştır ve ticareti canlı tutmaya çalışılmıştır. \n
+Kervansaray, Türk İslam devletlerinde ticaret yolları üzerine güvenli ticaretin yapılabilmesi sebebiyle inşa edilen konaklamam merkezleridir. \n
+Ribat kervansarayların ilk örneklerini oluşturan ve ilk olarak Karahanlılarda görülen sınır boylarına yaptırılan kalelerdir. Bu kaleler ilk olarak kervanlara barınma olanağı sağlamış ve zamanla kervansaraylara dönmüştür. \n
+Kpss genel kültür tarih dersine ait Büyük Selçuklu Kültür ve Medeniyeti konusu tamamlanmıştır. Bir sonraki kpss tarih konusu Orta Asya’da Kurulan Diğer Devletler olacaktır. \n
+    </string>
+    <string name="tarih_orta_asya">
+Orta Asya Türk devletleri kpss tarih konuları içinde yer almaktadır. Önceki konularda ilk Müslüman Türk devletlerinden Karahanlılar, Gazneliler, Tolunoğulları, İhşidiler ve Büyük Selçuklu Devletini işlemiştik. Şimdi de Orta Asya Türk Devletleri ve Yakın Doğu’da kurulan Türk devletlerini işleyeceğiz.\n
+Orta Asya Türk Devletleri\n
+Kpss Tarih konusunda önceki konularda belirtildiği üzere Müslüman Türk devletlerinden bahsetmiştik. Bu bölümde de diğer Orta Asya Türk Devletleri ve Yakın Doğu Devletleriişlenecektir. \n
+1) Eyyubiler (1174 – 1250): Mısırda kurulan 3. Türk devleti olan Eyyubiler’in kurucusu Selahaddin Eyyubi’dir. \n
+Mısır’da kurulan ilk Türk devleti Tolunoğulları, ikinci Türk devleti İhşidiler, üçüncüsü de Eyyubiler’dir. \n
+Eyyubiler, ilk haçlı seferinde Fatımiler tarafından kaybedilen Kudüs’ü 1187 yılında Hıttin Savaşı (Hattin) ile geri almışlardır. \n
+Bu olay üçüncü ve daha sonraki haçlı seferlerine neden olmuştur. \n
+1250 yılında Kölemen ordu komutanlarından biri olan Aybek tarafından yıkılmıştır. Yerine Memlükler Devleti kurulmuştur. \n
+2) Memlükler (1250 – 1517): İzzeddin Aybek’in kurduğu Memlükler Devleti Mısır’da kurulan 4. Türk devletidir. \n
+•	Memlükler’de hükümdarlık soyu tek bir soya ait olmamıştır. Devlet yönetimi ve ordunun ileri gelenleri aralarında yaptıkları seçimle hükümdarı belirleyen Memlükler, veraset sistemi yönüyle diğer Türk devletlerinden yarılmaktadır. \n
+Bu sistem sıkça taht kavgalarına ve hükümdar değişikliklerine yol açmıştır. \n
+•	İlhanlılar tarafından 1258 yılında yıkılan Abbasi Devlet’inin halifesini koruma altına almışlardır. \n
+•	Ayn Calut Savaşı ile Moğolları yenerek, Moğolların olası Batı istilasını önlemiştir. \n
+•	Sultan Hasan Camii, Sultan Kayıtbay Camii ve Sultan Kalavun Camii gibi önemli mimari eserler meydana getirmişlerdir. \n
+•	Osmanlı Sultanı Yavuz Sultan Selim tarafından 1517 yılında yıkılmıştır. \n
+Yıkılmaları sonucu halifelik Osmanlıya geçmiştir. \n
+3) Babürler (1526 – 1858): Kpss Türkiye Tarihi konusuna geçmeden önce işleyeceğimiz son devlet olan Babürler, Hindistan’da Babür Şah tarafından kurulmuştur. \n
+•	Hindistan’da siyasi birliği sağlayan ilk devlet olmuşlardır. \n
+•	Bu dönemde Dünyanın yedi harikasından biri olan Tac Mahal yapılmıştır. \n
+Tac Mahal, Babür hükümdarı Şah Cihan’ın ölen eşi Mümtaz Mahal için yaptırmıştır. Bu anıt mezarın yapımında Osmanlı mimarlarından Mehmet İsa Efendi, Hattat Settar Efendi ve İsmail Efendi de çalışmıştır. \n
+•	Babürler 1858 yılında İngilizler tarafından yıkılmıştır. \n
+Orta Asya Türk Devletleri ve Yakın Doğu Türk Devletleri içinde yukarıdaki devletlerin yanı sıra Akkoyunlular, Karakoyunlular, Timur Devleti ve Harzemşahlar gibi devletler de önemli bir yer kaplamaktadır. \n
+Kpss genel kültür tarih dersi içinde yer alan Orta Asya Türk Devletleri ve Yakın Doğu Türk Devletleri konuları tamamlanmıştır. Bir sonraki kpss tarih konusu Türkiye Tarihi içinde yer alan Anadolu’da Kurulan İlk Türk Beylikleri olacaktır. \n
+    </string>
+    <string name="tarih_turk_beylikleri">
+İlk Türk Beylikleri Malazgirt Savaşı’ndan sonra Anadolu’da kurulmuştur. Bu konu aynı zamanda Türkiye Tarihi konusuna giriş niteliğindedir. Türklerin tarihi Oğuz Türklerinden Selçukluların Anadolu’yu fethiyle başlamıştır. Çağrı Bet Anadolu’ya yaptığı keşif akınları ile beraber Anadolu topraklarını tanıma imkanı bulmuştur. 1048 Pasinler Savaşı ve 1071 Malazgirt Savaşı ile Bizans’ın direnişi kırılarak Anadolu artık bir Türk yurdu olmaya başlamıştır.\n
+Halen devam etmekte olan Türkiye Tarihi beş bölümden oluşmaktadır. \n
+•	İlk Anadolu Türk Beylikleri Dönemi\n
+•	Anadolu Selçuklu Devleti Dönemi\n
+•	Anadolu Türk Beylikleri Dönemi\n
+•	Osmanlı İmparatorluğu Dönemi\n
+•	Türkiye Cumhuriyeti Dönemi\n
+Kpss tarih dersine Malazgirt Savaşı’ndan sonra Anadolu’da kurulan İlk Türk Beylikleri konusu ile devam edelim. \n
+Anadolu’da Kurulan İlk Türk Beylikleri\n
+1.	Saltukoğulları: Anadolu’da kurulan ilk Türk beyliği Saltukoğulları’dır. Erzurum ve çevresinde Ebu Kasım tarafından kurulan Saltukoğlu Beyliği, 1202 yılında Anadolu Sultanı Rükneddin Süleyman Şah tarafından yıkılmıştır. \n
+2.	Mengücekoğulları: Mengücek Gazi tarafından Erzincan ve çevresinde kurulan Mengücekler, 1228 yılında 1. Aleaddin Keykubat tarafından yıkılmıştır. \n
+3.	Danişmendoğulları: Sivası merkez olmak üzere Tokat, Amasya ve Kayseri civarını içine alarak kurulmuş olan Danişmendoğulları, Gazi Ahmet Bey tarafından kurulmuştur.Haçlı ordularına karşı büyük savaş veren Danişmendler, 1178 yılında 2. Kılıçarslan tarafından yıkılmıştır. \n
+Danişmendoğulları ile unutmamamız gereken iki önemli nokta vardır. Birincisi, Tokat’ta yer alan ve Danışmendoğulları tarafından yapılan Yağıbasan Medresesi, Anadolu’da kurulan ilk medresedir. Ayrıca ilk para bastıran beylikDanişmendoğullarıdır. \n
+4.	Artukoğulları: Artuk Bey’in oğulları Sökmen ve İl Gazi tarafından kurulmuş olan Artuklular, 3 kola ayrılarak gelişmişlerdir. \n
+•	Hasankeyf Kolu: Eyyubiler tarafından 1232 yılında yıkılmıştır. \n
+•	Harput Kolu: Anadolu Selçukluları tarafından 1234 yılında yıkılmıştır. \n
+•	Mardin Kolu: Akkoyunlular tarafından 1409 yılında yıkılmıştır. \n
+Kpss sorularında son zamanlarda sık çıkan beyliklerden biri olan Artukoğulları Beyliği Güneydoğu Anadolu Bölgesinde birçok köprü bırakmıştır. \n
+•	Malabadi Köprüsü\n
+•	Hasankeyf Köprüsü\n
+•	Haburman Köprüsü\n
+•	Deve Geçidi Köprüsü\n
+•	Dunaysu Köprüsü\n
+•	Amarçay Köprüsü\n
+5.	Çaka Beyliği: Kpss tarih dersinde ilk Türk beylikleri içinde yer alan Çaka Beyliği, Çaka Bey tarafından İzmir yöresinde kurulmuştur. Çaka Beyliği Anadolu’da kurulanilk denizci beylik olma özelliğini taşır. Çaka Bey de ilk Türk denizcisidir. \n
+6.	Sökmenoğulları: Ahlat ve Van Gölü civarında kurulmuştur. \n
+7.	Dilmaçoğulları: Bitlis. \n
+8.	Çubukoğulları: Harput. \n
+9.	Tanrıvermişoğulları: Efes. \n
+10.	Yınaloğulları: Diyarbakır yöresinde kurulmuştur. \n
+Kpss genel kültür tarih dersinde Türkiye Tarihi içinde Anadolu’da kurulan ilk Türk beylikleri bunlardır. Şimdi bu beyliklerin özelliklerine göz atalım. \n
+İlk Türk Beylikleri Özellikleri\n
+•	İlk Türk beylikleri Malazgirt Savaşı’ndan sonra Anadolu’nun fethiyle görevlendirilen komutanlar tarafından kurulmuştur.v
+•	Anadolu’nun Türkleşmesinde önemli bir yere sahiptirler. \n
+•	Türk İslam kültür ve medeniyetinin gelişimine katkıda bulunmuşlardır. \n
+•	Bizans ve haçlılara karşı başarılı bir şekilde mücadele etmişlerdir. \n
+•	İlk Türk Beylikleri, kurucularının ismi ile ortaya çıkmışlardır. \n
+Kpss genel yetenek Tarih dersinde yer alan Türkiye Tarihine Giriş ve Anadolu’da Kurulan İlk Türk Beylikleri konusu tamamlanmıştır. Bir sonraki kpss tarih dersinin konusu Anadolu Selçuklu Devleti olacaktır. \n
+    </string>
+    <string name="tarih_anadolu_selcuklu">
+Anadolu Selçuklu Devleti kpss Tarih konuları içinde önemli bir yer teşkil etmektedir. Zira Türkiye Tarihi açısından önemli başlangıçların ve tarihi olayların merkezi Anadolu Selçuklu Devleti 1077 ile 1308 yılları arasında Anadolu’da hüküm sürmüş bir devlettir.\n
+Anadolu Selçuklu Devleti\n
+Anadolu Selçuklu Devleti, Selçuklu soyundan olan Kutalmışoğlu Süleyman Şah tarafından kurulmuştur.Süleyman Şah öncelikle İznik’i alarak burayı merkez haline getirmiştir. Ancak 1. Haçlı seferinde İznik Haçlıların eline geçince Konya merkez olmuştur. \n
+1. Kılıçarslan zamanında İznik tedbir amaçlı boşaltılmıştır. \n
+Konya, hem Anadolu Selçuklu Devleti hem de Karamanoğulları’nın başkenti olmuştur. Kpss soruları açısından ufak bir ayrıntıdır. \n
+Haçlı Seferlerinden bahsetmişken, Haçlı seferlerini oluşturan ana sebepleri de belirtelim: \n
+•	Dini sebep : Kudüs 3 dinin ortak merkezi sayılır. \n
+•	Siyasi sebepler\n
+•	Ekonomik sebepler\n
+Bu sebepler Haçlı seferlerinin başlamasında etkili olmuştur. \n
+2. Haçlı seferini 1. Mesut karşılamış ve Haçlıları geri çevirmiştir. \n
+2. Kılıçarslan döneminde 1176 yılında gerçekleşen Miryakefalon Savaşı ile Bizans mağlup edilmiş ve Anadolu kesin olarak bir Türk yurdu olmuştur. \n
+En önemli sultanı Aleaddin Keykubat’tır. Sinop ve Alanya’da tersaneler kurmuştur. İki Denizin Sultanı ünvanını alan Keykubat, Anadolu Selçuklu Devleti’ne en parlak dönemini yaşatmıştır. \n
+Denizcilik ve ticarette önemli gelişmeler yaşayan Anadolu Selçuklu Devleti, Antalya, Alanya, Sinop Limanları ve Karadeniz’in kuzeyinde yer alan Suğdak ticaret merkezini ele geçirmiştir. \n
+Kpss tarih dersinde Türkiye Tarihi açısından önemli bir yere sahip olan Anadolu Selçukluları, Moğol istilalarına karşı Harzemşahlar ile işbirliği yapmak istemiş ancak Harzemşahlar buna karşı çıkınca 1230 Yassıçemen Savaşı ile Harzemşahlar’a son verilmiştir. \n
+1240 yılında Baba İshak isyanından sonra Moğol istilaları başlamıştır. 1243 yılında Moğollar ile yapılan Kösedağ Savaşı’nı kaybetmişlerdir. Moğollar ile yapılan Kösedağ Savaşı’ndan sonra Anadolu’da siyasi birlik bozulmuştur. Anadolu Selçukluları, 1308 yılında Sultan 2. Mesut’un ölümüyle yıkılmıştır. \n
+Sultan 2. Mesut’un ölümü ve Anadolu’da siyasi birliğin sona ermesiyle beraber Anadolu’da 2. Anadolu Türk Beylikleri Dönemi başlamıştır. \n
+Kpss genel kültür tarih dersinde yer alan Anadolu Selçuklu Devleti konusu tamamlanmıştır. İleriki konularda Anadolu Selçuklu Devleti’nde Kültür ve Medeniyet bölümüyle tekrar bu konuya döneceğiz. Bir sonraki kpss tarih konusu 2. Anadolu Türk Beylikleri olacaktır. \n
+    </string>
+    <string name="tarih_anadolu_beylikleti">
+Anadolu Türk Beylikleri (ikinci), kpss tarih konusu içinde Türkiye Tarihi bölümünde yer alır. Anadolu Selçuklu Devleti’nin dağılmasıyla kurulan ikinci Anadolu Türk beylikleri 16 beylikten oluşmaktadır. Daha doğrusu kpss açısından bizim için en azından kulaktan dolma da olsa bilgimiz olması gereken beylikler 16 tanedir.\n
+Anadolu Türk Beylikleri (İkinci) \n
+1.	Karamanoğulları: Kendilerini Selçukluların Anadolu varisi olarak gören Karamanoğulları, Konya ve Karaman yöresinde kurulmuştur. Kendilerini bir varis olarak gördüklerinden Osmanlı ile en fazla mücadele eden ve Osmanlı’yı uğraştıran beyliktir. \n
+Karamanoğlu Mehmet Bey, 1277 yılında Türkçe’yi resmi dil olarak ilan etmiştir.Kpss açısından bu detay, ileride işlenecek olan Milliyetçilik kavramı ile bağdaşmaktadır. \n
+2.	Aydınoğulları: Aydın ve İzmir çevresinde kurulan Aydınoğulları, denizcilik alanında en çok ileri giden Anadolu Türk Beylikleri içindedir. \n
+3.	Germiyanoğulları: Kütahya ve çevresinde kurulmuştur. \n
+4.	Karesioğulları: Aydınoğulları gibi denizci olan Karesioğulları, Balıkesir, Çanakkale ve çevresinde kurulmuştur. \n
+5.	Candaroğulları: Bir diğer adı da İsfendiyaroğulları olan bu beylik, Kastamonu, Sinop ve çevresinde kurulmuştur. \n
+6.	Saruhanoğulları: Denizci bir beylik olan Saruhanoğulları Beyliği, Manisa ve çevresinde kurulmuştur. \n
+7.	Menteşeoğulları: Muğla ve çevresinde kurulmuş olan bu beylik de denizcidir. \n
+8.	Hamitoğulları: Eğrdir ve Antalya çevresinde kurulmuş denizci bir beyliktir. \n
+Dikkat edecek olursak deniz kenarında kurulan beyliklerin çoğu aynı zamanda denizci beyliklerdir. \n
+9.	Sahipataoğulları: Afyon ve çevresinde kurulmuştur. \n
+10.	İnançoğulları: Denizli ve çevresinde kurulmuş bir beyliktir. \n
+11.	Eşrefoğulları: Beyşehir ve çevresinde kurulmuş olan bir beyliktir. \n
+12.	Eretna Beyliği: Orta Anadolu’da Sivas merkez olmak üzere kurulmuş olan bir beyliktir. \n
+13.	Ramazanoğulları: Adana ve çevresinde kurulmuş bir beyliktir. \n
+14.	Kadı Burhaneddin Beyliği: Eretna Beyliği yerine kurulmuş olan bir beyliktir. \n
+15.	Osmanoğulları: Ertuğrul Gazi’nin oğlu Osman Gazi tarafından Söğüt, Domaniç ve çevresinde kurulmuş olan beyliktir. \n
+16.	Dulkadiroğulları: Kpss tarih dersinde Anadolu’da kurulan ikinci Anadolu Türk Beylikleri içinde en son değineceğimiz beylik olan Dulkadiroğulları, Elbistan ve çevresinde kurulmuştur. \n
+Dulkadiroğulları beyliği, Osmanlı’nın Turnadağ Savaşı ile yıktığı son beylik olma özelliğini taşımaktadır. \n
+Kpss genel kültür tarih dersinde yer alan ikinci Anadolu Türk Beylikleri konusu tamamlanmıştır. Bir sonraki kpss tarih konusu Anadolu Selçuklu Devleti Kültür ve Medeniyeti konusu olacaktır. \n
+    </string>
+    <string name="tarih_anadolu_selculu_kultur">
+Anadolu Selçuklu Devleti kültür ve medeniyeti konusu, Anadolu Selçuklu Devleti özellikleri ve sonrasında kurulan Türk Beyliklerini işledikten sonra Kpss açısından kesinlikle irdelenmesi gereken konulardan biridir.\n
+Anadolu Selçuklu Devleti kültür ve medeniyeti konusu içerisinde Anadolu Selçuklu Devleti devlet yönetimi, ülke yönetimi, sosyal ve ekonomik hayat, toprak yönetimi, ordu, hukuk, dil ve edebiyat ile bilim ve sanat alanları işlenecektir. \n
+Anadolu Selçuklu Devleti Kültür ve Medeniyeti\n
+1) Devlet Yönetimi	\n
+Anadolu Selçuklu Devleti kültür ve medeniyeti konusu içinde ilk işleyeceğimiz alan olan devlet yönetiminde, Büyük Selçuklular örnek alınmış ve hemen hemen her alanda aynı şekilde örgütlenmiştir. \n
+Önemli devlet işlerinin görüşüldüğü ve Sultan’a bağlı olan Divan-ı Saltanat (Büyük Divan) ve diğer Divan işlerinin görüldüğü yönetim alanlarını inceleyelim. \n
+a) Divan-ı Saltanat (Büyük Divan) : Çoğunlukla vezirin, ara sıra sultanın başkanlık ettiği Büyük Divanda birazdan değineceğimiz istifa, arz, işraf, inşa divanlarının başkanları ve pervane gibi görevliler üye olarak bulunurlardı. \n
+Devletle ilgili alınan tüm kararların divan defterine yazıldığı Büyük Divanda üyeler dışında katipler ve tercümanlar da bulunurdu. Ayrıca Divanın güvenliği Emir-i Şens adı verilen kişiler tarafından sağlanmaktaydı. \n
+Büyük Divan günümüz devlet yönetiminde yer alan Bakanlar Kuruluna benzemektedir. \n
+b) Divan-ı İnşa : Devletin iç ve dış yazışmalarının düzenlenmesinden sorumludur.
+c) Divan-ı Arz : Ordunun ihtiyaçlarına cevap veren, devletin savunma ile ilgili işlerinin yürütüldüğü divandır. \n
+d) Divan-ı İstifa : Devletin mali işlerinin yürütüldüğü divandır. \n
+Bu divanın başkanına Müstevfi denirdi. \n
+e) Divan-ı İşraf : Askeri ve adli işler dışındaki denetlemeden sorumlu divandır. \n
+Bu divana bağlı müfettişlere Müşrif denirdi. \n
+f) Niyabet-i Saltanat Divanı : Hükümdarın olmadığı zamanlarda devlet işlerini yürüten güvenilir insanların ve komutanların bulunduğu divandır. \n
+Bunlara da Naib denilmektedir. \n
+g) Pervaneci Divanı : Başkanına Pervaneci denilen bu divan, arazi defterlerindeki has ve dirliklerle ilgili kararları düzenlemekteydi. \n
+2) Ülke Yönetimi\n
+Kpss genel kültür Tarih dersine ait Anadolu Selçuklu Devleti kültür ve medeniyeti konusunda işleyeceğimiz ikinci başlık olan Anadolu Selçukludaki ülke yönetimi, vilayetlere ayrılarak gerçekleşmiştir. \n
+a) Meliklerin Yönettiği Vilayetler : Hükümdara bağlı olan bu vilayetlerde meliklerin yanında deneyimli devlet adamları olan Atabeyler görev yapmaktaydı. \n
+b) Merkeze Bağlı Vilayetler : Asayişi ve düzeni sağlamakla yükümlü olan bu vilayetlerin başında Subaşılar bulunurdu. \n
+c) Uç Beylikler : Sınırlarda bulunan bu vilayetlerin başında Uçbeyi ve Valiler bulunurdu. Gaza ve Cihad anlayışı ile yarı bağımsız şekilde idare edilen Uç Beylikler sınırları korumakla görevliydiler. \n
+Anadolu Selçuklu Devleti’nin zayıflamasıyla beraber uç beylikler bağımsızlıklarını kazanmışlardır. \n
+Diğer unvan ve kavramlar: \n
+•	Muhtesib : Anadolu Selçuklularında belediye işlerini, pazarlarda fiyatları, tartı ve ölçüleri, malların kalitesini denetleyen görevlilerdir. \n
+•	Şıhne : Önemli şehir merkezlerinde bulunan bu askeri valiler güvenlik ve zabıta işlerinden sorumluydu. \n
+•	Mirliva : Siyasi otoriteyi sağlamakla görevli olan, beyliklerde hükümdarın temsilcisi olan yetkililerden biridir. \n
+•	Kadılar : Yine beyliklerde hükümdarın temsilcisi olan kadılar, yargı işlerine bakarlardı. \n
+3) Sosyal ve Ekonomik Hayat\n
+Anadolu Selçuklu Devleti kültür ve medeniyeti konusunda Anadolu Selçuklu Devleti sosyal ve ekonomik hayatı incelerken karşımıza ticaretin gelişmesi için yapılan önemli çalışmalar çıkmaktadır. Şimdi bu adımları inceleyelim. \n
+•	Venedikliler ve Kıbrıslılarla ticaret anlaşmaları yapılmıştır. \n
+•	Anadolu’da doğu batı ve kuzey güney doğrultularında yollar ve bu yollar üzerine birçok han ve kervansaray yapılmıştır. \n
+•	Anadolu’da ticaret yapan tüccarların güvenliği sağlanmıştır. \n
+•	Akdeniz ve Karadeniz’de liman kentler fethedilerek deniz ticareti geliştirilmiştir. Bu gelişmeler deniz ticaretine önem verdiklerinin bir göstergesidir. \n
+Anadolu Selçuklularında ilk para 1. Mesut tarafından bastırılmıştır. Paraların üzerinde hükümdarların portresi ve aslan resimleri yer almaktaydı. \n
+Altın sikkelere Dinar, gümüş sikkelere Dirhem denilmektedir. \n
+Anadolu Selçuklu devletinde iki tür hazine bulunmaktaydı: \n
+•	Hazine-i Amire: Devletin bütün gelirlerinin yer aldığı devlet hazinesidir. \n
+•	Hazine-i Hassa: Hükümdarın kendine ait olan iç hazinedir. \n
+Anadolu Selçuklu Devletinde ticaretin gelişmesi için kervansaray yapımına önem verilmiştir. Bazı devletlere düşük gümrük vergisi uygulanmış ve ticaret anlaşmaları yapılmıştır. Ayrıca tüccarların zararları hazine tarafından karşılanmıştır. \n
+Böylece devlet sigortası sağlanmaya çalışılmıştır. \n
+Şehir merkezlerinde esnaf ve zanaatkarların birlikteliğiyle oluşan Ahilik Teşkilatı yer almaktadır. Yardımlaşma ve dayanışma esasına dayalı olan Ahilik Teşkilatına sadece Müslüman esnaf ve zanaatkarlar kabul edilmekteydi. Ayrıca her sanat dalının bir Lonca‘sı bulunmaktaydı. \n
+Loncalar günümüz Esnaf ve Sanatkarlar Cemiyetine benzetilmektedir. Loncaların amacı ise hem üreticiyi hem de tüketiciyi korumaktır. \n
+Loncaların başında bulunan liderlere Ahi, bütün ahilerin bir araya gelerek seçtikleri lidere ise Ahi Baba denilmekteydi. Bunlarla beraber loncalarda usta çırak ilişkisi içinde mesleki eğitim de verilmekteydi. \n
+4) Toprak Yönetimi\n
+Toprağın devlet mülkiyetinde olduğu Anadolu Selçuklularında toprak yönetimi 4 bölüme ayrılmaktadır. \n
+•	Has Arazisi: Geliri hükümdara ait olan topraklardır. Hükümdar isterse bu toprakları yakınlarına verebiliyordu. \n
+•	İkta Arazisi: Devlet memurlarına ve ordu görevlilerine hizmet ve maaşlarına karşılık verilen topraklardır. İkta arazisine sahip olanlar gelirlerin bir kısmını kendine ayırır, geri kalanıyla da Sipahi denilen atlı askerler beslemekteydi. İkta sahipleri üretimi arttırmak, bulundukları bölgede asayiş ve düzeni sağlamakla yükümlüydüler. \n
+İkta sistemi ile devletin ordu harcamalarının azalması hedeflenmiştir. İkta sistemi ile beraber üretim artmış, asayiş ve güvenlik sağlanarak devletin otoritesi arttırılmak istenmiştir. \n
+•	Mülk Arazi: Devlet adamlarına başarılarından ötürü verilen topraklardır. \n
+•	Vakıf Arazi: Kar amacıyla işletilmeyen vakıf topraklarının gelirleri bilimsel kurumlara ve sosyal kuruluşlara aktarılmaktadır. \n
+Anadolu Selçuklu zamanında halka hizmet amacıyla inşa edilen cami, medrese, şifahane, kervansaray, imarethane gibi yerlerin giderleri vakıflardan elde edilen gelirlerle karşılanmaktaydı. \n
+5) Ordu Yönetimi\n
+Ordu sisteminde çoğunlukla Büyük Selçuklular örnek alınmıştır. 5 kısımdan oluşan orduya Sultan komuta etmekteydi. \n
+•	Hassa Askerleri: Merkez ordudur. Ordunun merkez kuvvetlerini oluşturan hassa askerleri maaşlı askerlerden oluşurdu ve hükümdarın yanında bulunurlardı. \n
+•	İkta Askerleri: Savaş zamanında orduya katılan bu askerler, görev karşılığı dirlik sahipleri tarafından yetiştirilen atlı askerlerden oluşmaktaydı. \n
+•	Türkmenler: Düşman sınırına yakın bölgelerde yaşarlar ve sürekli akınlar düzenlerlerdi. Bu yüzden Akıncılar olarak da bilinirler. \n
+•	Paralı Askerler\n
+•	Bağlı Devlet ve Beyliklerin Askerleri\n
+6) Hukuk\n
+Anadolu Selçuklu Devletinde Şer-i davalara kadılar bakmaktaydı. Hükümdar ve vezirler tarafından atanan kadıların başkanına Kadıül Kudat yani Başkadı denilmektedir. \n
+Başkadılar ileride işlenecek olan Osmanlı Devletindeki Kazaskerle aynı görevi üstlenmektedir. \n
+Anadolu Selçuklularında örfi davalara Emir-i Dad, askeri davalara Kadı Askerbakmaktaydı. \n
+7) Yazı, Dil ve Edebiyat\n
+Anadolu Selçuklularında devletin resmi yazışma dili ve edebiyat dili Farsça, bilim ve eğitim dili Arapça, halkın konuşma dili ise Türkçeydi. \n
+Halk edebiyatı, Tasavvuf edebiyatı ve Divan edebiyatı bu dönemde gelişme gösteren edebiyat alanlarıdır.
+•	Halk edebiyatında Kırşehirli Şeyh Ahmet Gülşehri ve Aşık Paşa, \n
+•	Tasavvuf edebiyatında Mevlana Celaleddin Rumi, Ahmet Fakih ve Şeyyad Hamza, \n
+•	Halk tasavvufu yani Milli tasavvuf alanında Yunus Emre, \n
+•	Divan edebiyatında da Hoca Dehhani ve Germiyanlı Ahmedi en önemli temsilcilerindendir. \n
+8) Bilim ve Sanat\n
+Anadolu Selçuklu Devletinde bilime çok önem verilmiş ve birçok medrese kurulmuştur. Bu medreselerde nakli ve akli bilimler yani dini ve pozitif bilimler öğretilmiştir. Bu medreselerin ihtiyaçları vakıflar tarafından karşılanmaktaydı ve eğitim ücretsizdi. \n
+Anadolu’da ilk medrese Danişmendoğulları tarafından açılmıştır. \n
+Bu dönemde Haçlı Seferleri bilimin gelişmesi adına en büyük engel olarak göze çarpmaktadır. \n
+•	Tıp alanında Hacı Paşa, \n
+•	Tarih alanında İbni Bibi, Kerimüddin Aksarayi, Ravendi, \n
+•	Felsefe ve Fizik alanında Abdüllatif gibi bilim adamları öne çıkmaktadır. \n
+Anadolu Selçuklularında sanat alanında ise mimari öne çıkmaktadır. İnşa edilen mimari eselerin süslemesinde geometrik şekiller, bitki otifleri, yazılar, hayvan ve az da olsa insan ve melek figürleri kullanılmaktaydı. Süslemede yapı olarak ise ahşap, alçı, çini, taş ve mermer kullanılmıştır. \n
+Bu dönemde cami, medrese, mescid, kümbet ya da türbe, köprü, kale, darüşşifa, kervansaray, ve külliye inşa edilmiştir. Ayrıca çinicilik, halıcılık, minyatür, hat, tezhip ve ciltçilik alanlarında da gelişmeler yaşanmıştır. \n
+Yukarıda yer alan mimari terimleri açıklayalım. \n
+•	Darüşşifa: Hastanelere verilen isimdir. \n
+•	İmarethane: Yoksullara yiyecek veren aşevleridir. \n
+•	Külliye: Merkezinde genelde cami olan medrese, mektep, hamam, darüşşifa, türbe ve imarethanelerin topluca bir arada bulunduğu yapılardan oluşur. \n
+•	Türbe: Üzeri kubbeyle örtülü anıt mezarlardır. \n
+•	Mescid: Minberi olmayan küçük mahalle camileridir. \n
+•	Kümbet: Silindirik ya da çokgen gövdeli koni şeklindeki veya piramit çatıyla örtülü olan mezarlara verilen isimdir. \n
+İslamiyet öncesi yapılan kurganlar ile İslamiyet sonrası yapılan türbe ve kümbetler anıt mezar özellikleri nedeniyle benzerlik göstermektedir. \n
+Anadolu Selçuklu Devleti Kültür ve Medeniyeti İçinde Öne Çıkan Mimari Eserler\n
+Anadolu Selçuklu Dönemine Ait Önemli Medreseler\n
+•	Çifte Minareli, Gök ve Buruciye Medreseleri (Sivas) \n
+•	 Huant Hatun ve Sahibiye Medreseleri (Kayseri) \n
+•	Sultaniye, Altun Aba, Karatay, Sırçalı, İnce Minareli ve Atabekkiye Medreseleri (Konya) \n
+•	Gök Medrese (Tokat) \n
+•	Cacoğulları Medresesi (Kırşehir) \n
+•	Ertokuş Medresesi (Antalya) \n
+•	Çifte Minareli Medrese (Erzurum) \n
+Anadolu Selçuklu Dönemine Ait Önemli Darüşşifalar\n
+•	1. İzzettin Keykavus Darüşşifası (Sivas) \n
+•	Alaeddin Keykubat Darüşşifası (Konya) \n
+•	Gevher Nesibe Darüşşifası (Kayseri) \n
+•	Turan Melek Darüşşifası (Divriği) \n
+•	Torumtay Darüşşifası (Amasya) \n
+•	Atabey Feruh Darüşşifası (Çankırı) \n
+•	Muinüddin Pervane Darüşşifası (Tokat) \n
+•	Pervaneoğlu Ali Darüşşifası (Kastamonu) \n
+Gevher Nesibe Darüşşifası tıp okulu özelliği taşıdığından ilk tıp fakültesi olarak bilinmektedir. \n
+Anadolu Selçuklu Dönemine Ait Önemli Camiler\n
+•	Alaeddin Camii (Konya) \n
+•	Ulu Camii (Sivas) \n
+•	Alaeddin Camii (Niğde) \n
+•	Ulu Camii (Malatya) \n
+•	Burmalı Minare Camii (Amasya)
+•	Ulu Camii (Afyon) \n
+Anadolu Selçuklu Dönemine Ait Önemli Külliyeler\n
+•	Sahip Ata Külliyesi (Konya) \n
+•	Divriği Külliyesi (Sivas) \n
+•	Hunad Hatun Külliyesi ve Hacı Kılıç Külliyesi (Kayseri) \n
+Anadolu Selçuklu Dönemine Ait Önemli Kümbet ve Türbeler\n
+•	Mevlana Türbesi, Karatay Türbesi (Konya) \n
+•	1. Keykavus Kümbeti (Sivas) \n
+•	Döner Kümbet, Çifte Medrese Kümbeti (Kayseri) \n
+Anadolu Selçuklu Dönemine Ait Önemli Saraylar\n
+•	Kubadabad Sarayı, Sultan Kılıçarslan Sarayı (Konya) \n
+•	Keykubadiye Sarayı, Saltanat Sarayı (Kayseri) \n
+Anadolu Selçuklu Dönemine Ait Önemli Han ve Kervansaraylar\n
+•	Alay Han (Kayseri) \n
+•	Sultan Hanı (Konya) \n
+•	Alara Han, İncir Han, Susuz Han, Evdir Hanı (Antalya) \n
+•	Çardak Han (Denizli) \n
+Kpss genel kültür tarih dersine ait Anadolu Selçuklu Devleti Kültür ve Medeniyeti konusu sona ermiştir. Bir sonraki kpss tarih konusu Osmanlı Kültür ve Medeniyeti olacaktır. \n
+    </string>
+    <string name="tarih_osmanlı_kultur1">
+Osmanlı İmparatorluğu Kültür ve Medeniyeti konusu kpss de en geniş kapsamlı ve bizim için büyük önem taşıyan bölümdür.\n
+Bir önceki konumuzda Anadolu Selçuklu Devletinin kültür ve medeniyeti ile ilgili bilgileri inceledik. Osmanlı İmparatorluğu Kültür ve Medeniyeti konusu içerisinde; devlet yönetimi, toprak  yönetimi alanları işlenecektir. \n
+Osmanlı İmparatorluğu Kültür ve Medeniyeti\n
+Oğuzların Bozok Kolu’na bağlı Kayı boyu beyi Osman Bey tarafından Söğüt ve Domaniç çevresinde kurulan Osmanlı Beyliği kısa sürede büyüyerek dünyanın en geniş imparatorluklarından biri haline gelmiştir. Konumuzda kısa sürede geniş topraklara ve güçlü bir devlet yapısına sahip olan bu beyliğin beylikten devlete ve dünya gücüne nasıl dönüştüğünü inceleyeceğiz. \n
+1229 yılında kurulan devlet 1922 yılına kadar yaşamıştır. \n
+1.	DEVLET YÖNETİMİ\n
+Osmanlı Devleti Türk örf ve adetlerine ve İslami kurallara göre yönetilirdi. Yani Osmanlı Devlet yönetiminde Orta Asya Türk geleneği ile Türk İslam devletlerinin büyük oranda etkili olduğunu söylemek mümkündür. \n
+Devlet egemenlik hakkının tanrı tarafından verildiğine inanılan ve Osmanlı soyundan gelen hükümdarlar tarafından yönetilirdi. Bu yönetim şekline Teokratik Mutlak Monarşi denilirdi. \n
+Kısaca Mutlakiyet denilen bu yönetim şekli 1876 yılına (Meşrutiyetin ilanı) kadar devam etmiştir.
+Osmanlı Devletinde hükümdarlar; \n
+•	Bey\n
+•	Gazi\n
+•	Han\n
+•	Hakan\n
+•	Sultan\n
+•	Hünkar\n
+•	Padişah unvanları ile anılırdı. \n
+Hükümdarlar yetkilerini dine ve töreye dayalı olarak kullanır ve ayrıca Kanunname-i Ali Osman denilen yasalar uygun davranırlardı. \n
+Kanunname-i Ali Osman ilk olarak Fatih Sultan Mehmet daha sonra da Kanuni Sultan Süleyman tarafından idari, ekonomik ve cezai alanlarda örf ve adetlere göre padişahların otoriteleri ile çıkardıkları kanunların bütünüdür. \n
+Osmanlılarda padişahların emir ve buyruklarına Ferman veya Hatt-ı Hümayun, hükümdarlığın el değiştirilmesine Veraset Sistemi, hükümdar çocuklarına Şehzade, şehzadeleri eğiten akıl hocalarına Lala denilirdi. Padişahlar Cülus Töreni ile tahta çıkar ve Cülus bahşişi dağıtırlardı. Ülke yönetiminde padişahın en önemli yardımcısı Vezir-i Azam ( Sadrazam), en önemli kurumu ise Divan-ı Hümayun idi. \n
+1.	Divan-ı Hümayun\n
+Divan örgütü ilk olarak Orhan Bey zamanında İznik’te kurulmuştur. \n
+Divan önemli devlet meselelerinin görüşüldüğü, üyeleri padişah tarafından belirlenen en büyük organdı. Önemli konular divanda görüşülüp karara bağlanır ve hükümdar onayından geçerek yürürlüğe konurdu. Ayrıca karaların uygulaması (Yürütme) ve üst düzey yöneticiler arasındaki davalara(Yargı) bakmakta divanın göreviydi. Bu yüzden divan Danışma Meclisi, Bakanlar Kurulu ve Mahkemeye benzerdi. \n
+Devlet yönetiminde İlmiye, Seyfiye ve Kalemiye sınıfları bulunuyordu ve bu üç sınıfında divanda temsilcileri bulunuyordu. \n
+        Divan Üyeleri ve Görevleri\n
+•	Sadrazam (Vezir-i Azam): Padişahın mührünü taşır ve padişahtan sonra gelen en yetkili kişidir. Gerekli durumlarda Serdar- ı Ekrem sıfatı ile orduları yönetirdi. Fatih dönemi ile birlikte divana başkanlık yapardı. Günümüz Başbakan’ına benzerdi. \n
+•	Kubbealtı Vezirleri: Seyfiye sınıfına mensup sayıları 1-7 arasında değişen sadrazam yardımcısı olan diğer vezirlerdir. Günümüz Devlet Bakanlarına benzer. \n
+•	Kazasker: Adalet, hukuk ve eğitim-öğretim işlerinden sorumlu olan görevlidir. \n
+•	Defterdar: Maliye ve ekonomiden sorumlu olan görevlidir. \n
+•	Nişancı: Her türlü yazım işlerini yürüten ve padişah tuğrası (bir nevi imza) çeken görevlidir. Ayrıca fethedilen toprakların kaydını da tutar yardımcı katipler ile işlerini yürütürdü. Yardımcı katipler kurulu başkanına Reis’ülküttap Reis’ülküttap 16. Yüzyıldan sonra ayrı bir divan üyesi haline geldi.
+•	Reis’ülküttap: Dış ilişkilerden sorumlu olan görevlidir. \n
+•	Şeyhülislam: Din işlerinin en yetkili adamı ve alınan kararların ve yapılacakların dine uygunluğuna dair fetva vermekle görevli devlet adamıdır. \n
+•	Yeniçeri Ağası: Yeniçeri ocağının başında bulunan ve ocaktan sorumlu görevlidir. \n
+•	Kaptan-ı Derya: Deniz kuvvetlerinin ve donanmanın başında bulunan görevlidir. \n
+1.	TOPRAK YÖNETİMİ\n
+Osmanlı Devletinde “Ülke padişahın ve ailesinin ortak malıdır” anlayışı vardır. Osmanlılarda devlet yönetimi temelde Mülk arazi Miri arazi olarak ikiye ayrılır. \n
+•	Mülk Arazi: Mülkiyeti şahıslara ait arazilerdir. İki kısma ayrılır. \n
+•	Öşri arazi: Müslümanlara ait topraklardır. Vergileri öşür ve çift. \n
+•	Haraci arazi: Gayrimüslimlere ait topraklardır. Vergileri harac-ı mukassem ve harac-ı muvazzaf. \n
+•	Miri (Beylik) Arazi: Mülkiyeti devlete ait topraklardır. Alınıp satılamaz, devredilemez. Çeşitli bölümlere ayrılır. \n
+•	Dirlik arazi: Geliri devlet adamlarına ve memurlara maaş karşılığı asker beslemesi şartı ile verilen topraklardır. 3 kısma ayrılır. \n
+1.	Has: Geliri 100 bin akçeden fazla ve üst düzey devlet adamlarına verilen, \n
+2.	Zeamet: Geliri 100 bin ila 20 bin akçe arasında değişen orta dereceli devlet adamlarına verilen, \n
+3.	Tımar: Geliri 20 bin akçe ve 3 bin akçe arasında değişen küçük dereceli devlet adamlarına verilen topraklardır. \n
+Osmanlılar dirlik sistemini Selçuklularda uygulanan ikta sisteminden örnek almıştır. \n
+•	Mukaata arazi: Geliri doğrudan hazineye giden topraklardır. \n
+•	Yurtluk arazi: Geliri sınır boylarındaki görevlilere verilen topraklardır. \n
+•	Ocaklık: Geliri kale muhafızları ve tersaneye verilen topraklardır. \n
+•	Malikâne: Üstün hizmet gösterenlere verilen topraklardır. \n
+•	Paşmaklık: Geliri padişahın hanım akrabalarına verilen topraklardır. \n
+•	Vakıf: Geliri sosyal tesislere ve hayır işlerine ayrılan topraklardır. \n
+•	Arpalık: Bazı devlet adamlarına ek gelir olarak verilen topraklardır. \n
+•	Metruk: Halkın kullanımına bırakılan topraklardır. \n
+•	Mevat: Hiçbir işe yaramayan bataklık, çöl gibi topraklardır. \n
+Kpss genel kültür tarih dersine ait “Osmanlı İmparatorluğu Kültür ve Medeniyeti 1” bölümünden “Devlet Yönetimi” ve “Toprak Yönetimi” konularını işledik. Bir sonraki kpsstarih konumuz Osmanlı İmparatorluğu Kültür ve Medeniyeti 2. bölümü olan “Ordu Yönetimi”,”Maliye ve Ekonomi” konuları olacaktır. \n
+    </string>
+    <string name="tarih_osmanlı_kultur2">
+Osmanlıda Ordu Yönetimi ve Osmanlıda Ekonomi, Osmanlı Kültür ve Medeniyeti konusudur. Osmanlı İmparatorluğu Kültür ve Medeniyeti konusu kpss de geniş yer kapladığı için tek seferde anlatmak ve anlamak pek mümkün değildir. Bu yüzden geniş kapsamlı ve bizim için büyük önem taşıyan bu konuyu bölümlere ayırdık.
+Bir önceki konumuzda Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 1 içerisinde; devlet yönetimi, toprak  yönetimi alanları ile ilgili bilgileri inceledik. “ Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 2 ” de ise “Ordu Yönetimi”,”Maliye ve Ekonomi” konuları işlenecektir.\n
+ Osmanlıda Ordu | Osmanlıda Ekonomi\n
+A. OSMANLIDA ORDU\n
+Osmanlılarda Orhan Bey dönemine kadar eli silah tutan ve Osmanlı topraklarında yaşayan herkes savaşlara katılırdı (Ordu millet anlayışı). Orhan Bey döneminde Yaya ve Müsellem olmak üzere ilk düzenli ordu kuruldu. Daha sonra bu ordular da ihtiyaca cevap veremedi ve 1. Murat klasik ordu modelini oluşturdu. Orduyu kara ve deniz ordusu olarak ikiye ayırdı. \n
+Ayrıca Osman Bey döneminden itibaren fethedilen topraklara Türkmenler yerleştirildi. İskân politikası denilen bu yöntemle fethedilen topraklar Türkleştirildi ve merkezi otorite arttı. \n
+1) Kara Kuvvetleri\n
+        a) Kapıkulu Ordusu\n
+•	Dünyanın ilk daimi ve profesyonel ordularından biridir. \n
+•	Üç ayda biri ulufe denen maaş alırlardı. \n
+•	Askerleri emekli oluncaya kadar evlenemezdi. \n
+•	Merkezde veya merkeze yakın yerlerde otururlardı. \n
+•	Asker ihtiyacı önce pençik sistemi daha sonra ise devşirme sistemi ile giderilmiştir. \n
+Pençik sistemi: Savaş esirlerinden askerlik yapabilecek olanların 5 te 1’i seçilerek eğitilir. \n
+Devşirme sistemi: Osmanlıda yaşayan gayrimüslim halkın birden fazla erke çocuğu varsa bir tanesi küçük yaşta devlet tarafından alınır. Türkleştirilip ve Müslümanlaştırılması için köklü Türk ve Müslüman ailelerin yanına verilir askerlik çağına kadar eğitilirdi. Askerlik çağında ise Acemi Oğlanlar Ocağı’na alınır ve askeri eğitim alırlardı. \n
+Kapıkulu ordusunun bölümleri; \n
+
+        1. Kapıkulu Piyadeleri\n
+•	Acemi Oğlanlar Ocağı: Günümüz acemi birliklerine benzer. \n
+•	Yeniçeriler: Savaşta ve barışta padişahın hayatını korur ve İstanbul’un güvenlik ve asayişini sağlar. \n
+•	Topçular: Savaşlarda topu kullanan ocak. \n
+•	Top Arabacılar: Topları taşır ve savaş esnasında nakliyesini sağlar. \n
+•	Cebeciler: Silah yapım, bakım ve onarımından sorumlu askerlerdir. \n
+•	Humbaracılar: Günümüz havan topuna benzer humbara silahını kullanan askerlerdir. \n
+•	Lağımcılar: Savaşlarda tünel, kanal, siper açan ve bu tünel ve kanallara patlayıcı yerleştirerek kale ve surların yıkılmasını sağlayan askerlerdir. \n
+        2. Kapıkulu Süvarileri\n
+Muhafız görevini yürüten birliklerdir. Savaş sırasında padişahı, ele geçirilen ganimetleri, yiyecekleri, önemli devlet sembollerini(bayrak, alem, tuğ, sancak), silah ve cephaneyi korurlar. \n
+•	Sipah (Sipahi) \n
+•	Silahtar\n
+•	Sağ ulufeciler\n
+•	Sol Ulufeciler\n
+•	Sağ Garipler\n
+•	Sol Garipler\n
+
+        b) Eyalet Ordusu (Tımarlı Sipahi) \n
+Osmanlı ordusunu en kalabalık bölümüdür. Dirlik sisteminden meydana gelir ve gönüllü Türk gençlerinden oluşurdu. Devletten maaş almaz tımar beyinden geçimleri sağlanırdı. Sadece savaş zamanı askerlik yapar, barış zamanında diğer işlerle uğraşıp evlenebilirlerdi. \n
+        c) Yardımcı Kuvvetler\n
+•	Akıncılar: Sınır boylarında görev yapan, komşu ülkelere akınlar yapıp istihbarat toplayan birliklerdir. \n
+•	Azaplar: Ordunun önünde düşmanla ilk çarpışan birimdir. \n
+•	Sakalar: Ordunun su ihtiyacını karşılayan birim. \n
+•	Derbentçiler: Sefer güzergahı üzerindeki köprü ve geçitleri koruyan birim. \n
+2) Deniz Kuvvetleri\n
+ Osmanlılarda denizcilik faaliyetleri ilk kez Orhan Bey zamanında Kareasioğulları Beyliğinin alınması ile başlamıştır. Osmanlı donanmasının başında Kaptan-ı Derya bulunur, gemi kaptanlarına Reis, askerlerine ise Levend denirdi. \n
+B. OSMANLIDA EKONOMİ\n
+ Osmanlılarda maliye ve ekonomiden sorumlu olan görevli defterdardı. \n
+İlk para Osman Bey ilk altın para ise Fatih Sultan Mehmet tarafından bastırılmıştır. \n
+a) Devletin Gelir Kaynakları\n
+•	Halktan alınan Şer’i ve Örfi vergiler\n
+•	Savaşlarda elde edilen\n
+•	Gümrüklerden ve ticaret yollarından elde edilen gelirler\n
+•	Bağlı devlet ve beyliklerden alınan yıllık\n
+b) Vergiler\n
+Devletin önemli gelir kaynaklarından biri olan vergiler resm veya tekâlif adı ile anılıyordu. Vergiler şer’i ve örfi olmak üzere  ikiye ayrılırdı: \n
+Şer’i Vergiler\n
+•	Öşür(Aşar-Ondalık) Vergisi: Tarımla uğraşan Müslüman haklatan 1/10 oranında alınan vergi\n
+•	Haraç Vergisi: Tarımla uğraşan gayrimüslim halktan alınan vergi\n
+•	Cizye: Askerlik çağına gelmiş gayrimüslim erkeklerden alınan vergi\n
+Örfi Vergiler\n
+•	Tekalif-i Ağnam: Geçimini hayvancılıkla sağlayanlardan alınan vergi\n
+•	Bac Resmi: Ticaretle uğraşan ve Pazar yerlerinden alınan vergi\n
+•	Tekalif-i Avarız: halktan olağanüstü hallerde alınan vergi\n
+•	Çifbozan Vergisi: Mazeretsiz olarak toprağı boş bırakan çiftçiden alınan vergi\n
+Amaç üretimi sürekli hale getirmektir. \n
+c) Osmanlılarda Hazine Çeşitleri\n
+•	Hazine-i Amire(Dış hazine): Gündelik giderlerin karşılandığı hazine\n
+•	Hazine-i Enderun (İç hazine): Olağanüstü durumlar için oluşturulan tedbir haznesi\n
+•	Ceb-i Hümayun Hazinesi: Padişahın kişisel harcamaları için oluşturulan hazine\n
+Kpss genel kültür tarih dersine ait “ Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 2 ” den “ Osmanlıda Ordu ” ve “Osmanlıda Ekonomi ” konularını işledik. Bir sonraki kpsstarih konumuz Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 3 olan “Osmanlıda Toplumsal Yapı” ve ”Osmanlıda Hukuk” konuları olacaktır. \n
+    </string>
+    <string name="tarih_osmanlı_kultur3">
+Osmanlıda Hukuk ve Toplumsal Yapı Osmanlı kültür ve medeniyetinde işleyeceğimiz 3. bölümü oluşturmaktadır. Osmanlı İmparatorluğu Kültür ve Medeniyeti konusunu kpss de geniş kapsamlı bir konu olduğu için bölümlere ayırmıştık.\n
+Bir önceki konumuzda Osmanlı İmparatorluğu Kültür ve Medeniyeti bölüm 2 içerisinde; ordu yönetimi, maliye ve ekonomi alanları ile ilgili bilgileri inceledik. Osmanlı İmparatorluğu Kültür ve Medeniyeti bölüm 3’de ise Osmanlıda Toplumsal Yapı ve Osmanlıda Hukuk konuları işlenecektir. \n
+ Osmanlıda Hukuk ve Toplumsal Yapı\n
+A. OSMANLIDA TOPLUMSAL YAPI\n
+Osmanlılarda toplum Yönetenler (Beraya) ve Yönetilenler (Reaya) olarak ikiye ayrılırdı.
+Yönetenler 3’e ayrılır: \n
+1.	İlmiye Sınıfı: Ulema ve alimler sınıfı olarak da bilinir. Din, hukuk, eğitim-öğretim, adalet fevte işlerinden sorumlu sınıftır. Kadı, kazasker, şeyhülislam, imamlar, vaizler gibi. \n
+2.	Seyfiye Sınıfı: Ordu ve donanmada görevli komutan ve askerlerin bulunduğu sınıftır. Sadrazam, yeniçeri ağası, kaptan-ı derya, beylerbeyi, sancakbeyi, subaşı, sipahiler gibi. \n
+3.	Kalemiye Sınıfı: Bürokrasi, maliye, yazı işleri ve dış işleri ile ilgilenen sınıftır. Defterdar, nişancı gibi. \n
+B. OSMANLIDA HUKUK\n
+Osmanlıda hukuk Örfi ve Şer’i olmak üzere ikiye ayrılırdı. \n
+Örfi Hukuk: Temeli gelenek ve göreneklere dayanan daha çok siyasi yaşamın düzenlenmesini sağlayan kuraları içerirdi. Padişah tarafından konulan kurallar mutlaka dini kurallara uygun olmalıydı. \n
+Şer’i Hukuk: Temeli Kuran, hadis ve sünnetlere dayana daha çok sosyal hayatın düzenlenmesini sağlayan hukuk kurallarıdır. \n
+Hukuk kuralları Kazaskerler ve onların tahsis ettiği kadılar tarafından yürütülürdü. \n
+Osmanlılarda hukuk alanında bir birlik yoktu. Çünkü Müslümanlara şer’i hukuk kuralları, Müslüman olmayan gayrimüslimlere ise kendi cemaat kuralları uygulanırdı. \n
+Osmanlı padişahlarından Fatih Sultan Mehmet ve I. Mahmut vatandaşları arasında din ve mezhep ayırımı yapmayacaklarının teminatını vermişlerdi. \n
+Fatih Sultan Mehmet bu kuralları düzenlemiş ve Kanunname-i Ali Osman denilen bütünlüğü meydana getirmiştir. Kanuni Sultan Süleyman ise bu yasaları yeniden düzenlemiştir. \n
+  Osmanlı Devletinde mahkemeler şu bölümlere ayrılırdı: \n
+•	Şer’i Mahkemeler\n
+•	Nizamiye Mahkemeleri\n
+•	Cemaat Mahkemeleri\n
+•	Konsolosluk Mahkemeleri\n
+•	Ticaret Mahkemeleri\n
+Osmanlılar hukuk alanında geri kalınmış bazı çalışmaları Tanzimat döneminde çeşitli çalışmalar ile gidermeye çalışmıştır. Avrupa da uygulanan hukuk kuralları örnek alınıp Nizamiye mahkemeleri kurulmuştur. 1869-1876 yılları arasında Ahmet Cevdet Paşa başkanlığında oluşturulan bir kurul ise Mecelle adı verilen medeni kanunu hazırlanmıştır. \n
+Kpss genel kültür tarih dersine ait “ Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 3 ” den “ Osmanlıda Toplumsal Yapı ” ve “ Osmanlıda Hukuk ” konularını işledik. Bir sonraki kpss tarih konumuz Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 4 olan “Eğitim-Öğretim”,”Yazı, Dil ve Edebiyat” konuları olacaktır. \n
+    </string>
+    <string name="tarih_osmanlı_kultur4">
+Osmanlıda Eğitim ve Osmanlıda Yazı, Dil ve Edebiyat Osmanlı kültür ve medeniyetinin 4. bölümünü oluşturmaktadır. Osmanlı İmparatorluğu Kültür ve Medeniyeti konusunda şimdiye kadar Osmanlıda devlet yönetimi, toprak yönetimi, ordu yönetimi, Osmanlıda ekonomi gibi kpss tarih dersinde önemli bir yere sahip olan başlıkları ele almıştık.
+Bir önceki konumuzda yani Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 3’de ise; toplumsal yapı, hukuk alanları ile ilgili bilgileri inceledik. Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 4’de ise Osmanlıda Eğitim, Osmanlıda Yazı, Dil ve Edebiyat konuları işlenecektir.\n
+ Osmanlı Eğitim | Osmanlıda Yazı, Dil ve Edebiyat\n
+A. OSMANLIDA EĞİTİM\n
+Osmanlılarda eğitim ve öğretimde dine dayalı olarak yapılırdı. Mahalle Mektepleri, Medreseler ve Enderun Mektepleri başlıca eğitim kurumlarıydı. \n
+Mahalle Mektepleri: Günümüz ilkokulu düzeyindeki okullardır. \n
+Medreseler: Günümüz yüksek okullarına benzer okullardı. Sadece erkek öğrenciler devam edebilirlerdi. Medrese hocalarına Müderris, öğrencilerine Molla, Sofu denirdi. \n
+Osmanlılarda ilk medrese Orhan Bey tarafından İznik’te açılmıştır. \n
+Medreselerde Din Bilimlerinin yanı sıra Pozitif Bilimlere de yer verilirdi. Ancak Duraklama döneminden itibaren Pozitif Bilimler göz ardı edilmiş sadece dini bilgilere önem verilmiştir. Bunun en önemli nedenlerinden biri ise Beşik Ulemalığı sisteminin (babadan oğla devam eden müderrislik) gerici bir sınıf haline gelmesiydi. \n
+Medreseler Cumhuriyet Döneminde de bir süre varlığını sürdürmüş 11 Mart 1924 yılında kaldırılmıştır. \n
+Enderun Mektepleri: İlk kez I. Murat tarafından Edirne Sarayında açılan bu okulda şehzadeler eğitim almıştır. Daha sonra Fatih Sultan Mehmet zamanında mektep devşirmelerin arasından seçilen zeki ve yetenekli kişilerin devlet adamı olarak yetiştirildiği kurumlara dönüştü. \n
+Osmanlılarda mesleki eğitimi veren kurumlar yoktu. Meslek eğitimleri Lonca teşkilatına bağlı dükkânlarda usta-çırak eğitimi ile verilirdi. \n
+Osmanlı Devletinde 18. Yy’ dan itibaren eğitim alanında bazı değişikler yapıldı. \n
+•	Mahmut döneminde batı tarzında askeri eğitim veren Hendesehane, \n
+•	Mustafa döneminde Deniz Mühendishanesi, \n
+•	Abdülhamit döneminde İstihkam Okulu, \n
+•	Mahmut döneminde Mekteb-i Tıbbiye, Mekteb-i Harbiye, Mızıkay-i Humayun, Mekteb-i Ulum-u Edebiye(Ayrıca ilköğretim zorunlu hale getirilmiş, Avrupa’ ya öğrenciler gönderilmiştir.) \n
+•	Tanzimat döneminde ise Rüştiyeler, İdadiler ve Sultaniler\n
+•	1847 yılında Dar’ül Muallimin (Erkek öğretmen okulu) \n
+•	1870 yılında Dar’ül Muallemat (Kız öğretmen okulu) \n
+•	1863 yılında ilk üniversite olan Dar’ülfunun açılmıştır. \n
+B. OSMANLIDA YAZI, DİL VE EDEBİYAT\n
+Osmanlı Devleti diğer Türk İslam devletlerinde olduğu gibi resmi yazışmalarında Arap alfabesi kullanmıştır. Resmi dil Türkçe, bilimsel alanda Arapça ve edebi alanda Farsçakullanılırdı. \n
+Edebiyat ise Divan, Halk ve Tasavvuf edebiyatı olarak üç şekilde gelişmiştir. \n
+•	Fuzuli, Baki, Nef’i, Nedim önemli Divan edebiyatı\n
+•	Köroğlu, Kaygusuz Abdal, Karacaoğlan, Hacı Bayram-ı Veli, Dadaloğlu Halk edebiyatı\n
+•	Pir Sultan Abdal, Akşemseddin, Hacı Bayram-ı Veli Tasavvuf edebiyatının en önemli temsilcilerindendir. \n
+Kpss genel kültür tarih dersine ait “Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 4’den, “ Osmanlıda Eğitim ”,” Osmanlıda Yazı Dil ve Edebiyat ”  konularını işledik. Bir sonraki kpss tarih konumuz Osmanlı İmparatorluğu Kültür ve Medeniyeti 5 bölümü “ Osmanlıda Bilim” ve “Osmanlıda Sanat” konuları olacaktır. \n
+    </string>
+    <string name="tarih_osmanlı_kultur5">
+Osmanlıda Bilim ve Sanat , Osmanlı kültür ve medeniyetinin önemli başlıklarındandır. Osmanlı İmparatorluğu Kültür ve Medeniyeti konusunun 5. bölümünde kpss‘de bugüne kadar pek çok soru çıkmış olan Osmanlıda bilim ve sanat alanlarına değinilecektir.
+Bir önceki konumuzda Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 4’de; Eğitim-Öğretim, Yazı Dil ve Edebiyat ile ilgili bilgileri inceledik. Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 5’de  ise “ Osmanlıda Bilim ve Sanat konuları işlenecektir.\n
+Osmanlıda Bilim ve Sanat\n
+A. OSMANLIDA BİLİM\n
+Osmanlı Devletinde yetişen bazı önemli bilim adamları: \n
+Akşemseddin: Fatih Sultan Mehmet’in hocası olmuş, din tasavvuf alanında çalışmaları ile tanınan bilgindir. \n
+Ali Kuşçu: Fatih Sultan Mehmet döneminde Semerkant’tan İstanbul’a gelmiş matematik ve astronomi bilginidir. \n
+Piri Reis: 16. Yy’da yaşamış denizci, haritacı, coğrafyacıdır. En önemli eserleri Dünya haritası ve Kitab-ı Bahriyedir. \n
+Takıyüddin Mehmet: İstanbul’da ilk gözlemevini(Rasathane) kuran astronomdur. \n
+Matrakçı Nasuh: 16. Yy’da yaşamış ve matematik, coğrafya, tarih alanlarında eseler vermiştir. \n
+Katip Çelebi: 17. Yy’da yaşamış bilim ve düşünce adamıdır. Keşfu’z Zünun, Cihannüma ve Atlas Minor çeviris en önemli eserleridir. \n
+Hezarfen Ahmet Çelebi: 17. Yy’da Galata Kulesinden atlayıp uçarak boğazın karşı yakasına geçmiştir. \n
+Lagari Hasan Çelebi: 17. Yy’da ilk roket örneğini icat ederek uçmayı başarmıştır. \n
+Evliya Çelebi: 17. Yy’da yaşamış ilk büyük Türk gezginidir. Seyahatname adlı eseri vardır. \n
+B. OSMANLIDA SANAT\n
+Osmanlılar sanatın birçok alanından çeşitli eserler vermiştir. Bunlardan en önemlilerini sırası ile inceleyelim. \n
+Mimari: Türk-İslam devletlerinde en gelişmiş sanat dalı olan mimaride Osmanlılar da önemli eserler meydana getirmişlerdir. Birçok camii, saray, hisar, köprü, medrese, han, kervansaray, bedesten, hamam, kapalı çarşı, su kemeri ve türbe yapılmıştır. \n
+Osmanlı mimarisinin en önemli ismi Mimar Sinan’dır. Kanuni, II. Selim ve III. Murat dönemlerinde mimarbaşılık yapan Mimar Sinan 400’den fazla eser vermiştir. En önemli eserleri Şehzade Camii( Çıraklık eserim dediği), Süleymaniye Camii( Kalfalık eserim dediği), Selimiye Camii( Ustalık eserim dediği)  eserleridir. \n
+Bazı önemli Osmanlı mimari eserleri ise şunlardır; \n
+•	Hacı Özbek Camii(Bursa) \n
+•	Yeşil Camii(Bursa) \n
+•	Orhan Gazi Camii(Bursa) \n
+•	Ulu Camii (Bursa) \n
+•	Üç Şerefeli Camii (Edirne) \n
+•	Yeni Camii(İstanbul) \n
+•	Sultan Ahmet Camii(İstanbul) \n
+•	Süleyman Paşa Medresesi(İznik) \n
+•	Sahn-ı Seman Medresesi(İstanbul) \n
+•	Süleymaniye Medresesi(İstanbul) \n
+•	Rüstem Paşa Medresesi(Amasya) \n
+•	Issız Han(Bursa) \n
+•	Sultan Hanı(Konya) \n
+•	Rüstem Paşa Kervansarayı(Edirne) \n
+•	Orhan Gazi Külliyesi(İznik) \n
+•	Fatih Külliyesi(İstanbul) \n
+•	Bayezid Külliyesi(Edirne) \n
+•	Süleymaniye Külliyesi(İstanbul9\n
+•	Edirne Bedesteni(Edirne) \n
+•	Kapalı Çarşı(İstanbul) \n
+•	Mısır Çarşısı(İstanbul) \n
+•	Bursa Sarayı\n
+•	Eski Saray(Edirne) \n
+•	Topkapı Sarayı(İstanbul) \n
+•	İshak Paşa Sarayı(Doğu Beyazıt) \n
+•	Yıldız Sarayı(İstanbul) \n
+•	Dolmabahçe Sarayı(İstanbul) \n
+•	Beylerbeyi Sarayı(İstanbul) \n
+•	Çırağan Sarayı(İstanbul) \n
+Mostar Köprüsü Mimar Sinan’ın öğrencisi Mimar hayrettin tarafından Bosna-Hersek‘e inşa edilmiştir. 2005 yılında UNESCO tarafından Dünya Miras Listesine eklenmiştir. \n
+El Sanatları: Osmanlılar el sanatlarında çok iyiydi.  Güzel yazı yazma sanatı olan Hat ve resim sanatının bir türü olan Minyatür oldukça gelişmiştir. \n
+Osmanlı Devletinde resim sanatı 19. Yy’dan itibaren gelişmeye başlamıştır. Şeker Ahmet Paşa, Osman Nuri Bey, Osman Hamdi Bey önemli Osmanlı ressamlarıdır. \n
+Bu el sanatlarının yanı sıra Tezhip, Çinicilik, Ciltçilik, Dokumacılık, Oymacılık, Maden ve Ahşap Sanatı, Cam sanatı da oldukça gelişmiştir. \n
+Musiki: Osmanlıda Musiki eğitimi Enderun mektebinde verilirdi. Itri efendi, Dede efendi, Hacı Arif Bey, Zekai Dede önemli sanatçılarındandır. \n
+Seyirlik Oyunlar: Meddah, kukla, karagöz, orta oyunu ve tiyatro gibi bölümlerden oluşuyordu. \n
+Kpss genel kültür tarih dersine ait Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 6’dan, Osmanlıda Bilim ve Sanat  konularını işledik. Bir sonraki kpss tarih konumuz Osmanlı İmparatorluğu Kültür ve Medeniyeti 6 bölümü “Taşra Yönetimi”, “Osmanlı Devleti Enler ve İlkleri” konuları olacaktır. \n
+    </string>
+    <string name="tarih_osmanlı_kultur6">
+Osmanlıda Ülke Yönetimi yani Osmanlıda Taşra Yönetimi ve teşkilatların incelenmesi ile Osmanlı Devleti enler ve ilkler başlıkları Osmanlı kültür ve medeniyetinin son bölümünde incelenmektedir. Osmanlı İmparatorluğu Kültür ve Medeniyeti konusunu işlerken bölümlere ayırmıştık. Bu konuda işleyeceğimiz 6. ve son bölümdür.
+Kpss tarih dersinde bir önceki konumuzda Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 5 içerisinde; Osmanlıda Bilim ve Sanat ile ilgili bilgileri inceledik. Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 6 da ise Osmanlıda Ülke Yönetimi, Taşra Teşkilatı ile Osmanlı Devleti Enler ve İlkleri konularına değineceğiz.\n
+Osmanlıda Ülke Yönetimi | Taşra Yönetimi\n
+A. OSMANLIDA ÜLKE YÖNETİMİ  (TAŞRA YÖNETİMİ) \n
+ Osmanlılarda başkent merkez olarak sayılır, merkez dışında kalan yerlere ise taşra denirdi. Taşra eyaletlere, eyaletler sancaklara, sancaklar kazalara, kazalarda köylere ayrılarak yönetilirdi. \n
+Söğüt, İznik, Bursa, Edirne ve İstanbul’un fethiyle son olarak İstanbul Osmanlıya başkentlik yapmıştır. \n
+İstanbul devletin merkezi olduğu ve padişah burada bulunduğu için burada özel bir yönetim vardı. Padişahlar devleti Topkapı sarayından yönetirken; \n
+•	Yeniçeri Ağası – Şehrin Güvenliğini\n
+•	Taht Kadısı – Adalet İşlerini\n
+•	Şehremini – Belediye Hizmetlerini yönetirdi. \n
+Eyalet: Osmanlılarda en büyük idari birimdi. Yönetimi bakımından ikiye ayrılırlardı:
+•	Salyanesiz (Haslı-Yıllıksız) Eyaletler: Merkeze doğrudan bağlı ve yakın olan eyaletlerdir. Dirlik sistemi uygulanır ve başına Beylerbeyi denilen yöneticiler atanırdı. Anadolu, Rumeli, Karaman, Diyarbakır gibi. \n
+•	Salyaneli (Yıllıklı) Eyaletler: Merkeze bağlı ancak uzak olan eyaletlerdir. Toprakları mukataa arazi yolu ile değerlendirilir ve iltizam sistemi uygulanırdı. Mısır, Yemen, Habeş, Basra gibi. \n
+Eyalet
+ ⇓
+Sancaklar
+ ⇓
+Kazalar
+ ⇓
+Köyler\n
+Eyalet, sancak, kazalar ve köylerin sıralaması yukarıdaki gibidir. \n
+Sancak: Günümüz il büyüklüğünde olan yönetim birimidir. Sancak bey tarafından yönetilir. \n
+Kaza: Günümüz ilçe büyüklüğünde olan yönetim birimidir. Kadı tarafından yönetilirdi. \n
+Köy: Tımarlı sipahiler tarafından yönetilen küçük idari birimdir. \n
+Bu birimlerin dışında Bağlı beylik ve Hükümetlerde bulunurdu. Kutsal bölge olan Hicaz dışındaki bu birimler iç işlerinde bağımsız, dış işlerinde Osmanlıya bağlı olarak yıllık vergi verip asker gönderen devletlerdi. \n
+Kırım, Eflak, Boğdan gibi. \n
+OSMANLI DEVLETİNDE ENLER VE İLKLERİ\n
+•	İlk Osmanlı parası Osman Bey döneminde bastırıldı. \n
+•	Topraklara katılan ilk beylik Karesi Beyliği\n
+•	Orhan Bey döneminde ilk divan\n
+•	Orhan Bey döneminde ilk donanma\n
+•	Orhan Bey döneminde ilk gümüş para\n
+•	Orhan Bey döneminde ilk medrese\n
+•	Orhan Bey döneminde ilk düzenli ordu\n
+•	Orhan Bey döneminde ilk kez Rumeli’ye geçiş\n
+•	Orhan Bey döneminde ilk vezir ve kadı tayini\n
+•	Fatih Sultan Mehmet döneminde ilk altın para\n
+•	Abdülmecit döneminde ilk kâğıt para\n
+•	Murat döneminde ilk defa top kullanımı\n
+•	Murat döneminde ilk veziriazam tayini\n
+•	Murat döneminde ilk mali düzenleme\n
+•	Fatih Sultan Mehmet döneminde ilk örf-i hukuk yazılı hale getirilmesi\n
+•	İlk ticari ayrıcalığın verildi devlet Venedik\n
+•	Yıldırım Beyazıd döneminde ilk tersane\n
+•	Geleceğe dönük ilk bütçe Tarhuncu Ahmet Paşa\n
+Kpss genel kültür tarih dersine ait “ Osmanlı İmparatorluğu Kültür ve Medeniyeti Bölüm 6 ” dan , “Taşra Yönetimi”, “Osmanlı Devleti Enler ve İlkleri” konularını işledik. Bir sonraki kpss tarih konumuz “Beylikten Devlete Osmanlı” olacaktır. \n
+    </string>
+    <string name="tarih_beylikten_osmanlı">
+Beylikten Devlete Osmanlı konumuzda Osmanlının kuruluş dönemini inceleyeceğiz. Bir önceki konumuzda Taşra Yönetimi, Osmanlı Devleti Enler ve İlklerini inceledik. Kpsssorularında Osmanlı devleti ile ilgili genelde kültür ve medeniyeti konusundan soru çıkmakla beraber Osmanlı padişahları ve yönetim şekilleri de soru olarak az da olsa karşımıza çıkmaktadır. Şimdi Beylikten Devlete Osmanlı konusunu işleyelim.\n
+Beylikten Devlete Osmanlı (1300-1453) \n
+Dönem Padişahları\n
+•	Osman Bey\n
+•	Orhan Bey\n
+•	I. Murat ( Hüdavendigar) \n
+•	I. Beyazit ( Yıldırım) \n
+•	Fetret Devri\n
+•	I. Mehmet Çelebi\n
+•	II. Murat\n
+Osmanlı devletini kuranlar Oğuzların Bozok koluna bağlı Kayı boyudur. Osmanlı devleti yıkılmakta olan güçsüz Bizans ve Anadolu Selçuklu devletlerinin arasında kurulmuştur. \n
+Kurulduğu coğrafyanın genişlemeye uygun olması,Diğer beylikler ve devletler iyi geçinmesi,Anadolu ve Balkanlardaki siyasi birliğin olmaması,Fethedilen yerlerdeki hoşgörülü yönetim,Avrupada olan yüzyıl savaşlarıPadişahların kabiliyet ve ileri görüşlü olmasıCihad ve gaza düşüncesi  Osmanlının büyümesini kolaylaşmıştır. \n
+Osmanlı Devleti; \n
+Bir hanedanın en uzun hüküm sürdüğü devlettir. Ümmetçi bir anlayışa sahiptir. I. Selim’den itibaren Halifelik unvanına sahip olmuştur. Ve Anadolu’da Türk birliğini kesin olarak sağlamıştır. \n
+Osman Bey Dönemi (1299-1326) \n
+Osmanlı devletinin kurucusudur. Aşireti beylik haline getirmiştir. Bizans ile birçok savaş yapmış fakat İlhanlı ve Selçuklu devletleri ile iyi ilişkiler kurmuştur. \n
+İlk Osmanlı parasını bastırmıştır. \n
+Orhan Bey Dönemi (1326-1362) \n
+Bursayı Bizans’tan alıp başkent yapmış ve Çimpe kalesini alarak Rumeli’deki ilk toprağı almıştır. Karesioğulları alınarak Türk donanması oluşturulmuştur. Ankara Ahilerden alınmıştır. \n
+İlk düzenli ordu, ilk donanma, İlk Osmanlı Medresesi (İznik,1331) , ilk divan teşkilatı, vezirlik kurumu kurulmuştur. \n
+I. Murat Dönemi (1362-1389) \n
+Bulgarlardan alınan Edirne başkent yapılmıştır. “Devlet hükümdar ve oğullarının malıdır” anlayışı getirilmiştir. \n
+Pençik sistemi, yeniçeri ocağı, acemioğlanlar ocağı, defterdarlık, Rumeli Beylerbeyliği oluşturulmuştur. \n
+Karamanoğulları ile akrabalık, Germiyanoğulları ile çeyiz yoluyla toprak alma, Hamitoğullarından ise toprak satın alma gelişmeleri olmuştur. \n
+I. Beyazid Dönemi (1389-1402) \n
+İstanbul’u 4 defa kuşatıp alamamıştır. Niğbolu savaşında haçlıları bozguna uğratmış ve Sultan-ı İklim-i Rum unvanı verilmiştir. Birçok beyliğe son vererek Anadolu Türk birliğini sağlamıştır. 1402 Ankara savaşında Timur’a  yenilmiş ve esir düşmüştür. Osmanlı devleti Fetret devrine girerek yıkılma tehlikesi geçirmiştir. \n
+İlk cülus bahşişi, Anadolu Hisarı, Anadolu Beylerbeyliği, Gelibolu tersanesi gibi kurum ve uygulamalar başlamıştır. \n
+I. Mehmet Dönemi (1413-1421) \n
+Fetret devrine son vererek merkezi otoriteyi yeniden sağlamıştır. Bu sebeple ikinci kurucu unvanı ile anılır. Venedik ile yapılan ilk deniz savaşı kaybedildi. Artan asker ihtiyacını karşılamak için devşirme sistemini getirmiştir. \n
+II. Murat Dönemi (1421-1451) \n
+İstanbul kuşatılmış alınamamıştır. Macarlar ile Edirne- Segedin antlaşması imzalanmıştır. Bu antlaşmadan sonra tahtı küçük yaştaki oğlu Mehmet’e bırakmıştır. Varna savaşında yeniden tahta geçmiş ve haçlı ordularını yenilgiye uğratmıştır. Ayrıca II. Kosova savaşını da kazanarak Osmanlının Balkanlara kesin olarak yerleştiğini kanıtlamıştır. \n
+Devşirmeler için Enderun mektebi bu dönemde kurulmuştur. \n
+Kpss genel kültür tarih dersi Beylikten Devlete Osmanlı konusunu işledik. Bir sonraki genel kültür tarih konumuz İstanbul’un Fethi 1453 olacaktır. \n
+    </string>
+    <string name="tarih_istanbul_fatih">
+İstanbul’un Fethi 1453 konumuzda Fatih Sultam Mehmet Han’ın İstanbul’u fethi ve padişahlığı dönemindeki gelişmeleri inceleyeceğiz. Bir önceki Beylikten Devlete Osmanlı konumuzda Osmanlının kuruluş dönemi olaylarını ve padişahlarını ve Kpss açısından önemli detayları ele almıştık. Bu bölümde de İstanbul’un Fethi 1453 konusunu ele alacağız.\n
+İstanbul’un Fethi 1453\n
+İstanbul’un Fethinin Nedenleri\n
+•	Hz. Muhammed’in İstanbul’ un fethiyle ilgili sözleri\n
+•	İstanbul’un Ortodoks dünyasının merkezi konumunda olması\n
+•	Ticaret yolları ve boğazların denetimi\n
+•	Osmanlının toprak bütünlüğünü sağlama\n
+•	Rumeli’ye geçiş ve fetihlerin kolaylaşması\n
+•	Bizans’ın şehzadeleri, Avrupalı devletleri ve Anadolu beyliklerini kışkırtması\n
+Fetih Hazırlıkları\n
+•	Bazı Anadolu beylikleri ile antlaşmalar yapılmıştır. \n
+•	Rumeli Hisarı yapılmıştır. \n
+•	400 parçalık donanma oluşturulmuş, Edirne’ de büyük toplar ve havan topları dökülmüştür.
+•	Bizans’ın Saray ve Vize kaleleri fethedilmiştir. \n
+6 Nisan 1453’te başlayan kuşatma 53 günlük bir direnişten sonra İstanbul’un fethi ile tamamlanmıştır. Kuşatma sırasında Fatih Sultan Mehmet 70 parçalık donanmayı karadan yürüterek Tophane- Kasımpaşa sırtlarından Haliç’e indirmiştir. Çünkü kuşatma sırasında Bizans Haliç’in önünü zincirlerle kesmiştir. \n
+İstanbul’un Fethinin Sonuçları\n
+•	Osmanlının Yükselme Dönemi başlamıştır. \n
+•	İstanbul başken yapılmıştır. \n
+•	Boğazlar ve İpek yolu Osmanlının eline geçmiş ve devletin toprak bütünlüğü sağlanmıştır. \n
+•	Osmanlının İslam dünyasında itibarı artmıştır. \n
+•	1058 yıllık Bizans imparatorluğu yıkılmıştır. \n
+•	Ortaçağ sona ermiş ve Yeniçağ başlamıştır. \n
+•	Ticari yolların Osmanlı eline geçmesi ile coğrafi keşifler artmıştır. \n
+•	Topların surları yıkmasının anlaşılası üzerine derebeylik (feodalite) rejimin yıkılabileceği anlaşılmıştır. \n
+•	Ortodokslar Osmanlı himayesine alınmıştır. \n
+Himaye altına alınan Ortodokslar sayesinde Avrupa’da oluşacak Hristiyan birliğini önlenmek, İslamiyet’in hoşgörülü olduğunu göstermek, Rum desteğini yanına almak ve Ortodoksların hareketlerini kontrol altına almak gibi amaçlar vardır.  \n
+1.Mehmet (Fatih) Dönemi\n
+•	Devlet hükümdarın malıdır. \n
+•	İstanbul’da Sahnı Seman medresesi açılmıştır. \n
+•	Kanunname-i Ali Osman hazırlanmıştır. \n
+•	İlk Osmanlı altın parası bastırılmıştır. \n
+•	Rumeli Hisarı, Topkapı Sarayı, fatih Camii inşa edilmiştir. \n
+•	Enderun mektebi açılmıştır. \n
+•	Sırbistan, Mora, Eflak, Bosna – Hersek, Arnavutluk fethedilmiş,
+•	Napoli krallığına ait Otranto kalesi alınmış, \n
+•	Amasra Cenevizlilerden alınmıştır, \n
+•	Candaroğullları, Trabzon Rum İmparatorluğuna son verilmiştir. \n
+•	İmroz, Taşoz, Limni ve Semadirek adaları Cenevizlilerden, Midilli ve Eğriboz adaları Venediklilerden alınmıştır. \n
+•	Rodos kuşatılmış fakat alınamamıştır. \n
+•	İlk kapitülasyonlar Venediklilere verilmiştir. \n
+Kpss genel kültür tarih dersi  İstanbul’un Fethi 1453 konusunu işledik. Bir sonraki genel kültür tarih konumuz Osmanlı Yükselme Dönemi olacaktır. \n
+        
+    </string>
+    <string name="tarih_osmanlı_yukselis">
+Osmanlı Yükselme Dönemi konumuzda Osmanlı Devletinin dünya gücü haline gelmesi ve bu dönem padişahlarını inceleyeceğiz. Bir önceki İstanbul’un Fethi 1453 konumuzda İstanbul’un fethini ve bu fethi gerçekleştiren Fatih Sultan Mehmet’in dönemini inceledik. Sıradaki kpsstarih konumuz ise  1. Beyazid, Yavuz Sultan Selim, Kanuni Sultan Süleyman, 2. Selim ve 3. Murat yani Sokullu Mehmet Paşa Dönemlerini içeren Osmanlı Yükselme Dönemi olacaktır.\n
+Osmanlı Yükselme Dönemi (1453-1600) \n
+Osmanlı Yükselme Dönemi Padişahları\n
+•	Fatih Sultan Mehmet (1451-1481) \n
+•	Bayezid (1481-1512) \n
+•	Yavuz Sultan Selim (1512-1520) \n
+•	Kanuni Sultan Süleyman (1520-1566) \n
+•	Selim (1566-1574) \n
+•	Murat (1574-1579) \n
+Osmanlı Yükselme Dönemi padişahlarından Fatih Sultan Mehmet (1451-1481) Dönemini bir önceki konumuz olan İstanbul’un fethi bölümünde işlemiştik. \n
+1. Bayezid Dönemi\n
+Boğdan’ın fethi tamamlanarak Kırım ile kara bağlantısı kurulmuştur.  Osmanlı memlük savaşları başlamıştır. Karamanoğulları beyliğine kesin olarak son verilmiştir. \n
+İnebahtı, Modon, Koron kaleleri ve Navarin Limanı alınmıştır. 1481-1495 yıllarında ortaya çıkan Cem Sultan olayı ile Osmanlının iç meselesine Memlük ve Rodos şövalyelerinin karışması ile bir dış sorun haline dönüşmüştür.  Ruhsal bozuklukların tedavisi amacıyla Edirne Bayazid Külliyesi içine bir şifahane yapılmıştır. \n
+2.Yavuz Sultan Selim\n
+Venedik Kıbrıs adası için Osmanlıya vergi ödemeye başlamıştır.  Şah İsmail’in  Anadolu’daki Şiilik  propagandasını önlemek için İran seferine çıkılmış. Çaldıran savaşıyla Şah İsmail yenilgiye uğratılmıştır. Turnadağ Savaşı ile Dulkadiroğulları beyliğine Anadolu birliği kesin olarak sağlanmıştır. Mısır seferine çıkarak Mercidabık ve Ridaniye Savaşlarında Memluk ordularını yenerek Memluklülere son verilmiştir. Böylece Baharat yolu denetim altına alınmış ve Halifelik Osmanlı padişahlarına geçmiştir. Kardeşleri Ahmet ve Korkut’un saltanat düşüncelerini öğrenip onları ortadan kaldırmıştır. \n
+Hicaz Emirliği Osmanlıya bağlanmış, böylece Mekke ve Medine (Hicaz) gibi kutsal şehirler ile halifelik Osmanlı yönetimine geçmiştir. Kutsal emanetler İstanbul’a getirilmiştir. Haliçte büyük bir tersane kurulmuştur. \n
+3. Kanuni Sultan Süleyman\n
+Belgrad kalesi Macarlardan alınmıştır. Mohaç Meydan savaşı ile Macar orduları yenilgiye uğratılmıştır. I. Viyana Kuşatması başarısızlıkla sonuçlanmıştır. Irakeyn seferi ile Tebriz ve Bağdat alınmıştır. Osmanlı İran devleti ile ilk antlaşması olan Amasya Antlaşması imzalanmıştır. Hint deniz seferleri sonucunda Sudan, Yemen, Habeşistan’ın bir kısmı Osmanlıya bağlanmıştır. \n
+Rodos adası alınmıştır. Cezayir Osmanlıya savaş yapmadan bağlanmıştır. Haçlı donanması Preveze Deniz Zaferi ile yenilgiye uğramış ve Akdeniz Türk gölü haline getirilmiştir. Trablusgarb alınmıştır. Malta adası kuşatılmış ama alınamamıştır. Hint deniz seferlerinden istenen sonuç alınamamış  ve Sakız adası fethedilmiştir. \n
+Budin Beylerbeyliği oluşturulmuştur. Cezayir emiri Barbaros Hayrettin Paşa İstanbul’a davet edilmiş ve Osmanlı donanmasının başına getirilmiştir. Süleymaniye Medresesi açılmıştır. \n
+Zigetvar Seferi Kanuni’nin son seferi olmuştur. \n
+
+4. II. Selim ve III. Murat Dönemi (Sokullu Mehmet Paşa Dönemi) (1564-1579) \n
+Lehistan’ın alınmasıyla Osmanlı Baltık Denizine ulaşmıştır. Kıbrıs adası fethedilmiş ve bu fetih İnebahtı savaşına neden olmuştur. Bu savaş sonucunda Haçlı donanması Osmanlıyı yenilgiye uğratmıştır. Fas ve Tunus Osmanlı himayesine alınmıştır. \n
+Kpss genel kültür tarih dersi Osmanlı Yükselme Dönemi  konusunu işledik. Bir sonraki genel kültür tarih konumuz Osmanlı Duraklama Dönemi olacaktır. \n
+    </string>
+    <string name="tarih_osmanli_duraklama">
+Osmanlı Duraklama Dönemi  Osmanlı Devletinde Sokullu Mehmet Paşanın ölümü ile başlayıp Karlofça Antlaşmasına kadar süren döneme denmektedir. Bir önceki konumuzda Osmanlı Yükselme Dönemi 1. Beyazid, Yavuz Sultan Selim, Kanuni Sultan Süleyman, 2. Selim ve 3. Murat yani Sokullu Mehmet Paşa Dönemlerini  inceledik. Sıradaki kpss tarih konumuz ise Osmanlı Duraklama Dönemi olacaktır.\n
+Osmanlı Duraklama Dönemi\n
+Osmanlı Duraklama Dönemi Padişahları\n
+•	III. Mehmet (1595-1603) \n
+•	I. Ahmet (1603-1617) \n
+•	I. Mustafa (1617-1618) \n
+•	II. Osman (1618-1622) \n
+•	I. Mustafa (1622-1623) (2. kez) \n
+•	IV. Murat (1623-1640) \n
+•	Sultan İbrahim (1640-1648) \n
+•	IV. Mehmet (1648-1687) \n
+•	II. Süleyman (1687-1691) \n
+•	II. Ahmet ( 1691-1695) \n
+•	II. Mustafa (1695-1703) \n
+Osmanlı Duraklama Döneminin İç Nedenleri\n
+1. Merkezi otoritenin bozulması\n
+I. Ahmet döneminde sancağa çıkma usulünün kaldırılması şehzadelerin tecrübesiz olmasına neden olmuştur. Bu nedenle şehzadeler saray kadınlarının ve diğer görevlilerin etkisinde kalmıştır. \n
+2. Tımar Sisteminin ve Eyalet Yönetiminin Bozulması\n
+Artan nüfus, tımar sisteminin bozulması ve celali isyanlarının çıkması nedeniyle şehirlere göç artmıştır. Eyalet yönetiminde artan rüşvetle tayin edilme durumu tecrübesiz ve bilgisiz yöneticileri arttırmıştır. \n
+3. Ordu ve Donanmanın Bozulması\n
+Bozulan tımar sistemi ile eyaletlerdeki asker sayısı azalmış ve yeniçerilerin başına buyruk davranışları artmıştır. Askerlikten farklı işlerle uğraşmaya başlayan yeniçeri “Ocak devlet içindir” anlayışı yerine “Devlet ocak içindir ” anlayışını benimsemiştir. \n
+4. Ekonominin Bozulması\n
+Azalan gelir kaynaklarının ve artan masrafların ortaya çıkması ekonominin bozulmasına yol açmıştır. Uzayan, kaybedilen savaşlar, artan saray giderleri, sık sık dağıtılan cülus bahşişleri, coğrafi keşiflerle açılan yeni ticaret yolları nedeniyle İpek ve Baharat yolunun öneminin azalması ekonominin bozulmasını sağlamıştır. \n
+5. Eğitim Sisteminin Bozulması\n
+Yükselme döneminde en gözde eğitim kurumları iken medreselerin çağın gerisinde kalması, pozitif bilimlerin okutulmaması, rüşvet, adam kayırma, beşik uleması uygulamalar gibi nedenlerle eğitim sistemi zayıflamıştır. \n
+6. Toplumun Yapısının Bozulması\n
+Tımar sisteminin bozulmasıyla artan göçler, huzur ve güven ortamının bozulması, ahlaki, kültürel ve ekonomik açıdan bozulmalar devletin otoritesini zayıflatmıştır. \n
+7. Toprak Sisteminin Bozulması\n
+Tımar sisteminin bozulması, toprak sisteminin bozulması ve ardından çıkan celali isyanları ile ortaya çıkan göç ile tarımsal üretim azalmış ve işsizlik oranı artmıştır. \n
+Kpss genel kültür tarih dersi Osmanlı Duraklama Dönemi konusunu işledik. Bir sonraki genel kültür tarih konumuz Duraklama Dönemi Dış Nedenleri olacaktır. \n
+    </string>
+    <string name="tarih_osmanli_duraklama2">
+Duraklama Dönemi Dış Nedenleri, Osmanlı Duraklama Dönemi konusunun devamını oluşturmaktadır.  Bir önceki konumuzda Osmanlı Duraklama Dönemi duraklamanın iç nedenlerini inceledik. Sıradaki kpss tarih konumuz ise Duraklama Dönemi Dış Nedenleriolacaktır.\n
+Duraklama Dönemi Dış Nedenleri\n
+1. İmparatorluğun Doğal Sınırlara Ulaşması\n
+Üç kıtada ulaşılan 20 milyon km² alanın idaresi zorlaşmıştır. Osmanlı devleti bu dönemde güçlü devletlerle komşu olup büyük denizlere ve çöllere uzanan ülkeleri ele geçirmişti. Merkezden uzak yerlerde idare zorlaşmış ve bozulmuştu. \n
+2. Avrupalı Devletlerin Osmanlı Devletine Karşı Politikalarının Değişmesi\n
+Osmanlı kuruluşundan yükselişine Avrupalı devletlerle bir mücadele içerisinde olmuştur. Bu dönemlerde yapılan fetihlerle Balkanlarda etkinliği artmış ve Yükselme devrinin sonlarında Orta Avrupa’daki etkinlik artmıştır. Osmanlının gücünü kaybedip duraklama dönemine girmesiyle Avrupalıların Osmanlı politikalarında değişikliğe neden olmuştur. \n
+3. Avrupalıların Bilim ve Akademik Alanda İlerlemesi\n
+Rönesans ve Reform hareketleri sonucu Avrupa’da bilimsel gelişmeye engel durumlar ortadan kaldırılmıştır. Bilim, teknik ve ekonomi alanında birçok gelişmeler yaşanmıştır. \n
+4. Coğrafi Keşiflerin ve Kapitülasyonların Etkisi\n
+15. ve 16. yüzyıllarda Avrupalıların yaptıkları keşiflerle buldukları değerli maden ve yer üstü kaynakları Avrupalı Devletlerin ülkelerine götürmeleri ekonomik açıdan gelişmelerini sağlamıştır. Coğrafi keşifler ile İpek yolu ve  Baharat yolu önemini kaybetmiş ve Osmanlının önemli gelir kaynaklarının yok olmasına sebep olmuştur. Her ne kadar coğrafi keşiflerin olumsuz etkisinden kurtulmak için Osmanlı Devleti Avrupalı devletlere ekonomik ayrıcalık yani kapitülasyonlar verse de bu durumu engelleyememiştir. Bilim ve teknoloji alanında ilerleyen Avrupalı devletler Osmanlı Devletini açık pazarları konumuna getirmişlerdir. \n
+17.Yüzyılın Önemli Siyasi Olayları\n
+Yapılan bazı antlaşmalar ve olaylar Duraklama Dönemi Dış Nedenlerinin temelini oluşturmaktadır. \n
+Ferhat Paşa Antlaşması (1590) = Osmanlı – İran → Osmanlı Devleti doğudaki en geniş sınıra ulaşmıştır. \n
+Nasuh Paşa Antlaşması (1611) = Osmanlı- İran → Ferhat Paşa antlaşması ile alınan topraklar geri verilmiştir. \n
+Kasr-ı Şirin (1639) = Osmanlı- İran → Günümüzdeki İran sınırımızın temelini oluşturur.
+Bucaş Antlaşması (1672) = Osmanlı- Lehistan → Osmanlı batıdaki en geniş sınırlara ulaşmış ve son kez yeni toprak kazanmıştır. \n
+Bahçesaray Antlaşması(1681) = Osmanlı – Rusya → Osmanlı ve Rusya arasında yapılan ilk siyasi anlaşmadır. \n
+Zitvatoruk Antlaşması (1606) = Osmanlı – Avusturya →Osmanlının Avusturya üzerindeki üstünlüğü sona ermiş ve arşüdük Osmanlı padişahına eş sayılmıştır. \n
+Karlofça Antlaşması(1699) = Osmanlı- Avusturya, Lehistan ve Venedik → Osmanlı ilk kez büyük oranda toprak kaybetmiştir. Avrupa’ya ilerleyiş son bulmuş ve askeri alanda geri kalındığı anlaşılmıştır. \n
+Kpss genel kültür tarih dersi Duraklama Dönemi Dış Nedenleri konusunu işledik. Bir sonraki genel kültür tarih konumuz 17. Yüzyıl İsyanları olacaktır. \n
+    </string>
+    <string name="tarih_isyanlar">
+17. Yüzyıl İsyanları, Osmanlı Duraklama Döneminde ortaya çıkan ve yönetimi zorlaştıran isyanlardır. Birçok bölgede ve farklı grupların çıkardığı isyanlar vardır. Bir önceki konumuzda Duraklama Dönemi Dış Nedenlerini inceledik. Sıradaki kpss tarih konumuz ise 17. Yüzyıl İsyanları olacaktır.\n
+17. Yüzyıl İsyanları\n
+a. İstanbul İsyanları ( Merkez İsyanları- Kapıkulu İsyanları) \n
+Kapıkulu askerlerinin İstanbul’da çıkardıkları isyanlardır. Daha çok yeniçeriler çıkarmış olsa da bazen medrese öğrencileri ve ulema da katılmıştır. \n
+İstanbul İsyanlarının Nedenleri\n
+Devlet ocak içindir anlayışı, \n
+Cülus ve ulufe dağıtımında oluşan aksaklıklar, \n
+Devlet adamlarının yeniçerileri çıkarları doğrultusunda kullanması, \n
+Kapıkulu ocağında bozulan askeri disiplin. \n
+İstanbul İsyanlarının Sonuçları\n
+Başkentte devlet otoritesi sarsılmıştır. \n
+Yeniçerilerin yönetimdeki etkinliği artmıştır. \n
+Ocaklardaki bozulmalarla savaşların kaybedilmesi ve uzamasına neden olmuştu. \n
+Yeniçeri ocağının kapatılması düşüncesi getirilmiş fakat uygulanamamıştır. \n
+Yeniçeriler yönetimde etkinlik arttırarak ıslahatlara karşı çıkmış ve devletin yıkılış sürecine girmesini sağlamıştır. \n
+Bu dönemde II. Osman’ın öldürülmesi ve IV. Mehmet döneminde 30’a yakın devlet adamının çınar ağacına asılması (Vakay-ı Vakvakiye -Çınar vakkası) ile ortaya çıkan isyanlar en önemli İstanbul isyanlarını oluşturmaktadır. \n
+b. Celali İsyanları\n
+Anadolu’da asker kaçaklarının ve bazı güçlü ailelerin çıkardığı isyanlara iş bulamayan medrese öğrencileri ve başı boş kalan leventlerde destek vermiştir. \n
+Canbolatoğlu, Katırcıoğlu, Deli Hasan, Tavil Ahmet, Kalenderoğlu isyanları önemli celali isyanlarındandır. \n
+Celali İsyanlarının Nedenleri\n
+Ekonominin bozulması\n
+Tımar sisteminin bozulması, \n
+Devşirme kökenli idarecilerin halkla anlaşamaması, \n
+Savaştan kaçan askerlerin isyana katılması, \n
+Asayişin bozulması ile halkın toprağını terketmesi, \n
+İran savaşlarında Anadolunun çok yıpranması ve savaş alanı haline gelmesi, \n
+Uzun süren savaşların asker ve yöneticilerin görev bölgelerinden alıkoyması\n
+İstanbul ve Celali isyanları yönetime değil şahıslara yönelik isyanlardır. \n
+Celali İsyanlarının Sonucu\n
+Devlete olan güven azalmış, \n
+Ayanlar otorite kurmaya başlamış, \n
+Üretimdeki azalma ve vergilerin düzenli toplanamaması ekonomiyi olumsuz yönde etkilemiş, \n
+Anadolu’da can ve mal güvenliği kalmamış, köylerden şehirlere göç artmış, \n
+Kuvvet ve şiddet yolu ile bastırıldığı için kesin çözüm olmamış ve bir süre sonra yeni isyanlar çıkmıştır. \n
+c. Eyalet İsyanları\n
+Devlet otoritesinin bozulmasıyla merkeze uzak yerlerde çıkan isyanlardır. Milliyetçilik fikri henüz gelişmediği için bu ayaklanmalar başarısızlıkla sonuçlanmıştır. \n
+Kpss genel kültür tarih dersi 17. Yüzyıl İsyanları konusunu işledik. Bir sonraki genel kültür tarih konumuz 17. Yüzyıl Islahatları olacaktır. \n
+    </string>
+    <string name="tarih_islihatlar">
+17. Yüzyıl Islahatları, Osmanlı Duraklama Döneminde devlet otoritesi, askerlik, ekonomi, yönetim alanlarında yapılan düzenlemelerdir. Önemli devlet adamları ve padişahlar tarafından yapılan ıslahatlardır. Bir önceki konumuzda 17. Yüzyıl İsyanlarını inceledik. Sıradaki kpss tarih konumuz ise 17. Yüzyıl Islahatları olacaktır.\n
+17. Yüzyıl Islahatları\n
+I. Ahmet\n
+Ekber Erşed sistemi kabul edilerek, şehzadelere sancağa çıkma uygulaması kaldırılmış ve sarayda kafes usulü ile eğitilmişlerdir. Bu durum şehzadeleri birçok alanda olumsuz etkilemiş. Devlet tecrübesi olmayan, halktan kopuk, yetersiz şehzadelerin tahta geçmesine neden olmuştur. \n
+Kuyucu Murat Paşa\n
+I. Ahmet döneminde sadrazamlık yapan Kuyucu Murat Paşa devlet otoritesini sağlamak amacıyla ıslahatlar yapmıştır. Celali isyanlarına karşı sert askeri tedbirler alıp, baskı ve şiddet politikalarına başvurmuştur. \n
+II. Osman (Genç) \n
+Genç Osman hükümdar olduktan sonra köklü değişimler yapmak istemiştir. Bu amaçla Başkenti farklı bir yere taşımayı planlamıştır. Saray dışı evlilik geleneğini başlatmıştır. Şeyhülislamın fetva dışındaki yetkilerine son vermiştir. Zamanın ihtiyaçlarını göz önüne alarak kanunların yapılmasını benimsemiştir.
+Yönetimdeki padişah etkisini arttırmak için çalışmıştır. Yeniçeri Ocağını kaldırmaya çalışmıştır. Bu düşünce 17. Yüzyıl Islahatlarının en önemli ıslahat düşüncesidir. Fakat Genç Osman bu düşüncesini yerine getiremeden durumu öğrenen Yeniçeriler tarafından öldürülmüştür. Osmanlı tarihinde isyancılar tarafından öldürülen ilk padişah Genç Osman olmuştur. \n
+IV. Murat\n
+Devlet otoritesi, Yeniçeri Ocağını itaat altına alma, İstanbul’un asayişi ve güvenliğini sağlama gibi amaçlarla ıslahatlar yapmıştır. Islahatlarla ilgili Koçi Bey (Koçi Bey Risalesi) ve Katip Çelebiden raporlar almıştır. Baskı ve şiddet politikası izlemiş,geceleri sokağa çıkma yasağı, içki ve tütün yasağı getirmiştir. Yeniçeri ve sipahileri ortadan kaldırmıştır. \n
+Tarhuncu Ahmet Paşa\n
+Bozulan ekonomik düzen, artan askeri ve diğer harcamalar nedeniyle Osmanlı’da ekonomi bozulmuştur. Tarhuncu Ahmet Paşa bu sebeple ekonomik alandaki ıslahatlara ağırlık vermiştir. Osmanlı Devletinde ilk modern bütçeyi hazırlayan kişidir. Ve tabi ki bu ıslahatlar çıkar çevreleri tarafından tepki ile karşılanmış ve idam edilmesine neden olmuştur. \n
+Köprülü Mehmet Paşa\n
+Gittikçe bozulan devlet otoritesi ve maliye devlet sorunlarını arttırmıştır. Göreve gelmesi karşılığında uygun çalışma ortamı isteyen Köprülü Mehmet Paşa şartlarının sağlanması ile göreve gelmiştir. Bu şartlardan bazıları şunlardır; \n
+Sadrazamlık görevine kimse müdahale edemeyecek, \n
+Saraya teklif edilen her teklif kabul edilecek ve aykırı hareket edilmeyecek, \n
+İstediği kişileri istediği yere ve göreve atayabilecek, \n
+Kendisi hakkında gelen şikayetlere savunması alınmadan bir karar verilmeyecek. \n
+Köprülü Mehmet Paşa İstanbul ulemasındaki kargaşaya son vermiş, maliye ile ilgili önlemler almış, Askeri alanda düzenlemeler yapmış, merkezi otoriteyi arttırmıştır. Köprülü Mehmet Paşanın ardından yerine oğlunun gelmesi ile Köprülüler Dönemi devam etmiştir. \n
+Köprülü Fazıl Ahmet Paşa\n
+Duraklama dönemindeki en geniş topraklara ulaşmıştır. Anadolu’daki sipahi isyanlarını bastırmış, ordu ve donanmada ıslahatlar yapmıştır. Daha sonra Köprülü ailesinden , \n
+Merzifonlu Kara Mustafa Paşa\n
+Fazıl Mustafa Paşa, \n
+Amcazade Hüseyin Paşa sadrazamlık görevinde yer almıştır. \n
+Sonuç olarak; \n
+17. Yüzyıl Islahatları daha çok düşünce safhasında kalmış ve başarılı olamamıştır. Baskı ve şiddet ile otorite sağlanmaya çalışılmış fakat buda başarısız olmuştur. Sorun köküne inilmeyip çözüm getirilmediği için yüzeysel kalmıştır. Her gelen farklı ıslahatlar yaptığından süreklilik ve başarı sağlanamamıştır. Yapılan ıslahatlar maalesef sorunlara çözüm olamamış, duraklamayı engelleyememiş ve gerileme dönemine girilmiştir. \n
+Kpss genel kültür tarih dersi 17. Yüzyıl Islahatları konusunu işledik. Bir sonraki genel kültür tarih konumuz 18. Yüzyıl Islahatları olacaktır. \n
+    </string>
+    <string name="tarih_islihatlar2">
+18. Yüzyıl Islahatları çalışmalarında Osmanlı kaybettiği toprakları geri alma politikası yürütmeye çalışmış fakat başarısız olunca topraklarını korumayı amaç edinmiştir. Bozulmuş durumdaki devlet kurumları yapılan ıslahatlarla düzenlenmek istenmiştir. Önceki kpsskonumuzda 17 Yüzyıl Islahatlarını incelemiştik. Sıradaki konumuzda ise 18. Yüzyıl Islahatlarını inceleyeceğiz.\n
+18. Yüzyıl Islahatları\n
+Lale Devri İsyanı\n
+18. Yüzyıl Islahatları Lale devri ile başlamıştır. Bu devir Pasorofça Antlaşması ile başlar ve Patrona Halil İsyanına kadar devam eder. Haliç ve Boğaziçine yapılan sarayların bahçeleri ve bir çok yerde lale ekilmesi ve lale yetiştirilmesi döneme Lale Devri adının verilmesine neden olmuştur. Bu devrin en önemli devlet adamı Damat İbrahim Paşadır. 18. Yüzyıl Islahatlarında etkisi büyük olan ve Avrupadaki gelişmelerden yararlanmayı tercih eden bir yöneticidir. Bu dönemin en ünlü şairi Nedim, en ünlü minyatür sanatçısı Levnidir. \n
+Lale Devri Islahatları\n
+Avrupa’nın çeşitli yerlerine geçici elçiler gönderilmiştir. \n
+İlk Türk matbaası İbrahim Müteferrika ve Sait Efendi tarafından kurulmuştur. \n
+Matbaada basılan ilk eser Vankulu Lügatıdır. \n
+Matbaa Avrupadan alınan ilk teknik yeniliktir. \n
+1720’de İstanbul’da Yeniçeri ocağına bağlı olarak Tulumbacı Ocağı (itfaiye) kurulmuştur. \n
+Devlet eli ile Yalova’da kağıt fabrikası açılmıştır. \n
+İlk kez çiçek aşısı uygulanmıştır. \n
+III. Ahmet Çesmesi dönemin en önemli eserlerinden biridir. \n
+Avrupa Rokoko ve Barok tarzı örnek alınarak mimari eserler inşaa edilmiştir. \n
+Enderun ve Yeni Camii kütüphanesi açılmıştır. \n
+Lale Devrinde askeri alanda ıslahatlar önemli bir yer tutmamıştır. İstanbul surları onarılmıştır. \n
+Patrona Halil İsyanı\n
+Lale Devri ıslahatlarında lüks ve israfın artması, eğlence ve zevk düşkünlüğü tepkiye neden olmuştur. Damat İbrahim Paşanın izlediği politikalar, İran savaşındaki başarısızlıklar nedeniyle Patrona Halil ve arkadaşları ile halkı kışkırtarak isyan ettirmişlerdir. İsyancılar sadrazam ve bazı devlet adamlarının idamını istemişlerdir. Ve isyancılar padişah III. Ahmet’i tahtan indirerek yerine I. Mahmut’un padişah olmasını sağlamışlardır. \n
+I.Mahmut Dönemi Islahatları\n
+İlk yılı isyancılarla uğraşmakla geçen I. Mahmut Patrona Halil ve arkadaşlarını yakalayarak ortadan kaldırmıştır. Fransız asıllı Humbaracı Ahmet Paşayı(Kont dö Bonneval) askeri ıslahatlar yapması için göreve getirmiştir. Humbara ve topçu ocakları ıslah edilmiştir. Subay yetiştirmek için Hendesehane açılmıştır. \n
+III. Mustafa Dönemi Islahatları\n
+Yenilikçi bir düşünceye sahip olan III. Mustafa önemli ıslahatlar yapmıştır. Macar asıllı Baron Dö Tot askeri alanda çeşitli çalışmalar yapmış. Modern bir top dökümhanesi kurulmuş ve hafif toplarda yapmıştır. Avrupa’daki gibi Sürat Topçuları Ocağı kurulmuştur. Mühendishane-i Bahri Hümayun açılmış ve burada deniz subayı yetiştirilmiştir. \n
+I. Abdülhamit Dönemi Islahatları\n
+Avrupa’dan danışmanlar getirerek çeşitli ıslahatlar yapmıştır. Yeniçeri sayımı yapılmış ve ulufe alım satımı yasaklanmıştır. İstihkam okulları açılmış modern gemiler yapılmıştır. Yerli malı kullanımına önem verilmiş ve teşvik edilmiştir. İç borçlanma yani Esham Usulü uygulanmaya başlanmıştır. \n
+III.Selim Dönemi Islahatları\n
+Avrupadaki gelişmeleri ve yenilikleri yakından takip ettirmiştir. Avrupa tarzındaki ilk orduyu yani Nizamı Cedid ordusunu kurmuştur. Bu ordu masraflarını karşılamak için Irad-ı Cedid adında bir hazine kurulmuştur. Mühaendishane-i Berri Hümayun (Kara Mühendishanesi) açılmıştır. Avrupa’daki önemli başkentlere daimi eliçilikler açılmıştır. \n
+Kpss genel kültür tarih dersi 18. Yüzyıl Islahatları konusunu işledik. Bir sonraki genel kültür tarih konumuz 19. Yüzyıl Siyasi Olayları olacaktır. \n
+    </string>
+    <string name="tarih_siyasi_olaylar">
+19. Yüzyıl Siyasi Olayları konumuzda Osmanlının en uzun yüzyılı olarak adlandırılan yüzyılı inceleyeceğiz. Bu dönemde Osmanlı büyük sorunlar yaşamış ve arayış içerisinde olmuştur. Çıkan isyan ve ayaklanmalar devletin daha da zayıf düşmesine ve işgale açık hale gelmesine neden olmuştur. Önceki konumuzda 18. Yüzyıl Islahatlarını işlemiştik. Sıradaki kpsskonumuz 19. Yüzyıl Siyasi Olayları olacaktır.\n
+19. Yüzyıl Siyasi Olayları\n
+Osmanlı devleti bu dönemde Denge Siyaseti izleyerek ayakta kalmayı sağlamış ve rekabetlerden yararlanarak toprak bütünlüğünü korumuştur. \n
+19. Yüzyıl Siyasi Olaylarını inceleyelim. \n
+Sırp İsyanı\n
+Fransız İhtilalinin etkisiyle yayılmaya başlayan milliyetçilik düşüncesi Sırplar üzerinde de etkili olmuştur. Ayrıca Rusya’nın yapmış olduğu kışkırtmalarda Sırpların ayaklanmasında etkili olmuştur. Bükreş Antlaşması ile Sırplara imtiyazlar verilmiş, 1829 yılında imzalanan Edirne  Anlaşması ile özerklik kazanmış, 1878 yılında imzalanan Berlin Anlaşması ile de bağımsızlığını ilan etmiştir. \n
+Milliyetçilik hareketleri sonucu Osmanlıdan ilk imtiyaz elde eden toplum Sırplardır. \n
+Yunan İsyanı\n
+Yayılan milliyetçilik düşüncesi ve Filiki Eterya cemiyetinin faaliyetleri Rumların ayaklanmalarına neden olmuştur. Mora’da isyan eden Rumların bastırılamaması üzerine II. Mahmut Mısır Valisi Mehmet Ali Paşa’dan yardım istemek zorunda kalmıştır. İsyan bastırılmış fakat Avrupalı devletler Osmanlıya baskı yaparak Yunanistan’a özerlik verilmesini istemişlerdir. Bu teklif kabul edilmeyince de Osmanlı donanmasını Navarin’de yakmışlardır. Yunanistan Edirne Anlaşması sonucunda bağımsız olmuştur. \n
+Milliyetçilik hareketleri sonucu Osmanlıdan ayrılıp Bağımsızlığını ilan eden devlet Yunanistan’dır. \n
+Mısır Sorunu (Mehmet Ali Paşa İsyanı) \n
+Yunan bağımsızlığı ve Navarin olaylarından sonra kendisine vadedilen Mora adasını kaybeden Mehmet Ali Paşanın Suriye valiliğini istemesi üzerine yaşanan sorundur. II. Mahmut bu isyan karşısında İngiltere ve Fransa’dan yardım alamayınca Rusya’dan yardım istemek zorunda kalmıştır. Rusya yardımı üzerine isyanın etkileri büyümüş bu duruma karşı çıkan İngiltere ve Fransa isyanı Avrupa sorununa dönüştürmüştür. Rusya ile Hünkar İskelesi Anlaşması imzalanmıştır. Avrupalı devletlerin desteğini almak için Tanzimat Fermanı ilan edilmiştir. \n
+1838 Balta Limanı Ticaret Antlaşması\n
+Osmanlı devleti İngilizleri yanında tutabilmek için Balta Limanı Ticaret Anlaşmasını imzalayarak İngiltere’ye ticari ayrıcalıklar vermiştir. Bu anlaşma ile İngiliz mallarının girişi ve satışı kolaylaştırılmış ve Osmanlı İngiltere’nin açık pazarı haline gelmiştir. \n
+Boğazlar Sorunu\n
+Bu anlaşma ile boğazların Osmanlı egemenliği altında kalması kararına varılmıştır. Barış zamanında savaş gemilerinin boğazlardan geçmesi yasaklanmıştır. Boğazlar uluslararası bir statüye kavuşmuştur. \n
+Kırım Savaşı (1853-1856) \n
+Rusya’nın Osmanlı topraklarını ele geçirmek için harekete geçmesi savaşı başlatan neden olmuştur. Fransa ve İngiltere Osmanlının yanında savaşa girmiştir. Savaşta başarılı Olan Osmanlı ve müttefikleri savaşlara Paris Anlaşması ile son vermiştir. Osmanlı bu anlaşma ile Avrupalı bir devlet sayılmıştır. Avrupa’nın iç işlerine karışmasını önlemek amacıyla Osmanlı Islahat Fermanını yayınlamıştır. İlk dış borç İngiltere’den alınmıştır. \n
+Kpss genel kültür tarih dersi 19. Yüzyıl Siyasi Olayları konusunu işledik. Bir sonraki genel kültür tarih konumuz Panslavizm ve 1877-1878 Osmanlı Rus Savaşı olacaktır. \n
+    </string>
+    <string name="tarih_osmanli_rus">
+Osmanlı Rus Savaşı (1877-1878) yani 93 Harbi ve Panslavizm  , Rusya’nın Slav toplumunu birleştirme politikası ve bu uğurda yaptığı bazı eylemleri içermektedir. Rusya yaptığı çalışmalarla, kışkırtmalarla ve cemiyetlerle bu emellerini gerçekleştirmeyi amaçlamıştır. Önceki konumuzda 19. Yüzyıl Siyasi Olaylarını incelemiştik. Sıradaki kpss konumuz ise Osmanlı Rus Savaşı (1877-1878) diğer adıyla 93 Harbi ve Panslavizm olacaktır.\n
+Osmanlı Rus Savaşı (1877-1878) ve Panslavizm\n
+Panslavizm ve Balkan Bunalımı\n
+Rusya’nın Ortodoks ve Slav kökenli ulusları kendi egemenliği altında birleştirmeyi amaçlamıştır. 19. yüzyılda ortaya çıkan bu akıma Panslavizm denilmiştir. bu amaçla kurulan gizli cemiyetler Balkan milletleri arasında bu düşüncenin yayılmasını sağlamışlardır. Bu çalışmaların sonucunda köylüler vergilerini vermemeye başlamış ve isyan etmişlerdir. Bu gelişmelere tarihte Balkan Bunalımı olarak geçmiştir. İsyanların bastırılması sonucunda Sırplar Avrupa’dan yardım istemiştir. Avrupalı devletler İstanbul’da bir konferans toplanmasına karar vermişlerdir. \n
+İstanbul Konferansı\n
+Osmanlı, Rusya, İngiltere, Fransa,Avusturya,Almanya ve İtalya katılmıştır. Bu esnalarda Osmanlıda I.Meşrutiyet ilan edilmiştir. Avrupalı devletlerin, Rusya’nın ve Osmanlının anlaşmaya varamamaları nedeniyle Rusya Osmanlı karşı savaş açmıştır. \n
+1877-1878 Osmanlı Rus Savaşı (93 harbi) \n
+93 Harbi olarak da bilinen Osmanlı Rus Savaşı 1877-1878 yıllarında meydana gelmiştir. Rusya’nın savaş açması üzerine Osmanlı Paris Antlaşmasının bozulduğunu ileri sürmüş ve İngiltere’den yardım istemiştir. İngiltere ise savaşa müdahale etmemiştir. Balkanlarda ve Kafkaslarda gerçekleşen savaş neticesinde Ruslar doğuda Erzurum batıda Edirne’ye kadar olan bölgeleri ele geçirmişlerdir. Rusların bu ilerleyişi karşısında padişah II. Abdülhamit barış istemek zorunda kalmıştır. Osmanlı ve Rusya arasında Ayastefanos (Yeşilköy) Anlaşması imzalanmıştır. Rusya’nın böylesine güçlenmesine karşı çıkan İngiltere’ye Almanya  ve Avusturya destek olunca bu antlaşma hiç yürürlüğe girmemiştir. Rusya yeni bir konferans teklifini kabul etmiş ve görüşmeler sonucunda Berlin Antlaşması imzalanmıştır. \n
+Osmanlı desteğini alabilmek için İngilizlere Kıbrıs’ı üs olarak vermiştir. Rusya işgal ettiği Kars,Ardahan ve Batum’u Osmanlıya bırakmıştır.Ermeni sorunu bu antlaşma ile ulusal bir sorun haline gelmiştir. Sırbistan, Karadağ ve Romanya bağımsız olmuştur. \n
+1877-1878 Osmanlı Rus Savaşı sırasında Gazi Osman Paşa Plevne’de, Nene Hatun ise Erzurum’da gösterdikleri kahramanlıklarla ön plana çıkmıştır. \n
+Kpss genel kültür tarih dersi Osmanlı Rus Savaşı (1877-1878) ve Panslavizm konusunu işledik. Bir sonraki genel kültür tarih konumuz Osmanlının Dağılması olacaktır. \n
+    </string>
+    <string name="tarih_osmanli_dagilmasi">
+
+Osmanlının Dağılması kaybedilen savaşlar, yapılan anlaşmalarla kaybedilen topraklar, verilen imtiyazlar ve tavizler, ayaklanmalar, isyanlar, yapılan işgaller ile ortaya çıkan bir sonuçtur. Yapılan anlaşmalar, çıkarılan kanunlar,ıslahatlar, yayınlanan Tanzimat ve Islahat Fermanları, Meşrutiyet hareketleri Osmanlıyı bu kötü sondan kurtaramamıştır. Önceki kpss tarih konumuzda Panslavizm ve 1877-1878 Osmanlı Rus Savaşı konusunu incelemiştik. Sıradaki konumuz ise Osmanlının Dağılması olacaktır.\n
+Osmanlının Dağılması\n
+Osmanlının Dağılması sürecini etkileyen bazı önemli olaylar şunlardır. \n
+Kıbrıs’ın Kaybedilmesi\n
+İngiltere’nin Berlin Konferansında Osmanlıya vereceği desteğin karşılığında Kıbrıs’ın kendisine üs olarak verilmesi talebi ile başlayan bir süreçtir. İngiltere Kıbrıs’ üs yaparak Rusların Akdeniz’e inmesini engellemeye ve Doğu Akdeniz, Süveyş Kanalını kontrol altına almayı planlıyordu. Yapılan anlaşma ile Kıbrıs İngilizlere üs olarak bırakılmıştır. Fakat I. Dünya Savaşında Osmanlının Almanya tarafında savaşa girdiğini duyurması ile İngiltere de Kıbrıs’ı topraklarına kattığını ilan etmiştir. \n
+Tunus’un Fransızlar Tarafından İşgali\n
+Cezayir ve Tunus arasındaki sınır olaylarını bahane eden Fransa Tunus’u işgal etmiştir. \n
+Mısır’ın İngilizler Tarafından İşgali\n
+Mısır’ı doğudaki sömürgeler için bir geçiş noktası olarak gören İngiltere 1882 yılında Mısır’ı işgal etmiştir. Fransızlar tarafından açılan Suveyş Kanalı Mısır’ın siyasi ve ekonomik önemini arttırmıştır. Hidiv İsmail döneminde Maliye alanındaki sorunlar milliyetçilik hareketlerinin artmasını sağlamış ve İngiltere bu durumu işgal için bahane olarak kullanmıştır. \n
+Girit Sorunu ve 1897 Osmanlı – Yunan Savaşı\n
+1866 yılında Girit adasındaki Rumlar isyan ederek Yunanistan’a bağlanmak istediklerini belirtmişlerdir. Avrupalı devletlerin olaylara karışma ihtimalini göz önünde bulunduran Osmanlı Devleti Girit’e yeniimtiyazlar vermek zorunda kalmıştır. \n
+Bulgaristan’ın Bağımsız Olması (1908) \n
+Bulgaristan 2. Meşrutiyetin ilanı sırasında Osmanlı Devletindeki karışıklıklarda faydalanarak bağımsızlığını ilan etmiştir. (1908) \n
+Avusturya’nın Bosna – Hersek’i İlhak Etmesi (1908) \n
+Yapılan Berlin Anlaşmasında Bosna – Hersek’in yönetim ve idaresi geçici olarak Avusturya devletine bırakılmıştı. Avusturya bu toprakları bir daha Osmanlı Devletine geri vermemiştir. İkinci Meşrutiyetin ilan edilmesi sırasında ise Bosna – Hersek topraklarını kendi topraklarına kattığını açıklamıştır. \n
+Fazla miktarda kaybedilen topraklar Osmanlının gücünü büyük oranda kaybetmesine neden olmuştur. Bu durum Osmanlı Devletinin dağılma sürecine girmesini sağlamıştır. \n
+Kpss genel kültür tarih dersi Osmanlının Dağılması konusunu işledik. Bir sonraki genel kültür tarih konumuz ise II. Mahmut Dönemi Islahatları olacaktır. \n
+    </string>
+    <string name="tarih_2mahmut">
+
+2. Mahmut Dönemi Islahatları konusunda Senedi İttifak gibi önemli bir anlaşmayla beraber padişah II. Mahmut’un askeri, eğitim, yönetim ve diğer alanlarda yaptığı ıslahatları inceleyeceğiz. II. Mahmut önemli ıslahat ve yenilikler yapmış bir padişahtır. Önceki kpss tarih konumuzda Osmanlının Dağılması konusunu işlemiştik. Sıradaki konumuz ise 2. Mahmut Dönemi Islahatları olacak.\n
+2. Mahmut Dönemi Islahatları\n
+Kabakçı Mustafa isyanı sonrasında hükümdar olan IV. Mustafa, Alemdar Mustafa Paşanın çabalarıyla tahttan indirilmiş ve II. Mahmut tahta getirilmiştir. II. Mahmut ise Alemdar Mustafa Paşayı sadrazamlık görevine getirmiştir. Kendisi de ayan olan Alemdar Mustafa Paşa ayanlar ile padişah arasında bir sözleşme yapılmasını sağlamış ve Sened-i İttifak imzalanmıştır. \n
+Ayan: Zayıflayan merkezi otorite ile ortaya çıkan yerel güçlerdir. Bulundukları bölgenin sahibi gibi hareket eder ve devlet amirlerini dinlemezlerdi. \n
+Sened-i İttifak (1808) \n
+Alemdar Mustafa’nın çabası ile Padişah ve ayanlar arasında imzalanan anlaşmadır. Anlaşmaya göre padişah ayanların varlık ve haklarını tanıyacak, ayanlarda padişahın otoritesini tanıyacaktı. Ve devlete kendi bölgelerinde çıkan olaylarda, vergi ve asker toplamaya yardım edeceklerdi. Bu belge hükümdarın yetkilerini kısıtlaması yönüyle Magna Carta’ya benzemektedir. Çünkü padişah otoritesini ayanlar ile paylaşmıştır. Bu anlaşma ile padişah otoritesi sarsılmış, yetkileri kısıtlanmış ve başka bir otoriteyi tanımıştır. \n
+Askeri Alanda Yapılan Islahatlar\n
+Sekban-ı Cedit Ocağı kurulmuş fakat yeniçerilerin isyanı ile sadrazam öldürülmüş ve ocak kapatılmıştır. Ekşinci Ocağı kurulmuş fakat bu ocakta yeniçeri isyanı sonucu kapatılmıştır. 1826 yılında Vakayi Hayriye olay ile yeniçeri ocağı kaldırılmış ve yerine Asakir-i Mansureyi Muhammediye ordusu kurulmuştur. \n
+Mekteb-i Tıbbıye ve Mekteb-i harbiye askeri okulları açılmış, mehterhane kapatılarak yerine Mızıka-i Hümayun kurulmuştur. Askeri ve ekonomik amaçlı ilk nüfus sayımı  yapılmış fakat sadece erkeklerin sayımı yapılmıştır. \n
+Eğitim Alanında Yapılan Islahatlar\n
+İstanbul’da ilkokul zorunlu hale gelmiş, Ortaokul konumunda Rüştiye, lise konumunda Mekteb-i Ulum-ı Edebiye kurumları açılmıştır. İlk kez Avrupaya öğrenci gönderilmiş ve askeri okullarda Fransızca zorunlu ders olmuştur. \n
+Yönetim Alanında Yapılan Islahatlar\n
+Divan-ı Hümayun kaldırılmış yerine bakanlıklar kurulmuştur. Memurluklar dahiliye ve hariciye olarak ayrılmıştır. Devlet memurları maaşa bağlanmış ve memurlara fes, ceket ve pantolon giyme zorunluluğu giyme zorunluluğu gelmiştir. Müsadere ve tımar sistemi kaldırılmıştır. Köy ve mahalle muhtarlıkları kurulmuştur. Posta teşkilatı ve polis teşkilatı kurulmuştur. \n
+Diğer Islahatlar\n
+İlk resmi gazete Takvim-i Vekayi yayınlanmıştır. Yerli malı kullanma ve karantina uygulaması başlatılmıştır. Ülkeye giriş çıkışlarda ilk kez pasaport uygulaması getirilmiştir. \n
+Kpss genel kültür tarih dersi 2. Mahmut Dönemi Islahatları  konusunu işledik. Bir sonraki genel kültür tarih konumuz ise Tanzimat Dönemi olacaktır. \n
+    </string>
+    <string name="tarih_tanzimat_dönemi">
+Tanzimat Dönemi Tanzimat fermanı ve Islahat Fermanı ve bu dönemde yapılan ıslahatları kapsamaktadır. Abdülmecid, Abdülaziz, V. Murat ve II. Abdülhamit  Tanzimat Döneminde tahta çıkmıştır. Önceki kpss konumuzda II. Mahmut Dönemi Islahatlarını işlemiştik. Sıradaki konumuzise Tanzimat Dönemi olacaktır.\n
+Tanzimat Dönemi\n
+II. Mahmut’tan sonra tahta geçen Abdülmecid Tanzimat Fermanı’nı ilan etmiştir. \n
+Tanzimat Fermanı\n
+1839 yılında Mustafa Reşit Paşa tarafından Gülhane Parkında yabancı temsilcilere ve halka okunarak ilan edilmiştir. Gülhane Hattı Hümayunu olarak bilinen bu ferman batılı devletlerin Osmanlı iç işlerine karışmasına engel olması ve devletin parçalanmasını önlemek amacıyla ilan edilmiştir. \n
+•	Herkesin mal, can, ırz, namus ve hürriyetine saygı duyulması, \n
+•	Açık mahkeme ve eşit şartlarda yargılanma, \n
+•	Herkes gelirine göre vergi ödeyecek, \n
+•	Herkes kanun önünde eşit olacak, \n
+•	Özel mülkiyet hakkı verilecek, \n
+•	İşkence, dayak ve angarya kaldırılacak, \n
+•	Rüşvet ve iltimas kalkacak şartları getirilmiştir. \n
+Bu ferman ile padişah yetkileri ikinci kez kısıtlanmış vergi, askere gitme vatandaşlık haline getirilmiştir. Osmanlıda ilk kez kanun gücü üstünlüğü kabul edilmiş ve anayasal sürece geçişe ilk adım atılmıştır. Fakat bu ıslahat çalışmaları ile Osmanlı istediği sonuçları alamamıştır. Yabancı devletler azınlıklar için bu hakları yetersiz bulmuş ve baskı ile 1856 yılında Osmanlıyı Islahat Fermanını yayınlamak zorunda bırakmışlardır. \n
+Islahat Fermanı\n
+Azınlıklara verilen bir takım haklar ile yabancı devletlerin ülkenin iç işlerine karışması önlenmek istenmiştir. Ayrıca bu fermanın yayınlanması ile Paris Barış Konferansında lehine karar alınmasını amaçlamıştır. Fakat yabancı ülkelerin baskısı daha çok artmıştır. Ferman Paris Anlaşmasının maddesi olarak ilan edilmiş ve uygulaması zorunlu hale gelmiştir. Azınlıklara; \n
+•	Bedelli askerlik, \n
+•	Şirket ve banka kurma, \n
+•	Devlet memuru olabilme, \n
+•	Mahkemelerde eşit şahitlik, \n
+•	İl genel meclisinde görev alma hakları verilmiştir. \n
+Tanzimat fermanının ilanı ile başlayıp I. Meşrutiyetin ilanına kadar süren bu döneme Tanzimat dönemi denir. \n
+Bu dönemde,
+•	Vilayet Nizamnamesi ile eyaletler kaldırılmış yerine il, sancak, kaza, nahiye ve köy yönetim birimleri kurulmuştur. \n
+•	İl Genel Meclisleri oluşturulmuştur. \n
+•	Kaime adındaki ilk kağıt para basılmıştır. \n
+•	Tercümanı Ahval adında ilk özel gazete kurulmuştur. \n
+•	İlk Osmanlı bankası olan Bank-ı Dersaadet kurulmuştur. \n
+•	Eğitim Bakanlığı kurulmuştur. \n
+•	İptidailer, İdadiler ve Sultaniler açılmıştır. \n
+•	Yabancı ülkelere okul açabilme hakkı verilmiştir. \n
+•	İzmir – Aydın arası ilk demir yolu açılmıştır. \n
+•	İlk telgrafhane kurulmuştur. \n
+•	İlk kez Avrupalı devletlerden dış borç alınmıştır. \n
+•	1863 yılında Memleket Sandıkları kurulmuştur. Daha sonra Ziraat Bankasına dönüşmüştür.
+•	Danıştay kurulmuştur. \n
+•	İlk üniversite olan Darül Fünun açılmıştır. \n
+Kpss genel kültür tarih dersi Tanzimat Dönemi konusunu işledik. Bir sonraki tarihdersi konumuz I. Meşrutiyet olacaktır. \n
+    </string>
+    <string name="tarih_mesrutiyet">
+
+I. Meşrutiyet konumuzda I. Meşrutiyet’in ilanı ve II. Abdülhamit dönemini inceleyeceğiz. Islahat ve Tanzimat fermanlarının yayınlanmasının ardından sona ermeyen ülke, yönetim, ekonomi ve dış ülkeler ile olan sorunlar sona ermemiş, ülke yönetimi üzerinde baskılar artmıştır. Bu sorunların çözümü için meşrutiyetin ilan edilmesi baskıları artmıştır. Önceki konumuzda Tanzimat Dönemini incelemiştik. Sıradaki kpsstarih dersi konumuz ise I. Meşrutiyet  olacaktır.\n
+I. Meşrutiyet\n
+Avrupa’ ya eğitim için giden öğrencilerden aydın bir sınıf oluşmuş ve bunlara Jön Türkler (Genç Türkler veya Genç Osmanlılar) denmiştir. Bu grupta Namık Kemal, Ziya Paşa, Mithat Paşa ve Hüseyin Avni gibi aydınlar bulunuyordu. Jön Türkler devletin içinde bulunduğu durumdan ve yaşadığı sorunlardan ancak meşrutiyetin ilanı ile kurtulacağını savunuyordu. \n
+Fransız ihtilali ile yaygınlaşan Ulusçuluk (Milliyetçilik) anlayışı ile iç isyanlar başlamıştır. Bu isyanlar devletin parçalanmasına ve yabancı ülkelerin iç işlerimize karışmasına neden olmuştur. Jön Türkler Osmanlı halkının kurtuluşunun Osmanlıcılık ruhu ve vatandaşlık bilinci ile etrafında birleştirerek azınlıkların yönetime katılması ile olacağını savunmuştur. Bu amaçla padişah Abdülaziz’e baskı yapan Jön Türkler, Abdülaziz kabul etmeyince Şeyhülislamdan fetva alarak tahtan indirip yerine V. Murat ‘ı tahta geçirdiler. Ancak V. Murat’ı da devleti yönetecek yeterlilikte görmedikleri için akli dengesi yerinde olmadığı gerekçesi ile tahtan indirerek yerine II. Abdülhamit’i geçirmişlerdir. II: Abdülhamit’i tahta geçirmeden önce meşrutiyeti ilan etme şartını kabul ettirmişlerdir. Tahta geçen II. Abdülhamit Belçika ve Prusya anayasalarını örnek alarak Kanun-i Esasiye anayasasını hazırlatmış ve 23 Aralık 1876 tarihinde meşrutiyeti ilan etmiştir. \n
+Meşrutiyetin ilanı ile ilk defa parlamenter sisteme geçilmiş ve ilk kez anayasa ilan edilmiştir. İlk defa halk yönetime katılmış ve anayasal bir yönetim başlamıştır. I. Meşrutiyete göre yasama yetkisi meclise aittir. Kanun teklifi padişahın izni ile sadece hükümete aitti. Yürütme görevi ise padişahın seçmiş olduğu hükümete aitti. Hükümet padişaha karşı sorumluydu. Kanunlar ancak padişahın onayı ile yürürlüğe girebilirdi. Padişah mahkeme kararına ihtiyaç duymadan sürgüne gönderebilir ve olağan üstü durumlarda meclisi kapatabilirdi. \n
+Meşrutiyetin ilanında etkili olan nedenlerden biri de İstanbul Konferansı kararlarını etkilemek olmuştur. Osmanlı meclisi Meclis-i Ayan (Ayanlardan oluşan meclis) ve Meclis-i Mebusan (Halk tarafından 4 yılda bir seçilen meclis)  olarak iki gruptan oluşuyordu. \n
+II. Abdülhamit 1877-1878 Osmanlı – Rus Savaşını (93 Harbi) bahane ederek meclisi kapatmıştır. Fakat savaşın bir yıl sonra bitmesine rağmen meşrutiyet ilan edilmemiş İstibdat adı verilen yönetim anlayışı ile 30 yıl boyunca ülkeyi yönetmiştir. Bu dönemde Sanayi Nefise Mektebi, Baytar Mektebi, Halkalı Ziraat Mektebi açılmıştır. Duyun-ı Umumiye İdaresi ve tütün üretimini arttırmak için Reji idaresi kurulmuştur. \n
+Kpss genel kültür tarih dersi I. meşrutiyet konusunu tamamladık. Bir sonraki tarih dersi konumuz ise 19. Yüzyıl Osmanlı Siyasi Gelişmeler olacaktır. \n
+    </string>
+    <string name="tarih_siyasi_gelismeler">
+19. Yüzyıl Osmanlı Siyasi Gelişmeleri içinde Fransız İhtilali ve Sanayi Devrimi sonucu ortaya çıkan ayaklanmalar, isyanlar, antlaşmalarla özerklik ve bağımsızlık kazanan ülkelere değineceğiz. Kpss genel kültür tarih dersinde yer alan Yeni ve Yakın çağda görülen bazı olayları (Rönesans, Fransız İhtilali, Sanayi Devrimi vs.) ise önümüzdeki konularda ele alacağız. Bir önceki konumuzda 1. Meşrutiyet başlığını ele almıştık. Şimdi de 19. Yüzyıl Osmanlı Siyasi Gelişmeler konusunu irdeleyeceğiz.\n
+19. Yüzyıl Osmanlı Siyasi Gelişmeleri\n
+19. Yüzyıl Osmanlı siyasi gelişmeleri denilince aklımıza gelecek olan ilk ve en önemli unsur ‘’Osmanlı’nın toprak bütünlüğünü korumak için çaba göstermesi’’ olmalıdır. Bu yüzyıl Osmanlı açısından ve bu konuyu anlamaya çalışan öğrenciler açısından biraz can sıkıcıdır. Ayaklanmalar, isyanlar, arkadan vurmalar, ihanetler, entrikalar…. Bir konuyu bırakın kitaplara sığamayacak olaylardan ibarettir 19. Yüzyıl. \n
+İki önemli olay Fransız İhtilali ve Sanayi Devrimi, 19. Yüzyılın Osmanlı için berbat bir yüzyıl olmasına sebep olmuştur. \n
+Fransız İhtilali’nin Osmanlıya zararı nelerdir? \n
+Fransız İhtilali milliyetçilik akımını getirmiştir. Bu akım ile azınlıklar isyan bayraklarını çekmişler. Bu isyanları önlemek için Osmanlı sosyal, idari ve askeri alanlarda yenilik ve düzenlemelere gitmiştir. Peki isyan bayrakları aşağı çekildi mi? Hayır. ‘’Belki bu sorunu Avrupalı devletlerin desteğiyle atlatabilirim.’’ diyen Osmanlı İmparatorluğu, Avrupalı devletlerin kendi içişlerine karışmasına da sebebiyet vermiştir. \n
+Sanayi Devrimi’nin Osmanlıya zararı nelerdir? \n
+Sanayi Devrimi ile Avrupalı devletlerinin ekonomisi büyümüştür. Ancak sanayileşemeyen Osmanlının ekonomisi çökme noktasına gelmiştir. Kapitülasyonların etkisiyle Avrupalı devletlerin gözünde bir pazar haline gelen Osmanlı’da üretim azalmış, küçük olan işletmeler kapanmış, loncaların eski önemi kaybolmuş ve tüm bunlar işsizliğin artmasına yol açmıştır. Karnı tok ama gözü aç olan Fransa ve İngiltere Osmanlı’nın Orta Doğu ve Afrika’daki topraklarını ham madde arayışı sebebiyle işgal etmişlerdir. \n
+Kapitülasyon: Bir devletin başka bir devlete belirli bir anlaşma koşuluyla ekonomik ayrıcalık vermesidir. Bir koşula bağlı olarak belirli ülke vatandaşlarına ticari ayrıcalıklar verilmesi de bir kapitülasyon örneğidir. \n
+19. Yüzyıl Ayaklanma ve İsyanlar\n
+Sırpların Ayaklanması\n
+•	İlk ayaklanan ulustur. \n
+•	Fransız İhtilali ile beraber gelen milliyetçilik akımı Balkanlarda yer alan Sırpların ayaklanmasında ana sebeptir. \n
+•	1812 Bükreş Antlaşması ile bazı ayrıcalıklar elde etmişlerdir. \n
+•	1829 Edirne Antlaşması ile özerklik elde etmişlerdir. \n
+•	1878 Berlin Antlaşması ile de bağımsızlığını kazanmıştır. \n
+Yunanların Ayaklanması\n
+•	İngiltere, Fransa ve Rusya’nın desteğini alarak ayaklanmışlardır. \n
+•	Yunanlılar Osmanlıdan ayrılarak bağımsızlığını kazanan ilk ulus olma özelliğini de taşımaktadır. \n
+•	Yunan isyanı sırasında1827 yılında Fransa, İngiltere ve Rusya Navarin Olayı ile Osmanlı donanmasını yakmışlardır. \n
+Kavalalı Mehmet Ali Paşa İsyanı\n
+Yunanlılar isyan ederken Osmanlıya yardım eden fakat bazı isteklerde bulunan zamanın Mısır Valisi Kavalalı Mehmet Ali Paşa, bu istekleri kabul görmeyince isyan etmiştir. Bu isyanı bastırmakta zorlanan Osmanlı Rusya’dan yardım istemiştir. Ruslar donanmalarıyla İstanbul’a gelmiş, aynı zamanlarda İngiltere ve Fransa da olaya müdahale edince bu olay uluslar arası bir boyut kazanmış. Tüm bu baskılara dayanamayan ve barışa razı olan Mehmet Ali Paşa ile 1833 Kütahya Antlaşması imzalanmıştır. \n
+Bir zaman sonra tekrar ayaklanan Mehmet Ali Paşa ile 1840 Londra Antlaşması imzalanmıştır. Bu anlaşmaya göre Mısır Osmanlı’ya bağlı kalacak ancak yönetimi Mehmet Ali Paşanın oğullarına kalabilecekti. \n
+Yukarıdaki ayaklanmaları ve özellikle Kavalalı Mehmet Ali Paşa isyanını göz önünde bulundurursak, Osmanlının yardım almadan ve taviz vermeden bunların üstesinden gelemediğini görmekteyiz. Bu olaylar zamanında kıtalara hükmeden bir imparatorluk için dayanılmaz bir durumdu. \n
+Hünkar İskelesi Antlaşması ve Boğazlar Sorunu\n
+19.	Yüzyıl Osmanlı Siyasi gelişmelerine Rusya ile devam eden siyasi ilişkilerle devam edelim. 1833 Kütahya Antlaşması’ndan sonra kendisini güvence altına almak isteyen Osmanlı, Rusya ile 1833 Hünkar İskelesi Antlaşması‘nı imzalamıştır. Bu antlaşmanın önemli yerleri şunlardır: \n
+•	Osmanlı herhangi bir saldırıya maruz kalırsa Rusya Osmanlı’ya yardım edecek. \n
+•	Osmanlı Rusya’ya karşı bir saldırı olursa boğazları kapatacak. \n
+•	Antlaşma 8 yıl süreliydi ve Avrupalı devletlerin tepkisini çekmişti. \n
+Boğazlar Sorunu: Rusların boğazlarda ayrıcalık elde etmesi Fransa ve İngiltere’yi tedirgin etmişti. Buna bağlı olarak boğazlar sorunu ortaya çıkmıştı. Boğazlardaki egemenlik hakkının tamamen Osmanlıya verilmesi ise 1841 Londra Boğazlar Konferansı’nda imzalanan sözleşme ile olacaktı. \n
+1838 Balta Limanı Antlaşması\n
+•	Osmanlı ile İngiltere arasında imzalanan bir ticaret antlaşmasıdır. \n
+•	İngiltere’ye yüksek derecede ekonomik ayrıcalıklar verilmiştir. Amaç ise İngiltere’nin desteğini almaktır. \n
+•	Osmanlı açık bir pazar haline getirilmiştir. \n
+•	Bu antlaşmayla gümrük vergileri çok azalmıştır. \n
+Paris Barış Konferansı ve Paris Antlaşması\n
+1853-56 yılları arasında Osmanlı ile Rusya arasında çıkan Kırım Savaşı ile Rusya Sinop’ta Osmanlıya ait donanmayı yakmıştır. İngiltere, Fransa ve İtalya Rusya’nın boğazlara hakim olacağını düşünerek Osmanlı’nın yanında savaşa girmiştir. Böylece Rusya barış yapmak zorunda kalmış ve Paris Barış Konferansı toplanmıştır.  Bu konferans sonucunda da Paris Antlaşması imzalanmıştır. Bu Antlaşmanın önemli yerleri şunlardır: \n
+•	Osmanlı’nın toprak bütünlüğünün korunacağı belirtilmiştir. \n
+•	Osmanlı’nın Avrupa Devletler Hukukundan yararlanması kabul edilmiştir. \n
+•	Osmanlı Devleti ilk kez bir Avrupa Devleti sayılmıştır. \n
+•	Karadeniz’in tarafsız olması ve her iki tarafında donanma ya da tersane bulundurmaması üzerine anlaşılmıştır. \n
+Osmanlı kazanmasına rağmen yenik devlet gibi muamele görmüştür. \n
+Paris Antlaşması ile Osmanlı kendi toprak bütünlüğünü koruyamadığını kabul etmiştir. \n
+Bu yüzyılda Rusya, Tanzimat ve Islahat Fermanı’nda yer alan ayrıcalıkları yeterli bulmamıştır. Osmanlı içinde yer alan etnik unsurlardan yararlanmak için cemaatlerin milliyet esasına göre teşkilatlandırılmasını istemiştir. (Görüldüğü üzere Rusya artık talepte de sınır tanımamaktadır.) \n
+Bu konuda yer alan Osmanlı donanmalarının yanmasına değinmişken önemli bir not geçelim. Osmanlı Donanmaları toplamda 4 sefer önemli şekilde yanmıştır. Bunlar: \n
+•	1571 İnebahtı (Haçlılar tarafından) \n
+•	1770 Çeşme Savaşı (Ruslar tarafından) \n
+•	1827 Navarin (İngiliz, Fransız ve Ruslar tarafından) \n
+•	1853 Kırım Savaşında Sinop donanmasının yanması (Yine Ruslar tarafından). \n
+Tersane Konferansı ve Londra Konferansı\n
+Balkanların durumu görüşülmek üzere 1876 yılında Tersane Konferansı düzenlenmiştir. Bosna Hersek ve Bulgaristan’a özerklik verilmesi, Sırbistan ve Karadağ’dan Osmanlı kuvvetlerinin çekilmesi kararlaştırılmıştır. \n
+1877 yılında düzenlenen Londra Konferansı’na göre ise Bosna Hersek ve Bulgaristan’a yeni haklar verilmesi ve ıslahatların Avrupalı devletlerce denetlenmesi kararlaştırılmıştır. Bu iki konferansta alınan kararlar Osmanlı Devleti tarafından içişlerine müdahale olarak görülmüş ve kabul edilmemiştir. \n
+Rusya ilk defa 1774 yılında Küçük Kaynarca Antlaşması ile Osmanlı içindeki Ortodokslara müdahil olarak Osmanlı’nın içişlerine karışmıştır. \n
+Ayestefanos (Yeşilköy) Antlaşması ve Berlin Antlaşması\n
+Tersane ve Londra Konferanslarındaki kararları kabul etmeyen Osmanlıya Karşı Ruslar savaş açmıştır. Bu savaş daha önceden işlediğimiz 93 Harbi’dir. Ruslar büyük bir başarı elde edince Osmanlı barış istemek zorunda kalmıştır. İki taraf arasında Ayestefanos Antlaşması imzalanmıştır. Bu antlaşmayla Avrupalı devletler (İngiltere, Avusturya ve Almanya) Rusya’nın Balkanlardaki hakimiyetinin genişleyeceğini düşünerek karışı çıkmışlar ve yeni bir anlaşma ortaya çıkmıştır. \n
+Her ne kadar 93 Harbi’nde Osmanlı yenilse de, Osman Paşa Plevne’de büyük bir savunma örneği göstermiştir. Ayrıca Aziziye Tabyası, Nene Hatun’un gayretleriyle ve halkın da yardımıyla Erzurum’u korumayı başarmıştır. Böylece Rusya’nın Erzurum’u alma çabası Aziziye Tabyası’nın direnişi ile sonuçsuz kalmıştır. \n
+Ayestefanos Antlaşmasından sonra Osmanlı Devleti olası bir Rus saldırısına karşı kendisini koruması amacıyla 1878 yılında Kıbrıs Adası’nın yönetimini İngiltere’ye vermiştir. Fakat İngiltere burayı askeri bir üs haline getirmiş ve 1. Dünya Savaşı sırasında da adayı kendisine kattığını ilan etmiştir. \n
+Bir derede iki balık kavga ediyorsa bilin ki oradan ince uzun bacaklı bir İngiliz geçmiştir. (Kızılderili Atasözü.) \n
+Ayestefanos Antlaşmasını iptal ettiren Avrupalı Devletlerin çabasıyla Berlin’de düzenlenen konferansla beraber Berlin Antlaşması imzalanmıştır. Bu anlaşmayla: \n
+•	Sırbistan, Karadağ ve Romanya bağımsız olmuştur. \n
+•	Kars, Ardahan ve Batum Rusya’ya verilmiştir. \n
+•	İlk kez Ermeni Sorunu ortaya çıkmıştır. \n
+Ayestefanos Antlaşması imzalandığı halde yürürlüğe giremeyen yani ölü doğan bir antlaşmadır. Bu yapısı ile Sevr Antlaşmasına benzemektedir. \n
+Duyun-u Umumiye İdaresi\n
+Osmanlı dış borçlarını ödeyememesi sonucu Muharrem Kararnamesi ile 1881 yılında Duyun-u Umumiye İdaresi kurulmuştur. Genel Borçlar İdaresi olarak bilinen bu kurum, devletin bazı gelirlerine el koyarak borçların doğrudan buradan ödenmesini hedeflemiştir. \n
+Duyun-u Umumiye İdaresi’nin kurulması sonucu Osmanlı Devleti’nin ekonomisi artık tamamen yabancı devletlerin denetimi altına girmiştir. \n
+19. Yüzyıl Osmanlı Siyasi Gelişmeleri konusun son kısmına geldik. 1878 yılı ve sonrası önemli siyasi olayları sıralayalım: \n
+•	1878 yılında Bosna Hersek yönetimi Avusturya – Macaristan İmparatorluğuna bırakılmıştır. \n
+•	1881 yılında Fransa Tunus’u işgal etmiştir. \n
+•	1882 yılında İngiltere Mısır’ı işgal etmiştir. \n
+•	Girit Adası ayaklanmış ve Yunanistan’a katılmaya çalışılmış. 1868 yılında Girit’e Halepa Fermanı ile ayrıcalıklar verilse de 1896 yılında yine ayaklanmıştır. \n
+•	1897 yılında Yunanistan’ın Girit Adası’nı işgel etmeye başlamasıyla Osmanlı ile Yunanistan arasında Dömeke Savaşı başlamış ve bu savaşı Osmanlı kazanmıştır. \n
+•	Osmanlı İstanbul Antlaşması ile Girit Adasını bir süreliğine elinde tutmayı başarmıştır. \n
+Kpss genel kültür Tarih dersinde 19. Yüzyıl Osmanlı Siyasi Gelişmeleri konusunu inceledik. Bir sonraki Kpss Tarih konumuz 2. Meşrutiyet olacaktır. \n
+    </string>
+    <string name="tarih_mesrutiyet2">
+2. Meşrutiyet KPSS genel kültür tarih konusu içinde işlenmektedir. 1. Meşrutiyet ile karıştırılmasından dolayı KPSS sorularında genelde ikisi şıklar içinde verilir. Bu yüzden tarih ve olaylar ile kimin zamanında gerçekleştiğine dikkat etmemiz gerekiyor. Böylece bu iki konuyu kronolojik olarak  hafızamızda yer edindirebiliriz. Bir önceki tarih konumuz 19. yüzyıl Osmanlı siyasi gelişmeleriydi. Şimdi 2. Meşrutiyet konusunu detaylarıyla inceleyelim.\n
+2. Meşrutiyet\n
+Bir önceki konudan bildiğimiz üzere Osmanlı, 19. yüzyılda toprak bütünlüğünü koruma çabası içindeydi. Fakat durum böyle olmadı. Özellikle istibdat döneminde artan toprak kayıpları ülkeyi tedirginliğe sürüklemişti. Ekonomik sıkıntılarla beraber özgürlüklerin kısıtlanması 2. Abdülhamit’e karşı muhalefeti arttırmıştı. Diğer yandan Jön Türkler bazı cemiyetler kurarak meşrutiyetin yeniden ilan edilmesi için çaba göstermişlerdir. \n
+Jön Türklerin meşrutiyeti istemelerindeki temel amaç anayasal yönetime tekrar geçilmesini sağlamaktır. \n
+Mustafa Kemal Paşa da Harp Akademisini bitirdikten sonra ilk görev yeri olan Şam’da Vatan ve Hürriyet Cemiyeti‘ni arkadaşlarıyla birlikte kurmuştur. Burayı aklımızda tutalım çünkü cemiyetlerle ilgili KPSS‘de sorular çıkmaktadır. \n
+İttihat ve Terakki Cemiyeti\n
+Meşrutiyetin ilan edilmesini hedefleyen cemiyetlerden İttihad-i Osmaniye (Jön Türkler tarafından kurulan) ve Osmanlı Hürriyet cemiyetleri bir araya gelerek İttihat ve Terakki Cemiyeti‘ni kurmuşlardır. \n
+İttihat ve Terakki Cemiyeti’nin 2. Meşrutiyet’in ilanında etkisi nedir? \n
+Bu cemiyet Osmanlı ordusunda geniş bir taraftar kitlesine sahip olmuştu. Bu yüzden 2. Meşrutiyetin ilan edilmesi için baskı direkt olarak ordudan gelmeye başlamıştır. Eğer bir ülkedeki iç karışıklıkta ordu yanınızda ise büyük avantaj sahibisiniz demektir. Çünkü yönetime karşı olan sadece halk değil ve bu durum herhangi bir ülkede dahi yöneticileri tedirgin etmeye yeter. \n
+2. Meşrutiyet’in ilan edilmesinde Reval Görüşmelerinin etkisi var mı? \n
+Evet, dolaylı olarak vardır. 1908 yılının Haziran ayında İngiltere ile Rusya arasında Reval Görüşmeleri gerçekleşmiştir. Bu görüşmelerin sonucunda İngiltere, Rusya’nın Boğazlar ve Balkanlar politikalarına artık karışmayacaktı. Dolayısıyla ufukta Rusya tehdidi gözükmekteydi. Bu durum İttihatçıları daha da tedirgin etmiş ve 2. Meşrutiyet’in ilanı konusunda baskısını arttırmasına sebep olmuştur. \n
+2. Meşrutiyet’in ilanı için Hürriyet Tabuları İttihatçılar tarafından kurulmuş ve cemiyetin önde gelenlerinden Resneli Niyazi Bey bu taburla dağa çıkmıştır. Resneli Niyazi Bey’e Enver Bey de katılmıştır. Tüm bunlarla beraber ittihatçılar Selanik Hükumet Konağını işgal etmiştir. \n
+Tüm bu gelişmelerden  ve askeri ayaklanmaların bütün ülkeye yayılmasından çekinen 2. Abdülhamit Anayasayı yeniden yürürlüğe koymuştur ve nihayet 23 Temmuz 1908 yılında Meşrutiyet yeniden ilan edilmiştir. \n
+Peki 2. Meşrutiyet’in ilanı Osmanlı açısından iyi mi olmuştur yoksa kötü mü olmuştur? Kurulan bazı cemiyetler belki bir uyanışı temsil edebilir fakat 2. Meşrutiyet sonrası çıkan karışıklıklar da göze çarpmaktadır. Dolayısıyla bu soruya farklı açılardan bakılarak cevap verilebilir. Bu yüzden ÖSYM içinde farklı yorumlar barındıracağı için bu soruyu böyle sormaz. Ancak şu şekilde sorabilir: \n
+2. Meşrutiyetin ilanından sonra bazı karışıklıklar yaşanmıştır. Aşağıdaki olaylardan hangisinde bu karışıklıkların etkisi olabilir? \n
+•	5 Ekim 1908’de Bulgaristan bağımsızlığını ilan etmiştir. \n
+•	6 Ekim 1908’de Avusturya – Macaristan İmparatorluğu’nun Bosna Hersek’i kendi topraklarına kattığını ilan etmiştir. \n
+•	6 Ekim 1908’de Girit kendisinin Yunanistan’a katıldığını ilan etmiştir. \n
+Yukarıdaki olayların hepsinde 2. Meşrutiyet sonrası karışıklığın etkisi bulunmaktadır. Zaten bu tip sorularda cevaplardaki olayların gerçekleştiği zamana bakarsanız, tarihlerden yola çıkarak da cevap vermeniz mümkündür. Konu başında bahsettiğimiz kronolojik sıralamadan kastımız da buydu. \n
+Kpss Genel Kültür Tarih dersine ait 2. Meşrutiyet konusu tamamlanmıştır. Bir sonrakiTarih konumuz 31 Mart Olayı olacaktır. \n
+    </string>
+    <string name="tarih_31Mart">
+31 Mart Olayı (13 Nisan 1909) eski düzeni getirmek isteyen bazı kesimlerin Meşrutiyete karşı olmalarıyla çıkardığı ayaklanmalardan ibarettir. Bu amaçla bu kesimler Meşrutiyeti yıkmak ve eski düzen olan Mutlakiyet sistemini geri getirmek istemişlerdir. Kpss genel kültür Tarih konusu içinde işleyeceğimiz bu konudan önce 2. Meşrutiyet başlığını ele almıştık. Şimdi de yine 2. Abdülhamit döneminde gerçekleşen ve sonucunda yerine 5. Mehmet Reşat’ın getirileceği 31 Mart Olayı konusunu işleyeceğiz.\n
+31 Mart Olayı (13 Nisan 1909) \n
+2. Meşrutiyetin ilanında etkisi bulunan İttihat ve Terakki Cemiyetinin savunucularından oluşan İttihat ve Terakki Partisi meclisin açılmasından sonra iktidara bir türlü yerleşememiştir ve bunun sonucunda parti içinde ayrılıklar baş göstermiştir. Dolayısıyla parti içinde muhalefet oluşmaya başlamış ve bu, ülkede siyasi çatışmalara sebep olmuştur. Bunlarla beraber gelen toprak kayıpları da doğal olarak ülkede olumsuz bir hava yaratmıştır. \n
+Tüm bu durumları fırsat olarak gören Volkan Gazetesi Baş Yazarı Derviş Vahdet ve ek olarak Ahrar Partisi kışkırtmalar yaparak olayları körüklemişlerdir. Dolayısıyla İstanbul’da artık asayiş ve düzen bozulmuştur. Bozulan asayişi düzeltmek amacıyla İttihat ve Terakkiciler o dönemde Makedonya’da bulunan Avcı Taburları‘nı İstanbula’a getirmişlerdir. Fakat ne enteresandır ki Avcı Taburları’nın kafalarına göre hareket etmeleri, disiplinsiz tavırları bastırmak istedikleri karışıklığı daha da arttırmıştır. Böylece eski düzeni getirmek isteyenler isyanı başlatmıştır. İttihatçıların kendi elleriyle getirttiği Avcı Tabuları’ndan bir grup bile bu isyana destek vermiştir. Meclis önünde toplanan isyancılar bazı subay ve gazetecileri öldürmüşlerdir. \n
+2. Meşrutiyet’in başından itibaren dikkat ederseniz hemen hemen tüm olayların içinde ittihatçılar yer almaktadır. \n
+31 Mart Vakası Türk Tarihinde rejimi değiştirmeye yönelik ilk ayaklanma özelliğini taşımaktadır. İleriki konularda işleyeceğimiz Şey Sait İsyanı (1925) ve Menemen Olayı (1930) da rejimi değiştirmeye yönelik isyan özelliğiyle 31 Mart Olayı ile benzerlik taşımaktadır. \n
+Soru: 13 Nisan 1909’da gerçekleşmesine rağmen Neden 31 Mart olayı olarak anılmaktadır? \n
+Cevap: Çünkü Rumi Takvim’e göre, yani o dönemde kullanılan takvime göre tarihler 31 Mart 1925’i göstermekteydi. Bu yüzden 31 Mart Olayı olarak anılmaktadır. \n
+İsyanlar artmış, meclis önünde subaylar öldürülmüş ancak 2. Abdülhamit bunları önlemeye yönelik ve isyanı bastırmaya yönelik bir tedbir almamıştır. Bunun üzerine İttihat ve Terakki Partisi Selanik’te hazırladığı Hareket Ordusu‘nu İstanbula getirterek İsyanı bastırmıştır. \n
+Hareket Ordusu’nun Komutanı Mahmut Şevket Paşa, Kurmay Başkanı ise bundan sonra tarih sahnesinde sık sık göreceğimiz Mustafa Kemal‘dir. \n
+31 Mart Olayı’nın Sonuçları\n
+•	2. Abdülhamit isyana müdahil olmaması ve ayaklanmada rolü olduğu gerekçesiyle tahttan indirilmiş ve yerine 5. Mehmet Reşat getirilmiştir. \n
+Meclis kararı ile tahttan indirilen ilk padişah 2. Abdülhamit olmuştur. İleride işleyeceğimiz konularda meclis kararı ile tahttan indirilen indirilen ikinci padişah ise Sultan Vahideddin olan bilinen 6. Mehmet olacaktır. \n
+•	İttihat ve Terakki Partisi yönetimde artık daha etkili olmuştur. Dolayısıyla padişahın yönetimdeki etkinliği azalmıştır. \n
+•	Bazı demokratik adımlar adına Anayasada değişiklikler yapılmış ve padişahın yetkileri kısıtlanmıştır. Dolayısıyla Kanun-u Esasi ilk hali, yani 1. Meşrutiyetten farklı olarak 1909 yılında bazı değişikliklere uğramıştır. Peki 31 Mart Olayı ile 1909 yılında yapılan bu değişiklikler nelerdir? Hemen sıralayalım : \n
+1.	Artık kanun teklifi padişahın iznine bağlı değildir. \n
+2.	Padişah bundan sonra mahkeme kararı olmadan sürgün yetkisi veremeyecekti. \n
+3.	Hükumet artık padişaha değil, meclise karşı sorumlu olacak. \n
+4.	Padişahın olağanüstü hallerde meclisi kapatma yetkisi daha çok kısıtlanmıştır. Dikkat edelim kapatma yetkisi hala var ancak daha çok kısıtlanmış. \n
+Kpss genel kültür Tarih konumuza ait 13 Nisan 1909 yılında gerçekleşen 31 Mart Olayı ile ilgili konu anlatımımız tamamlanmıştır. Bir sonraki Tarih konusu Osmanlı Fikir Akımları olacaktır. \n
+    </string>
+    <string name="tarih_fikir_akimlari">
+Osmanlı Fikir Akımları, birçok düşünce akımı gibi işler yolunda gitmediği zaman ortaya çıkmıştır. Ne demek bu? Şöyle ki; Osmanlı İmparatorluğu bölünmeye, parçalanmaya doğru gitmekteydi. Bunları önlemek, Osmanlı’nın bütünlüğünü korumak için birtakım fikir akımları ortaya çıkmıştır. Kpss Tarih dersinde bu bölümde Osmanlı Fikir Akımları anlatılacaktır.\n
+Osmanlı Fikir Akımları\n
+Osmanlı İmparatorluğunda görülen düşünce akımları 5 başlıktan oluşmaktadır. Bunlar Osmanlıcılık, İslamcılık, Türkçülük, Batıcılık ve Adem-i Merkeziyetçilik (Teşebbüs-i Şahsi) olarak bilinmektedir. \n
+1) Osmanlıcılık\n
+Osmanlı Fikir Akımları içinde ilk olarak anlatacağımız akım Osmanlıcılık’tır. Tanzimat Fermanı ile uygulamaya konulan bu fikir akımının temeli 2. Mahmut dönemine kadar uzanmaktadır. Bilindiği üzere Fransız İhtilali ile milliyetçilik akımı hızla yayılmaya başlamıştı. Bunun üzerine Osmanlıcılık akımı ile, Osmanlı İmparatorluğu sınırları içinde yaşayan bütün milletleri dil, din, ırk ve mezhep ayırmaksızın herkesi kanun önünde eşit görmek ve kendilerini temsil etme hakkı vermek amaçlanmıştır. \n
+Osmanlıcılık fikrini savunan Jön Türkler, herkeste eşitlik kavramı ile Osmanlı vatandaşı bilinci oluşturmayı amaçlamıştır. Bu amaçla birleşerek imparatorluğun dağılmasını önlemeyi hedeflemişlerdir. \n
+Gerek Tanzimat Fermanı ve Islahat Fermanı gerekse Meşrutiyetin ilanı bu bilincin oluşmasını ve dolayısıyla Osmanlı İmparatorluğunun dağılmasını önleme amaçlıdır. \n
+Tabi ki tüm bunlar Fransız İhtilali ile beraber gelen milliyetçilik akımının önüne geçememiştir. Osmanlı İmparatorluğu altında yaşayan uluslar bağımsızlık için ayaklanmaya devam etmiştir. Dolayısıyla Osmanlıcılık akımı bir işe yaramamıştır. \n
+2) İslamcılık (Ümmetçilik) \n
+Bu düşünce akımı 19. yüzyılın sonlarına doğru 2. Abdülhamit ile beraber devletin resmi politikası haline getirilmiştir. Bir diğer adı Ümmetçilik olan bu fikir akımı kötü gidişatın sebebinin dinden uzaklaşma olduğunu savunmuştur. Her ne kadar Arap milliyetçiliğini ve dağılmayı önleyemese de İslamcılık akımı, Osmanlı devleti içinde yaşayan Müslümanları bir arada tutmayı hedeflemiş ve böylece devletin bütünlüğünü sağlamaya çalışmıştır. Peki başarılı olmuş mudur? \n
+Tarih bilgilerimizi ve hafızamızı biraz zorlarsak 1. Dünya Savaşında İngilizlerle Araplar aralarında anlaşmış ve Osmanlıya karşı beraber savaşmıştır. Bu da gösteriyor ki İslamcılık düşüncesi başarısız olmuş bir fikir akımıdır. \n
+3) Türkçülük\n
+Osmanlı fikir akımları içinde işlediğimiz Osmanlıcılık ve İslamcılık politikaları çözüm olmayınca 20. Yüzyılın başlarında Türkçülük ön plana çıkmaya başlamıştır. Türkçülük, devletin kurtuluşunun milli değerlere bağlı kalmak olduğunu ve bu değerleri korumak olduğunu belirtmiştir. \n
+Türkçülük akımının fikir babası Ziya Gökalp’tir. \n
+Bu akımın öne çıkmasının sebebi , Osmanlı sınırları içinde yaşayan Türkleri milli değerler etrafında bir araya getirilerek dağılmayı önlemekti. \n
+Bu akım dağılmayı yine önleyememiştir. Ancak Türkiye Cumhuriyeti’nin doğmasında çok etkili olacaktır. \n
+Bazı aşırı Türkçüler olayı büyüterek dünyadaki tüm Türkleri bir bayrak altında toplama amacı olan Turancılığı savunmuşlardır. Her ne kadar Osmanlı’nın dağılmasına engel olamasa da Turancılık, 1. Dünya Savaşı’nda Kafkas Cephesi’nin açılma amaçlarından biri olmuştur. Diğer bir deyişle Kafkas Cephesi’nin açılış amaçlarından biri Turancılık düşünce akımını hayata geçirmekti. \n
+4) Batıcılık\n
+Bu fikir akımının temeli Lale Devri’ne kadar uzanmaktadır. Batıcılık, devletin bütünlüğünün ve kurtuluşunun ancak ve ancak Batının biliminden ve teknolojisinden faydalanarak bunları Osmanlı bünyesine alma ile olacağını savunmuştur. Tüm bunların doğrultusunda Batı tarzında yapılan yeniliklere öncelik verilmiştir. Diğer fikir akımları gibi bu düşünce de Osmanlı Devleti’ni kurtaramamıştır. Geç kalınması, tam olarak uygulanamayışı bunlarda etkendir. \n
+Batılılaşma politikaları her ne kadar Osmanlı’yı kurtarmasa da, bu sırada elde edilen bilgi, birikim ve tecrübe modern Türkiye’nin doğuşuna katkı sağlayacaktır. \n
+5) Adem-i Merkeziyetçilik (Teşebbüs-i Şahsi) \n
+Adem-i Merkeziyetçilik akımı Osmanlı içinde yaşayan vatandaşlara geniş özgürlükler verilmesini ve çeşitli etnik grupların federasyon gibi kendi siyasal yapısı içinde yaşamalarını savunmaktadır. \n
+Adem-i Merkeziyetçilik düşüncesinin önde gelen savunucusu aynı zamanda Osmanlı hanedanına mensup olan Prens Sabahattin’dir. \n
+Kpss genel kültür Tarih dersine ait Osmanlı fikir akımları konusu tamamlanmıştır. Bir sonraki Tarih konusu Trablusgarp Savaşı olacaktır. \n
+    </string>
+
+   <!-- COĞRAFYA İÇERİK -->
 </resources>
