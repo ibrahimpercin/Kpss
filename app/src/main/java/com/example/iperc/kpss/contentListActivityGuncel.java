@@ -1,6 +1,7 @@
 package com.example.iperc.kpss;
 
 import android.app.Application;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -85,18 +86,56 @@ public class contentListActivityGuncel extends AppCompatActivity {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v,
                                         int groupPosition, int childPosition, long id) {
-                // TODO Auto-generated method stub
-                Toast.makeText(
-                        getApplicationContext(),
-                        listDataHeader.get(groupPosition)
-                                + " : "
-                                + listDataChild.get(
-                                listDataHeader.get(groupPosition)).get(
-                                childPosition), Toast.LENGTH_SHORT)
-                        .show();
-                return false;
+                final String selected = (String) listAdapter.getChild(groupPosition, childPosition);
+                Intent intent;
+                //Seçime göre açılma ve içeriği güncelleme
+                switch(selected){
+                    case "Unesco’nun Dünya Mirası Listesindeki Doğal Ve Kültürel Varlıklarımız":
+                        intent = new Intent(contentListActivityGuncel.this, icerikViewActivity.class);
+                        intent.putExtra("icerik",getString(R.string.unesco_dunya));
+                        intent.putExtra("icerik2",getString(R.string.unesco_dunya_title));
+                        startActivity(intent);
+                        break;
+                    case "Bazı Önemli Projeler":
+                        intent = new Intent(contentListActivityGuncel.this, icerikViewActivity.class);
+                        intent.putExtra("icerik",getString(R.string.bazi_onemli));
+                        intent.putExtra("icerik2",getString(R.string.bazi_onemli_title));
+                        startActivity(intent);
+                        break;
+                    case "50. Uluslararası Antalya Altın Portakal Film Festivali Ödülleri":
+                        intent = new Intent(contentListActivityGuncel.this, icerikViewActivity.class);
+                        intent.putExtra("icerik",getString(R.string.antalya));
+                        intent.putExtra("icerik2",getString(R.string.antalya_title));
+                        startActivity(intent);
+                        break;
+                    case "Önemli Güncel Olaylar":
+                        intent = new Intent(contentListActivityGuncel.this, icerikViewActivity.class);
+                        intent.putExtra("icerik",getString(R.string.onemliguncel));
+                        intent.putExtra("icerik2",getString(R.string.onemliguncel_title));
+                        startActivity(intent);
+                        break;
+                    case "Türkiye’ye Vize Uygulamayan Ülkeler":
+                        intent = new Intent(contentListActivityGuncel.this, icerikViewActivity.class);
+                        intent.putExtra("icerik",getString(R.string.vize_uygulayan));
+                        intent.putExtra("icerik2",getString(R.string.vize_uygulayan_title));
+                        startActivity(intent);
+                        break;
+                    case "Ulusal Gelişmeler":
+                        intent = new Intent(contentListActivityGuncel.this, icerikViewActivity.class);
+                        intent.putExtra("icerik",getString(R.string.ulusal_gelismeler));
+                        intent.putExtra("icerik2",getString(R.string.ulusal_gelismeler_title));
+                        startActivity(intent);
+                        break;
+                    case "Türkiye’nin Stratejik Vizyonu 2023":
+                        intent = new Intent(contentListActivityGuncel.this, icerikViewActivity.class);
+                        intent.putExtra("icerik",getString(R.string.statejik_vizyon));
+                        intent.putExtra("icerik2",getString(R.string.statejik_vizyon_title));
+                        startActivity(intent);
+                        break;
+                }
+                return true;
             }
-        });
+        });;
     }
 
     /*
@@ -107,38 +146,21 @@ public class contentListActivityGuncel extends AppCompatActivity {
         listDataChild = new HashMap<String, List<String>>();
 
         // Adding child data
-        listDataHeader.add("Top0");
-        listDataHeader.add("Now Showing");
-        listDataHeader.add("Coming Soon..");
+        listDataHeader.add("Güncel Bilgiler 2016");
+
 
         // Adding child data
         List<String> top250 = new ArrayList<String>();
-        top250.add("The Shawshank Redemption");
-        top250.add("The Godfather");
-        top250.add("The Godfather: Part II");
-        top250.add("Pulp Fiction");
-        top250.add("The Good, the Bad and the Ugly");
-        top250.add("The Dark Knight");
-        top250.add("12 Angry Men");
-
-        List<String> nowShowing = new ArrayList<String>();
-        nowShowing.add("The Conjuring");
-        nowShowing.add("Despicable Me 2");
-        nowShowing.add("Turbo");
-        nowShowing.add("Grown Ups 2");
-        nowShowing.add("Red 2");
-        nowShowing.add("The Wolverine");
-
-        List<String> comingSoon = new ArrayList<String>();
-        comingSoon.add("2 Guns");
-        comingSoon.add("The Smurfs 2");
-        comingSoon.add("The Spectacular Now");
-        comingSoon.add("The Canyons");
-        comingSoon.add("Europa Report");
+        top250.add("Unesco’nun Dünya Mirası Listesindeki Doğal Ve Kültürel Varlıklarımız");
+        top250.add("Bazı Önemli Projeler");
+        top250.add("50. Uluslararası Antalya Altın Portakal Film Festivali Ödülleri");
+        top250.add("Önemli Güncel Olaylar");
+        top250.add("Türkiye’ye Vize Uygulamayan Ülkeler");
+        top250.add("Türkiye’nin Stratejik Vizyonu 2023");
+        top250.add("Ulusal Gelişmeler");
 
         listDataChild.put(listDataHeader.get(0), top250); // Header, Child data
-        listDataChild.put(listDataHeader.get(1), nowShowing);
-        listDataChild.put(listDataHeader.get(2), comingSoon);
+
     }
     public class MainApplication extends Application {
         @Override

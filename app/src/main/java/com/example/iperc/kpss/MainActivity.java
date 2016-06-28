@@ -52,13 +52,13 @@ public class MainActivity extends AppCompatActivity
         //Güncel Bilgiler Butonu
         button4.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivityGenel.class));
+                startActivity(new Intent(MainActivity.this,contentListActivityGuncel.class));
             }
         });
         //Genel Kültür Butonu
         button5.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,contentListActivityGuncel.class));
+                startActivity(new Intent(MainActivity.this,contentListActivityGenel.class));
             }
         });
         //Tarih Butonu

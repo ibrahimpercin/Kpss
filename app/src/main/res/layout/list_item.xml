@@ -6,7 +6,7 @@
         android:layout_width="fill_parent"
         android:layout_height="match_parent"
         android:id="@+id/lblListItem"
-        android:textSize="20dip"
+        android:textSize="15dip"
         android:layout_marginLeft="25dp"
         android:paddingTop="5dp"
         android:paddingBottom="5dp"

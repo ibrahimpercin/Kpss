@@ -14,7 +14,7 @@
     <string name="title_activity_content">contentActivity</string>
     <string name="title_activity_icerik_view"></string>
 
-      <!-- TÜRKÇE İÇERİK -->
+   <!-- TÜRKÇE İÇERİK -->
     <string name="turkce_sozcukte_anlam_title">Sözcükte Anlam</string>
     <string name="turkce_sozcukte_anlam_iliskisi_title">Sözcükte Anlam İlişkileri</string>
     <string name="turkce_sozcukte_anlam_olayları_title">Sözcükte Anlam Olayları</string>
@@ -2962,14 +2962,14 @@ Kpss genel kültür Tarih dersine ait Osmanlı fikir akımları konusu tamamlanm
    <string name="cografya_tr_konum_title">Türkiyenin Matematik Konumu</string>
    <string name="cogafya_tr_konum_sonuclari_title">Türkiyenin Matematik Konumunun Sonuçları</string>
    <string name="cografya_yeryuzu_sekli_title">Türkiye’de Yeryüzü Şekilleri</string>
-   <string name="cografya_tr_daglar_title">Türkiye'nin Dağları</string>
+   <string name="cografya_tr_daglar_title">Türkiyenin Dağları</string>
    <string name="cografya_tr_ovalar_title">Türkiye’nin Ovaları</string>
    <string name="cografya_platoalr_title">Türkiye’nin Platoları</string>
    <string name="cografya_dogal_afetler_title">Türkiye’de Doğal Afetler</string>
-   <string name="cografya_akarsular_title">Türkiye'de Akarsular</string>
+   <string name="cografya_akarsular_title">Türkiyede Akarsular</string>
    <string name="cografya_akarsular2_title">Akarsu Rejimleri ve Debi</string>
    <string name="cografya_akarsular3_title">Akarsu Aşındırma Şekilleri ve Akarsu Biriktirme Şekilleri</string>
-   <string name="cografya_yeralti_sulari_title">Türkiye'nin Yeraltı Suları</string>
+   <string name="cografya_yeralti_sulari_title">Türkiyenin Yeraltı Suları</string>
    <string name="cografya_yer_sekilleri_title">Türkiye’nin Yer Şekilleri</string>
    <string name="cografya_kiyi_tipleri_title">Türkiye’de Kıyı Tipleri</string>
    <string name="cografya_goller_title">Türkiye’de Göller ve Oluşumu</string>
@@ -4813,7 +4813,7 @@ Sandık Kurulu:Bir başkan ve dört üyeden oluşur. İlçe seçim kurulunca iyi
 Seçmen Kütükleri:Seçim belgesi adı verilen her muhtarlıkta bir seçmen kütüğü düzenlenir. Seçme yeterliğine sahip olan her vatandaş konutunun bulunduğu veya en az üç aydan beri oturmakta bulunduğu mahalle muhtarlığının seçmen kütüğüne yazılır. Bu listeler ait olduğu seçim bölgesinde, halkın görüp okuyabileceği yerlere asılır. Yedi gün asılı kalır. \n
 Kpss genel kültür vatandaşlık dersi Türkiye’de Seçim konusunu tamamladık. Bir sonrakivatandaşlık dersi konumuzda Seçim İlkelerini işleyeceğiz. \n
     </string>
-    <string name="vtd_secim_ilkeri">
+    <string name="vtd_secim_ilkeri" formatted="false">
 
 Seçim İlkeleri konusunda ülkemizdeki seçimlere hakim olan ilkeleri, seçmen olabilme şartlarını, seçimin erkene alınması ve ertelenmesi, Türk seçim sistemleri konularının üzerinde duracağız. Ülkemizdeki seçim sürecinin nasıl geliştiği ve değiştiğini hep birlikte göreceğiz. önceki konumuzda Türkiye’de Seçimi işlemiştik. Sıradaki kpss vatandaşlık dersi konumuz iseSeçim İlkeleri olacak.\n
 Seçim İlkeleri \n
@@ -4921,5 +4921,133 @@ Azerbaycan, Beyaz Rusya, Ermenistan, Kazakistan, Kırgızistan, Moldova, Özbeki
 2011 G8 zirvesi Fransa’da, 2012 G8 zirvesi Washington’da yapılmıştır. 2013 G8 zirvesi İngiltere’de (Birleşik Krallık) yapılacaktır. \n
 Avrupa Birliği ve Türkiye’nin üye olmadığı uluslararası kuruluşları konularını bitirdik. Bir sonraki kpss güncel olaylar konusu Ulusal Kuruluşlar olacaktır. \n
     </string>
+
+   <string name="unesco_dunya_title">Unesco’nun Dünya Mirası Listesindeki Doğal Ve Kültürel Varlıklarımız</string>
+   <string name="bazi_onemli_title">Bazı Önemli Projeler</string>
+   <string name="antalya_title">50. Uluslararası Antalya Altın Portakal Film Festivali Ödülleri</string>
+   <string name="onemliguncel_title">Önemli Güncel Olaylar</string>
+   <string name="vize_uygulayan_title">Türkiye’ye Vize Uygulamayan Ülkeler</string>
+   <string name="statejik_vizyon_title">Türkiye’nin Stratejik Vizyonu 2023</string>
+   <string name="ulusal_gelismeler_title">Ulusal Gelişmeler</string>
+
+   <string name="unesco_dunya">
+       İstanbul’un Tarihi Alanları – 1985\n
+ Göreme ve Kapadokya Milli Parkı – 1985\n
+ Divriği Ulu Cami ve Darüşşifası -1985\n
+ Hattuşaş (Boğazköy) – 1986\n
+ Nemrut Dağı – 1987\n
+ Xanthos-Letoon – 1988\n
+ Pamukkale – Hierapolis – 1988\n
+ Safranbolu Şehri – 1998\n
+ Truva Arkeolojik Kenti – 1998\n
+ Selimiye Camii – (2011)\n
+ Çatalhöyük Neolitik Alanı(2012)\n</string>
+   <string name="bazi_onemli">Nabucco Projesi\n
+
+ Türkiye üzerinden Avrupa’ya ulaşacak olan ve Türkiye, Bulgaristan, Romanya ve Macaristan arasında imzalanan projenin adı Nabucco Projesi’dir.\n
+
+Güney Akımı Projesi\n
+
+ Rusya’nın Nabucco projesine alternatif olarak hazırladığı Güney Akımı hattının imzaları Soçi’de (Rusya) atıldı. Rus projesi, Kafkas doğal gazının Karadeniz altından Balkanlar’a oradan da Avrupa’ya sevkini öngörüyor. Bulgaristan’da ikiye ayrı-lacak olan hattın biri Yunanistan’a, diğeri ise Sırbistan, Macaristan, Avusturya ve İtalya’ya doğal gaz taşıyacak.\n
+
+Bakü-Tiflis-Kars Demir Yolu Projesi\n
+
+ Bakü-Tiflis-Kars demir yolu hattı, planı yapılmış ve uzun yıllardan bu yana gündemde bulunan demir-yolu projesidir. Demir İpek Yolu olarak adlandırıl-maktadır. Demiryolu hattı Azerbaycan’ın başkenti Bakü şehrinden Gürcistan’ın Tiflis ve Ahılkelek şehirlerinden geçerek Türkiye Kars şehrine gidecektir.\n
+ Bu demiryolu hattı Azerbaycan’la Türkiye’yi birleştirmeyi amaçlamaktadır. Demiryolunun 76 km.si Türkiye’den 29 km.si Gürcistan’dan, 80 km.si ise Azerbaycan’dan geçecektir.\n</string>
+   <string name="antalya">ULUSAL UZUN METRAJ FİLM YARIŞMASI\n
+En İyi Film: Cennetten Kovulmak ve Kusursuzlar\n
+En İyi İlk Film: Mavi Dalga\n
+En İyi Yönetmen: Ramin Matin – Kusursuzlar\n
+EXPO 2016 En İyi Senaryo: Mavi Dalga\n
+En İyi Kadın Oyuncu: Zeynep Çamcı – Meryem\n
+En iyi Erkek Oyuncu: Hakan Yufkacıgil – Uzun Yol\n</string>
+   <string name="onemliguncel">
+      BM Uluslararası Silah Ticareti Antlaşması BM Genel Kurulunda oylama sonucu kabul edildi. İran, Kuzey Kore ve Suriye olumsuz oy kullandı.\n
+ Bursa ve Trabzon AB Yeşil Başkent Ödülü aldı.\n
+ UNESCO’nun 37. Dünya Mirası Komitesi Toplantısı, 16-27 Haziran 2013 tarihleri arasında Kamboçya’nın Phnom Penh şehrinde gerçekleştirildi. Bu toplantı sonucunda Dünya Doğal ve Kültürel Mirası Geçici Listesi’ne ülkemizden\n
+ Laodikeia Antik Kenti (Denizli),\n
+ Tuz Gölü Özel Çevre Koruma Bölgesi (Ankara-Konya-Aksaray),
+Sardes Antik Kenti ve Bintepeler Lidya Tümülüsleri (Manisa),\n
+ Ceneviz Ticaret Yolu’nda Akdeniz’den Karadeniz’e Kadar Kale ve Surlu Yerleşimleri dahil edilmiştir.\n
+ EXPO 2020 Dubai’de yapılacak.\n
+ Eylül 2013′te düzenlenen 1. Dünya Sulama Forumu Mardin’de yapılmıştır.\n
+UNESCO Başkanlığına Kasım 2013′te yapılan seçim sonucunda yeniden Irina Bokova seçildi.\n
+ Asrın projesi olarak nitelendirilen Marmaray 29 Ekim 2013′te düzenlenen törenle hizmete açıldı.\n
+ Ekonomik İşbirliği Teşkilatı’nın (EİT) 21. Bakanlar Kurulu Toplantısı için İran’da yapıldı.\n
+ İran’ın başkenti Tahran’da yapılan Ekonomik İşbirliği Teşkilatı’nın 21. Bakanlar Konseyi Toplantısı’na KKTC, ilk kez gözlemci devlet statüsünde katılmıştır (26.11.2013).\n
+ Yassıada’nın adı “Demokrasi ve Özgürlük Adası” olarak değiştirildi.\n
+ 30 Ekim -1 Kasım 2013 tarihleri arasında Kalkınma Bakanlığı’nın organizasyonluğuyla 5. İzmir İktisat Kongresi düzenlenmiştir. Toplantının ana teması “Küresel Yeniden Yapılanma Sürecinde Türkiye Ekonomisi” olmuştur.\n</string>
+   <string name="vize_uygulayan"> Antigua, Barbuda, Arjantin, Arnavutluk, Bahamalar, Barbados, Belize, Bolivya, Bosna-Hersek, Brezilya, Belarus (Beyaz Rusya),Ekvador, El Salvador, Fas, Fiji, Filipinler, Guatemala, Güney Afrika Cumhuriyeti, Gürcistan, Haiti, Honduras, Hong Kong, İran, Jamaika, Japonya, Karadağ, Kazakistan, Kırgızistan, Kuzey Kıbrıs Türk Cumhuriyeti, Kolombiya, Kore Cumhuriyeti (Güney Kore), Kosova, Kosta Rika, Karayıp, Libya, Lübnan, Makau Özel İdare Bölgesi, Makedonya, Maldivler, Malezya, Mauritus, Moldova, Moğolistan, Nikaragua, Pakistan, Palau Cumhuriyeti, Paraguay, Rusya, St. Vincent- Grenadines, Singapur, Solomon Adaları, Sri Lanka, Suriye, Svaziland, Şili, Tanzanya, Tayland, Trinidad-Tobago, Tunus, Tuvalu, Uruguay, Ürdün, Venezuela, Vatikan, Katar, Kamerun, Yemen, Yeni Zelanda, Ukrayna.</string>
+   <string name="statejik_vizyon"> Cumhuriyetimizin 100. yılı olan 2023′te Türkiye’nin olması gereken yer ve hedeflerle ilgili kamu üst bürokrasisine, STK’lara ve kamuoyuna yönelik çok boyutlu, stratejik, özel bir eğitim ve etkileşim proje¬sidir. “Türkiye’nin Stratejik Vizyonu 2023” projesinin amacı; 2023 yılında dünyadaki gelişmelere paralel olarak, dış politika, güvenlik, siyasi, ekonomik, teknolojik ve sosyo-kültürel alanlarda Türkiye’nin nasıl bir vizyona sahip olması gerektiği konusunda öneriler geliştirmek, bu vizyona ulaşmak için belir¬lenecek hedefler ve uygulanacak politikalar hak¬kında geniş kapsamlı bir tartışma ortamı yaratmak, Cumhuriyetin 100. yılının kutlanacağı 2023 yılında Türkiye’nin güçlü ve saygın bir devlet olarak dünya sahnesinde yerini almasına katkıda bulunmaktır.\n
+ UNESCO ‘nun vefatı öncesinde ‘ Yaşayan İnsan Efsanesi’ olarak ilan ettiği Türk Halk Müziği sanatçısı Neşet Ertaş’tır.
+ Kuzey Kıbrıs Türk Cumhuriyeti’ne ‘Akdeniz İçerisinde Döşenecek Askıdaki Boru Hattı ile Su İletimi Projesi’ kaynak suyu Mersin’de bulunan Anamur (Dragon) Çayı üzerinde bulunan Alaköprü Barajı’ndan sağlanacaktır.\n
+ Avrupa İmar ve Kalkınma Bankası’nın yıllık toplantısı İstanbul’da. Türkiye’nin de kurucu üyesi olduğu AİKB’nin 22. Guvernörler Kurulu Toplantısı, 10-11 Mayıs 2013 tarihlerinde İstanbul Kongre Merkezi’nde gerçekleştirildi.\n
+ “Çok Boyutlu Bölgesel Entegrasyon / İş Birliği Vizyon 2023” teması ile toplanan Uluslararası Balkan Forumu’nun altıncısı Mayıs 2013’de Edirne’de yapılmıştır.\n
+ TÜBİTAK’IN desteğiyle yapılan Türkiye’nin ilk Bilim Merkezi Konya’ya yapılmaktadır.\n
+ Medeniyetler ittifakı eş başkanları Türkiye – İspanyadır.\n
+ Bu yıl 13 filmin yarıştığı Altın Lale Uluslararası Film Yarışmasında, Şakir Eczacıbaşı anısına verilen Uluslararası Yarışma Altın Lale Ödülü’ne, Lenny Abrahamson‘un yönettiği ‘What Richard Did’ (Ne Yaptın Richard) layık görüldü.\n
+ Güney Kıbrıs Rum Yönetimi’nde (GKRY) yapılan seçimlerinde Rum lideri seçilen kişi daha önce Annan Planı’nı destekleyen Nikos Anastasiadis’dır.\n
+ Avrupa Birliği ile müzakere edilecek konular arasında konu başlığı en çoköne çıkan alan Tarım Kırsal Gelişme’dir.\n
+ Terör sorununu çözmek amacıyla oluşturulan Akil Adamlar ilk toplantısını İstanbul’da yaptı.\n
+ 8. Uluslararası Türk-Afrika Kongresi Gana’nın başkenti Akra’da. “Afrika’da Ekonomik Büyüme, Gıda Güvenliği ve Herkes İçin Sağlık” temasıyla yapıldı.\n
+ THK tarafından üretilen ilk yerli uçak olan TÜRKKUŞU’nun 2014 yılında test uçuşlarına başlayacak.\n
+ Türkiye’nin ilk milli yerli tankı ALTAY\n
+ İlk Yerli üretim Helikopterlerimiz “ATAK”\n
+ Türkiye’nin ilk lazer güdümlü füzesi CİRİT\n
+ Türk Mühendislerin geliştirdiği Dünya’da zırhlı ve yüzme özelliğine sahip tek istihkam dozerinin adı AZMİM’dir. (Amfibi Zırhlı İstihkam İş Makinesi)\n
+ ROKETSAN’ın geliştirdiği ilk yerli tanksavar füzesi UMTAŞ (Uzun Menzilli Tanksavar Füze Projesi) test atışlarında başarı sağlandı.\n
+ İlk milli keskin nişancı tüfeğimiz BORA 12’dir.\n
+ Türkiye’nin ilk Temel Eğitim Uçağı HÜRKUŞ’tur.\n
+ Türkiye’nin ilk yerli milli savaş gemisinin adı TCG Heybeliada’dır.\n
+ İlk yerli insansız hava aracımızın adı Anka’dır.\n
+ Sistemi Türkiye’nin kendi ürettiği ilk topçu sisteminin adı T-155 Fırtına Obüsü’dür.\n
+ Türk Deniz Kuvvetleri Araştırma Merkezi Komutanlığı (ARMERKOM) sorumluğunda Güney Kore desteğiyle AKYA adı verilen 553 mm standart çaplı yeni tip ağır torpido üretildi.\n
+ Deniz Kuvvetleri Komutanlığı’nın ihtiyacı için geliştirilen gemi savar füze sisteminin adı Atmaca’dır.\n
+ OTOKAR tarafından üretilen zırhlı muharebe aracının adı ARMA’dır.\n
+ Tübitak Savunma Sanayii Araştırma ve Geliştirme Enstitüsü tarafından geliştirilen Türkiye’nin ilk seyir füzesinin adı SOM’dur.\n
+ BMC tarafından Kirpi ismiyle üretilen mayına karşı korumalı 2,5, 5 ve 10 tonluk taktik tekerlekli araçlar yüzde 70′i yerli imkanlarla üretildi.\n
+ Otokar Cobra, Otokar’ın araştırma ve geliştirme ekibi tarafından silahlı kuvvetlerin zırhlı tekerlekli araç (ACV) ihtiyacı doğrultusunda geliştirildi.\n
+Sarsılmaz Silah Sanayi tarafından Türkiye’nin ilk özgün tasarım yerli piyade tüfeği olan SAR 223 üretildi.\n
+ Özel Sektörün ürettiği ilk insansız uçak Karayel’dir.\n
+ Türkiye’nin ilk yer gözlem uydusu RASAT Rusya Federasyonu’nda bulunan Yasny Fırlatma Üssü’nden başarıyla yerleştirildi.\n
+ İlk yerli keşif uydusu GÖKTÜRK-2 18 Aralık 2012 tarihinde Çin’in Jiuquan Fırlatma Üssü’nden uzaya gönderildi.</string>
+   \n\n<string name="ulusal_gelismeler">
+      -Türkiye’de ilk kez basketbol  1904 yılında İstanbul’da Robert Koleji öğrencileri tarafından oynandı.\n
+-1905 yılında kurulan ilk Türk futbol kulübü Galatasaray’dır.\n
+
+-Türkiye’de ilk konservatuar  İstanbul’ da Darülbedayi adıyla kuruldu.\n
+
+-Türkiye, olimpiyat tarihinin ilk madalyalarını 1936 Olimpiyatları’nda elde etti.\n
+
+-Türkiye’de televizyon yayınları ilk kez İTÜ tarafından başlatıldı.\n
+
+-1953 yapımı “Halıcı Kız” filmi çekilen ilk renkli Türk filmi olmuştur.\n
+
+-Antep baklavası, AB tarafından tescil edilen ilk Türk ürünüdür.\n
+
+-İlk sinema gösterimi  Yıldız Sarayı’nda yapılmıştır.\n
+
+-Afişi basılarak yurt dışına satılan ilk Türk filmi “Binnaz” dır.\n
+
+-1912 yılında Mahmut Şevket Paşa tarafından Yeşilköy ile Sefaköy arasındaki bölgeye ilk havaalanı yapılmıştır.\n
+
+-Türkiye’nin ilk metrosu İstanbul’da,1874 yılında kurulmuştur.
+\n
+-Türkiye’de ilk çamaşır makinesi 1960 yılında üretildi.\n
+
+-Türkiye’de ilk Pazar tatili uygulamasına 29 Mayıs 1935 yılında yürürlüğe giren yasa ile başlandı.\n
+
+-Dünyada bilinen ilk kilise Hatay’daki Saint Pierre Kilisesi’dir.\n
+
+-Dünyadaki ilk tıp fakültesi Kayseri şehrinde 13.yüzyılda I.Gıyaseddin Keyhüsrev tarafından yaptırılmış olan Gevher Nesibe
+
+Medresesi’dir.\n
+
+-Türkiye’de ilk açık kalp ameliyatını Siyami Ersek yapmıştır.\n
+
+-Türkiye’nin asker gönderdiği ilk ülke Güney Kore’dir.\n
+
+-Türkiye’de ilk mali kurum Emniyet Sandığı’dır.</string>
+    <string name="title_activity_about_us">aboutUsActivity</string>
 
 </resources>
