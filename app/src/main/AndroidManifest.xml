@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.iperc.kpss">
+    package="com.ygstumuygulama.iperc.ygs">
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/logo"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -19,77 +20,77 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".icerikViewActivity"
+            android:name="com.ygstumuygulama.iperc.ygs.icerikViewActivity"
             android:label="@string/title_activity_icerik_view"
-            android:parentActivityName=".contentListActivityMat"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.contentListActivityMat"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <meta-data
             android:name="android.support.PARENT_ACTIVITY"
-            android:value=".contentListActivityMat" />
+            android:value="com.ygstumuygulama.iperc.ygs.contentListActivityMat" />
 
         <activity
-            android:name=".contentListActivityMat"
+            android:name="com.ygstumuygulama.iperc.ygs.contentListActivityMat"
             android:label="@string/title_activity_content_list"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.iperc.kpss.MainActivity" />
+                android:value="com.ygstumuygulama.iperc.ygs.MainActivity" />
         </activity>
         <activity
-            android:name=".contentListActivityCog"
+            android:name="com.ygstumuygulama.iperc.ygs.contentListActivityCog"
             android:label="@string/title_activity_content_list_activity_cog"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.iperc.kpss.MainActivity" />
+                android:value="com.ygstumuygulama.iperc.ygs.MainActivity" />
         </activity>
         <activity
-            android:name=".contentListActivityTurk"
+            android:name="com.ygstumuygulama.iperc.ygs.contentListActivityTurk"
             android:label="@string/title_activity_content_list_activity_turk"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.iperc.kpss.MainActivity" />
+                android:value="com.ygstumuygulama.iperc.ygs.MainActivity" />
         </activity>
         <activity
-            android:name=".contentListActivityGenel"
+            android:name=".contentListActivityFen"
             android:label="@string/title_activity_content_list_activity_genel"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.iperc.kpss.MainActivity" />
+                android:value="com.ygstumuygulama.iperc.ygs.MainActivity" />
         </activity>
         <activity
-            android:name=".contentListActivityGuncel"
+            android:name=".contentListActivityFelsefe"
             android:label="@string/title_activity_content_list_activity_guncel"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.iperc.kpss.MainActivity" />
+                android:value="com.ygstumuygulama.iperc.ygs.MainActivity" />
         </activity>
         <activity
-            android:name=".contentListActivityTarih"
+            android:name="com.ygstumuygulama.iperc.ygs.contentListActivityTarih"
             android:label="@string/title_activity_content_list_activity_tarih"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.iperc.kpss.MainActivity" />
+                android:value="com.ygstumuygulama.iperc.ygs.MainActivity" />
         </activity>
         <activity
-            android:name=".aboutUsActivity"
+            android:name="com.ygstumuygulama.iperc.ygs.aboutUsActivity"
             android:label="@string/title_activity_about_us"
-            android:parentActivityName=".MainActivity"
+            android:parentActivityName="com.ygstumuygulama.iperc.ygs.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.iperc.kpss.MainActivity" />
+                android:value="com.ygstumuygulama.iperc.ygs.MainActivity" />
         </activity>
     </application>
 

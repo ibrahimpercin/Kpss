@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.iperc.kpss.MainActivity"
+    tools:context="com.ygstumuygulama.iperc.ygs.MainActivity"
     tools:showIn="@layout/app_bar_main"
     android:background="@color/arka_beyaz">
 
     <ImageView
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="110dp"
         android:id="@+id/imageView2"
         android:background="@mipmap/banner"
         android:layout_alignParentTop="true"
@@ -22,11 +23,12 @@
 
     <TableLayout
         android:gravity="center_horizontal"
-        android:paddingTop="10dp"
+        android:paddingTop="1dp"
         android:layout_width="fill_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/imageView2"
-        android:layout_centerHorizontal="true">
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tableLayout">
 
         <TableRow
             android:gravity="center"
@@ -89,5 +91,14 @@
         </TableRow>
 
     </TableLayout>
-
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_below="@+id/tableLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+    </com.google.android.gms.ads.AdView>
 </RelativeLayout>

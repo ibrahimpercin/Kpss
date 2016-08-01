@@ -16,7 +16,7 @@
         android:layout_width="63dp"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="KPSS"
+        android:text="YGS"
         android:fontFamily="monospace"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 

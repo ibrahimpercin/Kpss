@@ -9,7 +9,69 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.iperc.kpss.aboutUsActivity"
+    tools:context="com.ygstumuygulama.iperc.ygs.aboutUsActivity"
     tools:showIn="@layout/activity_about_us">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Hakkında"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NETİX Bilişim Teknolojileri"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Adres: Çaydaçıra Mah. Fırat Teknokent Teknoloji Geliştirme Bölgesi, No. 63/217,Merkez, Elazığ"
+        android:id="@+id/textView4"
+        android:layout_marginTop="53dp"
+        android:gravity="center"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Email:netixbilisim@gmail.com"
+        android:id="@+id/textView5"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorPrimary"
+        android:gravity="center"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:background="@mipmap/netix_logo"
+        android:layout_below="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"/>
 </RelativeLayout>

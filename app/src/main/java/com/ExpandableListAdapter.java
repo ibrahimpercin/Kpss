@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
 
-import com.example.iperc.kpss.R;
+import com.ygstumuygulama.iperc.ygs.R;
 
 /**
  * Created by iperc on 6/17/2016.

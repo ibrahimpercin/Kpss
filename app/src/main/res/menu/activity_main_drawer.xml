@@ -9,7 +9,7 @@
         <item
             android:id="@+id/nav_hakkimizda"
             android:icon="@mipmap/hakkimizda_icon"
-            android:title="Hakkımızda" />
+            android:title="Hakkında" />
 
     </group>
 
@@ -30,11 +30,11 @@
             <item
                 android:id="@+id/nav_current"
                 android:icon="@mipmap/guncel_icon"
-                android:title="Güncel Bilgiler" />
+                android:title="Felsefe" />
             <item
                 android:id="@+id/nav_general"
                 android:icon="@mipmap/genel_icon"
-                android:title="Genel Kültür" />
+                android:title="Fen Bilimleri" />
             <item
                 android:id="@+id/nav_history"
                 android:icon="@mipmap/tarih_icon"
